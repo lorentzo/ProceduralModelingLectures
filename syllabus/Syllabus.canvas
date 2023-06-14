@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"text","text":"Motivation and examples","id":"dd65045ecc21897e","x":-320,"y":-380,"width":250,"height":60},
+		{"id":"4fd5756538599af1","x":-319,"y":-198,"width":250,"height":60,"type":"text","text":"Prerequisites"},
+		{"id":"ca2be1cf079b8bca","x":40,"y":50,"width":250,"height":60,"type":"text","text":"Camera"},
+		{"id":"d9d9669c0b8c51f8","x":-319,"y":636,"width":250,"height":60,"type":"text","text":"Post-processing"},
+		{"id":"4a916c4527b9a2d6","x":-319,"y":520,"width":250,"height":60,"type":"text","text":"Rendering"},
+		{"id":"79c6a0aff6a091f0","x":-640,"y":50,"width":250,"height":60,"type":"text","text":"3D modeling"},
+		{"id":"b5cf053ce162b3cb","x":-319,"y":50,"width":250,"height":60,"type":"text","text":"Light"},
+		{"id":"02192a0d5d4f3eac","x":-319,"y":360,"width":250,"height":60,"type":"text","text":"Animation"}
+	],
+	"edges":[
+		{"id":"a02b4b0c4420ba14","fromNode":"dd65045ecc21897e","fromSide":"bottom","toNode":"4fd5756538599af1","toSide":"top"},
+		{"id":"cbe79d63e5548503","fromNode":"4fd5756538599af1","fromSide":"bottom","toNode":"79c6a0aff6a091f0","toSide":"top"},
+		{"id":"145a6897cc96d2b5","fromNode":"4fd5756538599af1","fromSide":"bottom","toNode":"b5cf053ce162b3cb","toSide":"top"},
+		{"id":"f797c361bb4c087e","fromNode":"4fd5756538599af1","fromSide":"bottom","toNode":"ca2be1cf079b8bca","toSide":"top"},
+		{"id":"37d7e0c680697f61","fromNode":"b5cf053ce162b3cb","fromSide":"bottom","toNode":"4a916c4527b9a2d6","toSide":"top"},
+		{"id":"efb971cb57ddf03c","fromNode":"4a916c4527b9a2d6","fromSide":"bottom","toNode":"d9d9669c0b8c51f8","toSide":"top"},
+		{"id":"f316b7542f9bd158","fromNode":"4a916c4527b9a2d6","fromSide":"top","toNode":"02192a0d5d4f3eac","toSide":"top"},
+		{"id":"4c2a56e7f6088545","fromNode":"79c6a0aff6a091f0","fromSide":"bottom","toNode":"02192a0d5d4f3eac","toSide":"top"},
+		{"id":"5168f7cf73828cba","fromNode":"ca2be1cf079b8bca","fromSide":"bottom","toNode":"02192a0d5d4f3eac","toSide":"top"}
+	]
+}
