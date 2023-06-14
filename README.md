@@ -14,3 +14,5 @@ Learning material for computer animation:
 Aim: learning materials for computer animation course.
 
 Using [Obsidian](https://obsidian.md/) for organization.
+
+See [wiki](https://github.com/lorentzo/ComputerAnimation/wiki) for more info.
