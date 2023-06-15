@@ -34,7 +34,7 @@ Currently, it is not the aim to give low-level implementation of data-structures
 The structure of these materials follows:
 1. Book: I. kerlow: The Art of 3D Computer Animation and Effects [here](https://www.amazon.de/-/en/Isaac-V-Kerlow/dp/0470084901)
 2. Lecture: Computer Graphics: Animation and Simulation (Stanford) [here](http://graphics.stanford.edu/courses/cs348c/)
-3. My knowledge and experiance :)
+3. My knowledge and experience :)
 
 The aim of this project: create learning materials for computer animation course.
 
