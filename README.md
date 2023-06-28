@@ -48,3 +48,66 @@ See [wiki](https://github.com/lorentzo/ComputerAnimation/wiki) for more info.
 Using [Obsidian](https://obsidian.md/) for organization.
 
 
+## Course Schedule
+
+Reading:
+* [ARTCOMPANIM] I. kerlow: The Art of 3D Computer Animation and Effects
+* [INTROCOMPGRAPH] L. Bosnar: https://github.com/lorentzo/IntroductionToComputerGraphics
+* [STANFORDANIM] D. James: http://graphics.stanford.edu/courses/cs348c/
+
+### 1. Computer Animation Introduction
+* Motivation and Examples -- [ARTCOMPANIM, ch 1]
+  * History
+  * Present
+  * Future
+* Production pipeline -- [ARTCOMPANIM, ch 2, 10]
+  * Storytelling
+  * Visual and look dev
+  * Characters and environments
+  * Principles of animation
+  * Production and creative process
+    * Animated film
+    * Animation for games
+* Course Structure 
+
+### 2. Computer Graphics Concepts
+* 3D scene modeling -- [INTROCOMPGRAPH]
+  * 3D scene, transformations
+  * 3D models: geometry and material -- [ARTCOMPANIM ch 3,4,5]
+  * Cameras -- [ARTCOMPANIM ch 7]
+  * Lights -- [ARTCOMPANIM ch 8]
+* Rendering -- [INTROCOMPGRAPH]
+  * Rendering concepts -- [ARTCOMPANIM ch 6, 9]
+  * Ray-tracing-based rendering
+  * Rasterization-based rendering
+* Image, display and post-processing -- [INTROCOMPGRAPH], [ARTCOMPANIM ch 14, 15]
+
+### 3. Computer Animation Techniques
+Reading: [ARTCOMPANIM ch 11, 12]
+* Keyframes and interpolation
+* Forward kinematics, inverse kinematics and model animation
+  * Position, orientation and shape animation
+* Camera animation
+* Light animation
+
+### 4. Procedural Animation
+Reading: [ARTCOMPANIM ch 12], [STANFORDANIM]
+* Motion
+* Deformation
+* Growth
+* Crowd and flocking
+
+### 5. Physically-based Animation
+Reading: [ARTCOMPANIM ch 12], [STANFORDANIM]
+* Rigid body dynamics
+* Soft body dynamics
+* Cloth dynamics
+* Hair dynamics
+* Fluid simulation: liquids
+* Fluid simulation: gas
+
+### 6. Applications
+Reading: [ARTCOMPANIM ch 13]
+* Animated film
+* VFX
+* Computer Games
