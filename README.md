@@ -56,18 +56,24 @@ Reading:
 * [STANFORDANIM] D. James: http://graphics.stanford.edu/courses/cs348c/
 
 ### 1. Computer Animation Introduction
-* Motivation and Examples -- [ARTCOMPANIM, ch 1]
+* Motivation and Examples -- [ARTCOMPANIM, ch 1], [ARTCOMPANIM ch 13]
   * History
   * Present
   * Future
-* Production pipeline -- [ARTCOMPANIM, ch 2, 10]
-  * Storytelling
-  * Visual and look dev
-  * Characters and environments
-  * Principles of animation
+  * Animated film
+  * VFX
+  * Animation for games
+* Animation Production Pipeline -- [ARTCOMPANIM, ch 2, 10]
+  * Pre-production 
+    * Storytelling
+    * Visual and look dev
+    * Characters and environments development
   * Production and creative process
-    * Animated film
-    * Animation for games
+    * Modeling, Lighting, Camera, Animation, Render
+  * Post-production
+    * Editing, post-processing
+* Animation applications
+  * How is computer animation applied in: games, VFX, animated film
 * Course Structure 
 
 ### 2. Computer Graphics Concepts
@@ -82,32 +88,33 @@ Reading:
   * Rasterization-based rendering
 * Image, display and post-processing -- [INTROCOMPGRAPH], [ARTCOMPANIM ch 14, 15]
 
-### 3. Computer Animation Techniques
+### 3. Computer Animation Concepts
 Reading: [ARTCOMPANIM ch 11, 12]
+* Traditional animation
+* Principles of animation
 * Keyframes and interpolation
-* Forward kinematics, inverse kinematics and model animation
-  * Position, orientation and shape animation
-* Camera animation
-* Light animation
+* Model, Light and Camera animation
+  * Position, orientation, scale and shape animation  
 
 ### 4. Procedural Animation
 Reading: [ARTCOMPANIM ch 12], [STANFORDANIM]
-* Motion
-* Deformation
-* Growth
-* Crowd and flocking
-
-### 5. Physically-based Animation
-Reading: [ARTCOMPANIM ch 12], [STANFORDANIM]
-* Rigid body dynamics
-* Soft body dynamics
-* Cloth dynamics
-* Hair dynamics
-* Fluid simulation: liquids
-* Fluid simulation: gas
-
-### 6. Applications
-Reading: [ARTCOMPANIM ch 13]
-* Animated film
-* VFX
-* Computer Games
+* Foundations
+  * Geometry Transformation: forward kinematics, inverse kinematics:
+  * Geometry Deformation
+* Empirical animation
+  * Motion graphics concepts
+  * Growth
+  * Crowd and flocking
+  * L-systems
+  * Stochastic geometry concepts
+  * Scene graph instancing
+* Physically-based animation
+  * Rigid body dynamics
+  * Soft body dynamics
+  * Cloth dynamics
+  * Hair dynamics
+  * Fluid simulation: liquids
+  * Fluid simulation: gas
+* Hybrid animation: manual supported by procedural
+  * Drawing and generating
+  
