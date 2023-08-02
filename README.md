@@ -118,3 +118,16 @@ Reading: [ARTCOMPANIM ch 12], [STANFORDANIM]
 * Hybrid animation: manual supported by procedural
   * Drawing and generating
   
+# Motion Graphics
+* Manual and procedural approaches for motion graphics
+  * Curves
+  * Modifiers
+  * Python API
+  * Geometry/simulation nodes
+  * Simulation
+* Literature:
+  * 5 ways to motion graphics: https://www.youtube.com/watch?v=EdNwfKW1umU
+  * 7 ways to motion graphics: https://www.youtube.com/watch?v=1aYh0cKi960
+  * Blender Studio motion graphics: https://studio.blender.org/training/motion-graphics/chapter/top-motion-graphics/
+  * Real-time motion graphics: https://blendermarket.com/products/rtmg/docs
+  * Intro to motion graphics: https://blendermarket.com/products/intro-to-motion-graphics-blender-course
