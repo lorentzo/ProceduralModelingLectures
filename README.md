@@ -54,6 +54,9 @@ Reading:
 * [ARTCOMPANIM] I. kerlow: The Art of 3D Computer Animation and Effects
 * [INTROCOMPGRAPH] L. Bosnar: https://github.com/lorentzo/IntroductionToComputerGraphics
 * [STANFORDANIM] D. James: http://graphics.stanford.edu/courses/cs348c/
+* [PROCMODEL] Ebert: Texturing and modeling: procedural approach
+* [BOOKOFSHADERS] https://thebookofshaders.com/
+* [SCRATCHAPIXEL] https://www.scratchapixel.com/index.html
 
 ### 1. Computer Animation Introduction
 * Motivation and Examples -- [ARTCOMPANIM, ch 1], [ARTCOMPANIM ch 13]
@@ -98,27 +101,43 @@ Reading: [ARTCOMPANIM ch 11, 12]
 
 ### 4. Procedural Animation
 Reading: [ARTCOMPANIM ch 12], [STANFORDANIM]
-* Foundations
-  * Geometry Transformation: forward kinematics, inverse kinematics:
-  * Geometry Deformation
-* Empirical animation
-  * Motion graphics concepts
-  * Growth
-  * Crowd and flocking
-  * L-systems
-  * Stochastic geometry concepts
-  * Scene graph instancing
-* Physically-based animation
-  * Rigid body dynamics
-  * Soft body dynamics
-  * Cloth dynamics
-  * Hair dynamics
-  * Fluid simulation: liquids
-  * Fluid simulation: gas
-* Hybrid animation: manual supported by procedural
+
+#### Foundations
+* Geometry Transformations: translation, rotation and scaling using forward kinematics and inverse kinematics.
+* Geometry Deformation: rotation and translation of vertices.
+
+#### Procedural approaches
+* Empirical animation concept: animating what we see, not necessary physically correct
+* Procedural noise [PROCMODEL], [BOOKOFSHADERS], [SCRATCHAPIXEL]: concept, code:
+  * Value and Perlin/Gradient noise
+  * Worley (cellular) noise
+  * Fractal noise sum (layering noise concept); fBM; Turbulence
+  * Warping
+  * Applying color ramp.
+  * Animation with coordinate transformation or time input
+  * Example as surface texture: color, bump and roughness variation
+  * Example as geometry deformation: displacement
+* Growth models: 
+  * Basic scaling
+  * Proportional editing
+  * SCA, DLA, Eden model, etc.
+* L-systems
+* Crowds and flocking
+* Stochastic geometry concepts
+* Scene graph instancing
+* Hybrid animation concept: manual supported by procedural
   * Drawing and generating
+
+### 5. Physically-based animation
+* Rigid body dynamics
+* Soft body dynamics
+* Cloth dynamics
+* Hair dynamics
+* Fluid simulation: liquids
+* Fluid simulation: gas
   
-# Motion Graphics
+### 6. Motion Graphics Applications
+* Cable tool: https://www.sidefx.com/tutorials/project-titan-cable-tool/
 * Manual and procedural approaches for motion graphics
   * Curves
   * Modifiers
