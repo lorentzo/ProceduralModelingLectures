@@ -59,6 +59,11 @@ Reading:
 * [SCRATCHAPIXEL] https://www.scratchapixel.com/index.html
 
 ### 1. Computer Animation Introduction
+
+Description: give examples which show structure and that there is no structure. Everyting that is done and that can be done. Community, software, conferences, books, etc.
+
+Note: although computer animation, this course focuses on methods for motion graphics (aka environment animation, props animation) and brings practical knowledge and skills.
+
 * Motivation and Examples -- [ARTCOMPANIM, ch 1], [ARTCOMPANIM ch 13]
   * History
   * Present
@@ -77,19 +82,53 @@ Reading:
     * Editing, post-processing
 * Animation applications
   * How is computer animation applied in: games, VFX, animated film
+* Conferences, software for animation
+  * https://www.sidefx.com/learn/talks/
 * Course Structure 
 
 ### 2. Computer Graphics Concepts
-* 3D scene modeling -- [INTROCOMPGRAPH]
-  * 3D scene, transformations
-  * 3D models: geometry and material -- [ARTCOMPANIM ch 3,4,5]
-  * Cameras -- [ARTCOMPANIM ch 7]
-  * Lights -- [ARTCOMPANIM ch 8]
-* Rendering -- [INTROCOMPGRAPH]
-  * Rendering concepts -- [ARTCOMPANIM ch 6, 9]
-  * Ray-tracing-based rendering
-  * Rasterization-based rendering
-* Image, display and post-processing -- [INTROCOMPGRAPH], [ARTCOMPANIM ch 14, 15]
+
+Description: idea is to show how computer graphics concepts can be used to obtain desired shapes, colors and animations. Understanding the concept. Understanding how to use it in Blender/Houdini. Intuitive understanding of implementation.
+
+##### 3D scene modeling -- [INTROCOMPGRAPH]
+1. 3D scene, transformations
+    * Animating with transformations
+    * Importance of local and world space and transformation matrices
+
+2. 3D models: geometry and material -- [ARTCOMPANIM ch 3,4,5]
+    * Animating with geometry representations
+      * Curves: https://www.youtube.com/watch?v=CSre9wCJoWc&ab_channel=AlbertoCordero
+      * Mballs: https://www.youtube.com/watch?v=rIhXHSdMWmc&ab_channel=CGPython and [this](https://www.youtube.com/watch?v=syvhbxPE3zI&t=1s&ab_channel=JoshGambrell)
+      * Meshes: subdivision, displacement, boolean, remeshing
+    * Animating material
+      * Color, roughness, emission, specular, diffuse, texture, metal, dielectric
+
+3. Cameras -- [ARTCOMPANIM ch 7]
+    * Animating cameras transformations with curves
+    * Animating camera rotations with curves
+    * Animating camera shaking
+    * Animating camera properties: DOF
+
+4. Lights -- [ARTCOMPANIM ch 8]
+    * Animating light transformations
+    * Animating light emission (blinking, pulsing, etc.)
+
+##### Rendering -- [INTROCOMPGRAPH]
+1. Rendering concepts -- [ARTCOMPANIM ch 6, 9]
+    * shadows
+    * interreflections
+    * transmissions
+2. Ray-tracing-based rendering
+    * Cycles, denoising
+    * noise art
+3. Rasterization-based rendering
+    * bloom, speed
+##### Image, display and post-processing -- [INTROCOMPGRAPH], [ARTCOMPANIM ch 14, 15]
+
+1. Compositing 
+    * image processing
+    * Colors
+2. Video editing
 
 ### 3. Computer Animation Concepts
 Reading: [ARTCOMPANIM ch 11, 12]
@@ -129,12 +168,19 @@ Reading: [ARTCOMPANIM ch 12], [STANFORDANIM]
   * Drawing and generating
 
 ### 5. Physically-based animation
+
+Description: idea is to show how physical simulations can help for procedural animation and motion graphics. Understanding the concept of simulation. Understanding parameters of simulation (e.g., mass, viscosity, etc.) Understanding how to use it in Blender/Houdini. Intuitive understanding of implementation. Each simulation is presented through an example. Task for students is to reuse the concept on their own animation idea.
 * Rigid body dynamics
+  * Example: marble dynamics: https://blenderartists.org/t/3d-marble-race-wooden-miniature-town/1477845 (by analnluk)
 * Soft body dynamics
 * Cloth dynamics
 * Hair dynamics
 * Fluid simulation: liquids
 * Fluid simulation: gas
+  * Example: https://www.youtube.com/watch?v=zyIJQHlFQs0&ab_channel=Polyfjord
+
+Interesting ideas:
+* https://www.youtube.com/watch?v=5MHglJHYD50&ab_channel=SouthernShotty
   
 ### 6. Motion Graphics Applications
 * Cable tool: https://www.sidefx.com/tutorials/project-titan-cable-tool/
