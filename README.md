@@ -101,7 +101,14 @@ Description: idea is to show how computer graphics concepts can be used to obtai
       * Mballs: https://www.youtube.com/watch?v=rIhXHSdMWmc&ab_channel=CGPython and [this](https://www.youtube.com/watch?v=syvhbxPE3zI&t=1s&ab_channel=JoshGambrell)
       * Meshes: subdivision, displacement, boolean, remeshing
     * Animating material
-      * Color, roughness, emission, specular, diffuse, texture, metal, dielectric
+      * Surfaces:
+        * metals: highly reflective, colored reflection, surface imperfections
+          * specular reflection: colors, roughness and normals animation
+        * dielectrics: reflective and refractive; opaque, transmission, SSS
+          * diffuse and glossy: Color, refraction, transmission animation
+        * emission animation
+        * texture animation
+      * Volumes: density and emission animation using textures
 
 3. Cameras -- [ARTCOMPANIM ch 7]
     * Animating cameras transformations with curves
@@ -172,6 +179,8 @@ Reading: [ARTCOMPANIM ch 12], [STANFORDANIM]
 Description: idea is to show how physical simulations can help for procedural animation and motion graphics. Understanding the concept of simulation. Understanding parameters of simulation (e.g., mass, viscosity, etc.) Understanding how to use it in Blender/Houdini. Intuitive understanding of implementation. Each simulation is presented through an example. Task for students is to reuse the concept on their own animation idea.
 
 Concept: physics simulation can be seen as constrained movement of environment, a reaction to animated (manual or procedural) movement. For example, if we procedurally code random movement of objects, we would like that they collide and behave as rigid body. Another example is we animate boat movement then we want for water to react to the boat. 
+
+Concept: just like rendering uses material information based on geometric optics for appearance computation, physically-based animation takes material information based on classical dynamics for motion behaviour computation.
  
 * Rigid body dynamics
   * Example: marble dynamics: https://blenderartists.org/t/3d-marble-race-wooden-miniature-town/1477845 (by analnluk)
