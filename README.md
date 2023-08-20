@@ -181,6 +181,10 @@ Description: idea is to show how physical simulations can help for procedural an
 Concept: physics simulation can be seen as constrained movement of environment, a reaction to animated (manual or procedural) movement. For example, if we procedurally code random movement of objects, we would like that they collide and behave as rigid body. Another example is we animate boat movement then we want for water to react to the boat. 
 
 Concept: just like rendering uses material information based on geometric optics for appearance computation, physically-based animation takes material information based on classical dynamics for motion behaviour computation.
+
+Looking into physics books would give better idea of how those methods work: https://www.feynmanlectures.caltech.edu/
+
+Nice paper explaining one approach of implementing unified physics: https://mmacklin.com/uppfrta_preprint.pdf
  
 * Rigid body dynamics
   * Example: marble dynamics: https://blenderartists.org/t/3d-marble-race-wooden-miniature-town/1477845 (by analnluk)
