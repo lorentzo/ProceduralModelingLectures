@@ -171,7 +171,7 @@ Reading: [ARTCOMPANIM ch 12], [STANFORDANIM]
 
 Description: idea is to show how physical simulations can help for procedural animation and motion graphics. Understanding the concept of simulation. Understanding parameters of simulation (e.g., mass, viscosity, etc.) Understanding how to use it in Blender/Houdini. Intuitive understanding of implementation. Each simulation is presented through an example. Task for students is to reuse the concept on their own animation idea.
 
-Concept: physics simulation can be seen as constrained movement of environment, a reaction to animated (manual or procedural) movement.
+Concept: physics simulation can be seen as constrained movement of environment, a reaction to animated (manual or procedural) movement. For example, if we procedurally code random movement of objects, we would like that they collide and behave as rigid body. Another example is we animate boat movement then we want for water to react to the boat. 
  
 * Rigid body dynamics
   * Example: marble dynamics: https://blenderartists.org/t/3d-marble-race-wooden-miniature-town/1477845 (by analnluk)
