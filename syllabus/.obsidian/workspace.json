@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "292bee196b0a152b",
+        "id": "8a364b7048e27bbc",
         "type": "tabs",
         "children": [
           {
-            "id": "b7497c8847e0ea36",
+            "id": "5f7db689657bb480",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Syllabus.canvas",
                 "viewState": {
-                  "x": 2761.6644510166484,
-                  "y": -1250.745088507549,
-                  "zoom": -1.2000000000000002
+                  "x": -315.8494910218021,
+                  "y": -1612.3943397697967,
+                  "zoom": -1.4
                 }
               }
             }
@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +150,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7497c8847e0ea36",
+  "active": "5f7db689657bb480",
   "lastOpenFiles": [
     "Syllabus.canvas",
     "Syllabus.md",
