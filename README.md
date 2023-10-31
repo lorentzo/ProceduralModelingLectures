@@ -2,7 +2,7 @@
 
 Work in progres...
 
-## About
+# About
 
 Learning material for computer animation:
 * Animation for Film
@@ -29,7 +29,7 @@ The aim of these materials:
 
 Currently, it is not the aim to give low-level implementation of data-structures and algorithms for animation, rather conceptual understanding of those and using higher-level tools which implement and provide those as well as understanding their parameters and application.
 
-## Structure
+# Structure
 
 The structure of these materials follows:
 1. Book: I. kerlow: The Art of 3D Computer Animation and Effects [here](https://www.amazon.de/-/en/Isaac-V-Kerlow/dp/0470084901)
@@ -57,6 +57,58 @@ Reading:
 * [PROCMODEL] Ebert: Texturing and modeling: procedural approach
 * [BOOKOFSHADERS] https://thebookofshaders.com/
 * [SCRATCHAPIXEL] https://www.scratchapixel.com/index.html
+* PBRT: https://pbrt.org/
+* Real-time rendering book: https://www.realtimerendering.com/
+
+### 1. Animation Pipeline
+
+* 20% of the course time
+
+Goals:
+* Introduce animation pipeline as used in:
+  * Blender Studio: https://studio.blender.org/pipeline/user-guide/project_tools/project-overview
+  * Pixar: https://renderman.pixar.com/stories/pixars-usd-pipeline
+* Explain CG concepts in each pipeline module (geometry, materials, lights, cameras, rendering, etc.)
+* Result is a small project: project based learning, learning by doing, structuring knowledge
+
+Pipeline:
+* Editorial: idea, script, storyboard
+* Modeling
+  * 3D space and transformations
+  * Geometry representations
+  * Geometry modeling
+* Rigging
+* Animation
+  * Keyframing: manual and procedural
+  * Simulation
+* Camera
+  * Pinhole camera
+  * DOF
+* Shading: materials and textures
+  * BRDF
+  * Textures
+* Light
+  * light sources
+  * Shadow
+* Rendering
+  * Rendering concept
+  * Rasterization and raytracing
+* Compositing
+  * Imaging pipeline
+
+### 1. Blender Animation Pipeline
+* 40% of the course time
+* 20% is animation walkthrough 
+* 80% is project work with specificities
+
+### 2. Houdini Animation Pipeline
+* 40% of the course time
+* 20% is animation walkthrough 
+* 80% is project work with specificities
+
+# Course Concepts
+
+In this course following concepts are aimed to be introduced.
 
 ### 1. Computer Animation Introduction
 
