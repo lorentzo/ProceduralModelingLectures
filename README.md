@@ -92,6 +92,7 @@ Literature:
 ### Lecture: Particles and force fields
 
 * Particles guided by procedural force fields
+  * https://www.artstation.com/artwork/LRwEoA
 
 ### Lecture: Branching
 
@@ -100,9 +101,13 @@ Literature:
 
 ### Lecture: Growth
 
+* Digital morphogenesis: https://en.wikipedia.org/wiki/Digital_morphogenesis
+  * Complex shape development
+  * Biology, Geology, Geomorphology and arhitecture
 * DLA
 * Eden model
-* Iterative mesh proportional extrusions
+* Iterative procedural algorithms
+  * Iterative proportional mesh extrusions
 
 ### Lecture: Physically-based: rigid bodies
 
@@ -112,3 +117,10 @@ Literature:
 
 * Procedural constraints and forces
 
+### Lecture: Physically-based: liquids
+
+* Procedural constraints and forces
+
+### Lecture: Physically-based: gases
+
+* Procedural constraints and forces
