@@ -35,12 +35,16 @@ The aim:
 Procedural animation methods:
 * Physically-based approaches
   * classical mechanics, forces and constraints
-  * fluids: gases and liquids
-  * solids: rigid bodies and soft bodies
+    * fluids: gases and liquids
+    * solids: rigid bodies and soft bodies
 * Biological simulation
-  * Growth
+  * Surface/Volume Growth
+  * Surface/Volume Spread modeling
   * Branching (recursion)
+    * Trees
+    * Roots
   * Reaction, Reaction-diffusion
+  * Digital Morphogenesis
   * Phenomenological simulation
 * Mathematics:
   * Iterative systems and chaos
@@ -82,6 +86,11 @@ Literature:
 * Noise as force fields: particles
 * Noise for geometric displacement
 
+### Terrains
+
+* Surface and volume generation
+* Noise, heightfields
+
 ### Lecture: Geometric instancing
 
 * Procedural modeling of simple shapes 
@@ -98,16 +107,20 @@ Literature:
 
 * SCA
 * L-Systems
+* DLA
 
 ### Lecture: Growth
 
 * Digital morphogenesis: https://en.wikipedia.org/wiki/Digital_morphogenesis
   * Complex shape development
   * Biology, Geology, Geomorphology and arhitecture
-* DLA
 * Eden model
 * Iterative procedural algorithms
   * Iterative proportional mesh extrusions
+
+### Lecture: Spread
+
+* Spread over surface or volume points
 
 ### Lecture: Physically-based: rigid bodies
 
