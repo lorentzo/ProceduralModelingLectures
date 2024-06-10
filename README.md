@@ -12,20 +12,19 @@ Lectures aim:
 * Conceptual understanding of procedural modeling building blocks
 
 Applications:
-* Game worlds (environments, foliage, natural phenomena)
-* Animation worlds
+* Game development
+* Animated films
 * VFX
 * Motion graphics
-* Generative Art
+* Generative/algorithmical Art
 * Botany and plants
 * Visualization
 * Arhitecture
 * Algorithmic design
 
-Lectures approach:
+Approach used in this lectures:
 * Learning concepts, approaches and method by doing
 * Using Blender (https://www.blender.org/) and Houdini (https://www.sidefx.com/)
-
 
 # Lecture topics
 
@@ -39,9 +38,28 @@ Lectures approach:
 
 ### Lecture 2: procedural hard surface modeling
 
+Topics:
 * Procedural modeling of hard-surface (man made) shapes 
+* Mesh-based geometry manipulation
+* Tools for geometry manipulation
 
-### Lecture 2: procedural terrains
+Covered concepts:
+* Geometry: vertices, edges, faces and points
+* Procedural mesh manipulation
+* Parameterized geometry
+
+My work:
+* https://www.artstation.com/artwork/KO1bvG
+* https://www.artstation.com/artwork/EvyJoA
+
+R&D:
+* https://docs.blender.org/manual/en/latest/modeling/index.html
+
+Practical:
+* https://www.sidefx.com/learn/collections/modeling-tools/
+* https://www.sidefx.com/tutorials/houdini-modelling-tutorial-175-houdini-hard-surface-modelling-tutorial/
+
+### Lecture 3: procedural terrains
 
 Topics:
 * Introducing noise types (Perlin, Worley, flow and other derivations)
@@ -63,12 +81,12 @@ My work:
 * https://github.com/lorentzo/HoudiniProceduralTerrain
 
 R&D:
-* 
+* http://www.cs.princeton.edu/courses/archive/fall16/cos526/papers/smelik14.pdf
 
 Practical:
 * https://www.sidefx.com/tutorials/procedurally-generating-and-rendering-lowpoly-terrain/
 
-### Lecture 3: procedural buildings
+### Lecture 4: procedural buildings
 
 Topics:
 * Structure and scattering
@@ -77,7 +95,8 @@ Topics:
 
 Introduced concepts:
 * Structured proceduralism
-* Parameters
+* Parameterized control
+* Props blocking and instancing
 
 My work: 
 * https://github.com/lorentzo/ProceduralBuildings
@@ -87,8 +106,9 @@ R&D:
 
 Practical: 
 * https://www.youtube.com/watch?v=uIe97023sDk
+* https://www.sidefx.com/tutorials/houdini-sci-fi-buildings/
 
-### Lecture 4: procedural abstract growth
+### Lecture 5: procedural abstract growth
 
 Topics:
 * Animated noise
@@ -114,13 +134,31 @@ R&D:
 Practical:
 * https://entagma.com/tag/growth/
 
-### Lectur 5: procedural plant and branching structures
+### Lectur 6: procedural plant and branching structures
 
+Topics:
+* Natural shapes
+* Brancing structures
+
+Introduced concepts:
 * SCA
 * L-Systems
 * DLA
 
-### Lecture 5: procedural spread
+My work: 
+* https://www.artstation.com/artwork/8wYyYm
+* https://www.artstation.com/artwork/EvNkaK
+
+R&D:
+* http://algorithmicbotany.org/papers/colonization.egwnp2007.pdf
+* https://graphics.pixar.com/library/ElementalEarth/paper.pdf
+
+Practical:
+* https://www.sidefx.com/docs/houdini/nodes/sop/lsystem
+* https://www.youtube.com/watch?v=0vE8GiXhOWM
+* https://www.youtube.com/watch?v=CgxTCpUqp5Q
+
+### Lecture 7: procedural spread
 
 Topics:
 * surface spread
@@ -142,7 +180,7 @@ R&D:
 Practical:
 * https://www.youtube.com/watch?v=b-DDdGcvBaI
 
-### Lecture 6: procedural particle motion
+### Lecture 8: procedural flight
 
 Topics:
 * noise as vector field
@@ -158,6 +196,7 @@ Introduced concepts:
 My work: 
 * https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#treewind
 * https://www.artstation.com/artwork/LRwEoA
+* https://www.artstation.com/artwork/lRdzAJ
 
 R&D:
 * 
@@ -165,22 +204,104 @@ R&D:
 Practical:
 * https://www.sidefx.com/learn/collections/applied-houdini-particles/
 
-### Lecture 7: procedurally guided physically-based dynamics
+### Lecture 9: proceduralism and dynamics: cracking and RBD
 
 Topics:
-* Cracking and breaking with RBD
-* Explosions
-* Water splashes
-* physically-based natural phenomena
+* Cracking of solid objects
+* Motion of solid objects before and after cracking
+* Cracking caused by fall or hit
 
-* solids
-  * rigid
-  * soft
-* fluids
-  * liquids
-  * gases
+Introduced concepts:
+* procedurally guided physically-based dynamics
+* Procedural cracking
+* RBD solvers
 
+R&D:
+* https://docs.blender.org/manual/en/latest/addons/object/cell_fracture.html
+* https://dl.acm.org/doi/pdf/10.1145/2556700.2556713?casa_token=9i_sM2Dud3wAAAAA:N5XFUTjcGkPoqWebxFAOwVgOPiLx8l8qJ6QcPNzaGgYC-nmH-8mtR9Z2qF9yTnMn4Tu68DTGvTc
+
+Practical:
+* https://www.youtube.com/watch?v=IHYelaEFmr8
+* https://www.sidefx.com/tutorials/smashing-wine-glass/
+
+### Lecture 10: proceduralism and dynamics: soft bodies
+
+Topics:
+* cloth and soft object manipulation
+* procedural vector fields
+
+Introduced concepts:
+* Proceduralism as force applied on soft bodies
+* Soft bodies solvers.
+
+My work:
+* NA
+
+R&D:
+* https://matthias-research.github.io/pages/publications/posBasedDyn.pdf
+
+Practicals:
+* https://www.sidefx.com/docs/houdini/vellum/index.html
+
+### Lecture 11: proceduralism and dynamics: liquids
+
+Topics:
+* water simulation 
+* procedural solid body manipulation
+
+Introduced concepts:
+* Physically-based liquid solvers
+* Proceduralism as force
+
+My work:
+* NA
+
+R&D:
+* https://mmacklin.com/pbf_sig_preprint.pdf
+* https://graphics.pixar.com/library/ElementalWater/paper.pdf
+
+Practicals:
+* https://entagma.com/tag/fluid/
+
+### Lecture 12: proceduralism and dynamics: volumes and gases
+
+Topics:
+* gas and volume simulation 
+* procedural forces
+
+Introduced concepts:
+* Physically-based gas solvers
+* Proceduralism as force
 * Procedural constraints and forces and physically-based solvers
+
+My work:
+* NA
+
+R&D:
+* https://graphics.pixar.com/library/ElementalAir/paper.pdf
+
+Practicals:
+* https://entagma.com/tag/fluid/
+
+### Lecture 13: proceduralism and dynamics: fire and smoke
+
+Topics:
+* fire simulation and spread
+* procedural forces
+
+Introduced concepts:
+* Physically-based fire simulation
+* Proceduralism as force
+
+My work:
+* NA
+
+R&D:
+* https://graphics.pixar.com/library/ElementalFire/paper.pdf
+
+Practicals:
+* https://www.youtube.com/watch?v=zyIJQHlFQs0
+
 
 # Covered concepts
 
