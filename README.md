@@ -1,15 +1,15 @@
-# Procedural Animation
+# Procedural Animation Lectures
 
-Work in progres...
+Work in progres!
 
 # About
 
-Procedural animation course.
+Lectures in procedural modeling.
 
-Inspiration and types:
-* Abstract vs regular.
-* Nature vs human-made.
-* Organic vs hard-surface.
+Lectures aim:
+* Give a structure of the procedural modeling field
+* Theoretical and practical tools for procedural modeling
+* Conceptual understanding of procedural modeling building blocks
 
 Applications:
 * Game worlds (environments, foliage, natural phenomena)
@@ -22,15 +22,172 @@ Applications:
 * Arhitecture
 * Algorithmic design
 
-The aim:
-* Structure of procedural animation
-* Theoretical background of procedural animation
-* Practical tools and methods for procedural animation
-* Conceptual understanding of methods and tools (not low-level implementation)
-* Learning by doing
-* Presenting using stylized rendering and compositing
+Lectures approach:
+* Learning concepts, approaches and method by doing
+* Using Blender (https://www.blender.org/) and Houdini (https://www.sidefx.com/)
 
-# Course 
+
+# Lecture topics
+
+### Lecture 1: intro
+
+* Start with interactive example!
+* Introduction, motivation: why procedural modeling?
+* Big picture: procedural modeling, generative art, generative design, algorithmic art, etc.
+* Procedural modeling in computer graphics and animation
+* Lectures overview
+
+### Lecture 2: procedural hard surface modeling
+
+* Procedural modeling of hard-surface (man made) shapes 
+
+### Lecture 2: procedural terrains
+
+Topics:
+* Introducing noise types (Perlin, Worley, flow and other derivations)
+* Noise layering (fractal sum, fbm) and warping
+* Noise for geometric displacement
+* Geometry attributes for instancing
+* Instancing
+
+Introduced concepts:
+* Noise
+* Displacement
+* Geometry attributes/data and materials
+* Instancing and transformations (rotations, scaling, translation)
+* Instancing and masked surface sampling
+* Surface and volume generation
+* Heightfields
+
+My work:
+* https://github.com/lorentzo/HoudiniProceduralTerrain
+
+R&D:
+* 
+
+Practical:
+* https://www.sidefx.com/tutorials/procedurally-generating-and-rendering-lowpoly-terrain/
+
+### Lecture 3: procedural buildings
+
+Topics:
+* Structure and scattering
+* Props placement
+* Interactive parameters
+
+Introduced concepts:
+* Structured proceduralism
+* Parameters
+
+My work: 
+* https://github.com/lorentzo/ProceduralBuildings
+
+R&D: 
+* https://graphics.pixar.com/library/ElementalSets/paper.pdf
+
+Practical: 
+* https://www.youtube.com/watch?v=uIe97023sDk
+
+### Lecture 4: procedural abstract growth
+
+Topics:
+* Animated noise
+* Animated geometry displacement
+* Feedback loop and simulation
+
+Introduced concepts:
+* Morphing: transformations and generation of geometry
+* Animating geometry attributes
+* Feedback loop animation
+* Iterative proportional mesh extrusions
+* Eden model
+
+My work: 
+* https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#morph
+
+R&D:
+* https://inconvergent.net/2016/shepherding-random-growth/
+* Digital morphogenesis: https://en.wikipedia.org/wiki/Digital_morphogenesis
+  * Complex shape development
+  * Biology, Geology, Geomorphology and arhitecture
+
+Practical:
+* https://entagma.com/tag/growth/
+
+### Lectur 5: procedural plant and branching structures
+
+* SCA
+* L-Systems
+* DLA
+
+### Lecture 5: procedural spread
+
+Topics:
+* surface spread
+* volume spread
+* Plants spread
+* particles
+
+Introduced concepts:
+* Spread over surface
+* Animated geometry spread attributes
+* surface particles
+
+My work:
+* https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#spreadgrowth
+
+R&D:
+* https://docs.blender.org/manual/en/latest/addons/mesh/tissue.html
+
+Practical:
+* https://www.youtube.com/watch?v=b-DDdGcvBaI
+
+### Lecture 6: procedural particle motion
+
+Topics:
+* noise as vector field
+* particles and vector fields
+* flying leafs, snow
+
+Introduced concepts:
+* Vector fields
+* Particle motion
+* Guiding particles via vector fields
+* instancing on particles
+
+My work: 
+* https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#treewind
+* https://www.artstation.com/artwork/LRwEoA
+
+R&D:
+* 
+
+Practical:
+* https://www.sidefx.com/learn/collections/applied-houdini-particles/
+
+### Lecture 7: procedurally guided physically-based dynamics
+
+Topics:
+* Cracking and breaking with RBD
+* Explosions
+* Water splashes
+* physically-based natural phenomena
+
+* solids
+  * rigid
+  * soft
+* fluids
+  * liquids
+  * gases
+
+* Procedural constraints and forces and physically-based solvers
+
+# Covered concepts
+
+Types of modeled phenomena:
+* Abstract vs regular/structured
+* Nature vs human-made
+* Organic vs hard-surface
 
 Procedural animation methods:
 * Physically-based approaches
@@ -61,79 +218,10 @@ CG methods:
 * Rendering: GPU raster, CPU path-tracing
 * Post-processing
 
-Software:
-* [Blender](https://www.blender.org/)
-* [Houdini](https://www.sidefx.com/)
-
 Literature:
 * [STANFORDANIM] D. James: http://graphics.stanford.edu/courses/cs348c/
 * [PROCMODEL] Ebert: Texturing and modeling: procedural approach
 * [HORIKAWA] J. Horikawa: https://www.youtube.com/watch?app=desktop&v=rj0dEEVU1Ek&ab_channel=Houdini
-* https://jhorikawa.gumroad.com/l/GOZFw
-* https://natureofcode.com/
+  * https://jhorikawa.gumroad.com/l/GOZFw
+* [NATUREOFCODE] https://natureofcode.com/
 
-### Lecture 1: intro
-
-* Introduction, motivation
-* Big picture: procedural modeling, generative art, generative design, algorithmic art, etc.
-* Lectures overview
-
-### Lecture: Procedural noise, layering and warping
-
-* Perlin, Worley, flow noise
-* Layering noise (fractal sum; fBm)
-* Warping noise
-* Noise as force fields: particles
-* Noise for geometric displacement
-
-### Terrains
-
-* Surface and volume generation
-* Noise, heightfields
-
-### Lecture: Geometric instancing
-
-* Procedural modeling of simple shapes 
-* Procedural placement of simple shapes (masking, sampling)
-* Instace Transformations (rotations, scaling, translation)
-* Instace Materials
-
-### Lecture: Particles and force fields
-
-* Particles guided by procedural force fields
-  * https://www.artstation.com/artwork/LRwEoA
-
-### Lecture: Branching
-
-* SCA
-* L-Systems
-* DLA
-
-### Lecture: Growth
-
-* Digital morphogenesis: https://en.wikipedia.org/wiki/Digital_morphogenesis
-  * Complex shape development
-  * Biology, Geology, Geomorphology and arhitecture
-* Eden model
-* Iterative procedural algorithms
-  * Iterative proportional mesh extrusions
-
-### Lecture: Spread
-
-* Spread over surface or volume points
-
-### Lecture: Physically-based: rigid bodies
-
-* Procedural constraints and forces
-
-### Lecture: Physically-based: soft bodies
-
-* Procedural constraints and forces
-
-### Lecture: Physically-based: liquids
-
-* Procedural constraints and forces
-
-### Lecture: Physically-based: gases
-
-* Procedural constraints and forces
