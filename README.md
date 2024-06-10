@@ -58,6 +58,7 @@ R&D:
 Practical:
 * https://www.sidefx.com/learn/collections/modeling-tools/
 * https://www.sidefx.com/tutorials/houdini-modelling-tutorial-175-houdini-hard-surface-modelling-tutorial/
+* https://www.sidefx.com/tutorials/foundations-overview/
 
 ### Lecture 3: procedural terrains
 
@@ -85,6 +86,7 @@ R&D:
 
 Practical:
 * https://www.sidefx.com/tutorials/procedurally-generating-and-rendering-lowpoly-terrain/
+* https://www.sidefx.com/tutorials/foundations-terrain/
 
 ### Lecture 4: procedural buildings
 
@@ -107,6 +109,7 @@ R&D:
 Practical: 
 * https://www.youtube.com/watch?v=uIe97023sDk
 * https://www.sidefx.com/tutorials/houdini-sci-fi-buildings/
+* extension to cities: https://www.sidefx.com/tutorials/foundations-build-a-city-with-pdg/
 
 ### Lecture 5: procedural abstract growth
 
@@ -345,4 +348,5 @@ Literature:
 * [HORIKAWA] J. Horikawa: https://www.youtube.com/watch?app=desktop&v=rj0dEEVU1Ek&ab_channel=Houdini
   * https://jhorikawa.gumroad.com/l/GOZFw
 * [NATUREOFCODE] https://natureofcode.com/
+* [PIXAR] https://graphics.pixar.com/library/
 
