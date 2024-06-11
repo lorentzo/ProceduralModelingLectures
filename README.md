@@ -1,6 +1,6 @@
-# Procedural Animation Lectures
+# Procedural Modeling Lectures
 
-Work in progres!
+Work in progress!
 
 # About
 
@@ -111,7 +111,7 @@ Practical:
 * https://www.sidefx.com/tutorials/houdini-sci-fi-buildings/
 * extension to cities: https://www.sidefx.com/tutorials/foundations-build-a-city-with-pdg/
 
-### Lecture 5: procedural abstract growth
+### Lecture 5: procedural abstract growth and organic modeling
 
 Topics:
 * Animated noise
@@ -183,7 +183,7 @@ R&D:
 Practical:
 * https://www.youtube.com/watch?v=b-DDdGcvBaI
 
-### Lecture 8: procedural flight
+### Lecture 8: procedural vector fields and particles
 
 Topics:
 * noise as vector field
