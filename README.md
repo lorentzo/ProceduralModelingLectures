@@ -24,7 +24,7 @@ Applications:
 
 Approach used in this lectures:
 * Learning concepts, approaches and method by doing
-* Using Blender (https://www.blender.org/) and Houdini (https://www.sidefx.com/)
+* Using Blender (https://www.blender.org/) and Houdini (https://www.sidefx.com/) and Unity (https://unity.com/) (?)
 
 # Lecture topics
 
