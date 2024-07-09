@@ -1,66 +1,80 @@
 # Procedural Modeling Lectures
 
-Work in progress!
-
-# About
-
-Lectures in procedural modeling.
+Lectures in procedural modeling for both tech and art students.
 
 Lectures aim:
-* Give a structure of the procedural modeling field
+* Provide a map of the procedural modeling field
 * Theoretical and practical tools for procedural modeling
-* Conceptual understanding of procedural modeling building blocks
+* Conceptual understanding of procedural modeling techniques
 
-Applications:
+Learning approach used in this lectures:
+* Learning by doing: concepts, approaches, methods and techniques
+  * Project-based learning: practical lectures and homework
+* Primary DCC software: Houdini (https://www.sidefx.com/)
+* Exemplary concepts for Blender (https://www.blender.org/) and Unity (https://unity.com/)
+
+Lecture applications:
 * Game development
 * Animated films
 * VFX
 * Motion graphics
 * Generative/algorithmical Art
 * Botany and plants
-* Visualization
+* Visualizations
+* AR/VR environments
 * Arhitecture
 * Algorithmic design
 
-Approach used in this lectures:
-* Learning concepts, approaches and method by doing
-* Using Blender (https://www.blender.org/) and Houdini (https://www.sidefx.com/) and Unity (https://unity.com/) (?)
-
 # Lecture topics
 
-### Lecture 1: intro
+### Lecture 1: Intro
 
-* Start with interactive example!
+* Interactive example: let's build something quickly!
 * Introduction, motivation: why procedural modeling?
 * Big picture: procedural modeling, generative art, generative design, algorithmic art, etc.
 * Procedural modeling in computer graphics and animation
 * Lectures overview
 
-### Lecture 2: procedural hard surface modeling
+## Part 1: Procedural Modeling
+
+
+### Lecture 2: Procedural Building
 
 Topics:
 * Procedural modeling of hard-surface (man made) shapes 
 * Mesh-based geometry manipulation
 * Tools for geometry manipulation
+* Structure and scattering
+* Props placement
+* Interactive parameters
 
 Covered concepts:
+* procedural hard surface modeling
 * Geometry: vertices, edges, faces and points
 * Procedural mesh manipulation
 * Parameterized geometry
+* Structured proceduralism
+* Parameterized control
+* Props blocking and instancing
 
 My work:
 * https://www.artstation.com/artwork/KO1bvG
 * https://www.artstation.com/artwork/EvyJoA
+* https://github.com/lorentzo/ProceduralBuildings
 
 R&D:
 * https://docs.blender.org/manual/en/latest/modeling/index.html
+* https://graphics.pixar.com/library/ElementalSets/paper.pdf
 
 Practical:
 * https://www.sidefx.com/learn/collections/modeling-tools/
 * https://www.sidefx.com/tutorials/houdini-modelling-tutorial-175-houdini-hard-surface-modelling-tutorial/
 * https://www.sidefx.com/tutorials/foundations-overview/
+* https://www.youtube.com/watch?v=uIe97023sDk
+* https://www.sidefx.com/tutorials/houdini-sci-fi-buildings/
+* extension to cities: https://www.sidefx.com/tutorials/foundations-build-a-city-with-pdg/
 
-### Lecture 3: procedural terrains
+### Lecture 3: Procedural Terrain
 
 Topics:
 * Introducing noise types (Perlin, Worley, flow and other derivations)
@@ -88,37 +102,16 @@ Practical:
 * https://www.sidefx.com/tutorials/procedurally-generating-and-rendering-lowpoly-terrain/
 * https://www.sidefx.com/tutorials/foundations-terrain/
 
-### Lecture 4: procedural buildings
-
-Topics:
-* Structure and scattering
-* Props placement
-* Interactive parameters
-
-Introduced concepts:
-* Structured proceduralism
-* Parameterized control
-* Props blocking and instancing
-
-My work: 
-* https://github.com/lorentzo/ProceduralBuildings
-
-R&D: 
-* https://graphics.pixar.com/library/ElementalSets/paper.pdf
-
-Practical: 
-* https://www.youtube.com/watch?v=uIe97023sDk
-* https://www.sidefx.com/tutorials/houdini-sci-fi-buildings/
-* extension to cities: https://www.sidefx.com/tutorials/foundations-build-a-city-with-pdg/
-
-### Lecture 5: procedural abstract growth and organic modeling
+### Lecture 4: Abstract organic sculptures
 
 Topics:
 * Animated noise
 * Animated geometry displacement
 * Feedback loop and simulation
+* Procedural animation
 
 Introduced concepts:
+* Procedural abstract growth and organic modeling
 * Morphing: transformations and generation of geometry
 * Animating geometry attributes
 * Feedback loop animation
@@ -137,11 +130,12 @@ R&D:
 Practical:
 * https://entagma.com/tag/growth/
 
-### Lectur 6: procedural plant and branching structures
+### Lecture 5: procedural Plant 
 
 Topics:
 * Natural shapes
 * Brancing structures
+* Procedural animation
 
 Introduced concepts:
 * SCA
@@ -161,7 +155,7 @@ Practical:
 * https://www.youtube.com/watch?v=0vE8GiXhOWM
 * https://www.youtube.com/watch?v=CgxTCpUqp5Q
 
-### Lecture 7: procedural spread
+### Lecture 6: Foliage growth and spread
 
 Topics:
 * surface spread
@@ -170,9 +164,9 @@ Topics:
 * particles
 
 Introduced concepts:
+* Surface particles
 * Spread over surface
 * Animated geometry spread attributes
-* surface particles
 
 My work:
 * https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#spreadgrowth
@@ -183,11 +177,11 @@ R&D:
 Practical:
 * https://www.youtube.com/watch?v=b-DDdGcvBaI
 
-### Lecture 8: procedural vector fields and particles
+### Lecture 7: Flight of Dandelion Seeds
 
 Topics:
-* noise as vector field
 * particles and vector fields
+* noise as vector field
 * flying leafs, snow
 
 Introduced concepts:
@@ -207,7 +201,9 @@ R&D:
 Practical:
 * https://www.sidefx.com/learn/collections/applied-houdini-particles/
 
-### Lecture 9: proceduralism and dynamics: cracking and RBD
+## Part 2: Proceduralism and Dynamics
+
+### Lecture 2.1: cracking and RBD
 
 Topics:
 * Cracking of solid objects
@@ -227,15 +223,16 @@ Practical:
 * https://www.youtube.com/watch?v=IHYelaEFmr8
 * https://www.sidefx.com/tutorials/smashing-wine-glass/
 
-### Lecture 10: proceduralism and dynamics: soft bodies
+### Lecture 2.2: Balloons
 
 Topics:
-* cloth and soft object manipulation
-* procedural vector fields
+* Balloons simulation and interaction
+* Using Solid body for interacting with balloons
+* Proceduralism as driving force
 
 Introduced concepts:
-* Proceduralism as force applied on soft bodies
-* Soft bodies solvers.
+* Soft bodies simulation
+* Proceduralism as driving force applied on soft bodies
 
 My work:
 * NA
@@ -246,15 +243,15 @@ R&D:
 Practicals:
 * https://www.sidefx.com/docs/houdini/vellum/index.html
 
-### Lecture 11: proceduralism and dynamics: liquids
+### Lecture 2.3: Turbulent Water
 
 Topics:
-* water simulation 
-* procedural solid body manipulation
+* Turbilend water simulation 
+* Procedural solid body manipulation causing turbulence
 
 Introduced concepts:
-* Physically-based liquid solvers
-* Proceduralism as force
+* Physically-based liquid simulation
+* Proceduralism as driving force
 
 My work:
 * NA
@@ -266,11 +263,12 @@ R&D:
 Practicals:
 * https://entagma.com/tag/fluid/
 
-### Lecture 12: proceduralism and dynamics: volumes and gases
+### Lecture 2.4: Fire and Smoke 
 
 Topics:
-* gas and volume simulation 
-* procedural forces
+* Fire simulation and spread
+* Smoke (gas and volume) simulation 
+* Procedural driving forces
 
 Introduced concepts:
 * Physically-based gas solvers
@@ -285,25 +283,16 @@ R&D:
 
 Practicals:
 * https://entagma.com/tag/fluid/
-
-### Lecture 13: proceduralism and dynamics: fire and smoke
-
-Topics:
-* fire simulation and spread
-* procedural forces
-
-Introduced concepts:
-* Physically-based fire simulation
-* Proceduralism as force
-
-My work:
-* NA
-
-R&D:
 * https://graphics.pixar.com/library/ElementalFire/paper.pdf
-
-Practicals:
 * https://www.youtube.com/watch?v=zyIJQHlFQs0
+
+## Part 3: Proceduralism and Character FX
+
+### Lecture 3.1 Hair
+TODO
+
+### Lexture 3.2 Cloth
+TODO
 
 
 # Covered concepts
