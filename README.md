@@ -2,18 +2,18 @@
 
 Lectures in procedural modeling for both tech and art students.
 
-Lectures aim:
+**Lectures aim:**
 * Provide a map of the procedural modeling field
 * Theoretical and practical tools for procedural modeling
 * Conceptual understanding of procedural modeling techniques
 
-Learning approach used in this lectures:
+**Learning approach used in this lectures:**
 * Learning by doing: concepts, approaches, methods and techniques
   * Project-based learning: practical lectures and homework
 * Primary DCC software: Houdini (https://www.sidefx.com/)
 * Exemplary concepts for Blender (https://www.blender.org/) and Unity (https://unity.com/)
 
-Lecture applications:
+**Lecture applications:**
 * Game development
 * Animated films
 * VFX
@@ -42,7 +42,7 @@ Lecture applications:
 
 Topics:
 * Procedural modeling of hard-surface (man made) shapes 
-* Mesh-based geometry manipulation
+* Mesh-based (surface) geometry manipulation
 * Tools for geometry manipulation
 * Structure and scattering
 * Props placement
@@ -91,6 +91,7 @@ Introduced concepts:
 * Instancing and masked surface sampling
 * Surface and volume generation
 * Heightfields
+* World building
 
 My work:
 * https://github.com/lorentzo/HoudiniProceduralTerrain
@@ -288,10 +289,13 @@ Practicals:
 
 ## Part 3: Proceduralism and Character FX
 
-### Lecture 3.1 Hair
+### Lecture 3.1 Hair and Fur
 TODO
 
 ### Lexture 3.2 Cloth
+TODO
+
+### Crowds
 TODO
 
 
