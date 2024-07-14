@@ -131,7 +131,7 @@ R&D:
 Practical:
 * https://entagma.com/tag/growth/
 
-### Lecture 5: procedural Plant 
+### Lecture 5: procedural Plants and Trees
 
 Topics:
 * Natural shapes
@@ -298,6 +298,8 @@ TODO
 ### Crowds
 TODO
 
+# Inspiration for potential lectures
+* RBD and growth: https://www.youtube.com/watch?v=xdC7k_LslgA&t=405s
 
 # Covered concepts
 
