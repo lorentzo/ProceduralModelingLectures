@@ -1,6 +1,6 @@
 # Procedural Modeling Lectures
 
-Lectures in procedural modeling for both tech and art students.
+Lectures in procedural modeling for both **tech** and **art** students (AKA STEAM lectures).
 
 **Lectures aim:**
 * Provide a map of the procedural modeling field
@@ -15,7 +15,7 @@ Lectures in procedural modeling for both tech and art students.
 
 **Lecture applications:**
 * Game development
-* Animated films
+* Animated film
 * VFX
 * Motion graphics
 * Generative/algorithmical Art
@@ -39,6 +39,8 @@ Lectures in procedural modeling for both tech and art students.
 
 
 ### Lecture 2: Procedural Building
+
+Lecture link: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/lectures/ProceduralBuilding
 
 Topics:
 * Procedural modeling of hard-surface (man made) shapes 
