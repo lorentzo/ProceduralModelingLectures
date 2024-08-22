@@ -2,6 +2,8 @@
 
 Lectures in procedural modeling for both **tech** and **art** students (AKA STEAM lectures).
 
+Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
+
 **Lectures aim:**
 * Provide a map of the procedural modeling field
 * Theoretical and practical tools for procedural modeling

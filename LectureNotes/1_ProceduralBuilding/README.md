@@ -1,4 +1,7 @@
 
+This folder contains lecture notes.
+
+Follow-up examples are here: [`LectureExamples/1_ProceduralBuilding`](https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureExamples/1_ProceduralBuilding)
 ## Foundations
 
 Absolute foundations:
