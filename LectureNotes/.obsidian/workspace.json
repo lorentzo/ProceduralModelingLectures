@@ -15,9 +15,9 @@
               "state": {
                 "file": "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
                 "viewState": {
-                  "x": 4528.71984415844,
-                  "y": 1331.0180220014774,
-                  "zoom": -2.666666666666667
+                  "x": 9722.004858549515,
+                  "y": 394.9742937575694,
+                  "zoom": -1
                 }
               }
             }
@@ -151,11 +151,11 @@
   },
   "active": "e22511f9671a92a2",
   "lastOpenFiles": [
-    "1_ProceduralBuilding/Images/UIOutputDesktop.PNG",
     "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
     "2_ProceduralTerrain/README.md",
     "1_ProceduralBuilding/README.md",
     "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
+    "1_ProceduralBuilding/Images/UIOutputDesktop.PNG",
     "1_ProceduralBuilding/Images/UIMainWindow.png",
     "1_ProceduralBuilding/Images/Screenshot from 2024-08-22 22-11-09.png",
     "1_ProceduralBuilding/Images/UIMainWindow.svg",
