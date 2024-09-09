@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"8bfb37b306ea697b","x":11454,"y":-1460,"width":3026,"height":1360,"type":"group","label":"Modeling parametrized element of a bulding"},
 		{"id":"69143c41085d8204","type":"group","x":-280,"y":-760,"width":2400,"height":1424,"label":"About Houdini."},
 		{"id":"30d4a8b42e38aa75","type":"group","x":7520,"y":-101,"width":2000,"height":1535,"label":"Procedural building modeling approaches in this lecture"},
 		{"id":"e8abab39a8c724e4","type":"group","x":6180,"y":-120,"width":1190,"height":1573,"label":"Hands on procedural modeling"},
@@ -108,7 +109,6 @@
 		{"id":"3059805458bfcf19","type":"text","text":"TODO Quick peek","x":8300,"y":310,"width":250,"height":50,"color":"1"},
 		{"id":"e6e8457f5d5094da","type":"text","text":"## Approaches","x":7699,"y":540,"width":293,"height":50},
 		{"id":"5e88ff092d447c2a","type":"text","text":"Add details","x":10614,"y":-544,"width":250,"height":60},
-		{"id":"a5644b87152a0aed","type":"text","text":"# Modeling parametrized element of a bulding","x":11540,"y":-1420,"width":703,"height":105},
 		{"id":"bff128762f02aa0c","type":"text","text":"DCC","x":7063,"y":913,"width":250,"height":60},
 		{"id":"bf3de7fdc8a11221","type":"text","text":"Blocking, concept","x":6732,"y":460,"width":250,"height":60},
 		{"id":"28678b19b5884246","type":"text","text":"Procedural mindset","x":6732,"y":600,"width":250,"height":60},
@@ -139,9 +139,13 @@
 		{"id":"6d7075be87997d89","type":"file","file":"1_ProceduralBuilding/Images/ProceduralBuildingApproach1/ParameterizedElementModeling/Cube.PNG","x":11474,"y":-1030,"width":708,"height":376},
 		{"id":"cbdf09452fdb4233","type":"text","text":"Start with a cube and base transformations (scaling)","x":11500,"y":-1122,"width":290,"height":60},
 		{"id":"6dfb059cf41e806d","x":12611,"y":-1142,"width":250,"height":60,"type":"text","text":"Create new cube Shape for cutting"},
-		{"id":"1ea50f3afdaf0e11","x":12920,"y":-1142,"width":250,"height":60,"type":"text","text":"Place Shape for cutting"},
+		{"id":"5229071726793319","x":12702,"y":-200,"width":307,"height":80,"type":"text","text":"Parameters:\n* Shape detail randomization"},
+		{"id":"1ea50f3afdaf0e11","x":12940,"y":-1152,"width":250,"height":80,"type":"text","text":"Place Shape for cutting relative to the base cube"},
 		{"id":"c18fd0e29f7ed698","x":13240,"y":-1156,"width":250,"height":88,"type":"text","text":"Perform cutting of base shape and new shape using Boolean"},
-		{"id":"5229071726793319","x":12702,"y":-200,"width":307,"height":80,"type":"text","text":"Parameters:\n* Shape detail randomization"}
+		{"id":"7d4b113ac434691b","x":13800,"y":-720,"width":250,"height":60,"type":"text","text":"Add Wall details"},
+		{"id":"c9db4440fdc526c4","x":14100,"y":-620,"width":250,"height":60,"type":"text","text":"Isotropic"},
+		{"id":"15bdc1b4f8de1028","x":14160,"y":-720,"width":250,"height":60,"type":"text","text":"Vertical"},
+		{"id":"0b4a5fa878fcc185","x":14140,"y":-820,"width":250,"height":60,"type":"text","text":"Horizontal"}
 	],
 	"edges":[
 		{"id":"095d88c36ece62b7","fromNode":"0ac3e342ab59e6b0","fromSide":"bottom","toNode":"17568d1399691fff","toSide":"top"},
@@ -246,7 +250,10 @@
 		{"id":"74be68918ae25b95","fromNode":"30ae0ae93e93e114","fromSide":"bottom","toNode":"864229b12a66492f","toSide":"top"},
 		{"id":"ccd73da206061a0a","fromNode":"864229b12a66492f","fromSide":"bottom","toNode":"79e56a5a6011f517","toSide":"top"},
 		{"id":"0e33f2ec8a6889ff","fromNode":"1eced3475625fa5f","fromSide":"bottom","toNode":"5e88ff092d447c2a","toSide":"top"},
-		{"id":"c76e4c436e717d5a","fromNode":"6dfb059cf41e806d","fromSide":"bottom","toNode":"1ea50f3afdaf0e11","toSide":"top"},
-		{"id":"caf468e336299460","fromNode":"1ea50f3afdaf0e11","fromSide":"bottom","toNode":"c18fd0e29f7ed698","toSide":"top"}
+		{"id":"312f664aadfa5b10","fromNode":"6dfb059cf41e806d","fromSide":"right","toNode":"1ea50f3afdaf0e11","toSide":"left"},
+		{"id":"dc68c6cfbadd6272","fromNode":"1ea50f3afdaf0e11","fromSide":"right","toNode":"c18fd0e29f7ed698","toSide":"left"},
+		{"id":"bf3b0b4e90a853a6","fromNode":"7d4b113ac434691b","fromSide":"right","toNode":"0b4a5fa878fcc185","toSide":"left"},
+		{"id":"27e09b5f0c2dc128","fromNode":"7d4b113ac434691b","fromSide":"right","toNode":"15bdc1b4f8de1028","toSide":"left"},
+		{"id":"1cab7b72a84534b3","fromNode":"7d4b113ac434691b","fromSide":"right","toNode":"c9db4440fdc526c4","toSide":"left"}
 	]
 }
