@@ -15,9 +15,9 @@
               "state": {
                 "file": "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
                 "viewState": {
-                  "x": 9093.730035426885,
-                  "y": 660.6888431841398,
-                  "zoom": -1.9999999999999993
+                  "x": 20623.97595245953,
+                  "y": 1637.945884536874,
+                  "zoom": -3.3333333333333335
                 }
               }
             }
@@ -151,32 +151,35 @@
   },
   "active": "270c1bd45c00e676",
   "lastOpenFiles": [
+    "1_ProceduralBuilding/Images/ProceduralBuilding/Assets/scifiBuilding3.jpg",
+    "1_ProceduralBuilding/Images/ProceduralBuilding/Assets/SciFiBuilding2.jpg",
+    "1_ProceduralBuilding/Images/ProceduralBuilding/Assets/SciFiBuildings1.jpg",
+    "1_ProceduralBuilding/Images/ProceduralBuilding/Assets/ref1.jpg",
+    "1_ProceduralBuilding/Images/ProceduralBuilding/Assets/PixarElementsCity.PNG",
+    "1_ProceduralBuilding/Images/ProceduralBuilding/Assets",
+    "1_ProceduralBuilding/Images/ProceduralBuilding/New folder",
+    "1_ProceduralBuilding/Images/ProceduralBuilding",
+    "1_ProceduralBuilding/Images/New folder",
+    "1_ProceduralBuilding/Images/ProceduralBuildingApproach1/References",
+    "1_ProceduralBuilding/Images/ProceduralBuildingApproach1/New folder",
     "1_ProceduralBuilding/Images/ProceduralBuildingApproach1/ParameterizedElementModeling/BooleanCubeShapeDetail.PNG",
     "1_ProceduralBuilding/Images/ProceduralBuildingApproach1/ParameterizedElementModeling/CubeShapeDetail.PNG",
     "1_ProceduralBuilding/Images/ProceduralBuildingApproach1/ParameterizedElementModeling/Cube.PNG",
     "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
     "1_ProceduralBuilding/Images/ProceduralBuildingApproach1/ParameterizedElementModeling",
-    "1_ProceduralBuilding/Images/ProceduralBuildingApproach1/New folder",
     "1_ProceduralBuilding/Images/ProceduralBuildingApproach1",
-    "1_ProceduralBuilding/Images/New folder",
     "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
     "2_ProceduralTerrain/README.md",
     "1_ProceduralBuilding/README.md",
     "1_ProceduralBuilding/Images/UIOutputDesktop.PNG",
     "1_ProceduralBuilding/Images/UIMainWindow.png",
     "1_ProceduralBuilding/Images/Screenshot from 2024-08-22 22-11-09.png",
-    "1_ProceduralBuilding/Images/UIMainWindow.svg",
     "1_ProceduralBuilding/Images/UIMainWindow",
     "UIMainWindow.md",
     "1_ProceduralBuilding/UIMainWindow",
     "sds.md",
-    "1_ProceduralBuilding/Images",
-    "UIMainWindow",
-    "1_ProceduralBuilding/main_window.svg",
     "2_ProceduralTerrain/Overview.md",
     "1_ProceduralBuilding/Overview.md",
-    "2_ProceduralTerrain/Untitled.md",
-    "2_ProceduralTerrain",
-    "1_ProceduralBuilding"
+    "2_ProceduralTerrain/Untitled.md"
   ]
 }
