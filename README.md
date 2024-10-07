@@ -21,17 +21,16 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 * VFX
 * Motion graphics
 * Generative/algorithmical Art
-* Botany and plants
-* Visualizations
+* Scientific visualization
 * AR/VR environments
 * Arhitecture
 * Algorithmic design
 
-# Lecture topics
+# Lectures
 
 ### Lecture 1: Intro
 
-* Interactive example: let's build something quickly!
+* Let's build something quickly AKA Houdini intuition
 * Introduction, motivation: why procedural modeling?
 * Big picture: procedural modeling, generative art, generative design, algorithmic art, etc.
 * Procedural modeling in computer graphics and animation
@@ -42,70 +41,49 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 
 ### Lecture 2: Procedural Building
 
-Lecture link: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/lectures/ProceduralBuilding
+Lecture notes: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureNotes/1_ProceduralBuilding
 
-Topics:
+Lecture data: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureExamples/2_ProceduralTerrain/LectureExample
+
+<img src="LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r1.png" width="256">
+<img src="LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r2.png" width="256">
+
+<img src="LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r3.png" width="256">
+<img src="LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r4.png" width="256">
+
+
+
+Topics and concepts:
 * Procedural modeling of hard-surface (man made) shapes 
-* Mesh-based (surface) geometry manipulation
+* Procedural mesh-based (surface) geometry manipulation: vertices, edges, faces and points
 * Tools for geometry manipulation
-* Structure and scattering
+* Structured proceduralism and scattering
 * Props placement
-* Interactive parameters
-
-Covered concepts:
-* procedural hard surface modeling
-* Geometry: vertices, edges, faces and points
-* Procedural mesh manipulation
-* Parameterized geometry
-* Structured proceduralism
-* Parameterized control
-* Props blocking and instancing
-
-My work:
-* https://www.artstation.com/artwork/KO1bvG
-* https://www.artstation.com/artwork/EvyJoA
-* https://github.com/lorentzo/ProceduralBuildings
-
-R&D:
-* https://docs.blender.org/manual/en/latest/modeling/index.html
-* https://graphics.pixar.com/library/ElementalSets/paper.pdf
-
-Practical:
-* https://www.sidefx.com/learn/collections/modeling-tools/
-* https://www.sidefx.com/tutorials/houdini-modelling-tutorial-175-houdini-hard-surface-modelling-tutorial/
-* https://www.sidefx.com/tutorials/foundations-overview/
-* https://www.youtube.com/watch?v=uIe97023sDk
-* https://www.sidefx.com/tutorials/houdini-sci-fi-buildings/
-* extension to cities: https://www.sidefx.com/tutorials/foundations-build-a-city-with-pdg/
+* Interactive parameters; parameterized geometry
 
 ### Lecture 3: Procedural Terrain
 
-Topics:
-* Introducing noise types (Perlin, Worley, flow and other derivations)
+Topics and concepts:
+* Noise and noise types (Perlin, Worley, flow and other derivations)
 * Noise layering (fractal sum, fbm) and warping
-* Noise for geometric displacement
-* Geometry attributes for instancing
-* Instancing
-
-Introduced concepts:
-* Noise
-* Displacement
-* Geometry attributes/data and materials
+* Noise and geometric displacement
+* Geometry attributes for instancing and materials
+* Masking and sampling
 * Instancing and transformations (rotations, scaling, translation)
-* Instancing and masked surface sampling
-* Surface and volume generation
 * Heightfields
+* Surface and volume generation
 * World building
 
-My work:
-* https://github.com/lorentzo/HoudiniProceduralTerrain
+Lecture notes: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureNotes/2_ProceduralTerrain
 
-R&D:
-* http://www.cs.princeton.edu/courses/archive/fall16/cos526/papers/smelik14.pdf
+Lecture data: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureExamples/2_ProceduralTerrain/LectureExample
 
-Practical:
-* https://www.sidefx.com/tutorials/procedurally-generating-and-rendering-lowpoly-terrain/
-* https://www.sidefx.com/tutorials/foundations-terrain/
+<img src="LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r1.png" width="512">
+<img src="LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r2.png" width="400">
+
+<img src="LectureExamples/2_ProceduralTerrain/LectureExample/MeshNoiseDisplacement/render/r3.png" width="512">
+<img src="LectureExamples/2_ProceduralTerrain/LectureExample/MeshNoiseDisplacement/render/r4.png" width="400">
+
 
 ### Lecture 4: Abstract organic sculptures
 
