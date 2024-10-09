@@ -45,12 +45,12 @@ Lecture notes: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/
 
 Lecture data: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureExamples/2_ProceduralTerrain/LectureExample
 
-1             |  2
+Procedural building 1.1             |  Procedural building 1.2
 :-------------------------:|:-------------------------:
 ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r1.png)  |  ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r2.png)
 
 
-3             |  4
+Procedural building 1.3             |  Procedural building 1.4
 :-------------------------:|:-------------------------:
 ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r3.png)  |  ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r4.png)
 
@@ -79,15 +79,15 @@ Lecture notes: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/
 
 Lecture data: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureExamples/2_ProceduralTerrain/LectureExample
 
-Heightfield from NASA topo 1             |  Heightfield from NASA topo 2
+Heightfield from NASA topo 1.1             |  Heightfield from NASA topo 1.2
 :-------------------------:|:-------------------------:
 ![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r1.png)  |  ![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r2.png)
 
-Heightfield using noise 1             |  Heightfield using noise 2
+Heightfield using noise 2.1             |  Heightfield using noise 2.2
 :-------------------------:|:-------------------------:
 ![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldNoiseDisplacement/render/r1.jpg)  |  ![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldNoiseDisplacement/render/r2.jpg)
 
-Mesh using noise 1             |  Mesh using noise 2
+Mesh using noise 2.1            |  Mesh using noise 2.2
 :-------------------------:|:-------------------------:
 ![](LectureExamples/2_ProceduralTerrain/LectureExample/MeshNoiseDisplacement/render/r1.png)  |  ![](LectureExamples/2_ProceduralTerrain/LectureExample/MeshNoiseDisplacement/render/r2.png)
 
@@ -107,6 +107,14 @@ Topics:
 * Procedural abstract growth and organic modeling
 * Morphing: transformations and generation of geometry
 * Iterative systems
+
+Example of growth 1             |  Example of growth 1.1
+:-------------------------:|:-------------------------:
+![](LectureExamples/3_VolumesParticles/ph1.jpg)  |  ![](LectureExamples/3_VolumesParticles/ph2.jpg)
+
+Example of growth 2.1             |  Example of growth 2.2
+:-------------------------:|:-------------------------:
+![](LectureExamples/3_VolumesParticles/ph3.jpg)  |  ![](LectureExamples/3_VolumesParticles/ph4.jpg)
 
 My work: 
 * https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#treewind
@@ -135,6 +143,14 @@ Topics:
 * Foliage growth
 * Theoretical principles: SCA, Eden, L-Systems, DLA
 * Animated surface with instances
+
+Example of volumes and particles 1.1             |  Example of growth 1.2
+:-------------------------:|:-------------------------:
+![](LectureExamples/4_FoliageGrowthSpread/ph1.jpg)  |  ![](LectureExamples/4_FoliageGrowthSpread/ph2.jpg)
+
+Example of volumes and particles 2.1             |  Example of growth 2.2
+:-------------------------:|:-------------------------:
+![](LectureExamples/4_FoliageGrowthSpread/ph3.jpg)  |  ![](LectureExamples/4_FoliageGrowthSpread/ph4.jpg)
 
 My work: 
 * https://www.artstation.com/artwork/8wYyYm
