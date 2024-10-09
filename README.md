@@ -45,13 +45,14 @@ Lecture notes: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/
 
 Lecture data: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureExamples/2_ProceduralTerrain/LectureExample
 
-<img src="LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r1.png" width="256">
-<img src="LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r2.png" width="256">
-
-<img src="LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r3.png" width="256">
-<img src="LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r4.png" width="256">
+1             |  2
+:-------------------------:|:-------------------------:
+![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r1.png)  |  ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r2.png)
 
 
+3             |  4
+:-------------------------:|:-------------------------:
+![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r3.png)  |  ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r4.png)
 
 Topics and concepts:
 * Procedural modeling of hard-surface (man made) shapes 
@@ -78,30 +79,39 @@ Lecture notes: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/
 
 Lecture data: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureExamples/2_ProceduralTerrain/LectureExample
 
-<img src="LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r1.png" width="512">
-<img src="LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r2.png" width="400">
+Heightfield from NASA topo 1             |  Heightfield from NASA topo 2
+:-------------------------:|:-------------------------:
+![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r1.png)  |  ![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r2.png)
 
-<img src="LectureExamples/2_ProceduralTerrain/LectureExample/MeshNoiseDisplacement/render/r3.png" width="512">
-<img src="LectureExamples/2_ProceduralTerrain/LectureExample/MeshNoiseDisplacement/render/r4.png" width="400">
+Heightfield using noise 1             |  Heightfield using noise 2
+:-------------------------:|:-------------------------:
+![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldNoiseDisplacement/render/r1.jpg)  |  ![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldNoiseDisplacement/render/r2.jpg)
 
+Mesh using noise 1             |  Mesh using noise 2
+:-------------------------:|:-------------------------:
+![](LectureExamples/2_ProceduralTerrain/LectureExample/MeshNoiseDisplacement/render/r1.png)  |  ![](LectureExamples/2_ProceduralTerrain/LectureExample/MeshNoiseDisplacement/render/r2.png)
 
-### Lecture 4: Abstract organic sculptures
+### Lecture 4: Volumes and particles: abstract organic structures
 
 Topics:
-* Animated noise
-* Animated geometry displacement
-* Feedback loop and simulation
+* Particles and trails/lines
 * Procedural animation
-
-Introduced concepts:
+* Particles and animated vector fields
+* Animated noise as vector field
+* Volume and particles motion
+* Volume and particles coupling
+* Guiding particles via vector fields and volume
+* Instancing on particles
+* Geometry from volume displacement
+* Attribute transfer and animated geo attributes
 * Procedural abstract growth and organic modeling
 * Morphing: transformations and generation of geometry
-* Animating geometry attributes
-* Feedback loop animation
-* Iterative proportional mesh extrusions
-* Eden model
+* Iterative systems
 
 My work: 
+* https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#treewind
+* https://www.artstation.com/artwork/LRwEoA
+* https://www.artstation.com/artwork/lRdzAJ
 * https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#morph
 
 R&D:
@@ -111,82 +121,42 @@ R&D:
   * Biology, Geology, Geomorphology and arhitecture
 
 Practical:
+* https://www.sidefx.com/learn/collections/applied-houdini-particles/
 * https://entagma.com/tag/growth/
 
-### Lecture 5: procedural Plants and Trees
+
+### Lecture 5: procedural foliage; growth and spread
 
 Topics:
-* Natural shapes
-* Brancing structures
+* Natural and branching shapes/structures
 * Procedural animation
-
-Introduced concepts:
-* SCA
-* L-Systems
-* DLA
+* surface and volume vegetation spread
+* Instancing and attributes
+* Foliage growth
+* Theoretical principles: SCA, Eden, L-Systems, DLA
+* Animated surface with instances
 
 My work: 
 * https://www.artstation.com/artwork/8wYyYm
 * https://www.artstation.com/artwork/EvNkaK
+* https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#spreadgrowth
 
 R&D:
 * http://algorithmicbotany.org/papers/colonization.egwnp2007.pdf
 * https://graphics.pixar.com/library/ElementalEarth/paper.pdf
+* https://docs.blender.org/manual/en/latest/addons/mesh/tissue.html
 
 Practical:
 * https://www.sidefx.com/docs/houdini/nodes/sop/lsystem
 * https://www.youtube.com/watch?v=0vE8GiXhOWM
 * https://www.youtube.com/watch?v=CgxTCpUqp5Q
-
-### Lecture 6: Foliage growth and spread
-
-Topics:
-* surface spread
-* volume spread
-* Plants spread
-* particles
-
-Introduced concepts:
-* Surface particles
-* Spread over surface
-* Animated geometry spread attributes
-
-My work:
-* https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#spreadgrowth
-
-R&D:
-* https://docs.blender.org/manual/en/latest/addons/mesh/tissue.html
-
-Practical:
 * https://www.youtube.com/watch?v=b-DDdGcvBaI
-
-### Lecture 7: Flight of Dandelion Seeds
-
-Topics:
-* particles and vector fields
-* noise as vector field
-* flying leafs, snow
-
-Introduced concepts:
-* Vector fields
-* Particle motion
-* Guiding particles via vector fields
-* instancing on particles
-
-My work: 
-* https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#treewind
-* https://www.artstation.com/artwork/LRwEoA
-* https://www.artstation.com/artwork/lRdzAJ
-
-R&D:
-* 
-
-Practical:
-* https://www.sidefx.com/learn/collections/applied-houdini-particles/
 
 ## Part 2: Proceduralism and Dynamics
 
-### Lecture 2.1: cracking and RBD
+Feedback loop and simulation
+
+### Lecture 2.1: rigid bodies and fracture
 
 Topics:
 * Cracking of solid objects
@@ -206,7 +176,7 @@ Practical:
 * https://www.youtube.com/watch?v=IHYelaEFmr8
 * https://www.sidefx.com/tutorials/smashing-wine-glass/
 
-### Lecture 2.2: Balloons
+### Lecture 2.2: soft bodies
 
 Topics:
 * Balloons simulation and interaction
@@ -226,7 +196,7 @@ R&D:
 Practicals:
 * https://www.sidefx.com/docs/houdini/vellum/index.html
 
-### Lecture 2.3: Turbulent Water
+### Lecture 2.3: fluids: liquids
 
 Topics:
 * Turbilend water simulation 
@@ -246,7 +216,7 @@ R&D:
 Practicals:
 * https://entagma.com/tag/fluid/
 
-### Lecture 2.4: Fire and Smoke 
+### Lecture 2.4: fluids: fire and smoke 
 
 Topics:
 * Fire simulation and spread
