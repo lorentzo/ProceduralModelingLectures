@@ -49,7 +49,6 @@ Procedural building 1.1             |  Procedural building 1.2
 :-------------------------:|:-------------------------:
 ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r1.png)  |  ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r2.png)
 
-
 Procedural building 1.3             |  Procedural building 1.4
 :-------------------------:|:-------------------------:
 ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r3.png)  |  ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r4.png)
@@ -74,6 +73,7 @@ Topics and concepts:
 * Heightfields
 * Surface and volume generation
 * World building
+* Clouds and seas
 
 Lecture notes: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureNotes/2_ProceduralTerrain
 
@@ -82,6 +82,8 @@ Lecture data: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/L
 Heightfield from NASA topo 1.1             |  Heightfield from NASA topo 1.2
 :-------------------------:|:-------------------------:
 ![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r1.png)  |  ![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r2.png)
+
+![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r3.png)
 
 Heightfield using noise 2.1             |  Heightfield using noise 2.2
 :-------------------------:|:-------------------------:
@@ -238,9 +240,6 @@ TODO
 
 ### Crowds
 TODO
-
-# Inspiration for potential lectures
-* RBD and growth: https://www.youtube.com/watch?v=xdC7k_LslgA&t=405s
 
 # Covered concepts
 
