@@ -94,21 +94,17 @@ Mesh using noise 2.1            |  Mesh using noise 2.2
 ### Lecture 4: Volumes and particles: abstract organic structures
 
 Topics:
-* Particles and trails/lines
-* Procedural animation
-* Particles and animated vector fields
-* Animated noise as vector field
-* Volume and particles motion
-* Volume and particles coupling
-* Guiding particles via vector fields and volume
-* Instancing on particles
-* Geometry from volume displacement
+* Procedural animation/motion using particles and volumes
+* Particles and animated vector fields using noise
+* Guiding particles via vector fields and volumes
+* Instancing on particles and trails/lines
+* Geometry from particles and volume displacement
 * Attribute transfer and animated geo attributes
 * Procedural abstract growth and organic modeling
 * Morphing: transformations and generation of geometry
 * Iterative systems
 
-Example of growth 1             |  Example of growth 1.1
+Example of growth 1.1             |  Example of growth 1.2
 :-------------------------:|:-------------------------:
 ![](LectureExamples/3_VolumesParticles/ph1.jpg)  |  ![](LectureExamples/3_VolumesParticles/ph2.jpg)
 
@@ -170,18 +166,14 @@ Practical:
 
 ## Part 2: Proceduralism and Dynamics
 
-Feedback loop and simulation
+Combining procedural modeling with feedback loop and simulation.
 
 ### Lecture 2.1: rigid bodies and fracture
 
 Topics:
-* Cracking of solid objects
-* Motion of solid objects before and after cracking
-* Cracking caused by fall or hit
-
-Introduced concepts:
-* procedurally guided physically-based dynamics
-* Procedural cracking
+* Rigid body collisions
+* Rigid body fracture and animation via simulation
+* Procedurally guided physically-based dynamics
 * RBD solvers
 
 R&D:
@@ -195,16 +187,9 @@ Practical:
 ### Lecture 2.2: soft bodies
 
 Topics:
-* Balloons simulation and interaction
-* Using Solid body for interacting with balloons
-* Proceduralism as driving force
-
-Introduced concepts:
+* Soft body deformation using external forces and collisions
+* Procedural vector field as external force field
 * Soft bodies simulation
-* Proceduralism as driving force applied on soft bodies
-
-My work:
-* NA
 
 R&D:
 * https://matthias-research.github.io/pages/publications/posBasedDyn.pdf
@@ -215,15 +200,9 @@ Practicals:
 ### Lecture 2.3: fluids: liquids
 
 Topics:
-* Turbilend water simulation 
-* Procedural solid body manipulation causing turbulence
-
-Introduced concepts:
-* Physically-based liquid simulation
-* Proceduralism as driving force
-
-My work:
-* NA
+* Turbulent water simulation 
+* Physically-based liquid simulation and solvers
+* External procedural vector fields and collisions
 
 R&D:
 * https://mmacklin.com/pbf_sig_preprint.pdf
@@ -232,20 +211,14 @@ R&D:
 Practicals:
 * https://entagma.com/tag/fluid/
 
-### Lecture 2.4: fluids: fire and smoke 
+### Lecture 2.4: fluids: gas
 
 Topics:
 * Fire simulation and spread
 * Smoke (gas and volume) simulation 
-* Procedural driving forces
-
-Introduced concepts:
+* Procedural external forces and vector fields
 * Physically-based gas solvers
-* Proceduralism as force
 * Procedural constraints and forces and physically-based solvers
-
-My work:
-* NA
 
 R&D:
 * https://graphics.pixar.com/library/ElementalAir/paper.pdf
