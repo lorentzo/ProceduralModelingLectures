@@ -108,11 +108,7 @@ Topics:
 
 Example of growth 1.1             |  Example of growth 1.2
 :-------------------------:|:-------------------------:
-![](LectureExamples/3_VolumesParticles/ph1.jpg)  |  ![](LectureExamples/3_VolumesParticles/ph2.jpg)
-
-Example of growth 2.1             |  Example of growth 2.2
-:-------------------------:|:-------------------------:
-![](LectureExamples/3_VolumesParticles/ph3.jpg)  |  ![](LectureExamples/3_VolumesParticles/ph4.jpg)
+![](LectureExamples/3_VolumesParticles/ParticlesVolumes/render/r1.jpg) | ![](LectureExamples/3_VolumesParticles/ParticlesVolumes/render/r2.jpg)
 
 My work: 
 * https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#treewind
@@ -142,11 +138,11 @@ Topics:
 * Theoretical principles: SCA, Eden, L-Systems, DLA
 * Animated surface with instances
 
-Example of volumes and particles 1.1             |  Example of growth 1.2
+Example of foliage growth and spread 1.1             |  Example of foliage growth and spread 1.2
 :-------------------------:|:-------------------------:
 ![](LectureExamples/4_FoliageGrowthSpread/ph1.jpg)  |  ![](LectureExamples/4_FoliageGrowthSpread/ph2.jpg)
 
-Example of volumes and particles 2.1             |  Example of growth 2.2
+Example of foliage growth and spread 2.1             |  Example of foliage growth and spread 2.2
 :-------------------------:|:-------------------------:
 ![](LectureExamples/4_FoliageGrowthSpread/ph3.jpg)  |  ![](LectureExamples/4_FoliageGrowthSpread/ph4.jpg)
 

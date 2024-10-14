@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
+                "file": "3_ParticlesVolumes/Particles Volumes.canvas",
                 "viewState": {
-                  "x": 4639.011148283292,
-                  "y": 880.9277625112413,
-                  "zoom": -2.6666666666666665
+                  "x": 3826.70385300819,
+                  "y": 96.4112223060057,
+                  "zoom": -2.333333333333333
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
+                "file": "3_ParticlesVolumes/Particles Volumes.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
+                "file": "3_ParticlesVolumes/Particles Volumes.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_ProceduralTerrain/ProceduralTerrainLecture.canvas"
+                "file": "3_ParticlesVolumes/Particles Volumes.canvas"
               }
             }
           }
@@ -151,6 +151,9 @@
   },
   "active": "270c1bd45c00e676",
   "lastOpenFiles": [
+    "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
+    "3_ParticlesVolumes/Particles Volumes.canvas",
+    "3_ParticlesVolumes",
     "r2.jpg",
     "r1.jpg",
     "r3.png",
@@ -158,13 +161,11 @@
     "r2.png",
     "r1.png",
     "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
-    "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
     "2_ProceduralTerrain/README.md",
     "houdini_white.svg",
     "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuilding14.jpg",
     "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuilding13.jpg",
     "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuildings11.jpg",
-    "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuildings10.jpg",
     "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuildings9.jpg.crdownload",
     "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuildings8.jpg.crdownload",
     "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuildings5.jpg.crdownload",
@@ -174,7 +175,6 @@
     "1_ProceduralBuilding/Images/ProceduralBuilding/New folder",
     "1_ProceduralBuilding/Images/ProceduralBuilding",
     "1_ProceduralBuilding/Images/New folder",
-    "1_ProceduralBuilding/Images/ProceduralBuildingApproach1/References",
     "1_ProceduralBuilding/README.md",
     "UIMainWindow.md",
     "sds.md",
