@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "3_ParticlesVolumes/Particles Volumes.canvas",
+                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
                 "viewState": {
-                  "x": 3826.70385300819,
-                  "y": 96.4112223060057,
-                  "zoom": -2.333333333333333
+                  "x": 3805.030068808278,
+                  "y": 301.8732938993997,
+                  "zoom": -1.9603992967033175
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_ParticlesVolumes/Particles Volumes.canvas",
+                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_ParticlesVolumes/Particles Volumes.canvas",
+                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_ParticlesVolumes/Particles Volumes.canvas"
+                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas"
               }
             }
           }
@@ -151,30 +151,32 @@
   },
   "active": "270c1bd45c00e676",
   "lastOpenFiles": [
+    "3_ParticlesVolumes/Images/ParticlesVolumes/LectureModels/r2.jpg",
+    "3_ParticlesVolumes/Images/ParticlesVolumes/LectureModels/r1.jpg",
+    "3_ParticlesVolumes/Images/ParticlesVolumes/LectureModels",
+    "3_ParticlesVolumes/Images/ParticlesVolumes/New folder",
+    "3_ParticlesVolumes/Images/ParticlesVolumes",
+    "3_ParticlesVolumes/Images/New folder",
+    "3_ParticlesVolumes/Images",
+    "3_ParticlesVolumes/New folder",
     "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
-    "3_ParticlesVolumes/Particles Volumes.canvas",
-    "3_ParticlesVolumes",
-    "r2.jpg",
-    "r1.jpg",
-    "r3.png",
-    "r1 1.png",
-    "r2.png",
-    "r1.png",
     "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
+    "0_Intro/Intro.canvas",
+    "2_ProceduralTerrain/Images/Terrain/LectureModel/r2.png",
+    "2_ProceduralTerrain/Images/Terrain/LectureModel/r2.jpg",
+    "2_ProceduralTerrain/Images/Terrain/LectureModel/r1.png",
+    "2_ProceduralTerrain/Images/Terrain/LectureModel/r1.jpg",
+    "2_ProceduralTerrain/Images/Terrain/LectureModel/r1 1.png",
+    "2_ProceduralTerrain/Images/Terrain/LectureModel/r3.png",
+    "2_ProceduralTerrain/Images/Terrain/LectureModel",
+    "2_ProceduralTerrain/Images/Terrain/New folder",
+    "2_ProceduralTerrain/Images/Terrain",
+    "2_ProceduralTerrain/Images/New folder",
+    "0_Intro/Images/UI/BuildDesktopUI.PNG",
+    "0_Intro/Images/UI/Capture.PNG",
+    "1_ProceduralBuilding/Images/ProceduralBuilding/LectureModels/r4.png",
+    "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "2_ProceduralTerrain/README.md",
-    "houdini_white.svg",
-    "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuilding14.jpg",
-    "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuilding13.jpg",
-    "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuildings11.jpg",
-    "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuildings9.jpg.crdownload",
-    "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuildings8.jpg.crdownload",
-    "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuildings5.jpg.crdownload",
-    "1_ProceduralBuilding/Images/ProceduralBuilding/References/SciFiBuildings4.jpg.crdownload",
-    "1_ProceduralBuilding/Images/ProceduralBuilding/References",
-    "1_ProceduralBuilding/Images/ProceduralBuilding/Assets",
-    "1_ProceduralBuilding/Images/ProceduralBuilding/New folder",
-    "1_ProceduralBuilding/Images/ProceduralBuilding",
-    "1_ProceduralBuilding/Images/New folder",
     "1_ProceduralBuilding/README.md",
     "UIMainWindow.md",
     "sds.md",
