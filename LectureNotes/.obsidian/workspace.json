@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "viewState": {
-                  "x": 3805.030068808278,
-                  "y": 301.8732938993997,
-                  "zoom": -1.9603992967033175
+                  "x": 6514.807769296144,
+                  "y": -478.9762108482611,
+                  "zoom": -3.118746217235668
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas"
+                "file": "0_Intro/Intro.canvas"
               }
             }
           }
@@ -151,31 +151,30 @@
   },
   "active": "270c1bd45c00e676",
   "lastOpenFiles": [
+    "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
+    "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
+    "3_ParticlesVolumes/ParticlesVolumes.canvas",
+    "3_ParticlesVolumes/Images/ParticlesVolumesExamples/StanfordSolid.png",
+    "3_ParticlesVolumes/Images/ParticlesVolumesExamples/StanfordSolid.png.crdownload",
+    "3_ParticlesVolumes/Images/ParticlesVolumesExamples/Maxon.PNG",
+    "3_ParticlesVolumes/Images/ParticlesVolumesExamples/MatsNyman.PNG",
+    "3_ParticlesVolumes/Images/ParticlesVolumesExamples/Entagma.PNG",
+    "3_ParticlesVolumes/Images/ParticlesVolumesExamples",
+    "3_ParticlesVolumes/Images/New folder",
+    "1_ProceduralBuilding/Images/HardSurfOrganicModeling/OrganicModeling.PNG",
+    "1_ProceduralBuilding/Images/HardSurfOrganicModeling/HardSurfModeling.PNG",
+    "1_ProceduralBuilding/Images/HardSurfOrganicModeling",
+    "0_Intro/Images/HardSurfOrganicModeling/OrganicModeling.PNG",
+    "0_Intro/Images/HardSurfOrganicModeling/HardSurfModeling.PNG",
+    "0_Intro/Images/HardSurfOrganicModeling",
+    "0_Intro/Images/New folder",
+    "0_Intro/Intro.canvas",
     "3_ParticlesVolumes/Images/ParticlesVolumes/LectureModels/r2.jpg",
     "3_ParticlesVolumes/Images/ParticlesVolumes/LectureModels/r1.jpg",
     "3_ParticlesVolumes/Images/ParticlesVolumes/LectureModels",
     "3_ParticlesVolumes/Images/ParticlesVolumes/New folder",
     "3_ParticlesVolumes/Images/ParticlesVolumes",
-    "3_ParticlesVolumes/Images/New folder",
     "3_ParticlesVolumes/Images",
-    "3_ParticlesVolumes/New folder",
-    "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
-    "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
-    "0_Intro/Intro.canvas",
-    "2_ProceduralTerrain/Images/Terrain/LectureModel/r2.png",
-    "2_ProceduralTerrain/Images/Terrain/LectureModel/r2.jpg",
-    "2_ProceduralTerrain/Images/Terrain/LectureModel/r1.png",
-    "2_ProceduralTerrain/Images/Terrain/LectureModel/r1.jpg",
-    "2_ProceduralTerrain/Images/Terrain/LectureModel/r1 1.png",
-    "2_ProceduralTerrain/Images/Terrain/LectureModel/r3.png",
-    "2_ProceduralTerrain/Images/Terrain/LectureModel",
-    "2_ProceduralTerrain/Images/Terrain/New folder",
-    "2_ProceduralTerrain/Images/Terrain",
-    "2_ProceduralTerrain/Images/New folder",
-    "0_Intro/Images/UI/BuildDesktopUI.PNG",
-    "0_Intro/Images/UI/Capture.PNG",
-    "1_ProceduralBuilding/Images/ProceduralBuilding/LectureModels/r4.png",
-    "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "2_ProceduralTerrain/README.md",
     "1_ProceduralBuilding/README.md",
     "UIMainWindow.md",
