@@ -30,14 +30,12 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 
 ### Lecture 1: Intro
 
-* Let's build something quickly AKA Houdini intuition
-* Introduction, motivation: why procedural modeling?
-* Big picture: procedural modeling, generative art, generative design, algorithmic art, etc.
-* Procedural modeling in computer graphics and animation
+* About lectures
+* Big picture: about procedural modeling and Houdini workflow intuition
+* Applications of procedural modeling
 * Lectures overview
 
 ## Part 1: Procedural Modeling
-
 
 ### Lecture 2: Procedural Building
 
@@ -54,7 +52,7 @@ Procedural building 1.3             |  Procedural building 1.4
 ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r3.png)  |  ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r4.png)
 
 Topics and concepts:
-* Procedural modeling of hard-surface (man made) shapes 
+* Procedural modeling of hard-surface (human made) shapes 
 * Procedural mesh-based (surface) geometry manipulation: vertices, edges, faces and points
 * Tools for geometry manipulation
 * Structured proceduralism and scattering
@@ -97,14 +95,15 @@ Mesh using noise 2.1            |  Mesh using noise 2.2
 
 Topics:
 * Procedural animation/motion using particles and volumes
-* Particles and animated vector fields using noise
+* Particles and animated vector (force or velocity) fields using noise
 * Guiding particles via vector fields and volumes
 * Instancing on particles and trails/lines
 * Geometry from particles and volume displacement
 * Attribute transfer and animated geo attributes
-* Procedural abstract growth and organic modeling
+* Procedural abstract and organic modeling
 * Morphing: transformations and generation of geometry
-* Iterative systems
+* Iterative systems and chaos
+* Boids
 
 Example of growth 1.1             |  Example of growth 1.2
 :-------------------------:|:-------------------------:
@@ -130,13 +129,16 @@ Practical:
 ### Lecture 5: procedural foliage; growth and spread
 
 Topics:
-* Natural and branching shapes/structures
+* Natural and biological systems
+* branching shapes/structures (iterative and recursive; e.g., trees, roots)
 * Procedural animation
-* surface and volume vegetation spread
-* Instancing and attributes
+* surface and volume foliage spread and growth
+* Geometrical instancing and geo attributes
 * Foliage growth
-* Theoretical principles: SCA, Eden, L-Systems, DLA
+* Theoretical principles: SCA, Eden, L-Systems, DLA, reaction-diffusion
 * Animated surface with instances
+* Digital Morphogenesis
+* Cells and automation
 
 Example of foliage growth and spread 1.1             |  Example of foliage growth and spread 1.2
 :-------------------------:|:-------------------------:
@@ -164,9 +166,9 @@ Practical:
 
 ## Part 2: Proceduralism and Dynamics
 
-Combining procedural modeling with feedback loop and simulation.
+Combining procedural modeling (Phenomenological approach) with feedback loop, simulation, forces, velocities, positions and constraints (physically-based, classical mechanics methods for CG).
 
-### Lecture 2.1: rigid bodies and fracture
+### Lecture 2.1: rigid body
 
 Topics:
 * Rigid body collisions
@@ -182,7 +184,7 @@ Practical:
 * https://www.youtube.com/watch?v=IHYelaEFmr8
 * https://www.sidefx.com/tutorials/smashing-wine-glass/
 
-### Lecture 2.2: soft bodies
+### Lecture 2.2: soft body
 
 Topics:
 * Soft body deformation using external forces and collisions
@@ -195,7 +197,7 @@ R&D:
 Practicals:
 * https://www.sidefx.com/docs/houdini/vellum/index.html
 
-### Lecture 2.3: fluids: liquids
+### Lecture 2.3: fluids: liquid
 
 Topics:
 * Turbulent water simulation 
@@ -226,7 +228,9 @@ Practicals:
 * https://graphics.pixar.com/library/ElementalFire/paper.pdf
 * https://www.youtube.com/watch?v=zyIJQHlFQs0
 
-## Part 3: Proceduralism and Character FX
+## Part 3: Proceduralism and Character VFX
+
+Applying procedural modeling and dynamics for character VFX.
 
 ### Lecture 3.1 Hair and Fur
 TODO
@@ -237,47 +241,12 @@ TODO
 ### Crowds
 TODO
 
-# Covered concepts
+# Resources 
 
-Types of modeled phenomena:
-* Abstract vs regular/structured
-* Nature vs human-made
-* Organic vs hard-surface
-
-Procedural animation methods:
-* Physically-based approaches
-  * classical mechanics, forces and constraints
-    * fluids: gases and liquids
-    * solids: rigid bodies and soft bodies
-* Biological simulation
-  * Surface/Volume Growth
-  * Surface/Volume Spread modeling
-  * Branching (recursion)
-    * Trees
-    * Roots
-  * Reaction, Reaction-diffusion
-  * Digital Morphogenesis
-  * Phenomenological simulation
-* Mathematics:
-  * Iterative systems and chaos
-  * Cells and automation
-* Empirical CG
-  * Procedural noise, layering and warping
-  * L-Systems
-  * Boids 
-  * Geometric instancing (including arraying)
-  * Particles and force fields
-
-CG methods:
-* 3D scene: lights, cameras, materials and shapes (meshes, voxles, curves, etc.)
-* Rendering: GPU raster, CPU path-tracing
-* Post-processing
-
-Literature:
-* [STANFORDANIM] D. James: http://graphics.stanford.edu/courses/cs348c/
-* [PROCMODEL] Ebert: Texturing and modeling: procedural approach
-* [HORIKAWA] J. Horikawa: https://www.youtube.com/watch?app=desktop&v=rj0dEEVU1Ek&ab_channel=Houdini
-  * https://jhorikawa.gumroad.com/l/GOZFw
-* [NATUREOFCODE] https://natureofcode.com/
-* [PIXAR] https://graphics.pixar.com/library/
-
+* SideFX; Houdini: https://www.sidefx.com/learn/getting_started/
+* Entagma: https://entagma.com/
+* Stanford; D. James: http://graphics.stanford.edu/courses/cs348c/
+* Ebert: Texturing and modeling: procedural approach
+* J. Horikawa: https://www.youtube.com/watch?app=desktop&v=rj0dEEVU1Ek&ab_channel=Houdini
+* Nature of code: https://natureofcode.com/
+* Pixar: https://graphics.pixar.com/library/

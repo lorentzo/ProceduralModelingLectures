@@ -13,13 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
                 "viewState": {
-                  "x": 6514.807769296144,
-                  "y": -478.9762108482611,
-                  "zoom": -3.118746217235668
+                  "x": 1900.7057984291205,
+                  "y": 744.0499801020552,
+                  "zoom": -2.978140403916863
                 }
-              }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ParticlesVolumes"
             }
           }
         ]
@@ -42,7 +44,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -57,7 +61,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -65,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +104,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ParticlesVolumes"
             }
           },
           {
@@ -105,10 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ParticlesVolumes"
             }
           },
           {
@@ -119,7 +131,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -128,8 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_Intro/Intro.canvas"
-              }
+                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ParticlesVolumes"
             }
           }
         ]
@@ -151,8 +167,9 @@
   },
   "active": "270c1bd45c00e676",
   "lastOpenFiles": [
-    "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
     "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
+    "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
+    "0_Intro/Intro.canvas",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "3_ParticlesVolumes/Images/ParticlesVolumesExamples/StanfordSolid.png",
     "3_ParticlesVolumes/Images/ParticlesVolumesExamples/StanfordSolid.png.crdownload",
@@ -168,7 +185,6 @@
     "0_Intro/Images/HardSurfOrganicModeling/HardSurfModeling.PNG",
     "0_Intro/Images/HardSurfOrganicModeling",
     "0_Intro/Images/New folder",
-    "0_Intro/Intro.canvas",
     "3_ParticlesVolumes/Images/ParticlesVolumes/LectureModels/r2.jpg",
     "3_ParticlesVolumes/Images/ParticlesVolumes/LectureModels/r1.jpg",
     "3_ParticlesVolumes/Images/ParticlesVolumes/LectureModels",
