@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
+                "file": "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
                 "viewState": {
-                  "x": 1900.7057984291205,
-                  "y": 744.0499801020552,
-                  "zoom": -2.978140403916863
+                  "x": 9460.470440910414,
+                  "y": 1590.3782907362847,
+                  "zoom": -2.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ParticlesVolumes"
+              "title": "ProceduralTerrainLecture"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ParticlesVolumes"
+              "title": "Backlinks for Intro"
             }
           },
           {
@@ -115,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ParticlesVolumes"
+              "title": "Outgoing links from Intro"
             }
           },
           {
@@ -142,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas"
+                "file": "0_Intro/Intro.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of ParticlesVolumes"
+              "title": "Outline of Intro"
             }
           }
         ]
@@ -167,10 +167,10 @@
   },
   "active": "270c1bd45c00e676",
   "lastOpenFiles": [
-    "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
     "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
     "0_Intro/Intro.canvas",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
+    "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
     "3_ParticlesVolumes/Images/ParticlesVolumesExamples/StanfordSolid.png",
     "3_ParticlesVolumes/Images/ParticlesVolumesExamples/StanfordSolid.png.crdownload",
     "3_ParticlesVolumes/Images/ParticlesVolumesExamples/Maxon.PNG",
