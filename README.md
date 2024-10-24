@@ -51,6 +51,11 @@ Procedural building 1.3             |  Procedural building 1.4
 :-------------------------:|:-------------------------:
 ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r3.png)  |  ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r4.png)
 
+Procedural building 2.1 & 2.2
+
+![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuildingSimple/ProceduralBuildingSimple/render/r1.jpg)
+![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuildingSimple/ProceduralBuildingSimple/render/r2.jpg)
+
 Topics and concepts:
 * Procedural modeling of hard-surface (human made) shapes 
 * Procedural mesh-based (surface) geometry manipulation: vertices, edges, faces and points
