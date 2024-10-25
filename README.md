@@ -45,16 +45,16 @@ Lecture data: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/L
 
 Procedural building 1.1             |  Procedural building 1.2
 :-------------------------:|:-------------------------:
-![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r1.png)  |  ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r2.png)
+![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example1/render/r1.png)  |  ![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example1/render/r2.png)
 
 Procedural building 1.3             |  Procedural building 1.4
 :-------------------------:|:-------------------------:
-![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r3.png)  |  ![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuilding/render/r4.png)
+![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example1/render/r3.png)  |  ![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example1/render/r4.png)
 
 Procedural building 2.1 & 2.2
 
-![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuildingSimple/ProceduralBuildingSimple/render/r1.jpg)
-![](LectureExamples/1_ProceduralBuilding/LectureExample/ProceduralBuildingSimple/ProceduralBuildingSimple/render/r2.jpg)
+![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example2/render/r1.jpg)
+![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example2/render/r2.jpg)
 
 Topics and concepts:
 * Procedural modeling of hard-surface (human made) shapes 
@@ -84,17 +84,17 @@ Lecture data: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/L
 
 Heightfield from NASA topo 1.1             |  Heightfield from NASA topo 1.2
 :-------------------------:|:-------------------------:
-![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r1.png)  |  ![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r2.png)
+![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r1.png)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r2.png)
 
-![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldMapDisplacement/render/r3.png)
+![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r3.png)
 
 Heightfield using noise 2.1             |  Heightfield using noise 2.2
 :-------------------------:|:-------------------------:
-![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldNoiseDisplacement/render/r1.jpg)  |  ![](LectureExamples/2_ProceduralTerrain/LectureExample/HeightfieldNoiseDisplacement/render/r2.jpg)
+![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r1.jpg)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r2.jpg)
 
 Mesh using noise 2.1            |  Mesh using noise 2.2
 :-------------------------:|:-------------------------:
-![](LectureExamples/2_ProceduralTerrain/LectureExample/MeshNoiseDisplacement/render/r1.png)  |  ![](LectureExamples/2_ProceduralTerrain/LectureExample/MeshNoiseDisplacement/render/r2.png)
+![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r1.png)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r2.png)
 
 ### Lecture 4: Volumes and particles: abstract organic structures
 
@@ -112,7 +112,7 @@ Topics:
 
 Example of growth 1.1             |  Example of growth 1.2
 :-------------------------:|:-------------------------:
-![](LectureExamples/3_VolumesParticles/ParticlesVolumes/render/r1.jpg) | ![](LectureExamples/3_VolumesParticles/ParticlesVolumes/render/r2.jpg)
+![](Lectures/3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r1.jpg) | ![](Lectures/3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r2.jpg)
 
 My work: 
 * https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#treewind
@@ -147,11 +147,11 @@ Topics:
 
 Example of foliage growth and spread 1.1             |  Example of foliage growth and spread 1.2
 :-------------------------:|:-------------------------:
-![](LectureExamples/4_FoliageGrowthSpread/ph1.jpg)  |  ![](LectureExamples/4_FoliageGrowthSpread/ph2.jpg)
+![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph1.jpg)  |  ![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph2.jpg)
 
 Example of foliage growth and spread 2.1             |  Example of foliage growth and spread 2.2
 :-------------------------:|:-------------------------:
-![](LectureExamples/4_FoliageGrowthSpread/ph3.jpg)  |  ![](LectureExamples/4_FoliageGrowthSpread/ph4.jpg)
+![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph3.jpg)  |  ![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph4.jpg)
 
 My work: 
 * https://www.artstation.com/artwork/8wYyYm
