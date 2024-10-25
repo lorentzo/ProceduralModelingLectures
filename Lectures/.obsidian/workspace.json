@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "09a762b22664e1eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed2e4c8fea096844",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd04be829a205c1b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
+                "viewState": {
+                  "x": 3920,
+                  "y": 860,
+                  "zoom": -2.311473737250196
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ParticlesVolumes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e9f165f6f9aa2b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4c9ffbbfa54f18f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab08a9a4ebd62d27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0edbbcdc41768243",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1fc432caee288aeb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "556bd65cb4a0f9e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa2eac9e55dc1aa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f23685baf6c1d0e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0_Intro/Intro.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Intro"
+            }
+          },
+          {
+            "id": "5b3661426d656006",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0_Intro/Intro.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Intro"
+            }
+          },
+          {
+            "id": "6ae7825d55d9f186",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3f4540f97cef4a08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0_Intro/Intro.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Intro"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cd04be829a205c1b",
+  "lastOpenFiles": [
+    "4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph4.jpg",
+    "4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph3.jpg",
+    "4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph2.jpg",
+    "4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph1.jpg",
+    "4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread",
+    "4_FoliageSpreadGrowth/LectureImages/References",
+    "4_FoliageSpreadGrowth/LectureImages/New folder",
+    "4_FoliageSpreadGrowth/LectureImages",
+    "4_FoliageSpreadGrowth/New folder",
+    "4_FoliageSpreadGrowth",
+    "New folder",
+    "3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r2.jpg",
+    "3_ParticlesVolumes/ParticlesVolumes.canvas",
+    "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
+    "3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/backup/ParticlesVolumes_bak1.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak2.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak1.hipnc",
+    "0_Intro/Examples/LectureExamples/Example1/render/Introduction.karmarendersettings.0001.jpg",
+    "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
+    "0_Intro/Intro.canvas",
+    "3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r1.jpg",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r2.jpg",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r1.jpg",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r3.png",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r2.png",
+    "2_ProceduralTerrain/README.md",
+    "1_ProceduralBuilding/README.md",
+    "UIMainWindow.md",
+    "sds.md",
+    "2_ProceduralTerrain/Overview.md",
+    "1_ProceduralBuilding/Overview.md",
+    "2_ProceduralTerrain/Untitled.md"
+  ]
+}
