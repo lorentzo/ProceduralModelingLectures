@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "3_ParticlesVolumes/ParticlesVolumes.canvas",
+                "file": "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
                 "viewState": {
-                  "x": 3920,
-                  "y": 860,
-                  "zoom": -2.311473737250196
+                  "x": 64172.27926819374,
+                  "y": 2585.6681904284487,
+                  "zoom": -2.666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ParticlesVolumes"
+              "title": "ProceduralBuildingLecture"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "556bd65cb4a0f9e1",
@@ -167,31 +168,31 @@
   },
   "active": "cd04be829a205c1b",
   "lastOpenFiles": [
-    "4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph4.jpg",
-    "4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph3.jpg",
-    "4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph2.jpg",
-    "4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph1.jpg",
-    "4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread",
-    "4_FoliageSpreadGrowth/LectureImages/References",
-    "4_FoliageSpreadGrowth/LectureImages/New folder",
-    "4_FoliageSpreadGrowth/LectureImages",
-    "4_FoliageSpreadGrowth/New folder",
-    "4_FoliageSpreadGrowth",
-    "New folder",
-    "3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r2.jpg",
+    "1_ProceduralBuilding/Examples/LectureExamples/Example1/backup/ProceduralBuildingExample1_bak29.hipnc",
+    "1_ProceduralBuilding/Examples/LectureExamples/Example1/backup/ProceduralBuildingExample1_bak28.hipnc",
+    "1_ProceduralBuilding/Examples/LectureExamples/Example1/backup/ProceduralBuildingExample1_bak27.hipnc",
+    "1_ProceduralBuilding/Examples/LectureExamples/Example1/backup/ProceduralBuildingExample1_bak26.hipnc",
+    "1_ProceduralBuilding/LectureImages/ProceduralBuilding/LectureExampleProceduralBuilding1/BottomPositiveZElement_Step4.PNG",
+    "1_ProceduralBuilding/LectureImages/ProceduralBuilding/LectureExampleProceduralBuilding1/BottomPositiveZElement_Step3.PNG",
+    "1_ProceduralBuilding/LectureImages/ProceduralBuilding/LectureExampleProceduralBuilding1/BottomPositiveZElement_Step2.PNG",
+    "1_ProceduralBuilding/LectureImages/ProceduralBuilding/LectureExampleProceduralBuilding1/BottomPositiveZElement_Step1.PNG",
+    "1_ProceduralBuilding/LectureImages/ProceduralBuilding/LectureExampleProceduralBuilding1/BottomPositiveZElement.PNG",
+    "1_ProceduralBuilding/LectureImages/ProceduralBuilding/LectureExampleProceduralBuilding1/LowerPositiveZElement.PNG",
+    "1_ProceduralBuilding/LectureImages/ProceduralBuilding/LectureExampleProceduralBuilding1/BottomNegativeXElement_Step4.PNG",
+    "1_ProceduralBuilding/LectureImages/ProceduralBuilding/LectureExampleProceduralBuilding1/BottomNegativeXElement_Step3.PNG",
+    "1_ProceduralBuilding/LectureImages/ProceduralBuilding/LectureExampleProceduralBuilding1/BottomNegativeXElement_Step2.PNG",
+    "1_ProceduralBuilding/LectureImages/ProceduralBuilding/LectureExampleProceduralBuilding1/BottomNegativeXElement_Step1.PNG",
+    "1_ProceduralBuilding/Examples/LectureExamples/Example1/backup/ProceduralBuildingExample1_bak25.hipnc",
+    "1_ProceduralBuilding/Examples/LectureExamples/Example1/backup/ProceduralBuildingExample1_bak24.hipnc",
+    "1_ProceduralBuilding/Examples/LectureExamples/Example1/backup/ProceduralBuildingExample1_bak23.hipnc",
+    "1_ProceduralBuilding/Examples/LectureExamples/Example1/backup/ProceduralBuildingExample1_bak22.hipnc",
+    "1_ProceduralBuilding/Examples/LectureExamples/Example1/backup/ProceduralBuildingExample1_bak21.hipnc",
+    "1_ProceduralBuilding/Examples/LectureExamples/Example1/backup/ProceduralBuildingExample1_bak20.hipnc",
+    "1_ProceduralBuilding/Examples/LectureExamples/Example1/backup/ProceduralBuildingExample1_bak19.hipnc",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
-    "3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/backup/ParticlesVolumes_bak1.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak2.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak1.hipnc",
-    "0_Intro/Examples/LectureExamples/Example1/render/Introduction.karmarendersettings.0001.jpg",
     "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
     "0_Intro/Intro.canvas",
-    "3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r1.jpg",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r2.jpg",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r1.jpg",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r3.png",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r2.png",
     "2_ProceduralTerrain/README.md",
     "1_ProceduralBuilding/README.md",
     "UIMainWindow.md",
