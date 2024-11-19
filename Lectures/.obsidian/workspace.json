@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "viewState": {
-                  "x": 4733.436918445433,
-                  "y": 1103.6259680054095,
-                  "zoom": -2.6666666666666665
+                  "x": 683.8070860254534,
+                  "y": -40.86834199544998,
+                  "zoom": -1.666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralTerrainLecture"
+              "title": "Intro"
             }
           }
         ]
@@ -167,19 +167,19 @@
   },
   "active": "cd04be829a205c1b",
   "lastOpenFiles": [
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak92.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak91.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak90.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak89.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak88.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak87.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak86.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak85.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak84.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak83.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak82.hipnc",
-    "2_ProceduralTerrain/LectureImages/Terrain/LectureExample_MeshNoiseDisplacement/MeshNoiseDisplacement_Step1.JPG",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/backup/ProceduralModelingOverview_bak1.hipnc",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/backup",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/ProceduralModelingOverview.hipnc",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/desk",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/video",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/audio",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/comp",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/scripts",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/flip",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/render",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/tex",
     "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
+    "2_ProceduralTerrain/LectureImages/Terrain/LectureExample_MeshNoiseDisplacement/MeshNoiseDisplacement_Step1.JPG",
     "2_ProceduralTerrain/LectureImages/Terrain/LectureExample_MeshNoiseDisplacement/MeshNoiseDisplacement_Step7.JPG",
     "2_ProceduralTerrain/LectureImages/Terrain/LectureExample_MeshNoiseDisplacement/MeshNoiseDisplacement_Step6.JPG",
     "2_ProceduralTerrain/LectureImages/Terrain/LectureExample_MeshNoiseDisplacement/MeshNoiseDisplacement_Step5.JPG",
