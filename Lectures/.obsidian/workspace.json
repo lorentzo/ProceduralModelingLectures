@@ -23,8 +23,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Intro"
             }
+          },
+          {
+            "id": "ea5bf85aa48700bb",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "0_Intro/Intro.canvas",
+                "viewState": {
+                  "x": 267.6207110693106,
+                  "y": 3640.587639296504,
+                  "zoom": -0.40477537916024414
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Intro"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "556bd65cb4a0f9e1",
@@ -165,19 +184,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd04be829a205c1b",
+  "active": "ea5bf85aa48700bb",
   "lastOpenFiles": [
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/backup/ProceduralModelingOverview_bak13.hipnc",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/backup/ProceduralModelingOverview_bak12.hipnc",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/backup/ProceduralModelingOverview_bak11.hipnc",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/backup/ProceduralModelingOverview_bak10.hipnc",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/backup/ProceduralModelingOverview_bak9.hipnc",
+    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/backup/ProceduralModelingOverview_bak8.hipnc",
     "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/backup/ProceduralModelingOverview_bak1.hipnc",
     "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/backup",
     "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/ProceduralModelingOverview.hipnc",
     "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/desk",
     "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/video",
-    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/audio",
-    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/comp",
-    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/scripts",
-    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/flip",
-    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/render",
-    "0_Intro/Examples/LectureExamples/ProceduralModelingOverview/tex",
     "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
     "2_ProceduralTerrain/LectureImages/Terrain/LectureExample_MeshNoiseDisplacement/MeshNoiseDisplacement_Step1.JPG",
     "2_ProceduralTerrain/LectureImages/Terrain/LectureExample_MeshNoiseDisplacement/MeshNoiseDisplacement_Step7.JPG",
