@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"edb946dbf55e6f41","x":-840,"y":-59,"width":1000,"height":79,"type":"text","text":"# Procedural modeling lectures: procedural foliage, spread and growth"},
+		{"id":"1bcec3010768231c","x":-840,"y":60,"width":250,"height":60,"type":"text","text":"Lovro Bosnar\nDate:"},
+		{"id":"f04676aa70f1c5b7","x":861,"y":-43,"width":879,"height":223,"type":"text","text":"Natural elements in 3D scenes are called foliage.\n\nMain animation characteristics is their growth and spread."}
+	],
+	"edges":[]
+}
