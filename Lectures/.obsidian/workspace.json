@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
+                "file": "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
                 "viewState": {
-                  "x": 44026.399027203486,
-                  "y": 3429.0429806036736,
-                  "zoom": -3.0612216864696196
+                  "x": 2977.1663500518566,
+                  "y": 86.25471474600671,
+                  "zoom": -1.8141002887491757
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralBuildingLecture"
+              "title": "ProceduralTerrainLecture"
             }
           }
         ]
@@ -167,18 +167,20 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Unity.gitignore",
-    "1_ProceduralBuilding/LectureImages/HoudiniExportUnityOBJ/~nityMaterials.tmp",
+    "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
+    "0_Intro/Intro.canvas",
+    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/BurstCache/JIT/BurstCacheManifest.cm",
+    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Logs/shadercompiler-UnityShaderCompiler.exe-12.log",
+    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Logs/shadercompiler-UnityShaderCompiler.exe-13.log",
+    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Logs/shadercompiler-UnityShaderCompiler.exe-15.log",
+    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Logs/shadercompiler-UnityShaderCompiler.exe-11.log",
+    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Logs/shadercompiler-UnityShaderCompiler.exe-14.log",
+    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Temp/UnityTempFile-e11be1da58e65c7448f0e9ecccb68732",
+    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/expandedItems",
+    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Temp/UnityTempFile-866e795b590e4524ba0cffe8404300cd",
+    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Temp/UnityTempFile-fd9ee08ebfd8c084891d9aaabae2c555",
+    "0_Intro/Overview.canvas",
     "1_ProceduralBuilding/LectureImages/HoudiniExportUnityOBJ/UnityMaterials.JPG",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache.db-journal",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Logs/shadercompiler-AssetImportWorker7-0.log",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Logs/shadercompiler-AssetImportWorker8-0.log",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/Artifacts/68/68409d9b22b2a526c41071d4d543dbfb",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/Artifacts/da/da622c19c2a88a8ba4e4b5b1a2088ea0",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/Artifacts/3d/3d61b556546f8a485162eb3bf83eef8a",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/TempArtifacts/Extra/28d63ccf7ed57be4893b6d190af25026.info",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/Artifacts/f3/f3b340f7bc183d7738b60761cb6f64d2",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/TempArtifacts/Extra/afa6b7a3879a7024088fb5eba2ebbe5c.info",
     "1_ProceduralBuilding/LectureImages/HoudiniExportUnityOBJ/UnityMaterialInspector.JPG",
     "1_ProceduralBuilding/LectureImages/HoudiniExportUnityOBJ/UnityModelInspector.JPG",
     "1_ProceduralBuilding/LectureImages/HoudiniExportUnityOBJ/ImportUnity.JPG",
@@ -213,9 +215,6 @@
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/tl-preferences.md",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/samp-overview.md",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/tl-play-ctrls.md",
-    "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
-    "0_Intro/Intro.canvas",
-    "0_Intro/Overview.canvas",
     "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "2_ProceduralTerrain/ProceduralTerrainLecture.canvas"
