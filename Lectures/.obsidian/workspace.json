@@ -15,9 +15,9 @@
               "state": {
                 "file": "0_Intro/Intro.canvas",
                 "viewState": {
-                  "x": 15545.356986440842,
-                  "y": -1665.4959257500218,
-                  "zoom": -1.666666666666666
+                  "x": 19632.756906314855,
+                  "y": 722.9034501246347,
+                  "zoom": -2.666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -167,6 +167,7 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
+    "0_Intro/Examples/LectureExamples/IntroductionExample/backup/Introduction_bak109.hipnc",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Temp/UnityTempFile-b13b3ab541111fa46b64c000979c8ffd",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Temp/UnityTempFile-988e9b58d57c66c438450fd2e9dff8f2",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Temp/UnityTempFile-5ad37edb1d8952847b0780f27f4cd26c",
@@ -178,7 +179,6 @@
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Temp/ADB-Refresh67471f7ca1b95734194988fcbf240e63",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/Artifacts/e5/e51f172fd09bdf7178660d899420652c",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/TempArtifacts/Extra/47d63eb536b15e44e90fc89dfa5e18a0.info",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/Artifacts/a7/a7f997ec74a301054f4ef1db48d7d042",
     "0_Intro/LectureImages/FirstSteps/KarmaRender.jpg",
     "0_Intro/LectureImages/FirstSteps/example2.jpg",
     "0_Intro/Examples/LectureExamples/IntroductionExample/render/example2.jpg",
