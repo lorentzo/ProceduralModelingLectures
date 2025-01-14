@@ -11,9 +11,9 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 
 **Learning approach used in this lectures:**
 * Learning by doing: concepts, approaches, methods and techniques
-  * Project-based learning: practical lectures and project work
+* Project-based learning: practical lectures and project work
 * Primary software: Houdini (https://www.sidefx.com/)
-* Complementary software Blender (https://www.blender.org/) and Unity (https://unity.com/)
+* Complementary software: Blender (https://www.blender.org/) and Unity (https://unity.com/)
 
 **Lecture applications:**
 * Animated film
@@ -177,7 +177,7 @@ Practical:
 
 Combining procedural modeling (Phenomenological approach) with feedback loop, simulation, forces, velocities, positions and constraints (physically-based, classical mechanics methods for CG).
 
-### Lecture 2.1: rigid body
+### Lecture 2.1: Proceduralism and Rigid Body
 
 Topics and concepts:
 * Rigid body collisions
@@ -193,7 +193,7 @@ Practical:
 * https://www.youtube.com/watch?v=IHYelaEFmr8
 * https://www.sidefx.com/tutorials/smashing-wine-glass/
 
-### Lecture 2.2: soft body
+### Lecture 2.2: Proceduralism and Soft Body
 
 Topics and concepts:
 * Soft body deformation using external forces and collisions
@@ -206,7 +206,7 @@ R&D:
 Practicals:
 * https://www.sidefx.com/docs/houdini/vellum/index.html
 
-### Lecture 2.3: fluids: liquid
+### Lecture 2.3: Proceduralism and Fluids: Liquid
 
 Topics and concepts:
 * Turbulent water simulation 
@@ -220,7 +220,7 @@ R&D:
 Practicals:
 * https://entagma.com/tag/fluid/
 
-### Lecture 2.4: fluids: gas
+### Lecture 2.4: Proceduralism and Fluids: Gases phenomena
 
 Topics and concepts:
 * Fire simulation and spread
@@ -241,13 +241,13 @@ Practicals:
 
 Applying procedural modeling and dynamics for character VFX.
 
-### Lecture 3.1 Hair and Fur
+### Lecture 3.1 Proceduralism with Hair and Fur Modeling
 TODO
 
-### Lexture 3.2 Cloth
+### Lecture 3.2 Proceduralism and Cloth Modeling
 TODO
 
-### Crowds
+### Lecture 3.3 Proceduralism and Crowds Modeling
 TODO
 
 # Resources 
