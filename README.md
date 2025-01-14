@@ -11,37 +11,50 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 
 **Learning approach used in this lectures:**
 * Learning by doing: concepts, approaches, methods and techniques
-  * Project-based learning: practical lectures and homework
-* Primary DCC software: Houdini (https://www.sidefx.com/)
-* Exemplary concepts for Blender (https://www.blender.org/) and Unity (https://unity.com/)
+  * Project-based learning: practical lectures and project work
+* Primary software: Houdini (https://www.sidefx.com/)
+* Complementary software Blender (https://www.blender.org/) and Unity (https://unity.com/)
 
 **Lecture applications:**
-* Game development
 * Animated film
-* VFX
 * Motion graphics
-* Generative/algorithmical Art
+* VFX
+* Game development
 * Scientific visualization
 * AR/VR environments
+* Computational design
+* Generative/algorithmical Art
 * Arhitecture
-* Algorithmic design
 
 # Lectures
 
-### Lecture 1: Intro
+## Introduction
 
-* About lectures
+###  Introduction to Lectures and Procedural Modeling
+
+* About lectures, syllabus and overview
 * Big picture: about procedural modeling and Houdini workflow intuition
 * Applications of procedural modeling
-* Lectures overview
+
+### Overview of Procedural Modeling
+
+* Broad overview of procedural modeling techniques and concepts
+* Follow-up practical examples
 
 ## Part 1: Procedural Modeling
 
-### Lecture 2: Procedural Building
+### Lecture 1.1: Procedural Hard Surface Modeling
+
+Topics and concepts:
+* Procedural modeling of hard-surface (human made) shapes 
+* Procedural geometry, mesh-based (surface) manipulation: vertices, edges, faces and points
+* Structured proceduralism and scattering
+* Props placement
+* Interactive parameters; parameterized geometry
 
 Lecture notes: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureNotes/1_ProceduralBuilding
 
-Lecture data: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureExamples/2_ProceduralTerrain/LectureExample
+Practical examples: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/Lectures/1_ProceduralBuilding/Examples
 
 Procedural building 1.1             |  Procedural building 1.2
 :-------------------------:|:-------------------------:
@@ -56,15 +69,7 @@ Procedural building 2.1 & 2.2
 ![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example2/render/r1.jpg)
 ![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example2/render/r2.jpg)
 
-Topics and concepts:
-* Procedural modeling of hard-surface (human made) shapes 
-* Procedural mesh-based (surface) geometry manipulation: vertices, edges, faces and points
-* Tools for geometry manipulation
-* Structured proceduralism and scattering
-* Props placement
-* Interactive parameters; parameterized geometry
-
-### Lecture 3: Procedural Terrain
+### Lecture 1.2: Procedural Terrain Modeling
 
 Topics and concepts:
 * Noise and noise types (Perlin, Worley, flow and other derivations)
@@ -96,29 +101,18 @@ Mesh using noise 2.1            |  Mesh using noise 2.2
 :-------------------------:|:-------------------------:
 ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r1.png)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r2.png)
 
-### Lecture 4: Volumes and particles: abstract organic structures
+### Lecture 1.3: Procedural Organic Shapes and Natural Phenomena using Volume-based Modeling
 
-Topics:
-* Procedural animation/motion using particles and volumes
-* Particles and animated vector (force or velocity) fields using noise
-* Guiding particles via vector fields and volumes
-* Instancing on particles and trails/lines
-* Geometry from particles and volume displacement
+Topics and concepts:
+* Procedural animation/motion using volumes
+* Volume from points and surface
+* Animated vector field for volume displacement
 * Attribute transfer and animated geo attributes
-* Procedural abstract and organic modeling
+* Procedural organic and natural phenomena modeling
 * Morphing: transformations and generation of geometry
 * Iterative systems and chaos
-* Boids
 
-Example of growth 1.1             |  Example of growth 1.2
-:-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r1.jpg) | ![](Lectures/3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r2.jpg)
-
-My work: 
-* https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#treewind
-* https://www.artstation.com/artwork/LRwEoA
-* https://www.artstation.com/artwork/lRdzAJ
-* https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#morph
+![](Lectures/3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r2.jpg)
 
 R&D:
 * https://inconvergent.net/2016/shepherding-random-growth/
@@ -130,10 +124,25 @@ Practical:
 * https://www.sidefx.com/learn/collections/applied-houdini-particles/
 * https://entagma.com/tag/growth/
 
+### Lecture 1.4: Procedural Abstract Shapes and Natural Phenomena using Particle-based Modeling
 
-### Lecture 5: procedural foliage; growth and spread
+Topics and concepts:
+* Procedural animation/motion using particles
+* Guiding particles via vector fields and volumes
+* Particles and animated vector (force or velocity) fields using noise
+* Guiding particles via vector fields 
+* Instancing on particles and trails/lines
+* Geometry from particles
+* Attribute transfer and animated geo attributes
+* Procedural abstract and natural phenomena modeling
+* Iterative systems and chaos
+* Boids
 
-Topics:
+![](Lectures/3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r1.jpg)
+
+### Lecture 1.5: Procedural Growth and Spread Modeling on Foliage 
+
+Topics and concepts:
 * Natural and biological systems
 * branching shapes/structures (iterative and recursive; e.g., trees, roots)
 * Procedural animation
@@ -153,11 +162,6 @@ Example of foliage growth and spread 2.1             |  Example of foliage growt
 :-------------------------:|:-------------------------:
 ![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph3.jpg)  |  ![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph4.jpg)
 
-My work: 
-* https://www.artstation.com/artwork/8wYyYm
-* https://www.artstation.com/artwork/EvNkaK
-* https://github.com/lorentzo/HoudiniAnimation?tab=readme-ov-file#spreadgrowth
-
 R&D:
 * http://algorithmicbotany.org/papers/colonization.egwnp2007.pdf
 * https://graphics.pixar.com/library/ElementalEarth/paper.pdf
@@ -175,7 +179,7 @@ Combining procedural modeling (Phenomenological approach) with feedback loop, si
 
 ### Lecture 2.1: rigid body
 
-Topics:
+Topics and concepts:
 * Rigid body collisions
 * Rigid body fracture and animation via simulation
 * Procedurally guided physically-based dynamics
@@ -191,7 +195,7 @@ Practical:
 
 ### Lecture 2.2: soft body
 
-Topics:
+Topics and concepts:
 * Soft body deformation using external forces and collisions
 * Procedural vector field as external force field
 * Soft bodies simulation
@@ -204,7 +208,7 @@ Practicals:
 
 ### Lecture 2.3: fluids: liquid
 
-Topics:
+Topics and concepts:
 * Turbulent water simulation 
 * Physically-based liquid simulation and solvers
 * External procedural vector fields and collisions
@@ -218,7 +222,7 @@ Practicals:
 
 ### Lecture 2.4: fluids: gas
 
-Topics:
+Topics and concepts:
 * Fire simulation and spread
 * Smoke (gas and volume) simulation 
 * Procedural external forces and vector fields
@@ -255,3 +259,4 @@ TODO
 * J. Horikawa: https://www.youtube.com/watch?app=desktop&v=rj0dEEVU1Ek&ab_channel=Houdini
 * Nature of code: https://natureofcode.com/
 * Pixar: https://graphics.pixar.com/library/
+* My work: https://www.artstation.com/lovro
