@@ -105,7 +105,7 @@ Mesh using noise 2.1            |  Mesh using noise 2.2
 
 Topics and concepts:
 * Procedural animation/motion using volumes
-* Volume from points and surface
+* Volume from points, surface and SDF
 * Animated vector field for volume displacement
 * Attribute transfer and animated geo attributes
 * Procedural organic and natural phenomena modeling
@@ -127,7 +127,7 @@ Practical:
 ### Lecture 1.4: Procedural Abstract Shapes and Natural Phenomena using Particle-based Modeling
 
 Topics and concepts:
-* Procedural animation/motion using particles
+* Procedural animation/motion using particles and points
 * Guiding particles via vector fields and volumes
 * Particles and animated vector (force or velocity) fields using noise
 * Guiding particles via vector fields 
