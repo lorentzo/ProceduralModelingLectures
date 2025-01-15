@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "1_HardSurfaceModeling/ProceduralBuildingLecture.canvas",
                 "viewState": {
-                  "x": 6420,
-                  "y": -133,
-                  "zoom": -4
+                  "x": -4605.411591439308,
+                  "y": 2586.6603247713283,
+                  "zoom": -2.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Intro"
+              "title": "ProceduralBuildingLecture"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 455.5
   },
   "right": {
     "id": "556bd65cb4a0f9e1",
@@ -167,12 +167,24 @@
   },
   "active": "ab08a9a4ebd62d27",
   "lastOpenFiles": [
-    "0_Overview/Examples/LectureExamples",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Example1/backup/ProceduralBuildingExample1_bak31.hipnc",
+    "1_HardSurfaceModeling/LectureImages/ProceduralBuilding/LectureExampleProceduralBuilding1/BottomPositiveXEelement_Step3.PNG",
+    "1_HardSurfaceModeling/ProceduralBuildingLecture.canvas",
+    "1_HardSurfaceModeling/LectureImages/ProceduralBuilding/References/PixarElementsCity.PNG",
+    "1_HardSurfaceModeling/LectureImages/ProceduralBuilding/References/SciFiBuilding2.jpg",
+    "1_HardSurfaceModeling/LectureImages/ProceduralBuilding/References/scifiBuilding3.jpg",
+    "1_HardSurfaceModeling/LectureImages/ProceduralBuilding/References/scifiBuilding8.jpg",
+    "1_HardSurfaceModeling/LectureImages/ProceduralBuilding/References/scifiBuilding9.jpg",
+    "1_HardSurfaceModeling/LectureImages/ProceduralBuilding/References/SciFiBuilding13.jpg",
+    "1_HardSurfaceModeling/LectureImages/ProceduralBuilding/References/SciFiBuilding14.jpg",
+    "1_HardSurfaceModeling/LectureImages/ProceduralBuilding/References/SciFiBuildings1.jpg",
+    "1_HardSurfaceModeling/LectureImages/ProceduralBuilding/References/SciFiBuildings4.jpg",
+    "0_Intro/Intro.canvas",
     "0_Overview/Overview.canvas",
+    "0_Overview/Examples/LectureExamples",
     "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
     "0_Overview/Examples",
     "0_Overview",
-    "0_Intro/Intro.canvas",
     "1_ProceduralBuilding/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak42.hipnc",
     "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
     "0_Intro/Examples/LectureExamples/IntroductionExample/backup/Introduction_bak109.hipnc",
@@ -181,17 +193,6 @@
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Temp/UnityTempFile-5ad37edb1d8952847b0780f27f4cd26c",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Temp/ADB-Refresh046dd6eab15354c49b558eab283ab903",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Temp/UnityTempFile-5fa3eb3763dcce64aab3482e9d58d689",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Temp/ADB-Refreshb0e844dc2d8460e489ce94192afd8679",
-    "0_Intro/LectureImages/FirstSteps/ModelExportImportUnity.JPG",
-    "0_Intro/LectureImages/FirstSteps/KarmaRender.jpg",
-    "0_Intro/LectureImages/FirstSteps/example2.jpg",
-    "0_Intro/Examples/LectureExamples/IntroductionExample/render/example2.jpg",
-    "0_Intro/LectureImages/FirstSteps/SolarisDesktop.JPG",
-    "0_Intro/LectureImages/FirstSteps/ModelExportImportBlender.jpg",
-    "0_Intro/LectureImages/FirstSteps/BuildDesktopModel.JPG",
-    "0_Intro/LectureImages/FirstSteps/BuildDesktopInitial.JPG",
-    "0_Intro/LectureImages/FirstSteps/BuildDesktopJPG.JPG",
-    "0_Intro/Examples/LectureExamples/IntroductionExample/render/example.jpg",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "2_ProceduralTerrain/README.md",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-signals.md",
