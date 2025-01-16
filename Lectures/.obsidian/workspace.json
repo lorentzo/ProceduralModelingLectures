@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+                "file": "2_ProceduralTerrain/ProceduralTerrain.canvas",
                 "viewState": {
-                  "x": 3340.4266279306867,
-                  "y": 4693.534327114575,
-                  "zoom": -4
+                  "x": 8506,
+                  "y": 1128,
+                  "zoom": -2.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "HardSurfaceModeling"
+              "title": "ProceduralTerrain"
             }
           }
         ]
@@ -167,30 +167,30 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
-    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak47.hipnc",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak46.hipnc",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak45.hipnc",
-    "2_ProceduralTerrain/ProceduralTerrainLecture.canvas",
+    "2_ProceduralTerrain/Examples/LectureExamples/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak26.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak25.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak24.hipnc",
+    "2_ProceduralTerrain/LectureImages/TopologyModeling/~DVoxelBasedInfo.tmp",
+    "2_ProceduralTerrain/LectureImages/TopologyModeling/3DVoxelBasedInfo.JPG",
+    "2_ProceduralTerrain/LectureImages/TopologyModeling/3DVoxelBased2.JPG",
+    "2_ProceduralTerrain/LectureImages/TopologyModeling/~DVoxelBased1.tmp",
+    "2_ProceduralTerrain/LectureImages/TopologyModeling/3DVoxelBased1.JPG",
+    "2_ProceduralTerrain/Examples/LectureExamples/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak23.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak22.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak21.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak20.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak19.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak18.hipnc",
+    "2_ProceduralTerrain/LectureImages/TopologyModeling/HeightfieldBased2.JPG",
+    "2_ProceduralTerrain/LectureImages/TopologyModeling/HeightfieldBased1.JPG",
+    "2_ProceduralTerrain/LectureImages/TopologyModeling/HeightfieldInfo.JPG",
+    "2_ProceduralTerrain/LectureImages/TopologyModeling/MeshBasedInfo.JPG",
+    "2_ProceduralTerrain/LectureImages/TopologyModeling/MeshBased.JPG",
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "2_ProceduralTerrain/LectureImages/TopologyModeling/MeshBased2.JPG",
+    "2_ProceduralTerrain/LectureImages/TopologyModeling/MeshBased1.JPG",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak44.hipnc",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak43.hipnc",
     "0_Intro/Intro.canvas",
-    "1_HardSurfaceModeling/LectureImages/ProceduralModeling/~lgorithm.tmp",
-    "0_Intro/LectureImages/ProceduralModeling/Algorithm.JPG",
-    "1_HardSurfaceModeling/LectureImages/ProceduralModeling/~odel.tmp",
-    "0_Intro/LectureImages/ProceduralModeling/model.JPG",
-    "0_Intro/LectureImages/ProceduralModeling",
-    "1_HardSurfaceModeling/LectureImages/New folder",
-    "1_HardSurfaceModeling/LectureImages/DesignProcess/design.jpg",
-    "1_HardSurfaceModeling/LectureImages/DesignProcess/cog.jpg",
-    "1_HardSurfaceModeling/LectureImages/DesignProcess",
-    "1_HardSurfaceModeling/LectureImages/HardSurfOrganicModeling/cloth.jpg",
-    "1_HardSurfaceModeling/LectureImages/HardSurfOrganicModeling/cloth.jpg.crdownload",
-    "1_HardSurfaceModeling/LectureImages/HardSurfOrganicModeling/abstract.jpeg",
-    "1_HardSurfaceModeling/LectureImages/HardSurfOrganicModeling/creature.JPG",
-    "1_HardSurfaceModeling/LectureImages/HardSurfOrganicModeling/cloud.jpg",
-    "1_HardSurfaceModeling/LectureImages/HardSurfOrganicModeling/robot.JPG",
-    "1_HardSurfaceModeling/LectureImages/HardSurfOrganicModeling/stairs.JPG",
     "0_Overview/Overview.canvas",
     "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
