@@ -19,10 +19,10 @@
 		{"id":"e45c54ab0faa77db","type":"text","text":"Noise for density of particle emission","x":4720,"y":-19,"width":250,"height":60},
 		{"id":"a89570200d3a0332","type":"text","text":"Tangents","x":5097,"y":-19,"width":250,"height":60},
 		{"id":"abd35e8b308c701e","type":"text","text":"Curves","x":5098,"y":-198,"width":250,"height":60},
-		{"id":"8a13a92fe5ccb0dc","type":"text","text":"particle system advect by volumes","x":5525,"y":273,"width":250,"height":60},
-		{"id":"d545f7f0e0abf55e","type":"file","file":"3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r1.jpg","x":4819,"y":535,"width":1057,"height":595},
 		{"id":"89d74772561026b9","type":"text","text":"In this lecture we will create volume vector field which will direct movement of particles.","x":3480,"y":216,"width":491,"height":169},
 		{"id":"eb20b7b65c9a378a","type":"link","url":"https://www.sidefx.com/docs/houdini/nodes/dop/popadvectbyvolumes.html","x":3480,"y":460,"width":400,"height":425},
+		{"id":"8a13a92fe5ccb0dc","type":"text","text":"particle system advect by volumes","x":5525,"y":273,"width":250,"height":60},
+		{"id":"d545f7f0e0abf55e","type":"file","file":"3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r1.jpg","x":4819,"y":535,"width":1057,"height":595},
 		{"id":"6a1f0b96f8918e69","type":"text","text":"Volume vector fields","x":5097,"y":172,"width":250,"height":60},
 		{"id":"612d071e7f5ba8a6","type":"text","text":"Particle system","x":5525,"y":41,"width":250,"height":60},
 		{"id":"62ae49a9587a8077","type":"link","url":"https://www.youtube.com/watch?v=JS3rw7W1gN4","x":7060,"y":1116,"width":640,"height":360},
@@ -31,7 +31,9 @@
 		{"id":"2faadca52598cf33","type":"link","url":"https://www.youtube.com/watch?v=K0cNvpXujmk","x":7736,"y":1116,"width":640,"height":360},
 		{"id":"ffdb7f0c3120a563","type":"file","file":"3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r2.jpg","x":4828,"y":1221,"width":1048,"height":590},
 		{"id":"7387c14a80fee578","type":"link","url":"https://www.youtube.com/watch?v=WKDY5b_V5go","x":7940,"y":-96,"width":640,"height":360},
-		{"id":"54492878e660b15c","type":"link","url":"https://www.youtube.com/watch?v=RemcySTz6eo","x":8260,"y":566,"width":640,"height":360}
+		{"id":"54492878e660b15c","type":"link","url":"https://www.youtube.com/watch?v=RemcySTz6eo","x":8260,"y":566,"width":640,"height":360},
+		{"id":"2b7e7f9de1f27971","type":"link","url":"https://en.wikipedia.org/wiki/Digital_morphogenesis","x":8500,"y":1076,"width":400,"height":400},
+		{"id":"0b8ecc3e4f89d2ca","x":310,"y":1221,"width":400,"height":400,"type":"link","url":"https://extensions.blender.org/add-ons/tissue/"}
 	],
 	"edges":[
 		{"id":"cee5fd02a1658bf2","fromNode":"436c7ca62a277d15","fromSide":"right","toNode":"6a104a05b0d0663f","toSide":"left"},

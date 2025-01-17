@@ -1,12 +1,12 @@
 # Procedural Modeling Lectures
 
-Lectures in procedural modeling for both **tech** and **art** students (AKA STEAM lectures).
+Procedural modeling lectures for both **tech** and **art** students (AKA STEAM lectures).
 
 Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 
 **Lectures aim:**
 * Provide a map of the procedural modeling field
-* Theoretical and practical tools for procedural modeling
+* Theoretical and practical tools for procedural modeling and animation
 * Conceptual understanding of procedural modeling techniques
 
 **Learning approach used in this lectures:**
@@ -26,7 +26,7 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 * Generative/algorithmical Art
 * Arhitecture
 
-# Lectures
+# Lecture Syllabus
 
 ## Introduction
 
@@ -46,85 +46,69 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 ### Lecture 1.1: Procedural Hard Surface Modeling
 
 Topics and concepts:
-* Procedural modeling of hard-surface (human made) shapes 
-* Procedural geometry, mesh-based (surface) manipulation: vertices, edges, faces and points
-* Structured proceduralism and scattering
-* Props placement
-* Interactive parameters; parameterized geometry
+* Understanding hard surface modeling and difference to soft surface (organic) modeling
+* Typical procedural hard surface modeling workflow: concept, design and implementation
+* Procedural hard-surface (human made, artificial, industrial) modeling techniques, datastructures and methods
+* Parameterized hard surface model
 
-Lecture notes: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureNotes/1_ProceduralBuilding
-
-Practical examples: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/Lectures/1_ProceduralBuilding/Examples
+Lecture notes and practical examples: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/Lectures/1_HardSurfaceModeling
 
 Procedural building 1.1             |  Procedural building 1.2
 :-------------------------:|:-------------------------:
-![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example1/render/r1.png)  |  ![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example1/render/r2.png)
-
-Procedural building 1.3             |  Procedural building 1.4
-:-------------------------:|:-------------------------:
-![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example1/render/r3.png)  |  ![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example1/render/r4.png)
+![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example1/render/r1.png)  |  ![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example1/render/r4.png)
 
 Procedural building 2.1 & 2.2
 
-![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example2/render/r1.jpg)
-![](Lectures/1_ProceduralBuilding/Examples/LectureExamples/Example2/render/r2.jpg)
+![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example2/render/r1.jpg)
+![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example2/render/r2.jpg)
 
 ### Lecture 1.2: Procedural Terrain Modeling
 
 Topics and concepts:
-* Noise and noise types (Perlin, Worley, flow and other derivations)
-* Noise layering (fractal sum, fbm) and warping
-* Noise and geometric displacement
-* Geometry attributes for instancing and materials
-* Masking and sampling
-* Instancing and transformations (rotations, scaling, translation)
-* Heightfields
-* Surface and volume generation
-* World building
-* Clouds and seas
+* Understanding elements of virtual terrains: topology, color, props, etc.
+* Terrain topology and color (material) modeling approaches
+* Terrain modeling datastructures and sources of data (e.g., NASA heightmaps)
+* Mesh-based (surface) terrain modeling using noise and geometric displacement
+* Heightfield-based (surface) terrain modeling using height maps
+* Heightfield-based (surface) terrain modeling using noise and heightfield layering
+* 3D (volume) terrain modeling using noise
+* Importance of noise and noise layering/warping for terrain modeling
+* Attributes, dataflow and geometrical instancing
+* Masking, samling (scattering) and instancing
+* World building workflow: concept, design and implementation
 
-Lecture notes: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureNotes/2_ProceduralTerrain
+Lecture notes and practical examples: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/Lectures/2_ProceduralTerrain
 
-Lecture data: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/LectureExamples/2_ProceduralTerrain/LectureExample
-
-Heightfield from NASA topo 1.1             |  Heightfield from NASA topo 1.2
+Heightfield-based terrain using NASA topo 1.1             |  Heightfield-based terrain using NASA topo 1.2
 :-------------------------:|:-------------------------:
-![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r1.png)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r2.png)
+![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r3.png)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r2.png)
 
-![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r3.png)
-
-Heightfield using noise 2.1             |  Heightfield using noise 2.2
+Heightfield-based terrain using noise 2.1             |  Heightfield-based terrain using noise 2.2
 :-------------------------:|:-------------------------:
 ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r1.jpg)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r2.jpg)
 
-Mesh using noise 2.1            |  Mesh using noise 2.2
+Mesh-based terrain using noise 2.1            |  Mesh-based terrain using noise 2.2
 :-------------------------:|:-------------------------:
 ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r1.png)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r2.png)
 
-### Lecture 1.3: Procedural Organic Shapes and Natural Phenomena using Volume-based Modeling
+### Lecture 1.3: Procedural Volume-based Modeling: Organic and Natural Phenomena
 
 Topics and concepts:
+* Understanding volumetric shapes
+* Organic modeling techniques
+* Complex natural phenomena and shapes: clouds, rocks, biology, geology, geomorphology and arhitecture
 * Procedural animation/motion using volumes
 * Volume from points, surface and SDF
 * Animated vector field for volume displacement
 * Attribute transfer and animated geo attributes
-* Procedural organic and natural phenomena modeling
 * Morphing: transformations and generation of geometry
 * Iterative systems and chaos
 
-![](Lectures/3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r2.jpg)
+Organic volume shapes             |  Volumetric natural phenomena
+:-------------------------:|:-------------------------:
+![](Lectures/3_ParticlesVolumes/LectureImages/Volume/lovro-bosnar-colorfulsmoke-opengl1-0071.jpg) | ![](Lectures/3_ParticlesVolumes/LectureImages/Volume/lovro-bosnar-volumelines-karmarendersettings1-0001.jpg)
 
-R&D:
-* https://inconvergent.net/2016/shepherding-random-growth/
-* Digital morphogenesis: https://en.wikipedia.org/wiki/Digital_morphogenesis
-  * Complex shape development
-  * Biology, Geology, Geomorphology and arhitecture
-
-Practical:
-* https://www.sidefx.com/learn/collections/applied-houdini-particles/
-* https://entagma.com/tag/growth/
-
-### Lecture 1.4: Procedural Abstract Shapes and Natural Phenomena using Particle-based Modeling
+### Lecture 1.4: Procedural Particle-based Modeling: Abstract and Natural Phenomena using
 
 Topics and concepts:
 * Procedural animation/motion using particles and points
@@ -138,7 +122,10 @@ Topics and concepts:
 * Iterative systems and chaos
 * Boids
 
-![](Lectures/3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r1.jpg)
+Abstract shape using particle trails             |  Abstract natural phenomena
+:-------------------------:|:-------------------------:
+![](Lectures/3_ParticlesPoints/LectureImages/ParticleExamples/lovro-bosnar-attractorlines1.jpg) | ![](Lectures/3_ParticlesPoints/LectureImages/ParticleExamples/lovro-bosnar-c6.jpg)
+
 
 ### Lecture 1.5: Procedural Growth and Spread Modeling on Foliage 
 
@@ -162,18 +149,7 @@ Example of foliage growth and spread 2.1             |  Example of foliage growt
 :-------------------------:|:-------------------------:
 ![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph3.jpg)  |  ![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph4.jpg)
 
-R&D:
-* http://algorithmicbotany.org/papers/colonization.egwnp2007.pdf
-* https://graphics.pixar.com/library/ElementalEarth/paper.pdf
-* https://docs.blender.org/manual/en/latest/addons/mesh/tissue.html
-
-Practical:
-* https://www.sidefx.com/docs/houdini/nodes/sop/lsystem
-* https://www.youtube.com/watch?v=0vE8GiXhOWM
-* https://www.youtube.com/watch?v=CgxTCpUqp5Q
-* https://www.youtube.com/watch?v=b-DDdGcvBaI
-
-## Part 2: Proceduralism and Dynamics
+## Part 2: Proceduralism and Dynamics (WIP)
 
 Combining procedural modeling (Phenomenological approach) with feedback loop, simulation, forces, velocities, positions and constraints (physically-based, classical mechanics methods for CG).
 
@@ -237,11 +213,14 @@ Practicals:
 * https://graphics.pixar.com/library/ElementalFire/paper.pdf
 * https://www.youtube.com/watch?v=zyIJQHlFQs0
 
-## Part 3: Proceduralism and Character VFX
+## Part 3: Procedural Character VFX (CFX) modeling (WIP)
 
 Applying procedural modeling and dynamics for character VFX.
 
-### Lecture 3.1 Proceduralism with Hair and Fur Modeling
+### Lecture 3.1 Procedural Hair and Fur Modeling
+TODO
+
+### Lecture 3.2. Procedural feather modeling
 TODO
 
 ### Lecture 3.2 Proceduralism and Cloth Modeling

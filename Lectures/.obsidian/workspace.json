@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2_ProceduralTerrain/ProceduralTerrain.canvas",
+                "file": "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
                 "viewState": {
-                  "x": 5163.7388185802265,
-                  "y": 3496.4870934463415,
-                  "zoom": -4
+                  "x": 2173.1511591188855,
+                  "y": 655.5415919732292,
+                  "zoom": -1.2664178694870798
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralTerrain"
+              "title": "ProceduralFoliageSpreadGrowth"
             }
           }
         ]
@@ -167,33 +167,35 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/backup/HeightfieldMapDisplacement_bak4.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/backup/HeightfieldMapDisplacement_bak3.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/backup/HeightfieldMapDisplacement_bak2.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/backup/HeightfieldMapDisplacement_bak1.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/backup",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak17.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak16.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak15.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak14.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak151.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak150.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak149.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak148.hipnc",
+    "3_ParticlesVolumes/ParticlesVolumes.canvas",
+    "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
+    "3_ParticlesPoints/LectureImages/ParticleExamples/lovro-bosnar-c6.jpg",
+    "3_ParticlesPoints/LectureImages/ParticleExamples/lovro-bosnar-attractorlines1.jpg",
+    "3_ParticlesPoints/LectureImages/ParticleExamples",
+    "3_ParticlesPoints/LectureImages/New folder",
+    "3_ParticlesPoints/LectureImages",
+    "3_ParticlesPoints/New folder",
+    "3_ParticlesVolumes/LectureImages/Volume/lovro-bosnar-volumelines-karmarendersettings1-0001.jpg",
+    "3_ParticlesVolumes/LectureImages/Volume/lovro-bosnar-colorfulsmoke-opengl1-0071.jpg",
+    "3_ParticlesVolumes/LectureImages/Volume",
+    "3_ParticlesVolumes/LectureImages/Examples/lovro-bosnar-colorfulsmoke-opengl1-0071.jpg",
+    "3_ParticlesVolumes/LectureImages/Examples/lovro-bosnar-volumelines-karmarendersettings1-0001.jpg",
+    "3_ParticlesVolumes/LectureImages/Examples",
+    "3_ParticlesVolumes/LectureImages/New folder",
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "2_ProceduralTerrain/LectureImages/Takeaways/Importance of noise.jpg",
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "2_ProceduralTerrain/LectureImages/HeightfieldNoiseModeling/5_ConvertColor.JPG",
     "2_ProceduralTerrain/LectureImages/HeightfieldNoiseModeling/4_BlurResample.JPG",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak13.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak12.hipnc",
     "2_ProceduralTerrain/LectureImages/HeightfieldNoiseModeling/3_Noise.JPG",
-    "2_ProceduralTerrain/LectureImages/HeightfieldNoiseModeling/2_Slump.JPG",
-    "2_ProceduralTerrain/LectureImages/HeightfieldNoiseModeling/1_ProjectDrawing.JPG",
-    "2_ProceduralTerrain/LectureImages/HeightfieldMap/TexMap.JPG",
-    "2_ProceduralTerrain/LectureImages/TopologyModeling/2Dvs3D.JPG",
-    "2_ProceduralTerrain/LectureImages/TopologyModeling/Sculpting.JPG",
-    "2_ProceduralTerrain/LectureImages/TopologyModeling/HeightmapFromPhoto.JPG",
-    "2_ProceduralTerrain/LectureImages/TopologyModeling/HeightMapPhoto.JPG",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "0_Intro/Intro.canvas",
     "0_Overview/Overview.canvas",
     "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
-    "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "2_ProceduralTerrain/README.md",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-signals.md",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-subtimeline.md",
@@ -218,7 +220,6 @@
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/tl-preview.md",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/tl-overview.md",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/tl-preferences.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/samp-overview.md",
-    "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas"
+    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/samp-overview.md"
   ]
 }
