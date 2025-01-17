@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "viewState": {
-                  "x": 2173.1511591188855,
-                  "y": 655.5415919732292,
-                  "zoom": -1.2664178694870798
+                  "x": 16571.23749768077,
+                  "y": 686.1573849678907,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralFoliageSpreadGrowth"
+              "title": "Intro"
             }
           }
         ]
@@ -167,12 +167,12 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
+    "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak151.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak150.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak149.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak148.hipnc",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
-    "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
     "3_ParticlesPoints/LectureImages/ParticleExamples/lovro-bosnar-c6.jpg",
     "3_ParticlesPoints/LectureImages/ParticleExamples/lovro-bosnar-attractorlines1.jpg",
@@ -186,7 +186,6 @@
     "3_ParticlesVolumes/LectureImages/Examples/lovro-bosnar-colorfulsmoke-opengl1-0071.jpg",
     "3_ParticlesVolumes/LectureImages/Examples/lovro-bosnar-volumelines-karmarendersettings1-0001.jpg",
     "3_ParticlesVolumes/LectureImages/Examples",
-    "3_ParticlesVolumes/LectureImages/New folder",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "2_ProceduralTerrain/LectureImages/Takeaways/Importance of noise.jpg",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",

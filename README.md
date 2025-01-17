@@ -108,7 +108,7 @@ Organic volume shapes             |  Volumetric natural phenomena
 :-------------------------:|:-------------------------:
 ![](Lectures/3_ParticlesVolumes/LectureImages/Volume/lovro-bosnar-colorfulsmoke-opengl1-0071.jpg) | ![](Lectures/3_ParticlesVolumes/LectureImages/Volume/lovro-bosnar-volumelines-karmarendersettings1-0001.jpg)
 
-### Lecture 1.4: Procedural Particle-based Modeling: Abstract and Natural Phenomena using
+### Lecture 1.4: Procedural Particle and point based Modeling: Abstract and Natural Phenomena
 
 Topics and concepts:
 * Procedural animation/motion using particles and points
@@ -119,15 +119,18 @@ Topics and concepts:
 * Geometry from particles
 * Attribute transfer and animated geo attributes
 * Procedural abstract and natural phenomena modeling
-* Iterative systems and chaos
+* Iterative, feedback loop systems 
+* Complex systems and chaos
+* Attractors and vector fields
 * Boids
+* Grains, sand 
 
 Abstract shape using particle trails             |  Abstract natural phenomena
 :-------------------------:|:-------------------------:
 ![](Lectures/3_ParticlesPoints/LectureImages/ParticleExamples/lovro-bosnar-attractorlines1.jpg) | ![](Lectures/3_ParticlesPoints/LectureImages/ParticleExamples/lovro-bosnar-c6.jpg)
 
 
-### Lecture 1.5: Procedural Growth and Spread Modeling on Foliage 
+### Lecture 1.5: Procedural Foliage, Growth and Spread Modeling
 
 Topics and concepts:
 * Natural and biological systems
@@ -149,14 +152,15 @@ Example of foliage growth and spread 2.1             |  Example of foliage growt
 :-------------------------:|:-------------------------:
 ![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph3.jpg)  |  ![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph4.jpg)
 
-## Part 2: Proceduralism and Dynamics (WIP)
+## Part 2: Procedural Modeling and Dynamics (WIP)
 
 Combining procedural modeling (Phenomenological approach) with feedback loop, simulation, forces, velocities, positions and constraints (physically-based, classical mechanics methods for CG).
 
-### Lecture 2.1: Proceduralism and Rigid Body
+### Lecture 2.1: Procedural Modeling and Rigid Body Simulation
 
 Topics and concepts:
-* Rigid body collisions
+* Physics-based simulation methods for modeling shape and motion
+* Rigid body collisions and contact
 * Rigid body fracture and animation via simulation
 * Procedurally guided physically-based dynamics
 * RBD solvers
@@ -169,12 +173,14 @@ Practical:
 * https://www.youtube.com/watch?v=IHYelaEFmr8
 * https://www.sidefx.com/tutorials/smashing-wine-glass/
 
-### Lecture 2.2: Proceduralism and Soft Body
+### Lecture 2.2: Procedural Modeling and Soft (Deformable) Body Simulation
 
 Topics and concepts:
+* Physics-based simulation methods for modeling shape and motion
 * Soft body deformation using external forces and collisions
 * Procedural vector field as external force field
 * Soft bodies simulation
+* Deformation on collision and contact
 
 R&D:
 * https://matthias-research.github.io/pages/publications/posBasedDyn.pdf
@@ -182,9 +188,10 @@ R&D:
 Practicals:
 * https://www.sidefx.com/docs/houdini/vellum/index.html
 
-### Lecture 2.3: Proceduralism and Fluids: Liquid
+### Lecture 2.3: Procedural Modeling and Fluids: Liquid Simulation
 
 Topics and concepts:
+* Physics-based simulation methods for modeling shape and motion
 * Turbulent water simulation 
 * Physically-based liquid simulation and solvers
 * External procedural vector fields and collisions
@@ -196,9 +203,10 @@ R&D:
 Practicals:
 * https://entagma.com/tag/fluid/
 
-### Lecture 2.4: Proceduralism and Fluids: Gases phenomena
+### Lecture 2.4: Procedural Modeling and Fluids: Gas Simulation
 
 Topics and concepts:
+* Physics-based simulation methods for modeling shape and motion
 * Fire simulation and spread
 * Smoke (gas and volume) simulation 
 * Procedural external forces and vector fields
@@ -231,7 +239,7 @@ TODO
 
 # Resources 
 
-* SideFX; Houdini: https://www.sidefx.com/learn/getting_started/
+* SideFX; Houdini: https://www.sidefx.com/learn/getting_started/, https://www.sidefx.com/docs/houdini/
 * Entagma: https://entagma.com/
 * Stanford; D. James: http://graphics.stanford.edu/courses/cs348c/
 * Ebert: Texturing and modeling: procedural approach
@@ -239,3 +247,10 @@ TODO
 * Nature of code: https://natureofcode.com/
 * Pixar: https://graphics.pixar.com/library/
 * My work: https://www.artstation.com/lovro
+
+# Possible Future lectures:
+* Procedural animation using sound
+* Procedural reactive systems (reaction to sound, collision or interaction)
+* Procedural interactive models
+* Procedural modeling and advanced physically-based simulation
+* Procedural modeling and computational design
