@@ -15,9 +15,9 @@
               "state": {
                 "file": "2_ProceduralTerrain/ProceduralTerrain.canvas",
                 "viewState": {
-                  "x": 7386.654806370007,
-                  "y": 3585.1496686869586,
-                  "zoom": -4
+                  "x": -282.1835397762469,
+                  "y": 213.607222210717,
+                  "zoom": -1.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -167,6 +167,8 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
+    "2_ProceduralTerrain/LectureImages/Intro/OverhangExample.jpeg",
+    "2_ProceduralTerrain/LectureImages/Intro/OverhangExample.jpeg.crdownload",
     "2_ProceduralTerrain/Examples/LectureExamples/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak40.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak39.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak38.hipnc",
@@ -177,8 +179,6 @@
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak156.hipnc",
     "2_ProceduralTerrain/LectureImages/Takeaways/~election.tmp",
     "2_ProceduralTerrain/LectureImages/Takeaways/Selection.JPG",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak19.hipnc",
-    "2_ProceduralTerrain/LectureImages/Takeaways/~asking.tmp",
     "2_ProceduralTerrain/LectureImages/Takeaways/Masking.JPG",
     "2_ProceduralTerrain/LectureImages/Takeaways/LayeringNoise2.jpg",
     "2_ProceduralTerrain/LectureImages/Takeaways/LayeringNoise.jpg",
