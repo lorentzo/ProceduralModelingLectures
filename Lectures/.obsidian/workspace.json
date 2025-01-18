@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
                 "viewState": {
-                  "x": -2853.7122480071075,
-                  "y": -2557.459598043524,
-                  "zoom": -3.666666666666667
+                  "x": 31298.739353267083,
+                  "y": 3893.4889597666042,
+                  "zoom": -2.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Intro"
+              "title": "HardSurfaceModeling"
             }
           }
         ]
@@ -167,30 +167,30 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
-    "0_Intro/Examples/LectureExamples/IntroductionExample/backup/Introduction_bak126.hipnc",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak125.hipnc",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak124.hipnc",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak123.hipnc",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak122.hipnc",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak121.hipnc",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak120.hipnc",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak119.hipnc",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak118.hipnc",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak117.hipnc",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak116.hipnc",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Example2/backup/ProceduralBuildingExample2_bak115.hipnc",
+    "1_HardSurfaceModeling/LectureImages/DesignProcess/HoudiniImpl.JPG",
+    "0_Intro/Intro.canvas",
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "1_HardSurfaceModeling/LectureImages/DesignProcess/ApplicationGame.JPG",
+    "1_HardSurfaceModeling/LectureImages/DesignProcess/Application.jpg",
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "1_HardSurfaceModeling/LectureImages/DesignProcess/DesignImpl.JPG",
     "0_Intro/LectureImages/design.jpg",
-    "0_Intro/LectureImages/~oudini.tmp",
     "0_Intro/LectureImages/Houdini.JPG",
-    "0_Intro/Examples/LectureExamples/IntroductionExample/backup/Introduction_bak125.hipnc",
-    "0_Intro/LectureImages/OtherDCC/~ames.tmp",
     "0_Intro/LectureImages/OtherDCC/Games.JPG",
-    "0_Intro/LectureImages/OtherDCC/~estructive.tmp",
     "0_Intro/LectureImages/OtherDCC/Destructive.JPG",
     "0_Intro/LectureImages/OtherDCC/sculpt.jpg",
-    "0_Intro/LectureImages/OtherDCC",
     "0_Intro/LectureImages/Sculpt/sculpt.jpg",
-    "0_Intro/LectureImages/Sculpt/sculpt.jpg.crdownload",
-    "0_Intro/LectureImages/Sculpt",
-    "0_Intro/LectureImages/New folder",
-    "0_Intro/LectureImages/ProceduralModeling/~rocAnim2.tmp",
-    "0_Intro/LectureImages/ProceduralModeling/ProcAnim2.JPG",
-    "0_Intro/LectureImages/ProceduralModeling/~rocAnim.tmp",
-    "0_Intro/LectureImages/ProceduralModeling/ProcAnim.JPG",
-    "0_Intro/LectureImages/ProceduralModeling/art.JPG",
-    "0_Intro/LectureImages/ProceduralModeling/scivis.JPG",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
-    "0_Intro/Intro.canvas",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
