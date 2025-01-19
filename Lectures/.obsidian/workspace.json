@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2_ProceduralTerrain/ProceduralTerrain.canvas",
+                "file": "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
                 "viewState": {
-                  "x": 6521.862874782345,
-                  "y": 4491.1260588144105,
-                  "zoom": -3.333333333333333
+                  "x": -4545.125946032125,
+                  "y": 3029.510559300279,
+                  "zoom": -2.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralTerrain"
+              "title": "HardSurfaceModeling"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "0_Overview/Overview.canvas",
@@ -186,7 +187,6 @@
     "1_HardSurfaceModeling/LectureImages/DesignProcess/HoudiniImpl.JPG",
     "1_HardSurfaceModeling/LectureImages/DesignProcess/ApplicationGame.JPG",
     "1_HardSurfaceModeling/LectureImages/DesignProcess/Application.jpg",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "1_HardSurfaceModeling/LectureImages/DesignProcess/DesignImpl.JPG",
     "0_Intro/LectureImages/design.jpg",
     "0_Intro/LectureImages/Houdini.JPG",
