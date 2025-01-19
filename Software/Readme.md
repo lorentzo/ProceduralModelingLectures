@@ -1,11 +1,11 @@
 
 # Software
 
-In this lecture the following software will be used:
-1. Houdini
-2. Blender
-3. Unity
-4. Godot
+Main focus will be on Houdini software.
+
+Additional complementary software will be used:
+1. Blender
+2. Unity/Godot
 
 # Houdini Setup
 
