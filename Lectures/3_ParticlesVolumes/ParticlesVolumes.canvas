@@ -15,10 +15,13 @@
 		{"id":"9bc5b0aa7adbbfc7","type":"text","text":"Voxels can describe:\n* Fluids\n   * gases\n   * liquids\n* Interiors of object","x":1704,"y":700,"width":407,"height":229},
 		{"id":"f6c003c078f5c90e","type":"text","text":"Crucial modeling information is vector field which describes movement of particles","x":2460,"y":206,"width":606,"height":145},
 		{"id":"6a104a05b0d0663f","type":"text","text":"Voxel information can be:\n*  binary for opaque objects\n* float for describing density values\n* vector for describing vector fields","x":2460,"y":398,"width":606,"height":274},
-		{"id":"de116638e3ae7f3b","type":"text","text":"Source geometry","x":4722,"y":-198,"width":250,"height":60},
 		{"id":"e45c54ab0faa77db","type":"text","text":"Noise for density of particle emission","x":4720,"y":-19,"width":250,"height":60},
 		{"id":"89d74772561026b9","type":"text","text":"In this lecture we will create volume vector field which will direct movement of particles.","x":3480,"y":216,"width":491,"height":169},
 		{"id":"eb20b7b65c9a378a","type":"link","url":"https://www.sidefx.com/docs/houdini/nodes/dop/popadvectbyvolumes.html","x":3480,"y":460,"width":400,"height":425},
+		{"id":"5ff230881dfad62d","type":"text","text":"# Procedural Modeling Lectures: Particles and Volumes","x":-1880,"y":129,"width":920,"height":60},
+		{"id":"a29d796d07b0afa7","type":"text","text":"Lovro Bosnar\nDate:","x":-1880,"y":225,"width":260,"height":75},
+		{"id":"1a10836096763060","type":"text","text":"TODOs:\n* VDBs\n* https://www.youtube.com/watch?v=WTg_pVZoac0\n* https://www.youtube.com/watch?v=8vZcrrJQLII\n* https://www.youtube.com/watch?v=wR0SDptfygg\n* ","x":-774,"y":225,"width":454,"height":301,"color":"1"},
+		{"id":"de116638e3ae7f3b","type":"text","text":"Source geometry","x":4722,"y":-198,"width":250,"height":60},
 		{"id":"a89570200d3a0332","type":"text","text":"Tangents","x":5097,"y":-19,"width":250,"height":60},
 		{"id":"ffdb7f0c3120a563","type":"file","file":"3_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/r2.jpg","x":4828,"y":1221,"width":1048,"height":590},
 		{"id":"abd35e8b308c701e","type":"text","text":"Curves","x":5098,"y":-198,"width":250,"height":60},
@@ -32,10 +35,7 @@
 		{"id":"2faadca52598cf33","type":"link","url":"https://www.youtube.com/watch?v=K0cNvpXujmk","x":7736,"y":1116,"width":640,"height":360},
 		{"id":"7387c14a80fee578","type":"link","url":"https://www.youtube.com/watch?v=WKDY5b_V5go","x":7940,"y":-96,"width":640,"height":360},
 		{"id":"54492878e660b15c","type":"link","url":"https://www.youtube.com/watch?v=RemcySTz6eo","x":8260,"y":566,"width":640,"height":360},
-		{"id":"2b7e7f9de1f27971","type":"link","url":"https://en.wikipedia.org/wiki/Digital_morphogenesis","x":8500,"y":1076,"width":400,"height":400},
-		{"id":"5ff230881dfad62d","type":"text","text":"# Procedural Modeling Lectures: Particles and Volumes","x":-1880,"y":129,"width":920,"height":60},
-		{"id":"a29d796d07b0afa7","type":"text","text":"Lovro Bosnar\nDate:","x":-1880,"y":225,"width":260,"height":75},
-		{"id":"1a10836096763060","x":-774,"y":225,"width":454,"height":301,"color":"1","type":"text","text":"TODOs:\n* VDBs\n* https://www.youtube.com/watch?v=WTg_pVZoac0"}
+		{"id":"2b7e7f9de1f27971","type":"link","url":"https://en.wikipedia.org/wiki/Digital_morphogenesis","x":8500,"y":1076,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"cee5fd02a1658bf2","fromNode":"436c7ca62a277d15","fromSide":"right","toNode":"6a104a05b0d0663f","toSide":"left"},
