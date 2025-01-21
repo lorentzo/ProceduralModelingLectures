@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "2_ProceduralTerrain/ProceduralTerrain.canvas",
                 "viewState": {
-                  "x": 9862.360683236218,
-                  "y": -529.990957216879,
-                  "zoom": -2.666666666666666
+                  "x": 11653.708900503581,
+                  "y": 5474.826066016453,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Intro"
+              "title": "ProceduralTerrain"
             }
           }
         ]
@@ -167,8 +167,19 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
-    "0_Intro/LectureImages/FirstSteps/BuildDesktopInitial.JPG",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak143.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak142.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak141.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak140.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak139.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak138.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak137.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak136.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak135.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak134.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak133.hipnc",
     "0_Intro/Intro.canvas",
+    "0_Intro/LectureImages/FirstSteps/BuildDesktopInitial.JPG",
     "0_Intro/LectureImages/FirstSteps/BuildDesktopJPG.JPG",
     "0_Intro/LectureImages/FirstSteps/BuildDesktopModel.JPG",
     "0_Intro/LectureImages/FirstSteps/BuildDesktopUI.png",
@@ -176,19 +187,8 @@
     "0_Intro/LectureImages/FirstSteps/ModelExportImportBlender.jpg",
     "0_Intro/LectureImages/FirstSteps/ModelExportImportUnity.JPG",
     "0_Intro/LectureImages/FirstSteps/SolarisDesktop.JPG",
-    "0_Intro/LectureImages/FirstSteps/~_SolarisDesktop.tmp",
     "0_Intro/LectureImages/FirstSteps/5_SolarisDesktop.JPG",
     "0_Intro/LectureImages/FirstSteps/5_Render.png",
-    "0_Intro/LectureImages/FirstSteps/test.png",
-    "0_Intro/LectureImages/FirstSteps/~_Export2.tmp",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Temp/ADB-Refresh5a6ad802e9625a94a860886f89186a48",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/Artifacts/1a/1a9a61325f08388d19abbf32f57fecf4",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/TempArtifacts/Extra/2070731b0e1c1f34abcdc1d05a582d52.info",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache.db-journal",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Logs/shadercompiler-AssetImportWorker0-0.log",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Logs/shadercompiler-AssetImportWorker1-0.log",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Temp/FSTimeGet-1e94948079ab14b45ba536f54b862321",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Temp/FSTimeGet-13401310411f0fc45a96cdef12a4166f",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "0_Overview/Overview.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
