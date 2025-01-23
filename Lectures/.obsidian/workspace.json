@@ -15,9 +15,9 @@
               "state": {
                 "file": "0_Intro/Intro.canvas",
                 "viewState": {
-                  "x": 12568.153646350638,
-                  "y": 784.8470592662616,
-                  "zoom": -4
+                  "x": -9952.93681973297,
+                  "y": -971.1322653331954,
+                  "zoom": -1.3333333333333328
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -168,18 +168,18 @@
   "active": "84147a981a564daf",
   "lastOpenFiles": [
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/TempArtifacts/Extra/cc6e9a220d621c84ba95f386794849fa.info",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/TempArtifacts/Extra/1f176cf1082abf34dbd22c4da91d65cc.info",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/TempArtifacts/Extra/c18307b73cf61924e9deb15878aa92dd.info",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Temp/ADB-Refresh035b976ef63c8e14090871d6df58b550",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Temp/UnityTempFile-50fb7e9cd3e9d5b47a5d1443ee0cd461",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/Artifacts/5c/5c07aedaf19e1164b5764a8c475a7090",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/TempArtifacts/Extra/aad4506e8b1dd8a479bc8b6edd38c15d.info",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/Artifacts/3a/3af35653adfc5ff47953a7b381523f70",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/TempArtifacts/Primary/2f3399637fb090446a4f5364a53df1a8",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Temp/UnityTempFile-bf552ac19650abf45a8301685acd3813",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "0_Intro/Intro.canvas",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/117ac7e70f5d6b6fbffca21c7bb4015c.bin",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/Artifacts/0a/0ac2518319d5b040a17f96408d2399ce",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/TempArtifacts/Extra/cd104f4797ecf084a9f93df218daa130.info",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/e0d78cf25a0276da5d813b83221c4143.bin",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/3551e73bbb74704dc670a002bed5da86.bin",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/eebb6f252509754fc86289c64cc30c73.bin",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/76057e98b041ce5909d031770facb714.bin",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/68a6c184ca6a985640ada9abf403456f.bin",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/3d582e850f46615eb8db4dfcd6198e09.bin",
+    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/e9c78aee634268982d9769612ee2a95a.bin",
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "0_Intro/LectureImages/FirstSteps/BuildDesktopInitial.JPG",
     "0_Intro/LectureImages/FirstSteps/BuildDesktopJPG.JPG",
     "0_Intro/LectureImages/FirstSteps/BuildDesktopModel.JPG",
