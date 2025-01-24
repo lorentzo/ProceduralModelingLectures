@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "2_ProceduralTerrain/ProceduralTerrain.canvas",
                 "viewState": {
-                  "x": -9952.93681973297,
-                  "y": -971.1322653331954,
-                  "zoom": -1.3333333333333328
+                  "x": 9690.22425592295,
+                  "y": -9.981996752783289,
+                  "zoom": -3.3333333333333335
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Intro"
+              "title": "ProceduralTerrain"
             }
           }
         ]
@@ -167,18 +167,20 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak147.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak146.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak145.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/backup/HeightfieldNoiseDisplacement_bak144.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak630.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak629.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak628.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak627.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak626.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak625.hipnc",
+    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak624.hipnc",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "0_Intro/Intro.canvas",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/117ac7e70f5d6b6fbffca21c7bb4015c.bin",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/Artifacts/0a/0ac2518319d5b040a17f96408d2399ce",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/TempArtifacts/Extra/cd104f4797ecf084a9f93df218daa130.info",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/e0d78cf25a0276da5d813b83221c4143.bin",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/3551e73bbb74704dc670a002bed5da86.bin",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/eebb6f252509754fc86289c64cc30c73.bin",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/76057e98b041ce5909d031770facb714.bin",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/68a6c184ca6a985640ada9abf403456f.bin",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/3d582e850f46615eb8db4dfcd6198e09.bin",
-    "1_HardSurfaceModeling/Examples/LectureExamples/Game/UnityProcBuilding/Library/ShaderCache/shadergraph/New Shader Graph1885/00/e9c78aee634268982d9769612ee2a95a.bin",
+    "0_Overview/Overview.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "0_Intro/LectureImages/FirstSteps/BuildDesktopInitial.JPG",
     "0_Intro/LectureImages/FirstSteps/BuildDesktopJPG.JPG",
@@ -190,7 +192,6 @@
     "0_Intro/LectureImages/FirstSteps/SolarisDesktop.JPG",
     "0_Intro/LectureImages/FirstSteps/5_SolarisDesktop.JPG",
     "0_Intro/LectureImages/FirstSteps/5_Render.png",
-    "0_Overview/Overview.canvas",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
