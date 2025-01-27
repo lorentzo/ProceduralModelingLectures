@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2_ProceduralTerrain/ProceduralTerrain.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "viewState": {
-                  "x": -6611.545200201821,
-                  "y": 1230.9037812852105,
-                  "zoom": -2.6666666666666665
+                  "x": 15509.399104054852,
+                  "y": 6300.896236649542,
+                  "zoom": -2.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralTerrain"
+              "title": "Intro"
             }
           }
         ]
@@ -167,13 +167,18 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
+    "0_Intro/Intro.canvas",
+    "0_Intro/LectureImages/ProceduralModeling/~otionGraphics2.tmp",
+    "0_Intro/LectureImages/ProceduralModeling/MotionGraphics2.JPG",
+    "0_Intro/LectureImages/ProceduralModeling/~krieger.tmp",
+    "0_Intro/LectureImages/ProceduralModeling/kkrieger.JPG",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak635.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak634.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak633.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak632.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak631.hipnc",
-    "0_Intro/Intro.canvas",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "2_ProceduralTerrain/LectureImages/Intro/~DNoise.tmp",
     "2_ProceduralTerrain/LectureImages/Intro/3DNoise.JPG",
     "2_ProceduralTerrain/LectureImages/Intro/2DNoise.JPG",
@@ -183,18 +188,12 @@
     "2_ProceduralTerrain/LectureImages/Future/Clouds.JPG",
     "2_ProceduralTerrain/LectureImages/Future/~ater.tmp",
     "2_ProceduralTerrain/LectureImages/Future/Water.JPG",
-    "2_ProceduralTerrain/LectureImages/Future/~eightfieldBased.tmp",
     "2_ProceduralTerrain/LectureImages/Future/HeightfieldBased.JPG",
-    "2_ProceduralTerrain/LectureImages/Future/~eshBased.tmp",
     "2_ProceduralTerrain/LectureImages/Future/MeshBased.JPG",
-    "2_ProceduralTerrain/LectureImages/Future/~orldBuilding.tmp",
-    "2_ProceduralTerrain/LectureImages/Future/WorldBuilding.JPG",
-    "2_ProceduralTerrain/LectureImages/Future/QGis.JPG",
     "0_Overview/Overview.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
     "1_ProceduralBuilding/ProceduralBuildingLecture.canvas",
     "2_ProceduralTerrain/README.md",
     "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-signals.md",
