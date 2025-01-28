@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+                "file": "3_ParticlesPoints/ParticlesPoints.canvas",
                 "viewState": {
-                  "x": -67.10450312328356,
-                  "y": -162.6876052113874,
-                  "zoom": -0.9274004418114727
+                  "x": -652.6231879622669,
+                  "y": -466.56797910729756,
+                  "zoom": -1.7011877189678366
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralFoliageSpreadGrowth"
+              "title": "ParticlesPoints"
             }
           }
         ]
@@ -167,23 +167,24 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
+    "4_ParticlesVolumes/ParticlesVolumes.canvas",
+    "3_ParticlesPoints/LectureExamples/FractureShortestPath/backup/FractureShortestPath_bak53.hipnc",
+    "3_ParticlesPoints/LectureExamples/FractureShortestPath/backup/FractureShortestPath_bak52.hipnc",
+    "3_ParticlesPoints/LectureExamples/FractureShortestPath/backup/FractureShortestPath_bak51.hipnc",
+    "3_ParticlesPoints/LectureExamples/FractureShortestPath/backup/FractureShortestPath_bak50.hipnc",
+    "3_ParticlesPoints/LectureExamples/FractureShortestPath/backup/FractureShortestPath_bak49.hipnc",
+    "3_ParticlesPoints/LectureExamples/FractureShortestPath/backup/FractureShortestPath_bak48.hipnc",
+    "3_ParticlesPoints/LectureExamples/FractureShortestPath/backup/FractureShortestPath_bak47.hipnc",
+    "3_ParticlesPoints/LectureExamples/FractureShortestPath/backup/FractureShortestPath_bak46.hipnc",
+    "3_ParticlesPoints/LectureExamples/FractureShortestPath/backup/FractureShortestPath_bak45.hipnc",
+    "3_ParticlesPoints/LectureExamples/FractureShortestPath/backup/FractureShortestPath_bak44.hipnc",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "5_FoliageSpreadGrowth/LectureImages/References/ph4.jpg",
     "5_FoliageSpreadGrowth/LectureImages/References/ph3.jpg",
     "5_FoliageSpreadGrowth/LectureImages/References/ph2.jpg",
     "5_FoliageSpreadGrowth/LectureImages/References/ph1.jpg",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak22.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak21.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak20.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak19.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak18.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak17.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak16.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak15.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak14.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak13.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/tex/Rocky Land and Rivers/HeightMap.png",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/tex/Rocky Land and Rivers/Rocky-Land-and-Rivers-Image.png",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/tex/Rocky Land and Rivers/Height Map PNG.png",
@@ -192,7 +193,6 @@
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "0_Intro/Intro.canvas",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Instancing.JPG",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Water.JPG",
     "0_Overview/Overview.canvas",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",

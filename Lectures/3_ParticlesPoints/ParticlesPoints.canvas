@@ -5,7 +5,7 @@
 		{"id":"c30be6c7ee79aa81","type":"link","url":"https://entagma.com/tag/growth/","x":-800,"y":-1040,"width":960,"height":800},
 		{"id":"b1ca38973d321064","type":"link","url":"https://www.youtube.com/watch?v=siL-sbLTGe8","x":320,"y":-600,"width":640,"height":360},
 		{"id":"c91ab4723d11146e","type":"text","text":"# Procedural Modeling Lecture: Points, Particles and Lines\n\nLovro Bosnar\nDate:\nlovrobosnar@work.gmail.com","x":-3891,"y":-226,"width":991,"height":166},
-		{"id":"82cf5b5d183767f9","x":-2242,"y":-166,"width":250,"height":60,"type":"text","text":"* Shortest path in voronoi fracture"}
+		{"id":"82cf5b5d183767f9","type":"text","text":"* Shortest path in voronoi fracture\n* POPs","x":-2242,"y":-166,"width":522,"height":106}
 	],
 	"edges":[]
 }
