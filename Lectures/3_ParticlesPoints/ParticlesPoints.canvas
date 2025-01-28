@@ -1,8 +1,9 @@
 {
 	"nodes":[
 		{"id":"a91517f3cc2b91d3","type":"link","url":"https://inconvergent.net/2016/shepherding-random-growth/","x":80,"y":0,"width":1240,"height":920},
-		{"id":"6dd6e08faec1e555","x":-1040,"y":0,"width":880,"height":920,"type":"link","url":"https://www.sidefx.com/learn/collections/applied-houdini-particles/"},
-		{"id":"c30be6c7ee79aa81","x":-800,"y":-1040,"width":960,"height":800,"type":"link","url":"https://entagma.com/tag/growth/"}
+		{"id":"6dd6e08faec1e555","type":"link","url":"https://www.sidefx.com/learn/collections/applied-houdini-particles/","x":-1040,"y":0,"width":880,"height":920},
+		{"id":"c30be6c7ee79aa81","type":"link","url":"https://entagma.com/tag/growth/","x":-800,"y":-1040,"width":960,"height":800},
+		{"id":"b1ca38973d321064","x":320,"y":-600,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=siL-sbLTGe8"}
 	],
 	"edges":[]
 }
