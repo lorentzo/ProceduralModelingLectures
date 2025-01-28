@@ -106,7 +106,7 @@ Topics and concepts:
 
 Organic volume shapes             |  Volumetric natural phenomena
 :-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesVolumes/LectureImages/Volume/lovro-bosnar-colorfulsmoke-opengl1-0071.jpg) | ![](Lectures/3_ParticlesVolumes/LectureImages/Volume/lovro-bosnar-volumelines-karmarendersettings1-0001.jpg)
+![](Lectures/4_ParticlesVolumes/LectureImages/Volume/lovro-bosnar-colorfulsmoke-opengl1-0071.jpg) | ![](Lectures/4_ParticlesVolumes/LectureImages/Volume/lovro-bosnar-volumelines-karmarendersettings1-0001.jpg)
 
 ### Lecture 1.4: Procedural Particle and point based Modeling: Abstract and Natural Phenomena
 
@@ -146,11 +146,11 @@ Topics and concepts:
 
 Example of foliage growth and spread 1.1             |  Example of foliage growth and spread 1.2
 :-------------------------:|:-------------------------:
-![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph1.jpg)  |  ![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph2.jpg)
+![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph2.jpg)
 
 Example of foliage growth and spread 2.1             |  Example of foliage growth and spread 2.2
 :-------------------------:|:-------------------------:
-![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph3.jpg)  |  ![](Lectures/4_FoliageSpreadGrowth/LectureImages/References/4_FoliageGrowthSpread/ph4.jpg)
+![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph3.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph4.jpg)
 
 ## Part 2: Procedural Modeling and Dynamics (WIP)
 

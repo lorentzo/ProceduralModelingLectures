@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2_ProceduralTerrain/ProceduralTerrain.canvas",
+                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
                 "viewState": {
-                  "x": -3191.535727374797,
-                  "y": 1361.2511223472814,
-                  "zoom": -3.3333333333333335
+                  "x": -67.10450312328356,
+                  "y": -162.6876052113874,
+                  "zoom": -0.9274004418114727
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralTerrain"
+              "title": "ProceduralFoliageSpreadGrowth"
             }
           }
         ]
@@ -167,6 +167,13 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
+    "5_FoliageSpreadGrowth/LectureImages/References/ph4.jpg",
+    "5_FoliageSpreadGrowth/LectureImages/References/ph3.jpg",
+    "5_FoliageSpreadGrowth/LectureImages/References/ph2.jpg",
+    "5_FoliageSpreadGrowth/LectureImages/References/ph1.jpg",
+    "4_ParticlesVolumes/ParticlesVolumes.canvas",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak22.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak21.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak20.hipnc",
@@ -177,7 +184,6 @@
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak15.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak14.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak13.hipnc",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/backup/MeshMapDisplacement_bak12.hipnc",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/tex/Rocky Land and Rivers/HeightMap.png",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/tex/Rocky Land and Rivers/Rocky-Land-and-Rivers-Image.png",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/tex/Rocky Land and Rivers/Height Map PNG.png",
@@ -185,13 +191,8 @@
     "2_ProceduralTerrain/Examples/LectureExamples/MeshMapDisplacement/tex/Rocky Land and Rivers/Rocky Land and Rivers/Height Map PNG.png",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "0_Intro/Intro.canvas",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Instancing.JPG",
     "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Water.JPG",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/TerrainGeometryGroupsColor.JPG",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/TerrainGeometryGroups.JPG",
-    "2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/TerrainGeometry.JPG",
     "0_Overview/Overview.canvas",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
     "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
