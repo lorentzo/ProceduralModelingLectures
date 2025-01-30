@@ -8,7 +8,8 @@
 		{"id":"c689e50685d9583c","type":"link","url":"https://www.sidefx.com/docs/houdini/nodes/sop/lsystem","x":1901,"y":180,"width":400,"height":400},
 		{"id":"66a2a97116ac1faf","type":"link","url":"https://www.youtube.com/watch?v=0vE8GiXhOWM","x":2360,"y":220,"width":640,"height":360},
 		{"id":"55ad149f1279fc09","type":"link","url":"https://www.youtube.com/watch?v=CgxTCpUqp5Q","x":2360,"y":640,"width":640,"height":360},
-		{"id":"378df91ad12fa932","type":"link","url":"https://www.youtube.com/watch?v=b-DDdGcvBaI","x":1581,"y":760,"width":640,"height":360}
+		{"id":"378df91ad12fa932","type":"link","url":"https://www.youtube.com/watch?v=b-DDdGcvBaI","x":1581,"y":760,"width":640,"height":360},
+		{"id":"db80cc1288d32bd4","type":"text","text":"TODO:\n* Branching structures:\n\t* L-Systems\n\t* Shortest paths in voronoi fracture\n* Organic structures:\n\t* Fracture edges sweep\n\t* Dual mesh from volume or fracture\n* Spread\n\t* Pyro spread\n* Growth\n\t* Attr scaling","x":300,"y":-100,"width":420,"height":400,"color":"1"}
 	],
 	"edges":[]
 }
