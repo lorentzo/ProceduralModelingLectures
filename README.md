@@ -91,13 +91,42 @@ Mesh-based terrain using noise 2.1            |  Mesh-based terrain using noise 
 :-------------------------:|:-------------------------:
 ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r1.png)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r2.png)
 
-### Lecture 1.3: Procedural Volume-based Modeling: Organic and Natural Phenomena
+### Lecture 1.3: Procedural Particle and point based Modeling: Abstract and Natural Phenomena
 
 Topics and concepts:
-* Understanding volumetric shapes
+
+
+* Guiding particles via animated noise vector fields
+* Particles from surface geometry and attribute inheriance/transfer
+* Surface flow
+---
+* Lines from particles
+* Instancing on particles
+---
+* Iterative, feedback loop systems 
+* Complex systems, chaos and strange attractors 
+---
+* Boids
+* Grains, sand 
+
+Example 1             |  Example 2
+:-------------------------:|:-------------------------:
+![](Lectures/3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/VectorFieldsSourcing_Lines.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/VectorFieldsSourcing_Particles.jpg)
+
+Example 1             |  Example 2
+:-------------------------:|:-------------------------:
+![](Lectures/3_ParticlesPoints/LectureExamples/CurlVectorFieldGuide/render/CurlPoints.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/CurlVectorFieldGuide/render/CurlTrails.jpg)
+
+Example 1             |  Example 2
+:-------------------------:|:-------------------------:
+![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceFlow/render/trails.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceFlow/render/points.JPG)
+
+### Lecture 1.4: Procedural Volume-based Modeling: Organic and Natural Phenomena
+
+Topics and concepts:
+* Volumetric representation vs other representations
 * Organic modeling techniques
 * Complex natural phenomena and shapes: clouds, rocks, biology, geology, geomorphology and arhitecture
-* Procedural animation/motion using volumes
 * Volume from points, surface and SDF
 * Animated vector field for volume displacement
 * Attribute transfer and animated geo attributes
@@ -107,27 +136,6 @@ Topics and concepts:
 Organic volume shapes             |  Volumetric natural phenomena
 :-------------------------:|:-------------------------:
 ![](Lectures/4_ParticlesVolumes/LectureImages/Volume/lovro-bosnar-colorfulsmoke-opengl1-0071.jpg) | ![](Lectures/4_ParticlesVolumes/LectureImages/Volume/lovro-bosnar-volumelines-karmarendersettings1-0001.jpg)
-
-### Lecture 1.4: Procedural Particle and point based Modeling: Abstract and Natural Phenomena
-
-Topics and concepts:
-* Procedural animation/motion using particles and points
-* Guiding particles via vector fields and volumes
-* Particles and animated vector (force or velocity) fields using noise
-* Guiding particles via vector fields 
-* Instancing on particles and trails/lines
-* Geometry from particles
-* Attribute transfer and animated geo attributes
-* Procedural abstract and natural phenomena modeling
-* Iterative, feedback loop systems 
-* Complex systems and chaos
-* Attractors and vector fields
-* Boids
-* Grains, sand 
-
-Abstract shape using particle trails             |  Abstract natural phenomena
-:-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureImages/ParticleExamples/lovro-bosnar-attractorlines1.jpg) | ![](Lectures/3_ParticlesPoints/LectureImages/ParticleExamples/lovro-bosnar-c6.jpg)
 
 
 ### Lecture 1.5: Procedural Foliage, Growth and Spread Modeling
