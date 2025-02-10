@@ -95,10 +95,11 @@ Mesh-based terrain using noise 2.1            |  Mesh-based terrain using noise 
 
 Topics and concepts:
 
-
 * Guiding particles via animated noise vector fields
 * Particles from surface geometry and attribute inheriance/transfer
 * Surface flow
+* Collisions and collision detection
+* Guiding curves
 ---
 * Lines from particles
 * Instancing on particles
@@ -119,7 +120,7 @@ Curl guide 1             |  Curl guide  2
 
 Surface flow 1             |  Surface flow 2
 :-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceFlow/render/trails.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceFlow/render/points.JPG)
+![](Lectures/3_ParticlesPoints/LectureExamples/CurveForceEmission/render/Close.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceFlow/render/points.JPG)
 
 Inheriance and collisions             |  Attractors
 :-------------------------:|:-------------------------:
