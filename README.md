@@ -109,17 +109,21 @@ Topics and concepts:
 * Boids
 * Grains, sand 
 
-Example 1             |  Example 2
+Vector field guide 1             |  Vector field guide 2
 :-------------------------:|:-------------------------:
 ![](Lectures/3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/VectorFieldsSourcing_Lines.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/VectorFieldsSourcing_Particles.jpg)
 
-Example 1             |  Example 2
+Curl guide 1             |  Curl guide  2
 :-------------------------:|:-------------------------:
 ![](Lectures/3_ParticlesPoints/LectureExamples/CurlVectorFieldGuide/render/CurlPoints.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/CurlVectorFieldGuide/render/CurlTrails.jpg)
 
-Example 1             |  Example 2
+Surface flow 1             |  Surface flow 2
 :-------------------------:|:-------------------------:
 ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceFlow/render/trails.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceFlow/render/points.JPG)
+
+Inheriance and collisions             |  Attractors
+:-------------------------:|:-------------------------:
+![](Lectures/3_ParticlesPoints/LectureExamples/InheritanceCollisions/render/InheritanceCollisions.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/Attractors/render/Attractors.karmarendersettings.0171.JPG)
 
 ### Lecture 1.4: Procedural Volume-based Modeling: Organic and Natural Phenomena
 
