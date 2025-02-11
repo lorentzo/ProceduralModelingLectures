@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "3_ParticlesPoints/ParticlesPoints.canvas",
+                "file": "0_Overview/Overview.canvas",
                 "viewState": {
-                  "x": 3384.5777477206584,
-                  "y": 931.7405776021546,
-                  "zoom": -1
+                  "x": -2390.202882173578,
+                  "y": -2537.547914198461,
+                  "zoom": -2.3333333333333326
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ParticlesPoints"
+              "title": "Overview"
             }
           }
         ]
@@ -168,29 +168,29 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
-    "3_ParticlesPoints/LectureExamples/InheritanceCollisions/backup/InheritanceCollisions_bak114.hipnc",
-    "3_ParticlesPoints/LectureExamples/InheritanceCollisions/backup/InheritanceCollisions_bak113.hipnc",
-    "3_ParticlesPoints/LectureExamples/InheritanceCollisions/backup/InheritanceCollisions_bak112.hipnc",
-    "3_ParticlesPoints/LectureExamples/InheritanceCollisions/backup/InheritanceCollisions_bak111.hipnc",
-    "3_ParticlesPoints/LectureExamples/InheritanceCollisions/backup/InheritanceCollisions_bak110.hipnc",
-    "3_ParticlesPoints/LectureExamples/InheritanceCollisions/backup/InheritanceCollisions_bak109.hipnc",
-    "3_ParticlesPoints/LectureExamples/InheritanceCollisions/backup/InheritanceCollisions_bak108.hipnc",
-    "3_ParticlesPoints/LectureExamples/InheritanceCollisions/backup/InheritanceCollisions_bak107.hipnc",
-    "3_ParticlesPoints/LectureExamples/InheritanceCollisions/backup/InheritanceCollisions_bak106.hipnc",
-    "3_ParticlesPoints/LectureExamples/InheritanceCollisions/backup/InheritanceCollisions_bak105.hipnc",
-    "3_ParticlesPoints/LectureExamples/InheritanceCollisions/backup/InheritanceCollisions_bak104.hipnc",
-    "3_ParticlesPoints/LectureExamples/CurveForceEmission/render/Far.jpg",
-    "3_ParticlesPoints/LectureExamples/CurveForceEmission/render/Close.jpg",
-    "3_ParticlesPoints/LectureExamples/CurveForceEmission/render/CurveForceEmission.karmarendersettings.0320.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTangentFlow/render/Close.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTangentFlow/render/SurfaceTangentFlow.karmarendersettings.0320.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTangentFlow/render/Far.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTangentFlow/render/SurfaceTangentFlow.karmarendersettings.0323.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTangentFlow/render/SurfaceTangentFlow.karmarendersettings.0067.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTangentFlow/render/SurfaceTangentFlow.karmarendersettings.0129.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTangentFlow/render/SurfaceTangentFlow.karmarendersettings.0193.jpg",
-    "0_Overview/Overview.canvas",
+    "0_Overview/Images/ProceduralBuilding.jpg",
+    "0_Overview/Images/ProceduralBuilding.jpg.crdownload",
+    "0_Overview/Images/ProceduralMaterial.jpg",
+    "0_Overview/Images/ProceduralMaterial.jpg.crdownload",
+    "0_Overview/Images/AudioSurf.jpg",
+    "0_Overview/Images/AudioSurf.jpg.crdownload",
+    "0_Overview/Images/UnityVFXGraph.jpg",
+    "0_Overview/Images/UnityVFXGraph.jpg.crdownload",
+    "0_Overview/Images/blender.png",
+    "0_Overview/Images/blender.png.crdownload",
+    "0_Overview/Images/SpeedTree.jpg",
+    "0_Overview/Images/SpeedTree.jpg.crdownload",
+    "0_Overview/Images/~inkingCity_ProceduralUrban.tmp",
+    "0_Overview/Images/SinkingCity_ProceduralUrban.JPG",
+    "0_Overview/Images/~inecraft_procedural_level.tmp",
+    "0_Overview/Images/minecraft_procedural_level.JPG",
+    "0_Overview/Images/spelunky_procedural_platforms.jpg",
+    "0_Overview/Images/spelunky_procedural_platforms.jpg.crdownload",
+    "0_Overview/Images/diablo_procedural_level.jpg",
+    "0_Overview/Images/diablo_procedural_level.jpg.crdownload",
+    "0_Overview/Images/noita.jpg",
     "3_ParticlesPoints/ParticlesPoints.canvas",
+    "0_Overview/Overview.canvas",
     "4_ParticlesVolumes/ParticlesVolumes.canvas",
     "0_Intro/Intro.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",

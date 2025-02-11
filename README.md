@@ -38,8 +38,13 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 
 ### Overview of Procedural Modeling
 
+* Explaining why using procedural modeling for content generation
+* Explaining what can be generated procedurally
+* Structuring procedural content generation methods
 * Broad overview of procedural modeling techniques and concepts
 * Follow-up practical examples
+* Evaluating procedurally generated content
+* Future learning
 
 ## Part 1: Procedural Modeling
 
