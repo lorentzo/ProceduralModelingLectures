@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0_Overview/Overview.canvas",
+                "file": "2_ProceduralTerrain/ProceduralTerrain.canvas",
                 "viewState": {
-                  "x": 6408.0831377930945,
-                  "y": -3478.3089346418965,
-                  "zoom": -0.333333333333333
+                  "x": 7679.070339724636,
+                  "y": 8498.42221174513,
+                  "zoom": -3.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Overview"
+              "title": "ProceduralTerrain"
             }
           }
         ]
@@ -168,13 +168,14 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
+    "4_ParticlesVolumes/ParticlesVolumes.canvas",
+    "0_Overview/Overview.canvas",
     "0_Overview/Images/~CNG2.tmp",
     "0_Overview/Images/MCNG2.JPG",
     "0_Overview/Images/~CNG1.tmp",
     "0_Overview/Images/MCNG1.JPG",
     "0_Intro/Intro.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
-    "0_Overview/Overview.canvas",
     "0_Overview/Images/ShapeGrammar.JPG",
     "0_Overview/Images/~raphGrammars2.tmp",
     "0_Overview/Images/GraphGrammars2.JPG",
@@ -191,9 +192,7 @@
     "0_Overview/Images/Cellular.png",
     "0_Overview/Images/Cellular.png.crdownload",
     "0_Overview/Images/random.png.crdownload",
-    "0_Overview/Images/ControllableNoise.jpg.crdownload",
     "3_ParticlesPoints/ParticlesPoints.canvas",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",

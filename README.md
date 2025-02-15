@@ -30,7 +30,7 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 
 ## Introduction
 
-###  Introduction to Lectures and Procedural Modeling
+### Introduction to Lectures and Procedural Modeling
 
 * About lectures, syllabus and overview
 * Big picture: about procedural modeling and Houdini workflow intuition
@@ -45,6 +45,10 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 * Follow-up practical examples
 * Evaluating procedurally generated content
 * Future learning
+
+Noise surface modeling 1             |  Noise surface modeling 2
+:-------------------------:|:-------------------------:
+![](Lectures/0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/render/NoiseSurfaceModeling1.jpg)  |  ![](Lectures/0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/render/NoiseSurfaceModeling2.jpg)
 
 ## Part 1: Procedural Modeling
 
