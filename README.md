@@ -138,7 +138,7 @@ Inheriance and collisions             |  Attractors
 ### Lecture 1.4: Procedural Volume-based Modeling: Organic and Natural Phenomena
 
 Topics and concepts:
-* Volumetric representation vs other representations
+* Volumetric representation (voxels and SDF) vs other representations (mesh, particles, points, etc.)
 * Organic modeling techniques
 * Complex natural phenomena and shapes: clouds, rocks, biology, geology, geomorphology and arhitecture
 * Volume from points, surface and SDF
@@ -146,6 +146,18 @@ Topics and concepts:
 * Attribute transfer and animated geo attributes
 * Morphing: transformations and generation of geometry
 * Iterative systems and chaos
+
+Volumes and particles             |  Volumes and particles
+:-------------------------:|:-------------------------:
+![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/ParticlesVolumes1.jpg) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/ParticlesVolumes2.jpg)
+
+Organic volume shapes abstract interpolation             |  Volumetric abstract interpolation
+:-------------------------:|:-------------------------:
+![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeDensityNoise.jpg) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeFilledSpheres.jpg)
+
+Organic volume shapes abstract interpolation             |  Volumetric fracture
+:-------------------------:|:-------------------------:
+![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeFilledSpheresRemeshed.jpg) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeFracture.jpg)
 
 Organic volume shapes             |  Volumetric natural phenomena
 :-------------------------:|:-------------------------:
