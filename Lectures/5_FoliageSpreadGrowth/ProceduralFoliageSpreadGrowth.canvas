@@ -11,7 +11,7 @@
 		{"id":"a303b82aae2bfae2","type":"link","url":"https://extensions.blender.org/add-ons/tissue/","x":1061,"y":820,"width":400,"height":400},
 		{"id":"edb946dbf55e6f41","type":"text","text":"# Procedural modeling lectures: foliage, spread and growth","x":-1280,"y":61,"width":1000,"height":79},
 		{"id":"1bcec3010768231c","type":"text","text":"Lovro Bosnar\nDate:","x":-1280,"y":180,"width":250,"height":60},
-		{"id":"db80cc1288d32bd4","type":"text","text":"TODO:\n* Practical examples:\n\t* Growth inside volume of letter\n\t* Structured to abstract interpolation: font letter mesh on which growth is performed using transfer attrib\n\t\t* https://www.youtube.com/watch?v=XdTYybJDDDI\n* Branching structures:\n\t* L-Systems\n\t* Shortest paths in voronoi fracture\n* Organic structures:\n\t* Fracture edges sweep\n\t* Dual mesh from volume or fracture\n* Spread\n\t* Pyro spread\n* Growth\n\t* Attr scaling","x":-40,"y":140,"width":560,"height":500,"color":"1"}
+		{"id":"db80cc1288d32bd4","type":"text","text":"TODO:\n* Practical examples:\n\t* Growth inside volume of letter\n\t* Structured to abstract interpolation: font letter mesh on which growth is performed using transfer attrib as reactive collision system\n\t\t* https://www.youtube.com/watch?v=XdTYybJDDDI\n* Branching structures:\n\t* L-Systems\n\t* Shortest paths in voronoi fracture\n* Organic structures:\n\t* Fracture edges sweep\n\t* Dual mesh from volume or fracture\n* Spread\n\t* Pyro spread\n* Growth\n\t* Attr scaling","x":-40,"y":140,"width":560,"height":580,"color":"1"}
 	],
 	"edges":[]
 }

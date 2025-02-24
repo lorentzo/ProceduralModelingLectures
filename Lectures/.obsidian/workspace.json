@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "4_ParticlesVolumes/ParticlesVolumes.canvas",
+                "file": "0_Overview/Overview.canvas",
                 "viewState": {
-                  "x": 904.1440783658948,
-                  "y": 1394.718624181105,
-                  "zoom": -2.5675253210256472
+                  "x": -9379.611720587487,
+                  "y": -1500.0268487883625,
+                  "zoom": -2.666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ParticlesVolumes"
+              "title": "Overview"
             }
           }
         ]
@@ -168,8 +168,12 @@
   },
   "active": "84147a981a564daf",
   "lastOpenFiles": [
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/ParticlesVolumes1.jpg",
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "0_Overview/Overview.canvas",
     "4_ParticlesVolumes/ParticlesVolumes.canvas",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/ParticlesVolumes1.jpg",
     "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/ParticlesVolumes2.jpg",
     "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/backup/ParticlesVolumes_bak71.hipnc",
     "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/backup/ParticlesVolumes_bak70.hipnc",
@@ -188,11 +192,7 @@
     "4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeDensityNoise.jpg",
     "4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeFilledSpheresRemeshed.jpg",
     "4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeFilledSpheres.jpg",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
-    "0_Overview/Overview.canvas",
     "0_Overview/Images/MCNG2.JPG",
     "0_Intro/Intro.canvas",
     "3_ParticlesVolumes/ParticlesVolumes.canvas",
