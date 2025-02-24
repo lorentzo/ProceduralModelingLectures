@@ -135,6 +135,10 @@ Inheriance and collisions             |  Attractors
 :-------------------------:|:-------------------------:
 ![](Lectures/3_ParticlesPoints/LectureExamples/InheritanceCollisions/render/InheritanceCollisions.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/Attractors/render/Attractors.karmarendersettings.0171.JPG)
 
+Particles curve guid             |  Particles collision
+:-------------------------:|:-------------------------:
+![](Lectures/3_ParticlesPoints/LectureExamples/ParticleGuideCollision/render/ParticleGuidCollision1.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/ParticleGuideCollision/render/ParticleGuidCollision1.jpg)
+
 ### Lecture 1.4: Procedural Volume-based Modeling: Organic and Natural Phenomena
 
 Topics and concepts:
