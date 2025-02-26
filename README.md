@@ -190,9 +190,31 @@ Example of foliage growth and spread 2.1             |  Example of foliage growt
 :-------------------------:|:-------------------------:
 ![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph3.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph4.jpg)
 
+### Lecture 1.6. Procedural 2D Motion Graphics and UI
+
+Topics and concepts:
+* Design and development of UI graphics; using base shapes and adding complexity
+* Animated UI graphics and UI FX
+* 3D procedural modeling for 2D motion graphics
+
+3D modeling for 2D motion graphics             |  3D modeling for 2D motion graphics
+:-------------------------:|:-------------------------:
+![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_background.jpg)  | ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_background2.jpg)
+
+3D modeling for 2D motion graphics             |  3D modeling for 2D motion graphics |  3D modeling for 2D motion graphics
+:-------------------------:|:-------------------------:|:-------------------------:
+![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_node1.png)  |  ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_node2.png) |  ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_node2.png) 
+
+UI graphics             |  UI graphics |  UI graphics
+:-------------------------:|:-------------------------:|:-------------------------:
+![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui1.png)  |  ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui2.png) |  ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui5.png) 
+
+
 ## Part 2: Procedural Modeling and Dynamics (WIP)
 
 Combining procedural modeling (Phenomenological approach) with feedback loop, simulation, forces, velocities, positions and constraints (physically-based, classical mechanics methods for CG).
+
+References: https://graphics.stanford.edu/courses/cs348c/
 
 ### Lecture 2.1: Procedural Modeling and Rigid Body Simulation
 
@@ -201,7 +223,7 @@ Topics and concepts:
 * Rigid body collisions and contact
 * Rigid body fracture and animation via simulation
 * Procedurally guided physically-based dynamics
-* RBD solvers
+* RBD solvers: Bullet, Open Dynamics Engine, built-in
 
 R&D:
 * https://docs.blender.org/manual/en/latest/addons/object/cell_fracture.html
@@ -219,6 +241,7 @@ Topics and concepts:
 * Procedural vector field as external force field
 * Soft bodies simulation
 * Deformation on collision and contact
+* Soft body solvers: finite elements methods, position based dynamics
 
 R&D:
 * https://matthias-research.github.io/pages/publications/posBasedDyn.pdf
@@ -272,9 +295,6 @@ TODO
 ### Lecture 3.2 Proceduralism and Cloth Modeling
 TODO
 
-### Lecture 3.3 Proceduralism and Crowds Modeling
-TODO
-
 # Resources 
 
 * SideFX; Houdini: https://www.sidefx.com/learn/getting_started/, https://www.sidefx.com/docs/houdini/
@@ -290,5 +310,8 @@ TODO
 * Procedural animation using sound
 * Procedural reactive systems (reaction to sound, collision or interaction)
 * Procedural interactive models
-* Procedural modeling and advanced physically-based simulation
+* Advanced physically-based simulation
+  * Other solid material types: snow, soil, mud, concrete, metal, jello, rubber, water, honey, and sand
+  * Other material types: https://en.wikipedia.org/wiki/Continuum_mechanics
 * Procedural modeling and computational design
+* Procedural crowds modeling (CFX)

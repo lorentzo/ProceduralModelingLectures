@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dfc7241b1c7fbcc0","x":-640,"y":-45,"width":720,"height":105,"type":"text","text":"# Procedural 2D Motion Graphics and UI"},
+		{"id":"d86fabd79d1aac4c","x":-640,"y":80,"width":250,"height":60,"type":"text","text":"Lovro Bosnar\nDate:"},
+		{"id":"a321584368bbe0a0","x":1320,"y":-920,"width":1107,"height":731,"type":"link","url":"https://www.pinterest.com/pin/319614904823096377/"},
+		{"id":"d2cc805a9d8bd556","x":1320,"y":-100,"width":1107,"height":740,"type":"link","url":"https://medium.com/@sashamartinsen/generative-fui-technique-d230cc2ac276"},
+		{"id":"8638414b3e64e4fb","x":2520,"y":-920,"width":1040,"height":731,"type":"link","url":"https://www.artstation.com/search?sort_by=relevance&query=UI"},
+		{"id":"ccd750e738946cf0","x":2520,"y":-100,"width":1040,"height":740,"type":"link","url":"https://www.artstation.com/artwork/b9J2o"}
+	],
+	"edges":[]
+}
