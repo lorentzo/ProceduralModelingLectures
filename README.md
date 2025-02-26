@@ -1,5 +1,7 @@
 # Procedural Modeling Lectures
 
+Procedural modeling = modeling algorithmically!
+
 Procedural modeling lectures for both **tech** and **art** students (AKA STEAM lectures).
 
 Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
@@ -115,9 +117,6 @@ Topics and concepts:
 ---
 * Iterative, feedback loop systems 
 * Complex systems, chaos and strange attractors 
----
-* Boids
-* Grains, sand 
 
 Vector field guide 1             |  Vector field guide 2
 :-------------------------:|:-------------------------:
@@ -137,7 +136,7 @@ Inheriance and collisions             |  Attractors
 
 Particles curve guid             |  Particles collision
 :-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/ParticleGuideCollision/render/ParticleGuidCollision1.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/ParticleGuideCollision/render/ParticleGuidCollision1.jpg)
+![](Lectures/3_ParticlesPoints/LectureExamples/ParticleGuideCollision/render/ParticleGuidCollision1.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/ParticleGuideCollision/render/ParticleGuidCollision2.jpg)
 
 ### Lecture 1.4: Procedural Volume-based Modeling: Organic and Natural Phenomena
 
@@ -313,5 +312,8 @@ TODO
 * Advanced physically-based simulation
   * Other solid material types: snow, soil, mud, concrete, metal, jello, rubber, water, honey, and sand
   * Other material types: https://en.wikipedia.org/wiki/Continuum_mechanics
+  * Additional dynamics: https://en.wikipedia.org/wiki/Classical_mechanics
+* Advanced particle systems:
+  * boids
 * Procedural modeling and computational design
 * Procedural crowds modeling (CFX)
