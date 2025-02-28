@@ -189,6 +189,10 @@ Example of foliage growth and spread 2.1             |  Example of foliage growt
 :-------------------------:|:-------------------------:
 ![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph3.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph4.jpg)
 
+Branching structures:          |  Branching structures:
+:-------------------------:|:-------------------------:
+![](Lectures/5_FoliageSpreadGrowth/LectureExamples/ShapeGrowth/render/ShapeGrowth1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/ShapeGrowth/render/ShapeGrowth1.jpg)
+
 ### Lecture 1.6. Procedural 2D Motion Graphics and UI
 
 Topics and concepts:

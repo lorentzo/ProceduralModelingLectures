@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"dfc7241b1c7fbcc0","x":-640,"y":-45,"width":720,"height":105,"type":"text","text":"# Procedural 2D Motion Graphics and UI"},
-		{"id":"d86fabd79d1aac4c","x":-640,"y":80,"width":250,"height":60,"type":"text","text":"Lovro Bosnar\nDate:"},
-		{"id":"a321584368bbe0a0","x":1320,"y":-920,"width":1107,"height":731,"type":"link","url":"https://www.pinterest.com/pin/319614904823096377/"},
-		{"id":"d2cc805a9d8bd556","x":1320,"y":-100,"width":1107,"height":740,"type":"link","url":"https://medium.com/@sashamartinsen/generative-fui-technique-d230cc2ac276"},
-		{"id":"8638414b3e64e4fb","x":2520,"y":-920,"width":1040,"height":731,"type":"link","url":"https://www.artstation.com/search?sort_by=relevance&query=UI"},
-		{"id":"ccd750e738946cf0","x":2520,"y":-100,"width":1040,"height":740,"type":"link","url":"https://www.artstation.com/artwork/b9J2o"}
+		{"id":"a321584368bbe0a0","type":"link","url":"https://www.pinterest.com/pin/319614904823096377/","x":1320,"y":-920,"width":1107,"height":731},
+		{"id":"d2cc805a9d8bd556","type":"link","url":"https://medium.com/@sashamartinsen/generative-fui-technique-d230cc2ac276","x":1320,"y":-100,"width":1107,"height":740},
+		{"id":"8638414b3e64e4fb","type":"link","url":"https://www.artstation.com/search?sort_by=relevance&query=UI","x":2520,"y":-920,"width":1040,"height":731},
+		{"id":"ccd750e738946cf0","type":"link","url":"https://www.artstation.com/artwork/b9J2o","x":2520,"y":-100,"width":1040,"height":740},
+		{"id":"a242791f778981d5","type":"link","url":"https://www.youtube.com/watch?v=yvafmc5_u6w","x":520,"y":-840,"width":640,"height":360},
+		{"id":"5b2cbd08c8cdec1b","type":"link","url":"https://www.sidefx.com/docs/houdini/model/attributes.html","x":440,"y":-389,"width":400,"height":400},
+		{"id":"8875fbc9be6d895c","type":"link","url":"https://www.sidefx.com/docs/houdini/vex/lang.html","x":440,"y":110,"width":400,"height":400},
+		{"id":"dfc7241b1c7fbcc0","type":"text","text":"# Procedural 2D Motion Graphics and UI","x":-1440,"y":-114,"width":720,"height":105},
+		{"id":"d86fabd79d1aac4c","type":"text","text":"Lovro Bosnar\nDate:","x":-1440,"y":11,"width":250,"height":60},
+		{"id":"46adada3b7899c23","type":"text","text":"TODO:\n* Text\n* Lines\n* Circular elements\n* Base shapes: circle, triangle, quad, etc.\n* Flattening 3D objects: making 3D part of 2D\n\t* Isolines\n\t\t* https://www.youtube.com/watch?v=Kl7495QGGI4\n\t\t* https://www.youtube.com/watch?v=C1jDbYW5_6I\n\t\t* https://www.youtube.com/watch?v=r2UNkR1ZNrQ\n\t* Wireframing\n\t* Plexus effect: https://www.youtube.com/watch?v=tj6ZZYO5qPY\n\t* VEX geo: https://www.youtube.com/watch?v=bR0V4bADRxY\n* Point clouds and visualization:\n\t* https://forums.odforce.net/topic/24635-point-clouds-vops-and-creating-edges/\n\t* https://www.youtube.com/watch?v=-Ydiq1fCRBs","x":-500,"y":-254,"width":640,"height":554,"color":"1"}
 	],
 	"edges":[]
 }
