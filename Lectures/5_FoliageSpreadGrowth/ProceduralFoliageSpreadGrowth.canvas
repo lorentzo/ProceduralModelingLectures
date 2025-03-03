@@ -6,20 +6,18 @@
 		{"id":"c689e50685d9583c","type":"link","url":"https://www.sidefx.com/docs/houdini/nodes/sop/lsystem","x":1901,"y":180,"width":400,"height":400},
 		{"id":"66a2a97116ac1faf","type":"link","url":"https://www.youtube.com/watch?v=0vE8GiXhOWM","x":2360,"y":220,"width":640,"height":360},
 		{"id":"55ad149f1279fc09","type":"link","url":"https://www.youtube.com/watch?v=CgxTCpUqp5Q","x":2360,"y":640,"width":640,"height":360},
-		{"id":"378df91ad12fa932","type":"link","url":"https://www.youtube.com/watch?v=b-DDdGcvBaI","x":1581,"y":760,"width":640,"height":360},
-		{"id":"be29d4e596126e65","type":"link","url":"https://www.youtube.com/watch?v=siL-sbLTGe8","x":941,"y":380,"width":640,"height":360},
-		{"id":"a303b82aae2bfae2","type":"link","url":"https://extensions.blender.org/add-ons/tissue/","x":1061,"y":820,"width":400,"height":400},
 		{"id":"edb946dbf55e6f41","type":"text","text":"# Procedural modeling lectures: foliage, spread and growth","x":-1280,"y":61,"width":1000,"height":79},
 		{"id":"1bcec3010768231c","type":"text","text":"Lovro Bosnar\nDate:","x":-1280,"y":180,"width":250,"height":60},
-		{"id":"db80cc1288d32bd4","type":"text","text":"TODO:\n* Practical examples:\n\t* Growth inside volume of letter: shortest path or leafs\n\t* Growth which forms letter shape\n\t* Structured to abstract interpolation: font letter mesh on which growth is performed using transfer attrib as reactive collision system\n\t\t* https://www.youtube.com/watch?v=XdTYybJDDDI\n* Branching structures:\n\t* L-Systems\n\t* Shortest paths in voronoi fracture\n* Organic structures:\n\t* Fracture edges sweep\n\t* Dual mesh from volume or fracture\n* Spread\n\t* Pyro spread\n* Growth\n\t* Attr scaling\n* Organic shaping\n\t* https://www.sidefx.com/docs/houdini/nodes/sop/polyspline.html\n\t* https://www.youtube.com/watch?v=-TsA7nmivfA","x":-40,"y":140,"width":680,"height":640,"color":"1"},
 		{"id":"f624434ef7d8dbb2","type":"text","text":"Practical examples","x":3701,"y":315,"width":250,"height":60},
-		{"id":"9bbf130a43d4c058","type":"file","file":"5_FoliageSpreadGrowth/LectureExamples/ShapeGrowth/render/ShapeGrowth.karmarendersettings.0001.jpg","x":4360,"y":-266,"width":400,"height":225},
-		{"id":"113b46363a6cd09c","x":4346,"y":57,"width":250,"height":60,"type":"text","text":"Spread"},
-		{"id":"bcb73d5c14c788ac","x":4338,"y":159,"width":250,"height":60,"type":"text","text":"Growth"}
+		{"id":"4b179c2758abf22c","type":"file","file":"5_FoliageSpreadGrowth/LectureExamples/VolumeGrowth/render/VolumeGrowth1.jpg","x":4338,"y":-240,"width":400,"height":225},
+		{"id":"db80cc1288d32bd4","type":"text","text":"TODO:\n* Practical examples:\n\t* Flower bloom:\n\t\t* https://www.youtube.com/watch?v=aUajIqvl6H4\n\t\t* https://www.youtube.com/watch?v=J2rDQtsTwzo\n\t\t* https://80.lv/articles/watch-these-stunning-light-pink-houdini-crafted-flowers-bloom/\n\t\t* https://www.youtube.com/watch?v=XYR6FrZ8SS0\n\t* Surface spread instancing leafs:\n\t\t* https://www.youtube.com/watch?v=EaupWrnkDnA\n\t\t* https://www.youtube.com/watch?v=b-DDdGcvBaI\n\t\t* VEX \n\t* Volume growth branching structure inside volume of letter: \n\t\t* shortest path: https://www.youtube.com/watch?v=siL-sbLTGe8\n\t\t* leafs\n\t* Surface growth branching structure\n\t\t* Remeshed surface of letter shapes\n\t* Surface morphology:\n\t\t* https://www.youtube.com/watch?v=SskbcoRXQd0\n\t* Reactive growth:\n\t\t* Structured to abstract interpolation: font letter mesh on which growth is performed using transfer attrib as reactive collision system\n\t\t* https://www.youtube.com/watch?v=XdTYybJDDDI\n* Concepts:\n\t* Branching structures:\n\t\t* L-Systems\n\t\t* Shortest paths in voronoi fracture\n\t* Organic structures:\n\t\t* Fracture edges sweep\n\t\t* Dual mesh from volume or fracture\n\t* Spread\n\t\t* Pyro spread\n\t* Growth\n\t\t* Attr scaling\n\t\t* https://entagma.com/tag/growth/\n\t* Organic shaping\n\t\t* https://www.sidefx.com/docs/houdini/nodes/sop/polyspline.html\n\t\t* https://www.youtube.com/watch?v=-TsA7nmivfA","x":-60,"y":-40,"width":680,"height":1200,"color":"1"},
+		{"id":"a303b82aae2bfae2","type":"link","url":"https://extensions.blender.org/add-ons/tissue/","x":1840,"y":640,"width":400,"height":400},
+		{"id":"113b46363a6cd09c","type":"text","text":"Spread","x":4413,"y":448,"width":250,"height":60},
+		{"id":"045e80b368e1aa1f","type":"file","file":"5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowth/render/SurfaceGrowth1.jpg","x":4338,"y":60,"width":400,"height":225}
 	],
 	"edges":[
-		{"id":"cd741f80d3aa9a81","fromNode":"f624434ef7d8dbb2","fromSide":"right","toNode":"9bbf130a43d4c058","toSide":"left"},
 		{"id":"a622651f45f2ae80","fromNode":"f624434ef7d8dbb2","fromSide":"right","toNode":"113b46363a6cd09c","toSide":"left"},
-		{"id":"918f5e4d79ea5d0e","fromNode":"f624434ef7d8dbb2","fromSide":"right","toNode":"bcb73d5c14c788ac","toSide":"left"}
+		{"id":"1106b20ed418af24","fromNode":"f624434ef7d8dbb2","fromSide":"right","toNode":"4b179c2758abf22c","toSide":"left"},
+		{"id":"52b8d71ee9c6c6c2","fromNode":"f624434ef7d8dbb2","fromSide":"right","toNode":"045e80b368e1aa1f","toSide":"left"}
 	]
 }

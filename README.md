@@ -170,16 +170,22 @@ Organic volume shapes             |  Volumetric natural phenomena
 ### Lecture 1.5: Procedural Foliage, Growth and Spread Modeling
 
 Topics and concepts:
+* Modeling and animating macro plant
+* Modeling flower bloom
+* Branching shapes/structures (iterative and recursive; e.g., trees, roots)
+* Modeling surface and volume growth
+* Modeling surface spread
 * Natural and biological systems
-* branching shapes/structures (iterative and recursive; e.g., trees, roots)
 * Procedural animation
-* surface and volume foliage spread and growth
 * Geometrical instancing and geo attributes
-* Foliage growth
 * Theoretical principles: SCA, Eden, L-Systems, DLA, reaction-diffusion
 * Animated surface with instances
 * Digital Morphogenesis
 * Cells and automation
+
+Branching structure volume growth:          |  Branching structure surface growth:
+:-------------------------:|:-------------------------:
+![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowth/render/VolumeGrowth1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowth/render/SurfaceGrowth1.jpg)
 
 Example of foliage growth and spread 1.1             |  Example of foliage growth and spread 1.2
 :-------------------------:|:-------------------------:
@@ -188,10 +194,6 @@ Example of foliage growth and spread 1.1             |  Example of foliage growt
 Example of foliage growth and spread 2.1             |  Example of foliage growth and spread 2.2
 :-------------------------:|:-------------------------:
 ![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph3.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph4.jpg)
-
-Branching structures:          |  Branching structures:
-:-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureExamples/ShapeGrowth/render/ShapeGrowth1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/ShapeGrowth/render/ShapeGrowth1.jpg)
 
 ### Lecture 1.6. Procedural 2D Motion Graphics and UI
 

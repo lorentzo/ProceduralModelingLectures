@@ -1,27 +1,27 @@
 {
   "main": {
-    "id": "09a762b22664e1eb",
+    "id": "9996a5bd00309164",
     "type": "split",
     "children": [
       {
-        "id": "997b3f69df0471a1",
+        "id": "8aa16290c7092aa3",
         "type": "tabs",
         "children": [
           {
-            "id": "84147a981a564daf",
+            "id": "7c66ba8a6ab1b565",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
+                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
                 "viewState": {
-                  "x": 2194.430911615026,
-                  "y": -38.0370590830769,
-                  "zoom": -1.357109427440611
+                  "x": 4437.477555334461,
+                  "y": 217.35249700709406,
+                  "zoom": -0.9611624836663495
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "2D_MotionGraphics_UI"
+              "title": "ProceduralFoliageSpreadGrowth"
             }
           }
         ]
@@ -30,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1e9f165f6f9aa2b8",
+    "id": "75e08459e4888a29",
     "type": "split",
     "children": [
       {
-        "id": "d4c9ffbbfa54f18f",
+        "id": "a4cf3fb32f793cfd",
         "type": "tabs",
         "children": [
           {
-            "id": "ab08a9a4ebd62d27",
+            "id": "23c2c54ad77e68e7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "0edbbcdc41768243",
+            "id": "df420bffc1e420b3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "1fc432caee288aeb",
+            "id": "c38dfc66e4688835",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,23 +81,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 300
   },
   "right": {
-    "id": "556bd65cb4a0f9e1",
+    "id": "cc6437fe5263d55d",
     "type": "split",
     "children": [
       {
-        "id": "aa2eac9e55dc1aa4",
+        "id": "232b414d0b119d3a",
         "type": "tabs",
         "children": [
           {
-            "id": "f23685baf6c1d0e7",
+            "id": "e624e0402a38eec2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,46 +107,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro"
+              "title": "Backlinks for ProceduralFoliageSpreadGrowth"
             }
           },
           {
-            "id": "5b3661426d656006",
+            "id": "80438e02dc4885b9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro"
+              "title": "Outgoing links from ProceduralFoliageSpreadGrowth"
             }
           },
           {
-            "id": "6ae7825d55d9f186",
+            "id": "9502b5c17dd9391c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "3f4540f97cef4a08",
+            "id": "348e2bcddcdef1a8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_Intro/Intro.canvas"
+                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro"
+              "title": "Outline of ProceduralFoliageSpreadGrowth"
             }
           }
         ]
@@ -166,62 +171,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84147a981a564daf",
-  "lastOpenFiles": [
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
-    "5_FoliageSpreadGrowth/LectureExamples/ShapeGrowth/backup/ShapeGrowth_bak325.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/Spread/backup/Spread_bak23.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/Spread/backup/Spread_bak22.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/Spread/backup/Spread_bak21.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/Spread/backup/Spread_bak20.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/Spread/backup/Spread_bak19.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/Spread/backup/Spread_bak18.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/Spread/backup/Spread_bak17.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/Spread/backup/Spread_bak16.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/Spread/backup/Spread_bak15.hipnc",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
-    "5_FoliageSpreadGrowth/LectureExamples/ShapeGrowth/render/ShapeGrowth.karmarendersettings.0001.jpg",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas",
-    "2_ProceduralTerrain/LectureImages/Takeaways/NoiseWarp.jpg",
-    "0_Overview/Overview.canvas",
-    "2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r2.jpg",
-    "2_ProceduralTerrain/Examples/ConceptExamples/NoiseLayering/Output/layer.jpg",
-    "2_ProceduralTerrain/Examples/ConceptExamples/NoiseLayering/Output/base.jpg",
-    "6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_background2.jpg",
-    "6_2DMotionGraphicsUI/LectureImages/MyWork/0028.jpg",
-    "6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui5.png",
-    "6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui4.png",
-    "6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui3.png",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas",
-    "0_Intro/Intro.canvas",
-    "3_ParticlesVolumes/ParticlesVolumes.canvas",
-    "4_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "2_ProceduralTerrain/README.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-signals.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-subtimeline.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-record-anim.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-custom-marker.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-overview.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-convert-infinite.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-create-instance.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-anim-override.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/trk-select.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/wf-anim-human.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/trk-lock-mute.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/trk-reorder.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/trk-list-overview.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/trk-add.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/tl-selector-instance.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/trk-header.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/trk-groups.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/trk-duplicate.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/trk-delete.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/tl-window.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/tl-preview.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/tl-overview.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/tl-preferences.md",
-    "1_ProceduralBuilding/Examples/LectureExamples/Game/UnityProcBuilding/Library/PackageCache/com.unity.timeline/Documentation~/samp-overview.md"
-  ]
+  "active": "7c66ba8a6ab1b565",
+  "lastOpenFiles": []
 }
