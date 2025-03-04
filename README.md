@@ -187,13 +187,13 @@ Branching structure volume growth:          |  Branching structure surface growt
 :-------------------------:|:-------------------------:
 ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowth/render/VolumeGrowth1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowth/render/SurfaceGrowth1.jpg)
 
-Example of foliage growth and spread 1.1             |  Example of foliage growth and spread 1.2
+Surface spread:          |  Surface spread:
 :-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph2.jpg)
+![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread2.jpg)
 
-Example of foliage growth and spread 2.1             |  Example of foliage growth and spread 2.2
+Volume spread:          |  Volume spread:
 :-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph3.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureImages/References/ph4.jpg)
+![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread0.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread2.jpg)
 
 ### Lecture 1.6. Procedural 2D Motion Graphics and UI
 

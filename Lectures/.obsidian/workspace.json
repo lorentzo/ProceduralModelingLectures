@@ -15,9 +15,9 @@
               "state": {
                 "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
                 "viewState": {
-                  "x": 4437.477555334461,
-                  "y": 217.35249700709406,
-                  "zoom": -0.9611624836663495
+                  "x": 425.5850255893294,
+                  "y": 154.13338423766817,
+                  "zoom": 0.37217084966698327
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -172,5 +172,27 @@
     }
   },
   "active": "7c66ba8a6ab1b565",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak47.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak46.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak45.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak44.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak43.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak42.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread0.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread.karmarendersettings.0027.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread2.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread1.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread.karmarendersettings.0052.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak41.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak40.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak39.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak38.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread.karmarendersettings.0041.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak37.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread3.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread.karmarendersettings.0035.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread2.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread.karmarendersettings.0046.jpg"
+  ]
 }
