@@ -170,17 +170,16 @@ Organic volume shapes             |  Volumetric natural phenomena
 ### Lecture 1.5: Procedural Foliage, Growth and Spread Modeling
 
 Topics and concepts:
-* Modeling and animating macro plant
-* Modeling flower bloom
 * Branching shapes/structures (iterative and recursive; e.g., trees, roots)
 * Modeling surface and volume growth
-* Modeling surface spread
+* Modeling surface and volume spread
+* Growth and digital morphogenesis
+* Modeling and animating macro plant: flower bloom
 * Natural and biological systems
 * Procedural animation
 * Geometrical instancing and geo attributes
 * Theoretical principles: SCA, Eden, L-Systems, DLA, reaction-diffusion
-* Animated surface with instances
-* Digital Morphogenesis
+* Geometry distance and instancing
 * Cells and automation
 
 Branching structure volume growth:          |  Branching structure surface growth:
@@ -194,6 +193,10 @@ Surface spread:          |  Surface spread:
 Volume spread:          |  Volume spread:
 :-------------------------:|:-------------------------:
 ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread0.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread2.jpg)
+
+Surface growth:          |  Surface growth:
+:-------------------------:|:-------------------------:
+![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/SurfaceOrganicGrowthMorph1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/SurfaceOrganicGrowthMorph2.jpg)
 
 ### Lecture 1.6. Procedural 2D Motion Graphics and UI
 

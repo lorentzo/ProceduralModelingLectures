@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "viewState": {
-                  "x": 425.5850255893294,
-                  "y": 154.13338423766817,
-                  "zoom": 0.37217084966698327
+                  "x": -132.5301696332217,
+                  "y": -478.26721429176723,
+                  "zoom": -3.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralFoliageSpreadGrowth"
+              "title": "Intro"
             }
           }
         ]
@@ -173,26 +173,32 @@
   },
   "active": "7c66ba8a6ab1b565",
   "lastOpenFiles": [
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak47.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak46.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak45.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak44.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak43.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak42.hipnc",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
+    "4_ParticlesVolumes/ParticlesVolumes.canvas",
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "0_Overview/Overview.canvas",
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak8.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak7.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak6.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak5.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak4.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak3.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak2.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak1.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup",
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/VolumeGrowthMorph.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/SurfaceOrganicGrowthMorph2.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/SurfaceOrganicGrowthMorph1.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/OrganicGrowthMorph2.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/OrganicGrowthMorph1.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/OrganicGrowthMorph/render/OrganicGrowthMorph1.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/OrganicGrowthMorph/render/OrganicGrowthMorph2.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/OrganicGrowthMorph/render/OrganicGrowthMorph.karmarendersettings.0021.jpg",
+    "5_FoliageSpreadGrowth/LectureExamples/OrganicGrowthMorph/render/OrganicGrowthMorph.karmarendersettings.0029.jpg",
     "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread0.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread.karmarendersettings.0027.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread2.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread1.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread.karmarendersettings.0052.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak41.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak40.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak39.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak38.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread.karmarendersettings.0041.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/backup/VolumeSpread_bak37.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread3.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread.karmarendersettings.0035.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread2.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread.karmarendersettings.0046.jpg"
+    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread.karmarendersettings.0027.jpg"
   ]
 }
