@@ -217,12 +217,45 @@ UI graphics             |  UI graphics |  UI graphics
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui1.png)  |  ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui2.png) |  ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui5.png) 
 
+### Lecture 1.7. Procedural material modeling
+
+Topics and concepts:
+* Material as optical property (e.g., diffuse) and mechanical property (e.g., soft body)
+* Optical material properties modeling and theory
+* Mechanical material properties modeling and theory
+* Surface materials vs volume materials
+* Material scales and observation distance: micro, meso and macro
+* Material vs geometry
+* Material modeling decomposition in practice: scattering equation and texture
+* Material scales in practice: scattering equation, texture and geometry
+* Material and light in theory and practice
+* Procedural texture: a function
+* Procedural textures: surface vs volume
+* Procedural textures for material surface or volume variation
+* Procedural natural materials:
+  * Procedural fur and hair
+  * Procedural feathers (e.g., bird feather)
+  * Procedural scales (e.g., fish scales)
+  * Procedural porous materials (e.g., sponge)
+  * Foliage patterns
+* Procedural industrial materials:
+  * Procedural textile (e.g., cloth)
+  * Procedural glass (e.g., frosted glass)
+
+Example of procedural materials             |  Example of procedural materials
+:-------------------------:|:-------------------------:
+![](Lectures/7_MaterialModeling/LectureImages/MyWork/lovro-bosnar-0105.jpg)  | ![](Lectures/7_MaterialModeling/LectureImages/MyWork/lovro-bosnar-final-smaller.jpg)
+
 
 ## Part 2: Procedural Modeling and Dynamics (WIP)
 
-Combining procedural modeling (Phenomenological approach) with feedback loop, simulation, forces, velocities, positions and constraints (physically-based, classical mechanics methods for CG).
+Procedural geometrical and material mechanics modeling:
+* feedback loop, simulation(Phenomenological approach)
+* forces, velocities, positions and constraints
+* physically-based, classical mechanics methods for CG
 
-References: https://graphics.stanford.edu/courses/cs348c/
+References: 
+* https://graphics.stanford.edu/courses/cs348c/
 
 ### Lecture 2.1: Procedural Modeling and Rigid Body Simulation
 
@@ -290,19 +323,6 @@ Practicals:
 * https://graphics.pixar.com/library/ElementalFire/paper.pdf
 * https://www.youtube.com/watch?v=zyIJQHlFQs0
 
-## Part 3: Procedural Character VFX (CFX) modeling (WIP)
-
-Applying procedural modeling and dynamics for character VFX.
-
-### Lecture 3.1 Procedural Hair and Fur Modeling
-TODO
-
-### Lecture 3.2. Procedural feather modeling
-TODO
-
-### Lecture 3.2 Proceduralism and Cloth Modeling
-TODO
-
 # Resources 
 
 * SideFX; Houdini: https://www.sidefx.com/learn/getting_started/, https://www.sidefx.com/docs/houdini/
@@ -318,11 +338,13 @@ TODO
 * Procedural animation using sound
 * Procedural reactive systems (reaction to sound, collision or interaction)
 * Procedural interactive models
-* Advanced physically-based simulation
+* Advanced physically-based simulation of material mechanical properties:
   * Other solid material types: snow, soil, mud, concrete, metal, jello, rubber, water, honey, and sand
   * Other material types: https://en.wikipedia.org/wiki/Continuum_mechanics
   * Additional dynamics: https://en.wikipedia.org/wiki/Classical_mechanics
 * Advanced particle systems:
   * boids
 * Procedural modeling and computational design
-* Procedural crowds modeling (CFX)
+* Proceduralism and virtual characters 
+  * CFX
+  * Procedural crowds modeling
