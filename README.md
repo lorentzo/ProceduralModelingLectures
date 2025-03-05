@@ -170,7 +170,7 @@ Organic volume shapes             |  Volumetric natural phenomena
 ### Lecture 1.5: Procedural Foliage, Growth and Spread Modeling
 
 Topics and concepts:
-* Branching shapes/structures (iterative and recursive; e.g., trees, roots)
+* Branching shapes/structures (e.g., trees, branches roots, etc.)
 * Modeling surface and volume growth
 * Modeling surface and volume spread
 * Growth and digital morphogenesis
@@ -178,9 +178,8 @@ Topics and concepts:
 * Natural and biological systems
 * Procedural animation
 * Geometrical instancing and geo attributes
-* Theoretical principles: SCA, Eden, L-Systems, DLA, reaction-diffusion
+* Theoretical principles: SCA, Eden, L-Systems, DLA, reaction-diffusion, iteration, recursion, CA
 * Geometry distance and instancing
-* Cells and automation
 
 Branching structure volume growth:          |  Branching structure surface growth:
 :-------------------------:|:-------------------------:
@@ -188,7 +187,7 @@ Branching structure volume growth:          |  Branching structure surface growt
 
 Surface spread:          |  Surface spread:
 :-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread2.jpg)
+![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/FoliageSurfaceSpread.jpg)
 
 Volume spread:          |  Volume spread:
 :-------------------------:|:-------------------------:
@@ -232,6 +231,7 @@ Topics and concepts:
 * Procedural texture: a function
 * Procedural textures: surface vs volume
 * Procedural textures for material surface or volume variation
+* Noise for procedural texture modeling: frequency, amplitude, warping, layering
 * Procedural natural materials:
   * Procedural fur and hair
   * Procedural feathers (e.g., bird feather)
@@ -249,7 +249,7 @@ Example of procedural materials             |  Example of procedural materials
 
 ## Part 2: Procedural Modeling and Dynamics (WIP)
 
-Procedural geometrical and material mechanics modeling:
+Procedural geometrical and material mechanics modeling using:
 * feedback loop, simulation(Phenomenological approach)
 * forces, velocities, positions and constraints
 * physically-based, classical mechanics methods for CG
@@ -333,6 +333,7 @@ Practicals:
 * Nature of code: https://natureofcode.com/
 * Pixar: https://graphics.pixar.com/library/
 * My work: https://www.artstation.com/lovro
+* Konstantin Magnus: https://procegen.konstantinmagnus.de/
 
 # Possible Future lectures:
 * Procedural animation using sound

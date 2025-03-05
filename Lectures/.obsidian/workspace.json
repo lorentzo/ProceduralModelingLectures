@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "7_MaterialModeling/MaterialModeling.canvas",
+                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
                 "viewState": {
-                  "x": 2611.824994769268,
-                  "y": 708.3911730673844,
-                  "zoom": -1
+                  "x": 7292.58767050177,
+                  "y": 1200.7537401043207,
+                  "zoom": -2.0126402355206796
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "MaterialModeling"
+              "title": "ProceduralFoliageSpreadGrowth"
             }
           }
         ]
@@ -173,36 +173,35 @@
   },
   "active": "7c66ba8a6ab1b565",
   "lastOpenFiles": [
-    "7_MaterialModeling/LectureImages/MyWork/lovro-bosnar-0105.jpg",
-    "7_MaterialModeling/LectureImages/MyWork/lovro-bosnar-final-smaller.jpg",
-    "7_MaterialModeling/LectureImages/MyWork",
-    "7_MaterialModeling/LectureImages/New folder",
-    "Untitled.md",
     "7_MaterialModeling/MaterialModeling.canvas",
-    "0_Intro/Intro.canvas",
-    "7_MaterialModeling/LectureImages",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "0_Overview/Overview.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "5_FoliageSpreadGrowth/LectureImages/References/ph2.jpg",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/~urvesSplines2.tmp",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/CurvesSplines2.JPG",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/~plineCurve2.tmp",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/SplineCurve2.JPG",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/~urvesSplines.tmp",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/CurvesSplines.JPG",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/~hortestPathHoudini.tmp",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/ShortestPathHoudini.JPG",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/~hortestPathBlender.tmp",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/ShortestPathBlender.JPG",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/~den.tmp",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/Eden.JPG",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/DLA.JPG",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/~A2D.tmp",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/CA2D.JPG",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/~A3D.tmp",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/CA3D.JPG",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/~System2.tmp",
+    "5_FoliageSpreadGrowth/LectureImages/Methods/~System1.tmp",
+    "0_Intro/Intro.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak8.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak7.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak6.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak5.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak4.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak3.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak2.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/SurfaceOrganicGrowthMorph2.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/SurfaceOrganicGrowthMorph1.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/OrganicGrowthMorph2.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/OrganicGrowthMorph1.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/OrganicGrowthMorph/render/OrganicGrowthMorph1.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/OrganicGrowthMorph/render/OrganicGrowthMorph2.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/OrganicGrowthMorph/render/OrganicGrowthMorph.karmarendersettings.0021.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/OrganicGrowthMorph/render/OrganicGrowthMorph.karmarendersettings.0029.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread0.jpg"
+    "0_Overview/Overview.canvas",
+    "Untitled.md",
+    "4_ParticlesVolumes/ParticlesVolumes.canvas"
   ]
 }

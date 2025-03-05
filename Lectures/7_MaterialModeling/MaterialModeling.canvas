@@ -1,13 +1,20 @@
 {
 	"nodes":[
-		{"id":"aea0ce9dc948e681","x":-348,"y":-46,"width":568,"height":106,"type":"text","text":"# Procedural material modeling"},
-		{"id":"5caf7a22afaffeb6","x":-348,"y":100,"width":250,"height":60,"type":"text","text":"Lovro Bosnar"},
-		{"id":"fd5d98c3a726266c","x":640,"y":-337,"width":830,"height":977,"type":"text","text":"Topics and concepts:\n\n* Material as optical property (e.g., diffuse) and mechanical property (e.g., soft body)\n\n* Optical material properties modeling and theory\n\n* Mechanical material properties modeling and theory\n\n* Surface materials vs volume materials\n\n* Material scales and observation distance: micro, meso and macro\n\n* Material vs geometry\n\n* Material modeling decomposition in practice: scattering equation and texture\n\n* Material scales in practice: scattering equation, texture and geometry\n\n* Material and light in theory and practice\n\n* Procedural texture: a function\n\n* Procedural textures: surface vs volume\n\n* Procedural textures for material surface or volume variation\n---\n* Procedural natural materials:\n\n  * Procedural fur and hair\n\n  * Procedural feathers (e.g., bird feather)\n\n  * Procedural scales (e.g., fish scales)\n\n  * Procedural porous materials (e.g., sponge)\n\n  * Foliage patterns\n\n---\n\n* Procedural industrial materials:\n\n  * Procedural textile (e.g., cloth)\n\n  * Procedural glass (e.g., frosted glass)"},
+		{"id":"fd5d98c3a726266c","x":640,"y":-337,"width":830,"height":1097,"type":"text","text":"Topics and concepts:\n\n* Material as optical property (e.g., diffuse) and mechanical property (e.g., soft body)\n\n* Optical material properties modeling and theory\n\n* Mechanical material properties modeling and theory\n\n* Surface materials vs volume materials\n\n* Material scales and observation distance: micro, meso and macro\n\n* Material vs geometry\n\n* Material modeling decomposition in practice: scattering equation and texture\n\n* Material scales in practice: scattering equation, texture and geometry\n\n* Material and light in theory and practice\n\n* Procedural texture: a function\n\n* Procedural textures: surface vs volume\n\n* Procedural textures for material surface or volume variation\n---\n\n\n---\n\n"},
 		{"id":"cb79e4ac8349eb45","x":1713,"y":-222,"width":1207,"height":462,"type":"link","url":"https://kluedo.ub.rptu.de/frontdoor/index/index/docId/8211"},
 		{"id":"4bb769751957d7f6","x":1713,"y":320,"width":847,"height":400,"type":"link","url":"https://docs.blender.org/manual/en/latest/render/shader_nodes/introduction.html"},
 		{"id":"2e4813a7505d6d2b","x":1713,"y":800,"width":847,"height":400,"type":"link","url":"https://docs.unity3d.com/Packages/com.unity.shadergraph@17.2/manual/index.html"},
 		{"id":"7fecfa9e2d66f4b9","x":1713,"y":1280,"width":847,"height":400,"type":"link","url":"https://www.sidefx.com/docs/houdini/nodes/cop/index.html"},
-		{"id":"66a41cf0530f12e2","x":2640,"y":320,"width":840,"height":400,"type":"link","url":"https://thebookofshaders.com/"}
+		{"id":"66a41cf0530f12e2","x":2640,"y":320,"width":840,"height":400,"type":"link","url":"https://thebookofshaders.com/"},
+		{"id":"9577ee5688b585ca","x":328,"y":904,"width":592,"height":416,"type":"text","text":"* Procedural natural materials:\n\n\t* Procedural fur and hair\n\n\t\t  * Procedural feathers (e.g., bird feather)\n\n\t\t  * Procedural scales (e.g., fish scales)\n\n\t\t  * Procedural porous materials (e.g., sponge)\n\n\t\t  * Foliage patterns"},
+		{"id":"e74d0c4023d50b4c","x":1106,"y":914,"width":514,"height":366,"type":"text","text":"* Procedural industrial materials:\n\n  * Procedural textile (e.g., cloth)\n\n  * Procedural glass (e.g., frosted glass)"},
+		{"id":"aea0ce9dc948e681","x":-1760,"y":6,"width":568,"height":106,"type":"text","text":"# Procedural material modeling"},
+		{"id":"5caf7a22afaffeb6","x":-1760,"y":152,"width":250,"height":60,"type":"text","text":"Lovro Bosnar"},
+		{"id":"92efcd814de2745a","x":-560,"y":-194,"width":840,"height":406,"type":"link","url":"https://procegen.konstantinmagnus.de/populating-surfaces-with-scales"},
+		{"id":"e34cee441f667d40","x":-560,"y":280,"width":840,"height":400,"type":"link","url":"https://procegen.konstantinmagnus.de/feathers-using-extrude-node"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"abda7e56814c5dfe","fromNode":"fd5d98c3a726266c","fromSide":"bottom","toNode":"9577ee5688b585ca","toSide":"top"},
+		{"id":"7b0b27584e21a864","fromNode":"fd5d98c3a726266c","fromSide":"bottom","toNode":"e74d0c4023d50b4c","toSide":"top"}
+	]
 }
