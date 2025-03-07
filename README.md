@@ -187,11 +187,11 @@ Branching structure volume growth:          |  Branching structure surface growt
 
 Surface spread:          |  Surface spread:
 :-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/SurfaceSpread1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/FoliageSurfaceSpread.jpg)
+![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/FoliageSurfaceSpread.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/FoliageSurfaceSpread3.jpg)
 
 Volume spread:          |  Volume spread:
 :-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread0.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread2.jpg)
+![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread0.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread1.jpg)
 
 Surface growth:          |  Surface growth:
 :-------------------------:|:-------------------------:

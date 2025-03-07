@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+                "file": "0_Overview/Overview.canvas",
                 "viewState": {
-                  "x": 8787.718233969892,
-                  "y": 1419.1835128696305,
-                  "zoom": -3.151467940217997
+                  "x": 8028.951062409797,
+                  "y": -487.96712969798705,
+                  "zoom": -3.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralFoliageSpreadGrowth"
+              "title": "Overview"
             }
           }
         ]
@@ -173,29 +173,29 @@
   },
   "active": "7c66ba8a6ab1b565",
   "lastOpenFiles": [
-    "0_Overview/Overview.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "0_Overview/Overview.canvas",
+    "0_Overview/Images/proximity.JPG",
+    "0_Overview/Images/~roceduralCharacters.tmp",
+    "0_Overview/Images/ProceduralCharacters.JPG",
     "0_Intro/Intro.canvas",
-    "0_Intro/LectureImages/NextSteps/~ismo.tmp",
-    "0_Intro/LectureImages/NextSteps/Pismo.JPG",
-    "0_Intro/LectureImages/NextSteps/~roteam.tmp",
-    "0_Intro/LectureImages/NextSteps/Croteam.JPG",
-    "0_Intro/LectureImages/NextSteps/~GDA.tmp",
-    "0_Intro/LectureImages/NextSteps/CGDA.JPG",
-    "0_Intro/LectureImages/NextSteps/~lackBook.tmp",
-    "0_Intro/LectureImages/NextSteps/BlackBook.JPG",
-    "0_Intro/LectureImages/NextSteps",
-    "0_Intro/LectureImages/New folder",
-    "0_Intro/LectureImages/ProceduralModeling/~ixarEnvFX.tmp",
-    "0_Intro/LectureImages/ProceduralModeling/PixarEnvFX.JPG",
-    "0_Intro/LectureImages/ProceduralModeling/~ixarCharacters.tmp",
-    "0_Intro/LectureImages/ProceduralModeling/PixarCharacters.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/Intro/colin-valek-render-02-color-grade.jpg",
-    "5_FoliageSpreadGrowth/LectureImages/Intro",
-    "5_FoliageSpreadGrowth/LectureImages/New folder",
-    "5_FoliageSpreadGrowth/LectureImages/Types/BranchingStructures2.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/Types/BranchingStructures.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/Workflow/michal-kvac-blooming-trees-small.jpg",
+    "0_Overview/Images/Artefacts.JPG",
+    "0_Overview/Images/mitmedia.JPG",
+    "0_Overview/Images/kmagnus.JPG",
+    "0_Overview/Images/Clouds.JPG",
+    "0_Overview/Images/terrains_iq.jpg",
+    "0_Intro/LectureImages/OtherSoftware/~odot.tmp",
+    "0_Intro/LectureImages/OtherSoftware/Godot.JPG",
+    "0_Intro/LectureImages/OtherSoftware/~nreal.tmp",
+    "0_Intro/LectureImages/OtherSoftware/Unreal.JPG",
+    "0_Intro/LectureImages/OtherSoftware/~nity.tmp",
+    "0_Intro/LectureImages/OtherSoftware/Unity.JPG",
+    "0_Intro/LectureImages/OtherSoftware/~ubstancePainter.tmp",
+    "0_Intro/LectureImages/OtherSoftware/~aya.tmp",
+    "0_Intro/LectureImages/OtherSoftware/~hino.tmp",
+    "0_Intro/LectureImages/OtherSoftware/~inema4D.tmp",
+    "0_Intro/LectureImages/OtherSoftware/~D.tmp",
+    "0_Intro/LectureImages/OtherSoftware/~lender.tmp",
     "7_MaterialModeling/MaterialModeling.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
