@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+                "file": "0_Overview/Overview.canvas",
                 "viewState": {
-                  "x": 11209.466821977063,
-                  "y": -1204.5113041468944,
-                  "zoom": -3.6666666666666665
+                  "x": 9075.653090894148,
+                  "y": -738.2149679267941,
+                  "zoom": -1.3333333333333328
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralFoliageSpreadGrowth"
+              "title": "Overview"
             }
           }
         ]
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc6437fe5263d55d",
@@ -174,31 +173,31 @@
   },
   "active": "7c66ba8a6ab1b565",
   "lastOpenFiles": [
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak891.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak890.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak889.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak888.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak887.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak886.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak885.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak884.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak883.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak882.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak881.hipnc",
-    "5_FoliageSpreadGrowth/LectureImages/Types/xfrog6.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/Types/xfrog5.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/Types/xfrog4.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/Types/xfrog3.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/Types/xfrog2.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/Types/xfrog1.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/Methods/DistanceGrowth.JPG",
-    "5_FoliageSpreadGrowth/LectureExamples/Common/Assets/Readme.md",
-    "0_Overview/Overview.canvas",
-    "0_Intro/Intro.canvas",
-    "0_Overview/Images/PixarEnvFX.JPG",
-    "0_Overview/Images/IQDemoscene.JPG",
-    "0_Overview/Images/PathOfExileProcedural.JPG",
+    "0_Overview/Images/holdsworth.jpg",
+    "0_Overview/Images/holdsworth.jpg.crdownload",
+    "0_Overview/Images/IQNoiseDerivative.jpg",
+    "0_Overview/Images/IQNoiseDerivative.jpg.crdownload",
+    "0_Overview/Images/HoudiniNoiseModeling.JPG",
+    "0_Overview/Images/~urlNoise.tmp",
+    "0_Overview/Images/CurlNoise.JPG",
+    "0_Overview/Images/Importance of noise.jpg",
+    "0_Overview/Images/PerlinNoise1.JPG",
+    "0_Overview/Images/~DNoiseHeightfieldDisplacement.tmp",
+    "0_Overview/Images/2DNoiseHeightfieldDisplacement.JPG",
+    "0_Overview/Images/~DNoiseHeightfield.tmp",
+    "0_Overview/Images/2DNoiseHeightfield.JPG",
+    "0_Overview/Images/~DNoiseAnimationCurvesBlender.tmp",
+    "0_Overview/Images/IQPerlin3.jpg",
+    "0_Overview/Images/IQPerlin3.jpg.crdownload",
+    "0_Overview/Images/IQPerlin2.jpg",
+    "0_Overview/Images/IQPerlin2.jpg.crdownload",
+    "0_Overview/Images/IQPerlin1.jpg",
+    "0_Overview/Images/IQPerlin1.jpg.crdownload",
+    "0_Overview/Images/~oroNoise2.tmp",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "0_Intro/Intro.canvas",
+    "0_Overview/Overview.canvas",
+    "5_FoliageSpreadGrowth/LectureExamples/Common/Assets/Readme.md",
     "7_MaterialModeling/MaterialModeling.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
