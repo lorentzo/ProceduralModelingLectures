@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0_Overview/Overview.canvas",
+                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
                 "viewState": {
-                  "x": 9075.653090894148,
-                  "y": -738.2149679267941,
-                  "zoom": -1.3333333333333328
+                  "x": 23885.498691303823,
+                  "y": 446.0674626712831,
+                  "zoom": -1.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Overview"
+              "title": "ProceduralFoliageSpreadGrowth"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc6437fe5263d55d",
@@ -173,30 +174,30 @@
   },
   "active": "7c66ba8a6ab1b565",
   "lastOpenFiles": [
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1090.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1089.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1088.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1087.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1086.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1085.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1084.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1083.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1082.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1081.hipnc",
+    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1080.hipnc",
+    "0_Intro/Intro.canvas",
+    "0_Overview/Overview.canvas",
     "0_Overview/Images/holdsworth.jpg",
-    "0_Overview/Images/holdsworth.jpg.crdownload",
     "0_Overview/Images/IQNoiseDerivative.jpg",
-    "0_Overview/Images/IQNoiseDerivative.jpg.crdownload",
     "0_Overview/Images/HoudiniNoiseModeling.JPG",
-    "0_Overview/Images/~urlNoise.tmp",
     "0_Overview/Images/CurlNoise.JPG",
     "0_Overview/Images/Importance of noise.jpg",
     "0_Overview/Images/PerlinNoise1.JPG",
-    "0_Overview/Images/~DNoiseHeightfieldDisplacement.tmp",
     "0_Overview/Images/2DNoiseHeightfieldDisplacement.JPG",
-    "0_Overview/Images/~DNoiseHeightfield.tmp",
     "0_Overview/Images/2DNoiseHeightfield.JPG",
-    "0_Overview/Images/~DNoiseAnimationCurvesBlender.tmp",
     "0_Overview/Images/IQPerlin3.jpg",
-    "0_Overview/Images/IQPerlin3.jpg.crdownload",
     "0_Overview/Images/IQPerlin2.jpg",
-    "0_Overview/Images/IQPerlin2.jpg.crdownload",
-    "0_Overview/Images/IQPerlin1.jpg",
-    "0_Overview/Images/IQPerlin1.jpg.crdownload",
-    "0_Overview/Images/~oroNoise2.tmp",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "0_Intro/Intro.canvas",
-    "0_Overview/Overview.canvas",
     "5_FoliageSpreadGrowth/LectureExamples/Common/Assets/Readme.md",
     "7_MaterialModeling/MaterialModeling.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
