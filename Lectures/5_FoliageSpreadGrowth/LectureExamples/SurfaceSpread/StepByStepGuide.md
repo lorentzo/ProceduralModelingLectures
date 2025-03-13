@@ -88,5 +88,87 @@ Inside Attribute Wrangle node:
 
 ![](StepByStepGuide/7_NoiseAttrWrangleScale_Result.JPG)
 
+Create Scatter Node, Normal Node and Attribute transfer node and connect as follows:
 
+![](StepByStepGuide/8_ScatterNormalAttribTransfer.JPG)
 
+Inside Normal node:
+* Ensure: Add Normals to Points 
+
+Result:
+
+![](StepByStepGuide/8_ScatterNormalAttribTransfer_Result.JPG)
+
+Create Attribute Randomize node and Attribute Adjust Color Node and connect as follows:
+
+![](StepByStepGuide/9_AttrNormalRandomizeColorNodes.JPG)
+
+Inside Attribute Randomize Node:
+* Set Attribute Name to: "N"
+* Set Operation to "Add Value"
+* Set Distribution to "Inside Sphere"
+
+Inside Attribute Adjust color Node:
+* Set Attribute name to "Cd"
+* Set Pattern Type to "Noise"
+* Set desired colors in Color Ramp
+
+Result: 
+
+![](StepByStepGuide/9_AttrNormalRandomizeColorNodes_Result.JPG)
+
+Create GLTF Node, PolyReduce Node, Transform Node and Copy to points Node and connect them as follows:
+
+![](StepByStepGuide/10_CopyToPointsNode.JPG)
+
+Inside GLTF Node:
+* Set desired File Name
+* Set Load by Mesh
+* Select desired Mesh ID
+* Set points merge distance to 0
+
+Inside Poly Reduce node:
+* Set percent to keep to 10%
+
+Inside Transform Node:
+* Set X Rotation 90deg
+
+Create Merge Node and connect as follows:
+
+![](StepByStepGuide/11_MergeNode.JPG)
+
+Result:
+
+![](StepByStepGuide/11_MergeNode_Result.JPG)
+
+Create VDB From Polygons, Scatter, Connect Adjecent Pieces and Attribute Adjust color as follows:
+
+![](StepByStepGuide/12_VDBScatterConnectPointsNodes.JPG)
+
+Inside VDB From Polygons Node:
+* Deselect Distance VDB
+* Select Fog VDB
+
+Inside Connect Adjecent Pieces Node:
+* Set Connection Type to Adjecent Points
+* Set Max Search Points to 4
+
+Inside Attribute Adjust Color:
+* Set Attribute name to "Cd"
+* Set Pattern Type to "Noise"
+* Set desired colors in Color Ramp
+
+Result:
+
+![](StepByStepGuide/12_VDBScatterConnectPointsNodes_Result.JPG)
+
+Additional masks are created similarly and used for instancing:
+
+![](StepByStepGuide/13_AdditionalMaskInstances.JPG)
+
+Note similar setup except:
+* Here we are using Distance From Geometry with animated sphere as reference geometry
+
+Result:
+
+![](StepByStepGuide/13_AdditionalMaskInstances_Result.JPG)
