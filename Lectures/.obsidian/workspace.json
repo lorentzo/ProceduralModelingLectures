@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8aa16290c7092aa3",
+        "id": "bb2f80063cd62fd3",
         "type": "tabs",
         "children": [
           {
-            "id": "7c66ba8a6ab1b565",
+            "id": "e8536e6bdcca910d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
                 "viewState": {
-                  "x": 17519.080764871425,
-                  "y": -287.97012517317745,
-                  "zoom": -3.3570745555957298
+                  "x": 14894.346490194308,
+                  "y": 232.5063953975146,
+                  "zoom": -3.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc6437fe5263d55d",
@@ -172,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c66ba8a6ab1b565",
+  "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
+    "0_Intro/Intro.canvas",
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1151.hipnc",
     "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1150.hipnc",
     "5_FoliageSpreadGrowth/LectureImages/Methods/~oiseMaskInstancing.tmp",
@@ -186,8 +187,6 @@
     "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1146.hipnc",
     "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1145.hipnc",
     "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1144.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/backup/SurfaceSpread_bak1143.hipnc",
-    "0_Intro/Intro.canvas",
     "0_Overview/Overview.canvas",
     "0_Overview/Images/holdsworth.jpg",
     "0_Overview/Images/IQNoiseDerivative.jpg",
@@ -197,7 +196,6 @@
     "0_Overview/Images/PerlinNoise1.JPG",
     "0_Overview/Images/2DNoiseHeightfieldDisplacement.JPG",
     "0_Overview/Images/2DNoiseHeightfield.JPG",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "5_FoliageSpreadGrowth/LectureExamples/Common/Assets/Readme.md",
     "7_MaterialModeling/MaterialModeling.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
