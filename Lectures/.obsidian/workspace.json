@@ -15,9 +15,9 @@
               "state": {
                 "file": "0_Overview/Overview.canvas",
                 "viewState": {
-                  "x": 8063.251068256295,
-                  "y": -1208.9712763505754,
-                  "zoom": -2.6666666666666665
+                  "x": 4828.31644515777,
+                  "y": 2378.5706701617246,
+                  "zoom": -4
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc6437fe5263d55d",
@@ -174,6 +173,22 @@
   },
   "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "0_Overview/Overview.canvas",
+    "0_Overview/Images/PathFinding.JPG",
+    "0_Overview/Images/ShortestPathHoudini.JPG",
+    "0_Overview/Images/ShortestPathBlender.JPG",
+    "0_Overview/Images/~eedbackLoopParticles.tmp",
+    "0_Overview/Images/FeedbackLoopParticles.JPG",
+    "0_Overview/Images/UnifiedPhyics.JPG",
+    "0_Intro/Intro.canvas",
+    "0_Overview/Images/Deformation.JPG",
+    "0_Overview/Images/~lothSim.tmp",
+    "0_Overview/Images/ClothSim.JPG",
+    "0_Overview/Images/RigidBodySim.JPG",
+    "0_Overview/Images/GasSimulation.JPG",
+    "0_Overview/Images/~lipFluids.tmp",
+    "0_Overview/Images/FlipFluids.JPG",
     "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak289.hipnc",
     "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak288.hipnc",
     "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak287.hipnc",
@@ -181,24 +196,7 @@
     "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak285.hipnc",
     "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak284.hipnc",
     "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak283.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak282.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak281.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak280.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak279.hipnc",
-    "0_Intro/Intro.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "5_FoliageSpreadGrowth/LectureImages/Methods/NoiseMaskInstancing.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/Methods/NoiseMask.JPG",
-    "0_Overview/Overview.canvas",
-    "0_Overview/Images/holdsworth.jpg",
-    "0_Overview/Images/IQNoiseDerivative.jpg",
-    "0_Overview/Images/HoudiniNoiseModeling.JPG",
-    "0_Overview/Images/CurlNoise.JPG",
-    "0_Overview/Images/Importance of noise.jpg",
-    "0_Overview/Images/PerlinNoise1.JPG",
-    "0_Overview/Images/2DNoiseHeightfieldDisplacement.JPG",
-    "0_Overview/Images/2DNoiseHeightfield.JPG",
     "5_FoliageSpreadGrowth/LectureExamples/Common/Assets/Readme.md",
     "7_MaterialModeling/MaterialModeling.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
