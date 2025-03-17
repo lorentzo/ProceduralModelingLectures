@@ -15,9 +15,9 @@
               "state": {
                 "file": "0_Overview/Overview.canvas",
                 "viewState": {
-                  "x": 4828.31644515777,
-                  "y": 2378.5706701617246,
-                  "zoom": -4
+                  "x": 14183.336352572798,
+                  "y": 1148.2292977738805,
+                  "zoom": -3.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+                "file": "0_Overview/Overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ProceduralFoliageSpreadGrowth"
+              "title": "Backlinks for Overview"
             }
           },
           {
@@ -173,33 +173,34 @@
   },
   "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
+    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak533.hipnc",
+    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak532.hipnc",
+    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak531.hipnc",
+    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak530.hipnc",
+    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak529.hipnc",
+    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak528.hipnc",
+    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak527.hipnc",
+    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak526.hipnc",
+    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak525.hipnc",
+    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak524.hipnc",
+    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak523.hipnc",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "0_Overview/Overview.canvas",
-    "0_Overview/Images/PathFinding.JPG",
-    "0_Overview/Images/ShortestPathHoudini.JPG",
-    "0_Overview/Images/ShortestPathBlender.JPG",
-    "0_Overview/Images/~eedbackLoopParticles.tmp",
-    "0_Overview/Images/FeedbackLoopParticles.JPG",
-    "0_Overview/Images/UnifiedPhyics.JPG",
     "0_Intro/Intro.canvas",
-    "0_Overview/Images/Deformation.JPG",
-    "0_Overview/Images/~lothSim.tmp",
-    "0_Overview/Images/ClothSim.JPG",
-    "0_Overview/Images/RigidBodySim.JPG",
-    "0_Overview/Images/GasSimulation.JPG",
-    "0_Overview/Images/~lipFluids.tmp",
-    "0_Overview/Images/FlipFluids.JPG",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak289.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak288.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak287.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak286.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak285.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak284.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak283.hipnc",
+    "0_Overview/Images/ProceduralContentInstance3.JPG",
+    "0_Overview/Images/ProceduralContentInstance2.JPG",
+    "0_Overview/Images/ProceduralContentInstance.JPG",
+    "0_Overview/Images/ProceduralAlgorithm.JPG",
+    "0_Overview/Images/ProceduralMaterialsExample.JPG",
+    "0_Overview/Images/MTG.JPG",
+    "0_Overview/Images/Nerf2.JPG",
+    "0_Overview/Images/Nefs.JPG",
+    "0_Overview/Images/WitnessFractalGameDesign.JPG",
+    "0_Overview/Images/LorenzAttractor.jpg",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "5_FoliageSpreadGrowth/LectureExamples/Common/Assets/Readme.md",
     "7_MaterialModeling/MaterialModeling.canvas",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
     "Untitled.md",
