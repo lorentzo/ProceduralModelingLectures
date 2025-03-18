@@ -15,9 +15,9 @@
               "state": {
                 "file": "0_Overview/Overview.canvas",
                 "viewState": {
-                  "x": 14183.336352572798,
-                  "y": 1148.2292977738805,
-                  "zoom": -3.6666666666666665
+                  "x": -3488.5451180709897,
+                  "y": 109.12385037897945,
+                  "zoom": -4
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc6437fe5263d55d",
@@ -173,17 +174,20 @@
   },
   "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak533.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak532.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak531.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak530.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak529.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak528.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak527.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak526.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak525.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak524.hipnc",
-    "0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak523.hipnc",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak37.hipnc",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak36.hipnc",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak35.hipnc",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak34.hipnc",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/render/r2.jpg",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/render/ArcaneInspiredSphere.karmarendersettings.0064.jpg",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak33.hipnc",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/render/r1.jpg",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak32.hipnc",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak31.hipnc",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak30.hipnc",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak29.hipnc",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak28.hipnc",
+    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak27.hipnc",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "0_Overview/Overview.canvas",
     "0_Intro/Intro.canvas",
@@ -194,9 +198,6 @@
     "0_Overview/Images/ProceduralMaterialsExample.JPG",
     "0_Overview/Images/MTG.JPG",
     "0_Overview/Images/Nerf2.JPG",
-    "0_Overview/Images/Nefs.JPG",
-    "0_Overview/Images/WitnessFractalGameDesign.JPG",
-    "0_Overview/Images/LorenzAttractor.jpg",
     "3_ParticlesPoints/ParticlesPoints.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "5_FoliageSpreadGrowth/LectureExamples/Common/Assets/Readme.md",

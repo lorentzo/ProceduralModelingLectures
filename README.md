@@ -52,6 +52,10 @@ Noise surface modeling 1             |  Noise surface modeling 2
 :-------------------------:|:-------------------------:
 ![](Lectures/0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/render/NoiseSurfaceModeling1.jpg)  |  ![](Lectures/0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/render/NoiseSurfaceModeling2.jpg)
 
+Arcane inspired sphere             |  Arcane inspired sphere
+:-------------------------:|:-------------------------:
+![](Lectures/0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/render/r1.jpg)  |  ![](Lectures/0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/render/r2.jpg)
+
 ## Part 1: Procedural Modeling
 
 ### Lecture 1.1: Procedural Hard Surface Modeling
