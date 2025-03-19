@@ -15,8 +15,8 @@
               "state": {
                 "file": "0_Overview/Overview.canvas",
                 "viewState": {
-                  "x": -3488.5451180709897,
-                  "y": 109.12385037897945,
+                  "x": 23837.923230031916,
+                  "y": 1387.0487404055307,
                   "zoom": -4
                 }
               },
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc6437fe5263d55d",
@@ -174,6 +173,10 @@
   },
   "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
+    "0_Overview/Images/~A2D.tmp",
+    "0_Overview/Images/CA2D.JPG",
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "0_Overview/Overview.canvas",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak37.hipnc",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak36.hipnc",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak35.hipnc",
@@ -187,9 +190,6 @@
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak30.hipnc",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak29.hipnc",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak28.hipnc",
-    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak27.hipnc",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "0_Overview/Overview.canvas",
     "0_Intro/Intro.canvas",
     "0_Overview/Images/ProceduralContentInstance3.JPG",
     "0_Overview/Images/ProceduralContentInstance2.JPG",
@@ -197,7 +197,6 @@
     "0_Overview/Images/ProceduralAlgorithm.JPG",
     "0_Overview/Images/ProceduralMaterialsExample.JPG",
     "0_Overview/Images/MTG.JPG",
-    "0_Overview/Images/Nerf2.JPG",
     "3_ParticlesPoints/ParticlesPoints.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "5_FoliageSpreadGrowth/LectureExamples/Common/Assets/Readme.md",
