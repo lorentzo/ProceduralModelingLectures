@@ -15,9 +15,9 @@
               "state": {
                 "file": "0_Overview/Overview.canvas",
                 "viewState": {
-                  "x": 23837.923230031916,
-                  "y": 1387.0487404055307,
-                  "zoom": -4
+                  "x": 24343.378779482453,
+                  "y": 683.779738061772,
+                  "zoom": -3.3333333333333335
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc6437fe5263d55d",
