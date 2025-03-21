@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0_Overview/Overview.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "viewState": {
-                  "x": 24343.378779482453,
-                  "y": 683.779738061772,
-                  "zoom": -3.3333333333333335
+                  "x": -2586.813194518509,
+                  "y": -26.18622600885041,
+                  "zoom": -3.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Overview"
+              "title": "Intro"
             }
           }
         ]
@@ -174,10 +174,12 @@
   },
   "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
+    "0_Intro/LectureImages/NextSteps/Gamepires.JPG",
+    "0_Overview/Overview.canvas",
+    "0_Overview/Images/ScatterplotExample.JPG",
     "0_Overview/Images/~A2D.tmp",
     "0_Overview/Images/CA2D.JPG",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "0_Overview/Overview.canvas",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak37.hipnc",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak36.hipnc",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak35.hipnc",
@@ -190,14 +192,12 @@
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak31.hipnc",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak30.hipnc",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak29.hipnc",
-    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak28.hipnc",
     "0_Intro/Intro.canvas",
     "0_Overview/Images/ProceduralContentInstance3.JPG",
     "0_Overview/Images/ProceduralContentInstance2.JPG",
     "0_Overview/Images/ProceduralContentInstance.JPG",
     "0_Overview/Images/ProceduralAlgorithm.JPG",
     "0_Overview/Images/ProceduralMaterialsExample.JPG",
-    "0_Overview/Images/MTG.JPG",
     "3_ParticlesPoints/ParticlesPoints.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "5_FoliageSpreadGrowth/LectureExamples/Common/Assets/Readme.md",
