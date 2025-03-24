@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
                 "viewState": {
-                  "x": -2586.813194518509,
-                  "y": -26.18622600885041,
-                  "zoom": -3.333333333333333
+                  "x": 14188.647801998814,
+                  "y": 1487.7773226357624,
+                  "zoom": -4
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Intro"
+              "title": "ProceduralFoliageSpreadGrowth"
             }
           }
         ]
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc6437fe5263d55d",
@@ -174,37 +173,36 @@
   },
   "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
-    "0_Intro/LectureImages/NextSteps/Gamepires.JPG",
+    "4_ParticlesVolumes/ParticlesVolumes.canvas",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak52.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak51.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak50.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak49.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak48.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak47.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak46.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak45.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak44.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak43.hipnc",
+    "0_Intro/Intro.canvas",
     "0_Overview/Overview.canvas",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/ParticlesVolumesAdvection.karmarendersettings.0008.jpg",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
+    "0_Intro/LectureImages/NextSteps/Gamepires.JPG",
     "0_Overview/Images/ScatterplotExample.JPG",
-    "0_Overview/Images/~A2D.tmp",
     "0_Overview/Images/CA2D.JPG",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak37.hipnc",
-    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak36.hipnc",
-    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak35.hipnc",
-    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak34.hipnc",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/render/r2.jpg",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/render/ArcaneInspiredSphere.karmarendersettings.0064.jpg",
-    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak33.hipnc",
     "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/render/r1.jpg",
-    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak32.hipnc",
-    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak31.hipnc",
-    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak30.hipnc",
-    "0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/backup/ArcaneInspiredSphere_bak29.hipnc",
-    "0_Intro/Intro.canvas",
     "0_Overview/Images/ProceduralContentInstance3.JPG",
     "0_Overview/Images/ProceduralContentInstance2.JPG",
     "0_Overview/Images/ProceduralContentInstance.JPG",
-    "0_Overview/Images/ProceduralAlgorithm.JPG",
-    "0_Overview/Images/ProceduralMaterialsExample.JPG",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "5_FoliageSpreadGrowth/LectureExamples/Common/Assets/Readme.md",
     "7_MaterialModeling/MaterialModeling.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
-    "Untitled.md",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas"
+    "Untitled.md"
   ]
 }
