@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"9fd1e56c7afcb9d3","x":-1620,"y":-133,"width":900,"height":93,"type":"text","text":"# Procedural modeling lectures: proceduralism and Gas Dynamics"},
+		{"id":"8b6f512be8ab51d7","x":-1620,"y":20,"width":270,"height":96,"type":"text","text":"Lovro Bosnar\nDate:"},
+		{"id":"31b39478df037706","x":300,"y":-112,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=RemcySTz6eo"}
+	],
+	"edges":[]
+}
