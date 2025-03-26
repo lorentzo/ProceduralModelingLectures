@@ -211,17 +211,13 @@ Topics and concepts:
 * Animated UI graphics and UI FX
 * 3D procedural modeling for 2D motion graphics
 
+3D modeling for 2D motion graphics & UI             |  3D modeling for 2D motion graphics & UI
+:-------------------------:|:-------------------------:
+![](Lectures/6_2DMotionGraphicsUI/LectureExamples/3D2DFUI/render/3D2DFUI1.jpg)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/FUI/render/FUI1.jpg)
+
 3D modeling for 2D motion graphics             |  3D modeling for 2D motion graphics
 :-------------------------:|:-------------------------:
-![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_background.jpg)  | ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_background2.jpg)
-
-3D modeling for 2D motion graphics             |  3D modeling for 2D motion graphics |  3D modeling for 2D motion graphics
-:-------------------------:|:-------------------------:|:-------------------------:
-![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_node1.png)  |  ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_node2.png) |  ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_node2.png) 
-
-UI graphics             |  UI graphics |  UI graphics
-:-------------------------:|:-------------------------:|:-------------------------:
-![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui1.png)  |  ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui2.png) |  ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui5.png) 
+![](Lectures/6_2DMotionGraphicsUI/LectureExamples/Blocks/render/blocks1.jpg)  | ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_background.jpg)
 
 ### Lecture 1.7. Procedural material modeling
 
@@ -248,6 +244,10 @@ Topics and concepts:
 * Procedural industrial materials:
   * Procedural textile (e.g., cloth)
   * Procedural glass (e.g., frosted glass)
+
+Geometrical details             |  Displacement
+:-------------------------:|:-------------------------:
+![](Lectures/7_MaterialModeling/LectureExamples/GeometricalDetails/render/GeometricalDetails1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/SpongeMaterial/render/SpongeMaterial2COPsKarma.jpg)
 
 Example of procedural materials             |  Example of procedural materials
 :-------------------------:|:-------------------------:
