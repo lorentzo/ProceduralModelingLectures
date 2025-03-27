@@ -204,6 +204,10 @@ Surface growth:          |  Surface growth:
 :-------------------------:|:-------------------------:
 ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/SurfaceOrganicGrowthMorph1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/SurfaceOrganicGrowthMorph2.jpg)
 
+Volume growth:          |  Volume growth:
+:-------------------------:|:-------------------------:
+![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r2.jpg)
+
 ### Lecture 1.6. Procedural 2D Motion Graphics and UI
 
 Topics and concepts:
