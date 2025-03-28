@@ -253,6 +253,10 @@ Topics and concepts:
   * Procedural textile (e.g., cloth)
   * Procedural glass (e.g., frosted glass)
 
+Hair and fur             |  Hair and fur 
+:-------------------------:|:-------------------------:
+![](Lectures/7_MaterialModeling/LectureExamples/Fur/render/r1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/Fur/render/r2.jpg)
+
 Geometrical details             |  Displacement
 :-------------------------:|:-------------------------:
 ![](Lectures/7_MaterialModeling/LectureExamples/GeometricalDetails/render/GeometricalDetails1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/SpongeMaterial/render/SpongeMaterial2COPsKarma.jpg)
