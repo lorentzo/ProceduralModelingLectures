@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+                "file": "7_MaterialModeling/MaterialModeling.canvas",
                 "viewState": {
-                  "x": 16741.026835421122,
-                  "y": 3145.0643370979246,
-                  "zoom": -3.333333333333333
+                  "x": 6971.320892258411,
+                  "y": -596.258595701381,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralFoliageSpreadGrowth"
+              "title": "MaterialModeling"
             }
           }
         ]
@@ -173,28 +173,32 @@
   },
   "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r1.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r2.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r1 (2).jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r1 (1).jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0007.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0006.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0005.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0004.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0003.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0002.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0001.jpg",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim/anim.mp4",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim/anim.blend1",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim/anim.blend",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim/0001-0048.mkv",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/New folder",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak89.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak88.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/backup/VolumeGrowthMorph_bak87.hipnc",
-    "5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/anim.mp4",
+    "7_MaterialModeling/LectureExamples/VolumeMaterial/VolumeMaterial.blend@",
+    "7_MaterialModeling/LectureExamples/VolumeMaterial/VolumeMaterial.blend1",
+    "7_MaterialModeling/LectureExamples/VolumeMaterial/VolumeMaterial.blend",
+    "7_MaterialModeling/LectureExamples/VolumeMaterial",
+    "7_MaterialModeling/LectureExamples/New Folder",
+    "4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/backup/VolumeMorphing_bak118.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/backup/VolumeMorphing_bak117.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/backup/VolumeMorphing_bak116.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/backup/VolumeMorphing_bak115.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/backup/VolumeMorphing_bak114.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/backup/VolumeMorphing_bak113.hipnc",
+    "11_SimulationGas/DynamicsGas.canvas",
+    "10_DynamicsLiquid/DynamicsLiquids.canvas",
+    "0_Intro/Intro.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
+    "3_ParticlesPoints/LectureImages/Concepts/Display_Color2.JPG",
+    "3_ParticlesPoints/LectureImages/Concepts/Display_Color1.JPG",
+    "3_ParticlesPoints/LectureImages/Concepts/Update_Force_Vortex.JPG",
+    "3_ParticlesPoints/LectureImages/Concepts/Update_Force_Turbulence.JPG",
+    "3_ParticlesPoints/LectureImages/Concepts/Initialize_Velocity_2.JPG",
+    "3_ParticlesPoints/LectureImages/Concepts/Initialize_Velocity_1.JPG",
+    "3_ParticlesPoints/LectureImages/Concepts/Initialize_Position_Torus.JPG",
+    "3_ParticlesPoints/LectureImages/Concepts/Initialize_Position_Sphere.JPG",
+    "3_ParticlesPoints/LectureImages/Concepts/Spawn_Burst.jpg",
+    "3_ParticlesPoints/LectureImages/Concepts/Spawn_Constant_HighAmount.JPG",
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/Documentation~/README.md",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/CONTRIBUTING.md",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/LICENSE.md",
@@ -221,13 +225,9 @@
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-Text.md",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-StandaloneInputModule.md",
     "7_MaterialModeling/MaterialModeling.canvas",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "4_ParticlesVolumes/ParticlesVolumes.canvas",
     "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
-    "11_SimulationGas/DynamicsGas.canvas",
-    "0_Intro/Intro.canvas",
     "0_Overview/Overview.canvas",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas"
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas"
   ]
 }
