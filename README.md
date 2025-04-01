@@ -253,6 +253,18 @@ Topics and concepts:
   * Procedural textile (e.g., cloth)
   * Procedural glass (e.g., frosted glass)
 
+Surface materials - stone             |  Surface materials - metal and glass
+:-------------------------:|:-------------------------:
+![](Lectures/7_MaterialModeling/LectureExamples/StoneMaterial/Output/r1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/SurfaceMaterial/Output/r1.jpg)
+
+Surface material - fabric/textile | Surface material - fabric/textile
+:-------------------------:|:-------------------------:
+![](Lectures/7_MaterialModeling/LectureExamples/TextileFabric/Output/r1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/TextileFabric/Output/r2.jpg)
+
+Geometrical details             |  Displacement and SSS
+:-------------------------:|:-------------------------:
+![](Lectures/7_MaterialModeling/LectureExamples/GeometricalDetails/render/GeometricalDetails1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/DisplacementSSS/Output/r1.jpg)
+
 Hair and fur material             |  Hair and fur material
 :-------------------------:|:-------------------------:
 ![](Lectures/7_MaterialModeling/LectureExamples/Fur/render/r1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/Fur/render/r2.jpg)
@@ -260,15 +272,6 @@ Hair and fur material             |  Hair and fur material
 Volume material             |  Volume material
 :-------------------------:|:-------------------------:
 ![](Lectures/7_MaterialModeling/LectureExamples/VolumeMaterial/render/r1.jpg) | ![](Lectures/7_MaterialModeling/LectureExamples/VolumeMaterial/render/r3.jpg)
-
-Geometrical details             |  Displacement
-:-------------------------:|:-------------------------:
-![](Lectures/7_MaterialModeling/LectureExamples/GeometricalDetails/render/GeometricalDetails1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/SpongeMaterial/render/SpongeMaterial2COPsKarma.jpg)
-
-Example of procedural materials             |  Example of procedural materials
-:-------------------------:|:-------------------------:
-![](Lectures/7_MaterialModeling/LectureImages/MyWork/lovro-bosnar-0105.jpg)  | ![](Lectures/7_MaterialModeling/LectureImages/MyWork/lovro-bosnar-final-smaller.jpg)
-
 
 ## Part 2: Procedural Modeling and Dynamics (WIP)
 

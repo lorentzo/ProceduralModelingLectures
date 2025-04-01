@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "10_DynamicsLiquid/DynamicsLiquids.canvas",
+                "file": "11_SimulationGas/DynamicsGas.canvas",
                 "viewState": {
-                  "x": 290.19061038877163,
-                  "y": 199.05668032405282,
-                  "zoom": -0.3333333333333334
+                  "x": 1120.5035749377498,
+                  "y": -246.45990688529074,
+                  "zoom": -1.7280221872203745
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "DynamicsLiquids"
+              "title": "DynamicsGas"
             }
           }
         ]
@@ -174,30 +174,30 @@
   "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
     "7_MaterialModeling/MaterialModeling.canvas",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/render/r4.jpg",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/algorithm/~_PrincipledVolumeShadingNoiseDensity.tmp",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/algorithm/4_PrincipledVolumeShadingNoiseDensity.JPG",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/algorithm/~_VolumeDisplaceOperator.tmp",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/algorithm/3_VolumeDisplaceOperator.JPG",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/algorithm/~_MeshToVolumeOperator.tmp",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/algorithm/3_MeshToVolumeOperator.JPG",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/algorithm/~_GeometryNodesInstancingDetails.tmp",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/algorithm/2_GeometryNodesInstancingDetails.JPG",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/algorithm/~_BaseShape.tmp",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/algorithm/1_BaseShape.JPG",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/algorithm",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/New folder",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/render/r3.jpg",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/VolumeMaterial.blend@",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/render/r2.jpg",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/render/r1.jpg",
-    "7_MaterialModeling/LectureExamples/VolumeMaterial/render",
+    "11_SimulationGas/Examples/GasSimulation/Output/r1.jpg",
+    "11_SimulationGas/Examples/GasSimulation/Output",
+    "11_SimulationGas/Examples/GasSimulation/New Folder",
+    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/noise/fluid_noise_0017.vdb",
+    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/data/fluid_data_0017.vdb",
+    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/config/config_0017.uni",
+    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/noise/fluid_noise_0016.vdb",
+    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/data/fluid_data_0016.vdb",
+    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/config/config_0016.uni",
+    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/noise/fluid_noise_0015.vdb",
+    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/data/fluid_data_0015.vdb",
+    "7_MaterialModeling/LectureExamples/TextileFabric/Output/r2.jpg",
+    "7_MaterialModeling/LectureExamples/TextileFabric/Output/r1.png",
+    "7_MaterialModeling/LectureExamples/TextileFabric/Output/r1.jpg",
+    "7_MaterialModeling/LectureExamples/DisplacementSSS/Output/r1.jpg",
+    "7_MaterialModeling/LectureExamples/SurfaceMaterial/Output/r1.jpg",
+    "7_MaterialModeling/LectureExamples/StoneMaterial/Output/r1.jpg",
+    "7_MaterialModeling/LectureExamples/SurfaceMaterial/Assets/Models/horse_head_1k.gltf/textures/horse_head_arm_1k.jpg",
+    "7_MaterialModeling/LectureExamples/SurfaceMaterial/Assets/Models/horse_head_1k.gltf/textures/horse_head_diff_1k.jpg",
+    "7_MaterialModeling/LectureExamples/SurfaceMaterial/Assets/Models/horse_head_1k.gltf/textures/horse_head_nor_gl_1k.jpg",
+    "10_DynamicsLiquid/DynamicsLiquids.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "3_ParticlesPoints/LectureImages/Takeaways/Strip3_src.JPG",
-    "3_ParticlesPoints/LectureImages/Takeaways/~lipbook2.tmp",
     "11_SimulationGas/DynamicsGas.canvas",
-    "10_DynamicsLiquid/DynamicsLiquids.canvas",
     "0_Intro/Intro.canvas",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/Documentation~/README.md",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/CONTRIBUTING.md",
