@@ -8,14 +8,15 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 
 **Lectures aim:**
 * Provide a map of the procedural modeling field
-* Theoretical and practical tools for procedural modeling and animation
-* Conceptual understanding of procedural modeling techniques
+* Theoretical knowledge and practical tools for procedural modeling and animation
 
-**Learning approach used in this lectures:**
-* Learning by doing: concepts, approaches, methods and techniques
+**Learning by doing:**
+* Learning theory and concepts by working on practical examples
 * Project-based learning: practical lectures and project work
-* Primary software: Houdini (https://www.sidefx.com/)
-* Complementary software: Blender (https://www.blender.org/) and Unity (https://unity.com/)
+* Software: 
+    * Houdini (https://www.sidefx.com/)
+    * Blender (https://www.blender.org/) 
+    * Unity (https://unity.com/)
 
 **Lecture applications:**
 * Animated film
@@ -23,10 +24,9 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
 * VFX
 * Game development
 * Scientific visualization
-* AR/VR environments
-* Computational design
+* AR/VR
 * Generative/algorithmical Art
-* Arhitecture
+* Computational arhitecture and design
 
 # Lecture Syllabus
 
@@ -253,9 +253,13 @@ Topics and concepts:
   * Procedural textile (e.g., cloth)
   * Procedural glass (e.g., frosted glass)
 
-Hair and fur             |  Hair and fur 
+Hair and fur material             |  Hair and fur material
 :-------------------------:|:-------------------------:
 ![](Lectures/7_MaterialModeling/LectureExamples/Fur/render/r1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/Fur/render/r2.jpg)
+
+Volume material             |  Volume material
+:-------------------------:|:-------------------------:
+![](Lectures/7_MaterialModeling/LectureExamples/VolumeMaterial/render/r1.jpg) | ![](Lectures/7_MaterialModeling/LectureExamples/VolumeMaterial/render/r3.jpg)
 
 Geometrical details             |  Displacement
 :-------------------------:|:-------------------------:

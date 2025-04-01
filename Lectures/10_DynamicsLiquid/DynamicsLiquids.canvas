@@ -3,7 +3,8 @@
 		{"id":"43a063434eb4998c","type":"link","url":"https://www.youtube.com/watch?v=14IDv9QZ1sU","x":-320,"y":-180,"width":640,"height":360},
 		{"id":"b7e1a315a24f1b60","type":"text","text":"# Procedural modeling lectures: proceduralism and Liquid Dynamics","x":-1540,"y":-93,"width":960,"height":93},
 		{"id":"fce3a842e36287cf","type":"text","text":"Lovro Bosnar\nDate:","x":-1540,"y":60,"width":270,"height":96},
-		{"id":"6907a9d08f5d6596","x":-320,"y":240,"width":400,"height":400,"type":"link","url":"https://mmacklin.com/pbf_sig_preprint.pdf"}
+		{"id":"6907a9d08f5d6596","type":"link","url":"https://mmacklin.com/pbf_sig_preprint.pdf","x":-320,"y":240,"width":400,"height":400},
+		{"id":"cd824f25fabd7ca2","x":160,"y":260,"width":400,"height":400,"type":"link","url":"http://mantaflow.com/"}
 	],
 	"edges":[]
 }
