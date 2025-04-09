@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "11_SimulationGas/DynamicsGas.canvas",
+                "file": "3_ParticlesPoints/ParticlesPoints.canvas",
                 "viewState": {
-                  "x": 1120.5035749377498,
-                  "y": -246.45990688529074,
-                  "zoom": -1.7280221872203745
+                  "x": 7034.814439488024,
+                  "y": 1882.4222489548247,
+                  "zoom": -4
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "DynamicsGas"
+              "title": "ParticlesPoints"
             }
           }
         ]
@@ -173,31 +173,33 @@
   },
   "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
-    "7_MaterialModeling/MaterialModeling.canvas",
-    "11_SimulationGas/Examples/GasSimulation/Output/r1.jpg",
-    "11_SimulationGas/Examples/GasSimulation/Output",
-    "11_SimulationGas/Examples/GasSimulation/New Folder",
-    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/noise/fluid_noise_0017.vdb",
-    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/data/fluid_data_0017.vdb",
-    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/config/config_0017.uni",
-    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/noise/fluid_noise_0016.vdb",
-    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/data/fluid_data_0016.vdb",
-    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/config/config_0016.uni",
-    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/noise/fluid_noise_0015.vdb",
-    "11_SimulationGas/Examples/GasSimulation/cache_fluid_8c3395b4/data/fluid_data_0015.vdb",
-    "7_MaterialModeling/LectureExamples/TextileFabric/Output/r2.jpg",
-    "7_MaterialModeling/LectureExamples/TextileFabric/Output/r1.png",
-    "7_MaterialModeling/LectureExamples/TextileFabric/Output/r1.jpg",
-    "7_MaterialModeling/LectureExamples/DisplacementSSS/Output/r1.jpg",
-    "7_MaterialModeling/LectureExamples/SurfaceMaterial/Output/r1.jpg",
-    "7_MaterialModeling/LectureExamples/StoneMaterial/Output/r1.jpg",
-    "7_MaterialModeling/LectureExamples/SurfaceMaterial/Assets/Models/horse_head_1k.gltf/textures/horse_head_arm_1k.jpg",
-    "7_MaterialModeling/LectureExamples/SurfaceMaterial/Assets/Models/horse_head_1k.gltf/textures/horse_head_diff_1k.jpg",
-    "7_MaterialModeling/LectureExamples/SurfaceMaterial/Assets/Models/horse_head_1k.gltf/textures/horse_head_nor_gl_1k.jpg",
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Temp/UnityTempFile-dfb98d30c0761b54eab43977d31296b0",
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/ShaderCache/vfx/VFX_Portal90f6/00/6f4d5e6343168c479c41e846122c47dd.bin",
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Logs/shadercompiler-UnityShaderCompiler.exe11.log",
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/ShaderCache/vfx/VFX_SDFd1b4/00/daf0bd989e3d0d21fd7acf730d4d9e54.bin",
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/ShaderCache/vfx/VFX_SDFd1b4/00/e3472b2ecc614612011c066257875de4.bin",
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Logs/shadercompiler-UnityShaderCompiler.exe10.log",
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/ShaderCache/vfx/VFX_Portal90f6/00/507b552473654dc622e3479fb3023dad.bin",
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/ShaderCache/vfx/VFX_Portal90f6/00/6c0cfa869d9ed9f7d803d3444937527b.bin",
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/ShaderCache/vfx/VFX_Portal90f6/00/fc200ec202014df8c8d586d647258e15.bin",
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Logs/shadercompiler-UnityShaderCompiler.exe9.log",
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Temp/ADB-Refreshe061e475b9cbf7a47b715c5bf86a21e8",
+    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/6_GPUEventTrails.JPG",
+    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/5_UpdateOutputTurbulenceSDFConformColor.JPG",
+    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/4_InitializeSDFPosition.JPG",
+    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/3_BaseVFXGraph.JPG",
+    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/2_SDFBakeFromMesh.JPG",
+    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/1_Mesh.JPG",
     "10_DynamicsLiquid/DynamicsLiquids.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/Portal/9_FinalTouches.JPG",
+    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/Portal/8_OutputColorOverLifeAA.JPG",
+    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/Portal/7_UpdatePlaneSphereCollision.JPG",
+    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/Portal/6_InitalizeUpdateNormalizeVelocityDragGravityTurbulence.JPG",
+    "0_Overview/Overview.canvas",
     "11_SimulationGas/DynamicsGas.canvas",
+    "7_MaterialModeling/MaterialModeling.canvas",
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "0_Intro/Intro.canvas",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/Documentation~/README.md",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/CONTRIBUTING.md",
@@ -226,7 +228,6 @@
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-StandaloneInputModule.md",
     "4_ParticlesVolumes/ParticlesVolumes.canvas",
     "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
-    "0_Overview/Overview.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas"
   ]
 }

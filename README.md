@@ -17,6 +17,7 @@ Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
     * Houdini (https://www.sidefx.com/)
     * Blender (https://www.blender.org/) 
     * Unity (https://unity.com/)
+    * Touch Designer (https://derivative.ca/)
 
 **Lecture applications:**
 * Animated film
