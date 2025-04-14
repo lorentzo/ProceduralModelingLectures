@@ -9,7 +9,8 @@
 		{"id":"31b39478df037706","type":"link","url":"https://www.youtube.com/watch?v=RemcySTz6eo","x":-280,"y":-313,"width":640,"height":360},
 		{"id":"42ac40327ec99357","type":"text","text":"Houdini ","x":-265,"y":-521,"width":250,"height":60},
 		{"id":"06215b22ff9d841d","type":"text","text":"Blender","x":925,"y":-403,"width":250,"height":60},
-		{"id":"ec859102f2d68fbb","type":"link","url":"https://lesterbanks.com/2018/10/create-mix-colors-houdini-fluids/","x":-280,"y":100,"width":600,"height":400}
+		{"id":"ec859102f2d68fbb","type":"link","url":"https://lesterbanks.com/2018/10/create-mix-colors-houdini-fluids/","x":-280,"y":100,"width":600,"height":400},
+		{"id":"2e3bb169b3cfa8ae","x":-340,"y":1000,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=gD0fjYQj0qE"}
 	],
 	"edges":[]
 }

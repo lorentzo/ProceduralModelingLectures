@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"7f3ab4c123f87195","type":"text","text":"# Procedural modeling lecture: Rigid Body Dynamics","x":-460,"y":-140,"width":780,"height":80},
+		{"id":"6f1791360f2510bf","type":"text","text":"Lovro Bosnar\nDate:","x":-460,"y":-20,"width":250,"height":80},
+		{"id":"0bc10ebb95875012","type":"text","text":"The [Rigid Body solver](https://www.sidefx.com/docs/houdini/nodes/dop/rigidbodysolver.html \"Sets and configures a Rigid Body Dynamics solver.\") simulates the motion and collisions of objects as if they were hard, solid objects (as opposed to other types of simulated objects such as fluids, cloth, and soft bodies)","x":640,"y":-168,"width":482,"height":136},
+		{"id":"c1b7c18edcde3342","x":3821,"y":-477,"width":250,"height":60,"type":"text","text":"Blender examples"},
+		{"id":"8c552ced0dbf4590","x":3608,"y":-242,"width":677,"height":420,"type":"text","text":"* Force fields and RBD:\n\t* https://www.youtube.com/watch?v=3dbKvSjTzQI\n\t* https://www.youtube.com/watch?v=efAR6MglkYM\n\t* https://www.youtube.com/watch?v=ziguVXsc3yk\n\t* https://www.youtube.com/watch?v=BS_QBh-X5TU\n* Tips and tricks:\n\t* https://www.youtube.com/watch?v=xOnIAxuBjHs\n* Filling space with RBD:\n\t* https://www.youtube.com/watch?v=89jxLu2etas\n\t* https://www.youtube.com/watch?v=jS02paw1WdE\n* Voronoi fracture:\n\t* https://www.youtube.com/watch?v=FIPu9_OGFgc\n\t* https://www.youtube.com/watch?v=jD6bUp9icjQ"},
+		{"id":"17f5fe2c264fa796","x":3115,"y":-402,"width":250,"height":60,"type":"text","text":"Blender RBD"},
+		{"id":"25ae21d6a5cc4375","x":3040,"y":-182,"width":400,"height":400,"type":"link","url":"https://docs.blender.org/manual/en/latest/physics/rigid_body/index.html"},
+		{"id":"4eb54c2b0a1fd975","type":"text","text":"+ Using packed geometry (representing pieces as points) for RBD: https://www.youtube.com/watch?v=XzlZDgr3s8c\n+ Particles and RBD: https://www.youtube.com/watch?v=edPvHXKvOtg\n+ RBD and morphing: https://www.youtube.com/watch?v=UjSpiFwD9lM\n+ Vellum RBD: https://www.youtube.com/watch?v=G5K-0wqEJsU\n+ Bullet RBD: https://www.youtube.com/watch?v=KOXn5WECmsA\n+ Interesting examples:\n\t+ https://www.sidefx.com/tutorials/discovering-houdini-rbd-3/\n\t+ https://www.youtube.com/watch?v=DA6sq1mCMyU","x":2040,"y":-285,"width":697,"height":371},
+		{"id":"0695991ba3b60d91","x":2264,"y":-465,"width":250,"height":60,"type":"text","text":"Houdini examples"},
+		{"id":"1858360392112d90","x":1440,"y":-255,"width":400,"height":400,"type":"link","url":"https://www.sidefx.com/docs/houdini/dyno/rbd.html"},
+		{"id":"bb043e8d96585f2b","x":1440,"y":234,"width":400,"height":400,"type":"link","url":"https://www.sidefx.com/docs/houdini/destruction/index.html"},
+		{"id":"bbf3eab448de5007","x":1515,"y":-465,"width":250,"height":60,"type":"text","text":"Houdini RBD"},
+		{"id":"de7e2d35ac0887b8","x":5351,"y":-638,"width":250,"height":60,"type":"text","text":"Practical work in Blender"},
+		{"id":"409f061fb8779242","x":5351,"y":-417,"width":400,"height":225,"type":"file","file":"8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r4.jpg"},
+		{"id":"6a391dbe252d6162","x":5351,"y":-157,"width":400,"height":225,"type":"file","file":"8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r1.jpg"},
+		{"id":"0f8b0fc6dcb4fef9","x":4973,"y":-245,"width":250,"height":60,"type":"text","text":"Space filling RBD"},
+		{"id":"8009b4705ee19efe","x":5806,"y":-342,"width":474,"height":127,"type":"text","text":"Notes:\n* Geometry nodes and random materials: https://www.youtube.com/watch?v=-Bh-6eR1v80"},
+		{"id":"038c6466ccc414c4","x":5351,"y":260,"width":400,"height":225,"type":"file","file":"8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery/ForceFieldRBD.jpg"},
+		{"id":"19eb6a992c9f8662","x":5351,"y":560,"width":400,"height":225,"type":"file","file":"8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery/ForceFieldRBD2.jpg"},
+		{"id":"c580f599c248e3b4","x":4918,"y":453,"width":250,"height":60,"type":"text","text":"Force field RBD"}
+	],
+	"edges":[
+		{"id":"b1aa5f3678be8c62","fromNode":"bbf3eab448de5007","fromSide":"bottom","toNode":"1858360392112d90","toSide":"top"},
+		{"id":"7bf7c3485639f504","fromNode":"0695991ba3b60d91","fromSide":"bottom","toNode":"4eb54c2b0a1fd975","toSide":"top"},
+		{"id":"c3317228655f9c35","fromNode":"c1b7c18edcde3342","fromSide":"bottom","toNode":"8c552ced0dbf4590","toSide":"top"},
+		{"id":"b7dc745c27cc8725","fromNode":"17f5fe2c264fa796","fromSide":"bottom","toNode":"25ae21d6a5cc4375","toSide":"top"},
+		{"id":"9feba62fdbc3f424","fromNode":"0f8b0fc6dcb4fef9","fromSide":"right","toNode":"409f061fb8779242","toSide":"left"},
+		{"id":"6f9fe35ea2dce218","fromNode":"0f8b0fc6dcb4fef9","fromSide":"right","toNode":"6a391dbe252d6162","toSide":"left"},
+		{"id":"1560db1bab3f031c","fromNode":"c580f599c248e3b4","fromSide":"right","toNode":"038c6466ccc414c4","toSide":"left"},
+		{"id":"fafdbca6d1ff730e","fromNode":"c580f599c248e3b4","fromSide":"right","toNode":"19eb6a992c9f8662","toSide":"left"}
+	]
+}

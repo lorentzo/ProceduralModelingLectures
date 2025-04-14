@@ -301,6 +301,14 @@ Practical:
 * https://www.youtube.com/watch?v=IHYelaEFmr8
 * https://www.sidefx.com/tutorials/smashing-wine-glass/
 
+Space filling RBD             |  Space filling RBD
+:-------------------------:|:-------------------------:
+![](Lectures/8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r4.jpg) | ![](Lectures/8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r1.jpg)
+
+Force Field RBD             |  Force Field RBD
+:-------------------------:|:-------------------------:
+![](Lectures/8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery/ForceFieldRBD.jpg) | ![](Lectures/8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery/ForceFieldRBD2.jpg)
+
 ### Lecture 2.2: Procedural Modeling and Soft (Deformable) Body Simulation
 
 Topics and concepts:

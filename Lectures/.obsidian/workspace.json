@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "3_ParticlesPoints/ParticlesPoints.canvas",
+                "file": "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
                 "viewState": {
-                  "x": -1379.21053342258,
-                  "y": 63.019480333830636,
-                  "zoom": 1.1102230246251565e-16
+                  "x": 3762.8808086432614,
+                  "y": 154.6859261430555,
+                  "zoom": -1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ParticlesPoints"
+              "title": "DynamicsRigidBody"
             }
           }
         ]
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc6437fe5263d55d",
@@ -174,32 +173,32 @@
   },
   "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/Artifacts/c0/c07e21173bc45ca320cde5b911151d85",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Temp/__Backupscenes/0.backup",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Temp/__Backupscenes",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Temp/ADB-Refresh41897b91d88e88549ac59388278d4c0e",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/Artifacts/72/72c030e0d1cb2678bd7a075961cf1d2a",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Temp/UnityTempFile-488ebba33c04719408baadc24d6039d4",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Temp/ADB-Refresh8233eefb5ea90a245949a3a359b8324d",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/Artifacts/fb/fbe2d14cc9fc8800bbf2e36c6fef68b2",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Temp/UnityTempFile-5eddddece84ca634cb7f4c2304ade3f1",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Temp/ADB-Refresh45555edcc490d8f4e8f003ed100c59ff",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/Artifacts/ba/bafa395a69592d9ac4f37e2d37fc40a3",
+    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/ForceFieldRBD.blend@",
+    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery/ForceFieldRBD2.jpg",
+    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery/ForceFieldRBD.jpg",
+    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery",
+    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/New Folder",
+    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/ForceFieldRBD.blend1",
+    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/ForceFieldRBD.blend",
+    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD",
+    "8_DynamicsRigidBody/Examples/Blender/New Folder",
+    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/SpaceFillingRBD.blend@",
+    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r4.jpg",
+    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r3.jpg",
+    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r12.jpg",
+    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r1.jpg",
+    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery",
+    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallerry",
+    "10_DynamicsLiquid/DynamicsLiquids.canvas",
+    "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
+    "11_SimulationGas/DynamicsGas.canvas",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
     "0_Intro/Intro.canvas",
     "Klex.svg",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
     "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/6_GPUEventTrails.JPG",
     "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/5_UpdateOutputTurbulenceSDFConformColor.JPG",
     "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/4_InitializeSDFPosition.JPG",
-    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/3_BaseVFXGraph.JPG",
-    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/2_SDFBakeFromMesh.JPG",
-    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/1_Mesh.JPG",
-    "10_DynamicsLiquid/DynamicsLiquids.canvas",
-    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/Portal/9_FinalTouches.JPG",
-    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/Portal/8_OutputColorOverLifeAA.JPG",
-    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/Portal/7_UpdatePlaneSphereCollision.JPG",
     "0_Overview/Overview.canvas",
-    "11_SimulationGas/DynamicsGas.canvas",
     "7_MaterialModeling/MaterialModeling.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/Documentation~/README.md",
@@ -228,7 +227,6 @@
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-Text.md",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-StandaloneInputModule.md",
     "4_ParticlesVolumes/ParticlesVolumes.canvas",
-    "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas"
+    "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas"
   ]
 }
