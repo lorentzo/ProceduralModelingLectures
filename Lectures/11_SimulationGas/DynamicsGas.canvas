@@ -10,7 +10,8 @@
 		{"id":"42ac40327ec99357","type":"text","text":"Houdini ","x":-265,"y":-521,"width":250,"height":60},
 		{"id":"06215b22ff9d841d","type":"text","text":"Blender","x":925,"y":-403,"width":250,"height":60},
 		{"id":"ec859102f2d68fbb","type":"link","url":"https://lesterbanks.com/2018/10/create-mix-colors-houdini-fluids/","x":-280,"y":100,"width":600,"height":400},
-		{"id":"2e3bb169b3cfa8ae","x":-340,"y":1000,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=gD0fjYQj0qE"}
+		{"id":"2e3bb169b3cfa8ae","type":"link","url":"https://www.youtube.com/watch?v=gD0fjYQj0qE","x":-340,"y":1000,"width":640,"height":360},
+		{"id":"f145abc4a5fb23dd","x":-380,"y":1420,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=Eino-CSJqW8"}
 	],
 	"edges":[]
 }

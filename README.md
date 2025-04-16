@@ -293,14 +293,6 @@ Topics and concepts:
 * Procedurally guided physically-based dynamics
 * RBD solvers: Bullet, Open Dynamics Engine, built-in
 
-R&D:
-* https://docs.blender.org/manual/en/latest/addons/object/cell_fracture.html
-* https://dl.acm.org/doi/pdf/10.1145/2556700.2556713?casa_token=9i_sM2Dud3wAAAAA:N5XFUTjcGkPoqWebxFAOwVgOPiLx8l8qJ6QcPNzaGgYC-nmH-8mtR9Z2qF9yTnMn4Tu68DTGvTc
-
-Practical:
-* https://www.youtube.com/watch?v=IHYelaEFmr8
-* https://www.sidefx.com/tutorials/smashing-wine-glass/
-
 Space filling RBD             |  Space filling RBD
 :-------------------------:|:-------------------------:
 ![](Lectures/8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r4.jpg) | ![](Lectures/8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r1.jpg)
@@ -319,11 +311,9 @@ Topics and concepts:
 * Deformation on collision and contact
 * Soft body solvers: finite elements methods, position based dynamics
 
-R&D:
-* https://matthias-research.github.io/pages/publications/posBasedDyn.pdf
-
-Practicals:
-* https://www.sidefx.com/docs/houdini/vellum/index.html
+Vellum Balloon Collisions             |  Vellum Balloon Collisions
+:-------------------------:|:-------------------------:
+![](Lectures/9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/r1.jpg) | ![](Lectures/9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/r2.jpg)
 
 ### Lecture 2.3: Procedural Modeling and Fluids: Liquid Simulation
 
@@ -333,12 +323,9 @@ Topics and concepts:
 * Physically-based liquid simulation and solvers
 * External procedural vector fields and collisions
 
-R&D:
-* https://mmacklin.com/pbf_sig_preprint.pdf
-* https://graphics.pixar.com/library/ElementalWater/paper.pdf
-
-Practicals:
-* https://entagma.com/tag/fluid/
+FLIP + RBD             |  FLIP + RBD
+:-------------------------:|:-------------------------:
+![](Lectures/10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/render/r1.jpg) | ![](Lectures/10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/render/r2.jpg)
 
 ### Lecture 2.4: Procedural Modeling and Fluids: Gas Simulation
 

@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
+                "file": "10_DynamicsLiquid/DynamicsLiquids.canvas",
                 "viewState": {
-                  "x": 3762.8808086432614,
-                  "y": 154.6859261430555,
-                  "zoom": -1.1102230246251565e-16
+                  "x": -1256.4418492747893,
+                  "y": 210.9710925056758,
+                  "zoom": -0.6666666666666663
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "DynamicsRigidBody"
+              "title": "DynamicsLiquids"
             }
           }
         ]
@@ -173,31 +173,33 @@
   },
   "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
-    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/ForceFieldRBD.blend@",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/backup/FLIPCurveControl_bak150.hipnc",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/backup/FLIPCurveControl_bak149.hipnc",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/backup/FLIPCurveControl_bak148.hipnc",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/backup/FLIPCurveControl_bak147.hipnc",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/backup/FLIPCurveControl_bak146.hipnc",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/render/r2.jpg",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/render/FLIPCurveControl.karmarendersettings.0050.jpg",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/render/r1.jpg",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/backup/FLIPCurveControl_bak145.hipnc",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/backup/FLIPCurveControl_bak144.hipnc",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/backup/FLIPCurveControl_bak143.hipnc",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/backup/FLIPCurveControl_bak142.hipnc",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/backup/FLIPCurveControl_bak141.hipnc",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/backup/FLIPCurveControl_bak140.hipnc",
+    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/render/FLIPCurveControl.karmarendersettings.0054.jpg",
+    "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
+    "9_DynamicsDeformableBody/DynamicsDeformableBody.canvas",
+    "9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/r2.jpg",
+    "9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/r1.jpg",
+    "9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/VellumDeformable.karmarendersettings.0011.jpg",
+    "9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/VellumDeformable.karmarendersettings.0007.jpg",
+    "11_SimulationGas/DynamicsGas.canvas",
     "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery/ForceFieldRBD2.jpg",
     "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery/ForceFieldRBD.jpg",
-    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery",
-    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/New Folder",
-    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/ForceFieldRBD.blend1",
-    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/ForceFieldRBD.blend",
-    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD",
-    "8_DynamicsRigidBody/Examples/Blender/New Folder",
-    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/SpaceFillingRBD.blend@",
-    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r4.jpg",
-    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r3.jpg",
-    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r12.jpg",
-    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r1.jpg",
-    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery",
-    "8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallerry",
     "10_DynamicsLiquid/DynamicsLiquids.canvas",
-    "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
-    "11_SimulationGas/DynamicsGas.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
     "0_Intro/Intro.canvas",
-    "Klex.svg",
-    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/6_GPUEventTrails.JPG",
-    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/5_UpdateOutputTurbulenceSDFConformColor.JPG",
-    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/SDF/4_InitializeSDFPosition.JPG",
     "0_Overview/Overview.canvas",
     "7_MaterialModeling/MaterialModeling.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
@@ -226,7 +228,6 @@
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-Toggle.md",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-Text.md",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-StandaloneInputModule.md",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas",
-    "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas"
+    "4_ParticlesVolumes/ParticlesVolumes.canvas"
   ]
 }

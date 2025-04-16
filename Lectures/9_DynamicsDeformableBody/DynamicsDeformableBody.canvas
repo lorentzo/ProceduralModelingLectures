@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"47834fab8e6125df","type":"text","text":"# Procedural Modeling Lecture: Deformable Body Dynamics","x":-1840,"y":-49,"width":920,"height":109},
+		{"id":"c2156b08d9a159b7","type":"text","text":"Lovro Bosnar\nDate:","x":-1840,"y":120,"width":260,"height":80},
+		{"id":"49518557c1a62d4c","type":"link","url":"https://www.sidefx.com/docs/houdini/vellum/index.html","x":3003,"y":-109,"width":400,"height":400},
+		{"id":"90dee86d69e7377d","type":"link","url":"https://www.sidefx.com/docs/houdini/finiteelements/index.html","x":3003,"y":351,"width":400,"height":400},
+		{"id":"cf9c2b5185ad724b","type":"link","url":"https://www.sidefx.com/docs/houdini/mpm/index.html","x":3003,"y":811,"width":400,"height":400},
+		{"id":"07b20b8abd77670a","type":"link","url":"https://docs.blender.org/manual/en/latest/physics/soft_body/index.html","x":4837,"y":-249,"width":400,"height":400},
+		{"id":"51da11c320368290","type":"text","text":"Blender Deformable body","x":4912,"y":-463,"width":250,"height":60},
+		{"id":"efb36985b08d33b4","type":"text","text":"Blender deformable body examples\n* Inflating with collisions: https://www.youtube.com/watch?v=IofA3OA3eIk - quite unstable\n* Cloth: https://www.youtube.com/watch?v=tMRi32Las1U - works great\n* ","x":5724,"y":-481,"width":836,"height":332},
+		{"id":"930bfe5f66e5d919","type":"text","text":"Vellum simulation is build using one solver and number of constraints which defined behavior:\n* Ballon\n* Cloth\n* Hair\n* Fluid\n* Grain\n* Softbody\n* Collisions\n* Pinning\n\nGreat explanation: https://www.youtube.com/watch?v=h0iAAY8Zpq0","x":6906,"y":147,"width":624,"height":384},
+		{"id":"668f4d2ec3cf6567","type":"text","text":"Solver","x":6910,"y":56,"width":250,"height":60},
+		{"id":"0b7558ce9b8feed0","type":"text","text":"Vellum","x":7108,"y":-147,"width":250,"height":60},
+		{"id":"561fb236ba32cfae","type":"text","text":"Houdini specific concepts","x":7280,"y":-429,"width":250,"height":71},
+		{"id":"6fbd1345baccb031","type":"text","text":"Constraints","x":7280,"y":51,"width":250,"height":60},
+		{"id":"feaed2c00a0a03c4","x":7440,"y":-147,"width":250,"height":60,"type":"text","text":"FEM"},
+		{"id":"de584f0db0da4ec0","x":8731,"y":-610,"width":509,"height":79,"type":"text","text":"Houdini practical examples"},
+		{"id":"7a2ea23824dbfbba","x":8786,"y":-311,"width":400,"height":225,"type":"file","file":"9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/r1.jpg"},
+		{"id":"fff90f8ce5874da5","x":8786,"y":-31,"width":400,"height":225,"type":"file","file":"9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/r2.jpg"},
+		{"id":"75eb0712f4db2604","x":8360,"y":-127,"width":250,"height":96,"type":"text","text":"Vellum\nBalloon constraint\nCollisions"},
+		{"id":"19749f50ee01eedd","type":"link","url":"https://www.sidefx.com/docs/houdini/dyno/index.html","x":2560,"y":-109,"width":400,"height":400},
+		{"id":"4253fa6eaaa6e0ba","type":"text","text":"Houdini deformable body","x":2760,"y":-529,"width":485,"height":60},
+		{"id":"53e6d0a52965933b","type":"text","text":"Houdini practical examples:\n* Vellum:\n\t* https://www.youtube.com/watch?v=8ge2W7KKwf8\n\t* https://www.youtube.com/watch?v=h0iAAY8Zpq0\n\t* https://www.youtube.com/watch?v=iejHx2AczJk\n\t* https://www.youtube.com/watch?v=creZnjGQTxk\n\t* https://www.youtube.com/watch?v=d1ZxZ68X87g\n\t* https://www.youtube.com/watch?v=hmoBS9S-8h0\n\t* https://www.sidefx.com/docs/houdini/shelf/vellumtetsoftbody.html\n\t* https://www.youtube.com/watch?v=WvTS5xHQUeY\n\t* https://www.youtube.com/watch?v=mVqr08H8Iyc\n* FEM:\n\t* https://www.sidefx.com/docs/houdini/nodes/sop/femdeform.html\n\t* https://www.youtube.com/watch?v=goqG2t4WYoI\n* Ideas:\n\t* https://entagma.com/courses/vellum-101/","x":3725,"y":-442,"width":755,"height":493},
+		{"id":"4eceb096913db342","x":-351,"y":-13,"width":250,"height":60,"color":"1","type":"text","text":"Where it is used"},
+		{"id":"70fbdf2cc783af79","x":229,"y":-7,"width":250,"height":60,"color":"1","type":"text","text":"When to use it"},
+		{"id":"07e8fd0fdb7711ab","x":1057,"y":-33,"width":250,"height":60,"color":"1","type":"text","text":"General concepts"},
+		{"id":"59e3ea4a32910eb8","x":982,"y":140,"width":400,"height":400,"type":"link","url":"https://matthias-research.github.io/pages/publications/posBasedDyn.pdf"}
+	],
+	"edges":[
+		{"id":"298dd19f597e96df","fromNode":"4253fa6eaaa6e0ba","fromSide":"bottom","toNode":"49518557c1a62d4c","toSide":"top"},
+		{"id":"94b9c27f976739e1","fromNode":"4253fa6eaaa6e0ba","fromSide":"bottom","toNode":"19749f50ee01eedd","toSide":"top"},
+		{"id":"a07113169ad42217","fromNode":"561fb236ba32cfae","fromSide":"bottom","toNode":"0b7558ce9b8feed0","toSide":"top"},
+		{"id":"a605bfa451c9fae0","fromNode":"0b7558ce9b8feed0","fromSide":"bottom","toNode":"668f4d2ec3cf6567","toSide":"top"},
+		{"id":"acbaf651f65d5671","fromNode":"0b7558ce9b8feed0","fromSide":"bottom","toNode":"6fbd1345baccb031","toSide":"top"},
+		{"id":"07866c0212fa2f05","fromNode":"561fb236ba32cfae","fromSide":"bottom","toNode":"feaed2c00a0a03c4","toSide":"top"},
+		{"id":"c1b9315ed87a2436","fromNode":"75eb0712f4db2604","fromSide":"right","toNode":"7a2ea23824dbfbba","toSide":"left"},
+		{"id":"c005d2a3097bb78f","fromNode":"75eb0712f4db2604","fromSide":"right","toNode":"fff90f8ce5874da5","toSide":"left"}
+	]
+}
