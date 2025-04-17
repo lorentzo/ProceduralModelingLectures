@@ -281,8 +281,9 @@ Procedural geometrical and material mechanics modeling using:
 * forces, velocities, positions and constraints
 * physically-based, classical mechanics methods for CG
 
-References: 
-* https://graphics.stanford.edu/courses/cs348c/
+Procedural modeling and physical simulation:
+* Procedurally define parameters and initial state of simulation
+* Use results of physicals simulation for procedural modeling
 
 ### Lecture 2.1: Procedural Modeling and Rigid Body Simulation
 
@@ -337,17 +338,14 @@ Topics and concepts:
 * Physically-based gas solvers
 * Procedural constraints and forces and physically-based solvers
 
-R&D:
-* https://graphics.pixar.com/library/ElementalAir/paper.pdf
-
-Practicals:
-* https://entagma.com/tag/fluid/
-* https://graphics.pixar.com/library/ElementalFire/paper.pdf
-* https://www.youtube.com/watch?v=zyIJQHlFQs0
+Gas simulation             |  Gas simulation
+:-------------------------:|:-------------------------:
+![](Lectures/11_SimulationGas/Examples/GasSimulation/Output/r2.jpg) | ![](Lectures/11_SimulationGas/Examples/GasSimulation/Output/r3.jpg)
 
 # Resources 
 
 * SideFX; Houdini: https://www.sidefx.com/learn/getting_started/, https://www.sidefx.com/docs/houdini/
+* Blender: https://docs.blender.org/
 * Entagma: https://entagma.com/
 * Stanford; D. James: http://graphics.stanford.edu/courses/cs348c/
 * Ebert: Texturing and modeling: procedural approach

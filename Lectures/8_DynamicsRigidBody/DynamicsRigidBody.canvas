@@ -21,14 +21,15 @@
 		{"id":"50a548fce0e93584","type":"link","url":"https://www.sidefx.com/docs/houdini/mpm/index.html","x":1440,"y":700,"width":400,"height":400},
 		{"id":"22764925f3e1f8fd","type":"link","url":"https://www.sidefx.com/docs/houdini/vellum/index.html","x":1440,"y":1160,"width":400,"height":400},
 		{"id":"bbf3eab448de5007","type":"text","text":"Houdini RBD:\n* Built-in RBD\n* Bullet RBD\n* Open Dynamics Engine\n* MPM\n* Vellum (Position based dynamics)","x":1470,"y":-585,"width":340,"height":240},
-		{"id":"810fb44f9dbd18f7","x":3040,"y":320,"width":400,"height":400,"type":"link","url":"https://extensions.blender.org/add-ons/cell-fracture/"},
-		{"id":"7f3ab4c123f87195","type":"text","text":"# Procedural modeling lecture: Rigid Body Dynamics","x":-1760,"y":-135,"width":780,"height":80},
-		{"id":"6f1791360f2510bf","type":"text","text":"Lovro Bosnar\nDate:","x":-1760,"y":-15,"width":250,"height":80},
-		{"id":"dbc23167e4866098","x":-744,"y":-153,"width":250,"height":60,"color":"1","type":"text","text":"Where it is used"},
-		{"id":"eaa8171355138b58","x":-166,"y":-153,"width":250,"height":60,"color":"1","type":"text","text":"When to use it"},
-		{"id":"e36bd3e2b5c2a573","x":588,"y":-295,"width":250,"height":60,"color":"1","type":"text","text":"General concepts"},
+		{"id":"810fb44f9dbd18f7","type":"link","url":"https://extensions.blender.org/add-ons/cell-fracture/","x":3040,"y":320,"width":400,"height":400},
+		{"id":"dbc23167e4866098","type":"text","text":"Where it is used","x":-744,"y":-153,"width":250,"height":60,"color":"1"},
+		{"id":"eaa8171355138b58","type":"text","text":"When to use it","x":-166,"y":-153,"width":250,"height":60,"color":"1"},
+		{"id":"e36bd3e2b5c2a573","type":"text","text":"General concepts","x":588,"y":-295,"width":250,"height":60,"color":"1"},
 		{"id":"0bc10ebb95875012","type":"text","text":"The [Rigid Body solver](https://www.sidefx.com/docs/houdini/nodes/dop/rigidbodysolver.html \"Sets and configures a Rigid Body Dynamics solver.\") simulates the motion and collisions of objects as if they were hard, solid objects (as opposed to other types of simulated objects such as fluids, cloth, and soft bodies)","x":472,"y":-153,"width":482,"height":136},
-		{"id":"82d3eb0737aaa8dd","x":513,"y":80,"width":400,"height":400,"type":"link","url":"https://dl.acm.org/doi/abs/10.1145/2556700.2556713?casa_token=9i_sM2Dud3wAAAAA%3AN5XFUTjcGkPoqWebxFAOwVgOPiLx8l8qJ6QcPNzaGgYC-nmH-8mtR9Z2qF9yTnMn4Tu68DTGvTc"}
+		{"id":"82d3eb0737aaa8dd","type":"link","url":"https://dl.acm.org/doi/abs/10.1145/2556700.2556713?casa_token=9i_sM2Dud3wAAAAA%3AN5XFUTjcGkPoqWebxFAOwVgOPiLx8l8qJ6QcPNzaGgYC-nmH-8mtR9Z2qF9yTnMn4Tu68DTGvTc","x":513,"y":80,"width":400,"height":400},
+		{"id":"7f3ab4c123f87195","type":"text","text":"# Procedural modeling lecture: Rigid Body Dynamics","x":-3000,"y":-97,"width":780,"height":80},
+		{"id":"6f1791360f2510bf","type":"text","text":"Lovro Bosnar\nDate:","x":-3000,"y":23,"width":250,"height":80},
+		{"id":"bb6ddaa8b31e78a1","x":-1920,"y":-255,"width":820,"height":397,"color":"5","type":"text","text":"This is the first lecture introducing physical simulation which will be the topic for next 4 lectures: \n* Solids\n\t* Rigid body\n\t* Deformable body\n* Fluids:\n\t* Liquid\n\t* Gas\n\nThe procedural modeling and phyiscal simulation:\n* Procedurally define parameters and initial state of simulation\n* Use results of physicals simulation for procedural modeling"}
 	],
 	"edges":[
 		{"id":"b1aa5f3678be8c62","fromNode":"bbf3eab448de5007","fromSide":"bottom","toNode":"1858360392112d90","toSide":"top"},
