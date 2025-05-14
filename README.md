@@ -143,6 +143,11 @@ Particles curve guid             |  Particles collision
 :-------------------------:|:-------------------------:
 ![](Lectures/3_ParticlesPoints/LectureExamples/ParticleGuideCollision/render/ParticleGuidCollision1.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/ParticleGuideCollision/render/ParticleGuidCollision2.jpg)
 
+Surface Turbulence             |  Surface Turbulence 
+:-------------------------:|:-------------------------:
+![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/shots/2.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/shots/4.jpg)
+
+
 Unity VFX Graph + SDF             |  Unity VFX Graph
 :-------------------------:|:-------------------------:
 ![](Lectures/3_ParticlesPoints/LectureExamples/Unity/Gallery/SDFTrails.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/Unity/Gallery/Sparks.JPG)

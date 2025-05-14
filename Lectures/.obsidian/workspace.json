@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "11_SimulationGas/DynamicsGas.canvas",
+                "file": "3_ParticlesPoints/ParticlesPoints.canvas",
                 "viewState": {
-                  "x": 3322.1373507667276,
-                  "y": 58.03945356878393,
-                  "zoom": -1
+                  "x": 4433.691594109234,
+                  "y": 4935.858005680849,
+                  "zoom": -1.9999999999999993
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "DynamicsGas"
+              "title": "ParticlesPoints"
             }
           }
         ]
@@ -173,34 +173,34 @@
   },
   "active": "e8536e6bdcca910d",
   "lastOpenFiles": [
-    "11_SimulationGas/Examples/GasSimulation/Output/r3.jpg",
-    "11_SimulationGas/Examples/GasSimulation/Output/r2.jpg",
-    "11_SimulationGas/Examples/GasSimulation/Cache/noise/fluid_noise_0048.vdb",
-    "11_SimulationGas/Examples/GasSimulation/Cache/data/fluid_data_0048.vdb",
-    "11_SimulationGas/Examples/GasSimulation/Cache/config/config_0048.uni",
-    "11_SimulationGas/Examples/GasSimulation/Cache/noise/fluid_noise_0047.vdb",
-    "11_SimulationGas/Examples/GasSimulation/Cache/data/fluid_data_0047.vdb",
-    "11_SimulationGas/Examples/GasSimulation/Cache/config/config_0047.uni",
-    "11_SimulationGas/Examples/GasSimulation/Cache/noise/fluid_noise_0046.vdb",
-    "11_SimulationGas/Examples/GasSimulation/Cache/data/fluid_data_0046.vdb",
-    "11_SimulationGas/Examples/GasSimulation/Cache/config/config_0046.uni",
-    "11_SimulationGas/Examples/GasSimulation/Cache/noise/fluid_noise_0045.vdb",
-    "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
-    "10_DynamicsLiquid/DynamicsLiquids.canvas",
-    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/render/r2.jpg",
-    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/render/FLIPCurveControl.karmarendersettings.0050.jpg",
-    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/render/r1.jpg",
-    "10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/render/FLIPCurveControl.karmarendersettings.0054.jpg",
-    "9_DynamicsDeformableBody/DynamicsDeformableBody.canvas",
-    "9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/r2.jpg",
-    "9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/r1.jpg",
-    "9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/VellumDeformable.karmarendersettings.0011.jpg",
-    "9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/VellumDeformable.karmarendersettings.0007.jpg",
-    "11_SimulationGas/DynamicsGas.canvas",
-    "8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery/ForceFieldRBD2.jpg",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
     "0_Intro/Intro.canvas",
     "0_Overview/Overview.canvas",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/anim2.mp4",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/Anim2_0001-0140.mkv",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/anim.mp4",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0062.jpg",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0029.jpg",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0028.jpg",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0027.jpg",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0026.jpg",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0020.jpg",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0019.jpg",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0018.jpg",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0017.jpg",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0016.jpg",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/Anim_0001-0072.mkv",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/anim.blend1",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/anim.blend",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/New folder",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/backup/SurfaceTurbulence_bak64.hipnc",
+    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/backup/SurfaceTurbulence_bak63.hipnc",
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "11_SimulationGas/DynamicsGas.canvas",
+    "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
+    "10_DynamicsLiquid/DynamicsLiquids.canvas",
+    "9_DynamicsDeformableBody/DynamicsDeformableBody.canvas",
     "7_MaterialModeling/MaterialModeling.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/Documentation~/README.md",
@@ -227,7 +227,6 @@
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-ToggleGroup.md",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-Toggle.md",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-Text.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-StandaloneInputModule.md",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas"
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-StandaloneInputModule.md"
   ]
 }
