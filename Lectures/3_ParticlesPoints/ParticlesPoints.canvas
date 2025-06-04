@@ -343,7 +343,8 @@
 		{"id":"46f1201684d3abc6","type":"file","file":"3_ParticlesPoints/LectureImages/Applications/DestinyParticles3.JPG","x":-15961,"y":94,"width":400,"height":198},
 		{"id":"8c2f50ffeb7e8a4b","type":"file","file":"3_ParticlesPoints/LectureImages/Applications/DestinyParticles4.JPG","x":-15461,"y":112,"width":400,"height":265},
 		{"id":"c91ab4723d11146e","type":"text","text":"# Procedural Modeling Lecture: Particle System\n\nLovro Bosnar\nContact: lovrobosnar@work.gmail.com\nDate: 11.04.2025.\n","x":-19200,"y":-367,"width":991,"height":180},
-		{"id":"647789bb3fd5b834","x":4060,"y":6400,"width":640,"height":360,"type":"file","file":"3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/shots/4.jpg"}
+		{"id":"647789bb3fd5b834","x":4060,"y":6400,"width":640,"height":360,"type":"file","file":"3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/shots/4.jpg"},
+		{"id":"e105bd1efe59fb2c","x":4956,"y":3060,"width":724,"height":200,"type":"text","text":"Particle-based fluid simulation approaches:\n* SPH \n* PSD\n* FLIP\nhttps://www.youtube.com/watch?v=Bx_D_51bF7Y"}
 	],
 	"edges":[
 		{"id":"f2d67e130c5fa499","fromNode":"2aadbd447be74a11","fromSide":"bottom","toNode":"18f87f1d175e8dcc","toSide":"top"},
