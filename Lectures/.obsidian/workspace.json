@@ -1,23 +1,23 @@
 {
   "main": {
-    "id": "9996a5bd00309164",
+    "id": "2f710a1b11fed431",
     "type": "split",
     "children": [
       {
-        "id": "bb2f80063cd62fd3",
+        "id": "90e4b4c650d0748a",
         "type": "tabs",
         "children": [
           {
-            "id": "e8536e6bdcca910d",
+            "id": "5c547f970a478256",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "4_ParticlesVolumes/ParticlesVolumes.canvas",
                 "viewState": {
-                  "x": -1494.1709865290961,
-                  "y": 2090.4961486644916,
-                  "zoom": -1.3333333333333333
+                  "x": -2136.625307977802,
+                  "y": 2949.7516414235106,
+                  "zoom": -2.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "75e08459e4888a29",
+    "id": "93869141c3e01838",
     "type": "split",
     "children": [
       {
-        "id": "a4cf3fb32f793cfd",
+        "id": "ca249495a10aab6e",
         "type": "tabs",
         "children": [
           {
-            "id": "23c2c54ad77e68e7",
+            "id": "864f567175b4bb84",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "df420bffc1e420b3",
+            "id": "1c6eda7b0cb89a3b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "c38dfc66e4688835",
+            "id": "fe17cbf602995b1f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,20 +84,20 @@
     "width": 300
   },
   "right": {
-    "id": "cc6437fe5263d55d",
+    "id": "8484026a4a3786e4",
     "type": "split",
     "children": [
       {
-        "id": "232b414d0b119d3a",
+        "id": "abbf20bf794eea43",
         "type": "tabs",
         "children": [
           {
-            "id": "e624e0402a38eec2",
+            "id": "2163b37d085458fe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_Overview/Overview.canvas",
+                "file": "4_ParticlesVolumes/ParticlesVolumes.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,25 +107,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overview"
+              "title": "Backlinks for ParticlesVolumes"
             }
           },
           {
-            "id": "80438e02dc4885b9",
+            "id": "6457e7dab60d19c6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+                "file": "4_ParticlesVolumes/ParticlesVolumes.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ProceduralFoliageSpreadGrowth"
+              "title": "Outgoing links from ParticlesVolumes"
             }
           },
           {
-            "id": "9502b5c17dd9391c",
+            "id": "98dfa3f0304c7efa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,18 +140,18 @@
             }
           },
           {
-            "id": "348e2bcddcdef1a8",
+            "id": "97a5732fec2fb12e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+                "file": "4_ParticlesVolumes/ParticlesVolumes.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ProceduralFoliageSpreadGrowth"
+              "title": "Outline of ParticlesVolumes"
             }
           }
         ]
@@ -171,63 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8536e6bdcca910d",
+  "active": "5c547f970a478256",
   "lastOpenFiles": [
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
-    "0_Intro/Intro.canvas",
-    "0_Overview/Overview.canvas",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/anim2.mp4",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/Anim2_0001-0140.mkv",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/anim.mp4",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0062.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0029.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0028.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0027.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0026.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0020.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0019.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0018.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0017.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/SurfaceTurbulence.karmarendersettings.0016.jpg",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/Anim_0001-0072.mkv",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/anim.blend1",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim/anim.blend",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/anim",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/New folder",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/backup/SurfaceTurbulence_bak64.hipnc",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/backup/SurfaceTurbulence_bak63.hipnc",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas",
-    "11_SimulationGas/DynamicsGas.canvas",
-    "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
-    "10_DynamicsLiquid/DynamicsLiquids.canvas",
-    "9_DynamicsDeformableBody/DynamicsDeformableBody.canvas",
     "7_MaterialModeling/MaterialModeling.canvas",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/Documentation~/README.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/CONTRIBUTING.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/LICENSE.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ide.vscode@1.2.5/CHANGELOG.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Assets/Models/Readme.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-Mask.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/class-RectTransform.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/UIVisualComponents.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/UIReference.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/UIInteractionComponents.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/UIHowTos.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/UICanvas.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/UIBasicLayout.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/UIAutoLayout.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/UIAnimationIntegration.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/ugui.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/TableOfContents.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/SupportedEvents.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/StyledText.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-VerticalLayoutGroup.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-TouchInputModule.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-ToggleGroup.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-Toggle.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-Text.md",
-    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/PackageCache/com.unity.ugui@1.0.0/Documentation~/script-StandaloneInputModule.md"
+    "4_ParticlesVolumes/ParticlesVolumes.canvas"
   ]
 }
