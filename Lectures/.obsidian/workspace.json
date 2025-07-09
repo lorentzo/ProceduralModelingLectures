@@ -15,9 +15,9 @@
               "state": {
                 "file": "4_ParticlesVolumes/ParticlesVolumes.canvas",
                 "viewState": {
-                  "x": -2136.625307977802,
-                  "y": 2949.7516414235106,
-                  "zoom": -2.9999999999999996
+                  "x": 12006.59647800962,
+                  "y": 1572.8078133979004,
+                  "zoom": -0.6666666666666663
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -173,7 +173,24 @@
   },
   "active": "5c547f970a478256",
   "lastOpenFiles": [
+    "4_ParticlesVolumes/LectureImages/Motivation/VolumeCharactersLiquidFire.JPG",
+    "4_ParticlesVolumes/LectureImages/Motivation/VolumeCharactersGas.JPG",
+    "4_ParticlesVolumes/LectureImages/Motivation/~olumeCharacters.tmp",
+    "4_ParticlesVolumes/LectureImages/Motivation/VolumeCharacters.JPG",
+    "4_ParticlesVolumes/LectureImages/Motivation/~haracterFX.tmp",
+    "4_ParticlesVolumes/LectureImages/Motivation/CharacterFX.JPG",
+    "4_ParticlesVolumes/LectureImages/Motivation/~loud.tmp",
+    "4_ParticlesVolumes/LectureImages/Motivation/Cloud.JPG",
+    "4_ParticlesVolumes/LectureImages/Motivation",
+    "4_ParticlesVolumes/LectureImages/New folder",
     "7_MaterialModeling/MaterialModeling.canvas",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas"
+    "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "4_ParticlesVolumes/ParticlesVolumes.canvas",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "0_Overview/Overview.canvas",
+    "0_Intro/Intro.canvas"
   ]
 }
