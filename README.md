@@ -225,6 +225,8 @@ Volume growth:          |  Volume growth:
 ### Lecture 1.6. Procedural lines and curves: 2D Motion Graphics and UI
 
 Topics and concepts:
+* Procedural curves and lines generation (from scratch and from shape)
+* Vector graphics
 * Design and development of UI graphics; using base shapes and adding complexity
 * Animated UI graphics and UI FX
 * 3D procedural modeling for 2D motion graphics
