@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2_ProceduralTerrain/ProceduralTerrain.canvas",
+                "file": "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
                 "viewState": {
-                  "x": 4335.403868357518,
-                  "y": -1621.5853857268266,
-                  "zoom": -3
+                  "x": 659.0539200032788,
+                  "y": 1205.1973843600488,
+                  "zoom": -1.48081791472169
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralTerrain"
+              "title": "2D_MotionGraphics_UI"
             }
           }
         ]
@@ -173,6 +173,10 @@
   },
   "active": "5c547f970a478256",
   "lastOpenFiles": [
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/backup/CurveFromShape_bak5.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/backup/CurveFromShape_bak4.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/backup/CurveFromShape_bak3.hipnc",
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/backup/CurveFromShape_bak2.hipnc",
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/backup/CurveFromShape_bak1.hipnc",
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/backup",
@@ -180,10 +184,6 @@
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/desk",
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/video",
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/audio",
-    "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/comp",
-    "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/scripts",
-    "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/flip",
-    "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/render",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md",
     "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
@@ -203,7 +203,6 @@
     "4_ParticlesVolumes/LectureImages/Motivation/Glass.JPG",
     "4_ParticlesVolumes/LectureImages/Motivation/SSS_Skin.JPG",
     "7_MaterialModeling/MaterialModeling.canvas",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas"
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas"
   ]
 }
