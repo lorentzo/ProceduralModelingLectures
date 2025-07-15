@@ -222,7 +222,7 @@ Volume growth:          |  Volume growth:
 :-------------------------:|:-------------------------:
 ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r2.jpg)
 
-### Lecture 1.6. Procedural 2D Motion Graphics and UI
+### Lecture 1.6. Procedural lines and curves: 2D Motion Graphics and UI
 
 Topics and concepts:
 * Design and development of UI graphics; using base shapes and adding complexity
