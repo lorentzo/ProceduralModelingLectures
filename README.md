@@ -78,6 +78,10 @@ Procedural building 2.1 & 2.2
 ![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example2/render/r1.jpg)
 ![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example2/render/r2.jpg)
 
+Hard surface panels 1            |  Hard surface panels 2
+:-------------------------:|:-------------------------:
+![](Lectures/1_HardSurfaceModeling/LectureImages/MyWork/JumpHostSpy_background.jpg)  | ![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Blocks/render/blocks1.jpg)
+
 ### Lecture 1.2: Procedural Terrain Modeling
 
 Topics and concepts:
@@ -228,10 +232,6 @@ Topics and concepts:
 3D modeling for 2D motion graphics & UI             |  3D modeling for 2D motion graphics & UI
 :-------------------------:|:-------------------------:
 ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/3D2DFUI/render/3D2DFUI1.jpg)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/FUI/render/FUI1.jpg)
-
-3D modeling for 2D motion graphics             |  3D modeling for 2D motion graphics
-:-------------------------:|:-------------------------:
-![](Lectures/6_2DMotionGraphicsUI/LectureExamples/Blocks/render/blocks1.jpg)  | ![](Lectures/6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_background.jpg)
 
 ### Lecture 1.7. Procedural material modeling
 
