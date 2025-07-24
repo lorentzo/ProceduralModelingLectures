@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
+                "file": "4_ParticlesVolumes/ParticlesVolumes.canvas",
                 "viewState": {
-                  "x": -1450.4430106131458,
-                  "y": 662.7199210751409,
-                  "zoom": -0.8141512480550235
+                  "x": -1761.132243248253,
+                  "y": 2269.526190698,
+                  "zoom": -3.3333333333333335
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "2D_MotionGraphics_UI"
+              "title": "ParticlesVolumes"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 413.5
   },
   "right": {
     "id": "8484026a4a3786e4",
@@ -173,7 +173,12 @@
   },
   "active": "5c547f970a478256",
   "lastOpenFiles": [
+    "4_ParticlesVolumes/ParticlesVolumes.canvas",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "0_Intro/Intro.canvas",
+    "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/backup/CurveFromShape_bak5.hipnc",
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/backup/CurveFromShape_bak4.hipnc",
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/backup/CurveFromShape_bak3.hipnc",
@@ -184,19 +189,14 @@
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/desk",
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/video",
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/audio",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md",
-    "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
     "1_HardSurfaceModeling/LectureImages/MyWork/JumpHostSpy_background.jpg",
     "1_HardSurfaceModeling/LectureImages/MyWork/JumpHostSpy_background2.jpg",
     "1_HardSurfaceModeling/Examples/LectureExamples/Blocks/render/blocks1.jpg",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas",
     "4_ParticlesVolumes/LectureImages/Motivation/GridParticleSim3.JPG",
     "4_ParticlesVolumes/LectureImages/Motivation/GridParticleSim2.JPG",
     "4_ParticlesVolumes/LectureImages/Motivation/GridParticleSim.JPG",
     "10_DynamicsLiquid/DynamicsLiquids.canvas",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
-    "0_Intro/Intro.canvas",
     "0_Overview/Overview.canvas",
     "4_ParticlesVolumes/LectureImages/Motivation/Hair.JPG",
     "4_ParticlesVolumes/LectureImages/Motivation/Metal.JPG",
