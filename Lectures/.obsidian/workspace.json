@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "4_ParticlesVolumes/ParticlesVolumes.canvas",
+                "file": "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
                 "viewState": {
-                  "x": -602.8920483000238,
-                  "y": 1874.8818821932493,
-                  "zoom": -4
+                  "x": 317.83429593250696,
+                  "y": 1086.2646914030738,
+                  "zoom": -2.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ParticlesVolumes"
+              "title": "2D_MotionGraphics_UI"
             }
           }
         ]
@@ -173,30 +173,30 @@
   },
   "active": "5c547f970a478256",
   "lastOpenFiles": [
-    "4_ParticlesVolumes/LectureImages/Motivation/FEM.jpg",
-    "4_ParticlesVolumes/LectureImages/Motivation/Unconfirmed 624636.crdownload",
-    "4_ParticlesVolumes/LectureImages/Theory/~oxelChunkStreaming.tmp",
-    "4_ParticlesVolumes/LectureImages/Theory/VoxelChunkStreaming.JPG",
-    "4_ParticlesVolumes/LectureImages/Theory/SceneVoxelizationRendering1.jpg",
-    "4_ParticlesVolumes/LectureImages/Theory/~oxelRendering.tmp",
-    "4_ParticlesVolumes/LectureImages/Theory/SceneVoxelizationRendering3.jpg",
-    "4_ParticlesVolumes/LectureImages/Theory/~ceneVoxelizationRendering2.tmp",
-    "4_ParticlesVolumes/LectureImages/Theory/SceneVoxelizationRendering2.JPG",
-    "4_ParticlesVolumes/LectureImages/Theory/~parseOctTree.tmp",
-    "4_ParticlesVolumes/LectureImages/Theory/SparseOctTree.JPG",
-    "4_ParticlesVolumes/LectureImages/Theory/~ceneVoxelizationRendering.tmp",
-    "4_ParticlesVolumes/LectureImages/Theory/SceneVoxelizationRendering.JPG",
-    "4_ParticlesVolumes/LectureImages/Motivation/Unconfirmed 868486.crdownload",
-    "4_ParticlesVolumes/LectureImages/Motivation/SkyCloudsSunAtmosphere.JPG",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
+    "6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui4.png",
     "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/CarlHauserGoliathLines.jpg",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/CarlHauserGoliath.jpg",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/Unconfirmed 674898.crdownload",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/GenerativeFUI.JPG",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/evgeny-rodygin-mapscene02.jpg",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/Unconfirmed 462305.crdownload",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/evgeny-rodygin-mapscene01.jpg",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/Unconfirmed 209059.crdownload",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/sml.jpeg",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/Unconfirmed 963329.crdownload",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/IMG_0407-Export.jpg",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/Unconfirmed 872541.crdownload",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/IMG_0340-Export.jpg",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/Unconfirmed 766936.crdownload",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/GenerativeHut.JPG",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/~oronoiWeb.tmp",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/VoronoiWeb.JPG",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation/Unconfirmed 255294.crdownload",
+    "6_2DMotionGraphicsUI/LectureImages/Motivation",
+    "6_2DMotionGraphicsUI/LectureImages/New folder",
     "4_ParticlesVolumes/ParticlesVolumes.canvas",
-    "6_2DMotionGraphicsUI/LectureImages/Hair.JPG",
-    "4_ParticlesVolumes/LectureImages/Theory/Modeling_Printing3D.JPG",
-    "4_ParticlesVolumes/LectureImages/Theory/~ensity.tmp",
-    "4_ParticlesVolumes/LectureImages/Theory/Density.JPG",
-    "4_ParticlesVolumes/LectureImages/Theory/~oxels.tmp",
-    "4_ParticlesVolumes/LectureImages/Theory/~esh.tmp",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "0_Intro/Intro.canvas",
