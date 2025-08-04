@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
+                "file": "7_MaterialModeling/MaterialModeling.canvas",
                 "viewState": {
-                  "x": 317.83429593250696,
-                  "y": 1086.2646914030738,
-                  "zoom": -2.333333333333333
+                  "x": 6647.75189946683,
+                  "y": 3173.5333383547363,
+                  "zoom": -2.1225387102416144
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "2D_MotionGraphics_UI"
+              "title": "MaterialModeling"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "5c547f970a478256",
   "lastOpenFiles": [
-    "6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui4.png",
     "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
+    "4_ParticlesVolumes/ParticlesVolumes.canvas",
+    "0_Intro/Intro.canvas",
+    "6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui4.png",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/CarlHauserGoliathLines.jpg",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/CarlHauserGoliath.jpg",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/Unconfirmed 674898.crdownload",
@@ -191,15 +193,12 @@
     "6_2DMotionGraphicsUI/LectureImages/Motivation/Unconfirmed 766936.crdownload",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/GenerativeHut.JPG",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/~oronoiWeb.tmp",
-    "6_2DMotionGraphicsUI/LectureImages/Motivation/VoronoiWeb.JPG",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/Unconfirmed 255294.crdownload",
     "6_2DMotionGraphicsUI/LectureImages/Motivation",
     "6_2DMotionGraphicsUI/LectureImages/New folder",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
-    "0_Intro/Intro.canvas",
     "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md",
     "10_DynamicsLiquid/DynamicsLiquids.canvas",
     "0_Overview/Overview.canvas",
