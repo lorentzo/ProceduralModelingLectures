@@ -4,7 +4,7 @@
 Semester-length project.
 
 Project is made of 3 milestones (A, B, C) that follow lectures and build one on top of another.
-Lectures on procedural modeling and dynamics (Lectures 2.1, 2.2, 2.3) will not be part of project.
+Note: lectures on procedural modeling and dynamics (Lectures 2.1, 2.2, 2.3) will not be part of project.
 
 Submission of all three project tasks is needed for passing the lecture.
 Project is solved individually. No group/team projects.
@@ -14,6 +14,8 @@ Art style (abstract, low-poly, realistic, etc.) is not specified, choose based o
 
 ### Milestone A: Hard-surface buildings
 
+**Submission deadline: TBA**
+
 Tasks: 
 1. Model at least 3 classes of parameterized building models. 
     * Before modeling, find image references for inspiration and brainstorm on design choices
@@ -21,7 +23,7 @@ Tasks:
 3. Render at least 3 images showing instances for each class.
 
 Minimum requirements for passing:
-* Parameterized model must represent building model 
+* Parameterized models must represent buildings
 * Use at least 3 procedural modeling concepts introduced in lecture, e.g., boolean operation, beveling, scattering, structural placement (copy and transform along line, circle, etc.), etc.
 
 Submission includes:
@@ -29,12 +31,12 @@ Submission includes:
 * Renders
 * Journal: image renferences, design and main implementation concepts, final results
 
-**Submission deadline: TBA**
-
 Learning material:
 * Procedural hard surface modeling (Lecture 1.1)
 
 ### Milestone B: Terrain 
+
+**Submission deadline: TBA**
 
 Tasks:
 1. Model parameterized base geometrical surface representing terrain
@@ -54,12 +56,12 @@ Submission includes:
 * Renders
 * Journal: image renferences, design and main implementation concepts, final results
 
-**Submission deadline: TBA**
-
 Learning material:
 * Procedural terrain modeling (Lecture 1.2)
 
 ### Milestone C: Foliage
+
+**Submission deadline: TBA**
 
 Tasks:
 1. Model at least 3 parameterized foliage classes (e.g., bush, tree, grass, etc.)
@@ -75,8 +77,6 @@ Submission includes:
 * DCC project file
 * Renders
 * Journal: image renferences, design and main implementation concepts, final results
-
-**Submission deadline: TBA**
 
 Learning material:
 * Procedural foliage modeling (Lecture 1.5)
