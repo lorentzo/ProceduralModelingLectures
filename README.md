@@ -111,7 +111,7 @@ Mesh-based terrain using noise 2.1            |  Mesh-based terrain using noise 
 :-------------------------:|:-------------------------:
 ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r1.png)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r2.png)
 
-### Lecture 1.3: Procedural Particle and point based Modeling: Abstract and Natural Phenomena
+### Lecture 1.3: Procedural Particles and trails (Abstract and FX)
 
 Topics and concepts:
 
@@ -121,7 +121,7 @@ Topics and concepts:
 * Collisions and collision detection
 * Guiding curves
 ---
-* Lines from particles
+* Trails from particles
 * Instancing on particles
 ---
 * Iterative, feedback loop systems 
@@ -137,19 +137,11 @@ Curl guide 1             |  Curl guide  2
 
 Surface flow 1             |  Surface flow 2
 :-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/CurveForceEmission/render/Close.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceFlow/render/points.JPG)
+![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/shots/4.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceFlow/render/points.JPG)
 
-Inheriance and collisions             |  Attractors
+Inheriance and collisions             |  Curve guide and collisions
 :-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/InheritanceCollisions/render/InheritanceCollisions.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/Attractors/render/Attractors.karmarendersettings.0171.JPG)
-
-Particles curve guid             |  Particles collision
-:-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/ParticleGuideCollision/render/ParticleGuidCollision1.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/ParticleGuideCollision/render/ParticleGuidCollision2.jpg)
-
-Surface Turbulence             |  Surface Turbulence 
-:-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/shots/2.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/shots/4.jpg)
+![](Lectures/3_ParticlesPoints/LectureExamples/InheritanceCollisions/render/InheritanceCollisions.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/ParticleGuideCollision/render/ParticleGuidCollision2.jpg)
 
 
 Unity VFX Graph + SDF             |  Unity VFX Graph
@@ -188,7 +180,7 @@ Volumetric solid modeling: Organic shapes abstract interpolation             |  
 :-------------------------:|:-------------------------:
 ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeFilledSpheresRemeshed.jpg) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeFracture.jpg)
 
-### Lecture 1.5: Procedural Foliage, Growth and Spread Modeling
+### Lecture 1.5: Procedural Foliage, Growth and Spread
 
 Topics and concepts:
 * Branching shapes/structures (e.g., trees, branches roots, etc.)
@@ -222,7 +214,7 @@ Volume growth:          |  Volume growth:
 :-------------------------:|:-------------------------:
 ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r2.jpg)
 
-### Lecture 1.6. Procedural lines and curves: 2D Motion Graphics and UI
+### Lecture 1.6. Procedural lines and curves (2D Motion Graphics and UI)
 
 Topics and concepts:
 * Procedural curves and lines generation (from scratch and from shape)
@@ -234,6 +226,22 @@ Topics and concepts:
 3D modeling for 2D motion graphics & UI             |  3D modeling for 2D motion graphics & UI
 :-------------------------:|:-------------------------:
 ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/3D2DFUI/render/3D2DFUI1.jpg)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/FUI/render/FUI1.jpg)
+
+a | b
+:-------------------------:|:-------------------------:
+![](Lectures/6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/render/workbench1.JPG)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/render/workbench2.JPG)
+
+a | b
+:-------------------------:|:-------------------------:
+![](Lectures/3_ParticlesPoints/LectureExamples/Attractors/render/Attractors.karmarendersettings.0171.JPG)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/render/Workbench1.JPG)
+
+
+
+
+
+
+
+
 
 ### Lecture 1.7. Procedural material modeling
 

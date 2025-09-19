@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+                "file": "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
                 "viewState": {
-                  "x": 18857.639217940392,
-                  "y": -770.0188262142299,
-                  "zoom": -0.3333333333333331
+                  "x": 6942.995928575076,
+                  "y": 1589.214896117734,
+                  "zoom": -2.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralFoliageSpreadGrowth"
+              "title": "2D_MotionGraphics_UI"
             }
           }
         ],
@@ -192,7 +192,11 @@
   },
   "active": "de6e2a656d8cd74b",
   "lastOpenFiles": [
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "4_ParticlesVolumes/ParticlesVolumes.canvas",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
     "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak50.hipnc",
     "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak49.hipnc",
@@ -205,7 +209,6 @@
     "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak42.hipnc",
     "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak41.hipnc",
     "7_MaterialModeling/MaterialModeling.canvas",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas",
     "0_Intro/Intro.canvas",
     "6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui4.png",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/CarlHauserGoliathLines.jpg",
@@ -217,11 +220,8 @@
     "6_2DMotionGraphicsUI/LectureImages/Motivation/IMG_0407-Export.jpg",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/IMG_0340-Export.jpg",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/GenerativeHut.JPG",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md",
     "10_DynamicsLiquid/DynamicsLiquids.canvas",
-    "0_Overview/Overview.canvas",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas"
+    "0_Overview/Overview.canvas"
   ]
 }
