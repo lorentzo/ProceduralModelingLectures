@@ -235,12 +235,9 @@ a | b
 :-------------------------:|:-------------------------:
 ![](Lectures/3_ParticlesPoints/LectureExamples/Attractors/render/Attractors.karmarendersettings.0171.JPG)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/render/Workbench1.JPG)
 
-
-
-
-
-
-
+a | b
+:-------------------------:|:-------------------------:
+![](Lectures/6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/render/r1.JPG)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/render/r1.JPG)
 
 
 ### Lecture 1.7. Procedural material modeling
