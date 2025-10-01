@@ -29,7 +29,8 @@
 		{"id":"82d3eb0737aaa8dd","type":"link","url":"https://dl.acm.org/doi/abs/10.1145/2556700.2556713?casa_token=9i_sM2Dud3wAAAAA%3AN5XFUTjcGkPoqWebxFAOwVgOPiLx8l8qJ6QcPNzaGgYC-nmH-8mtR9Z2qF9yTnMn4Tu68DTGvTc","x":513,"y":80,"width":400,"height":400},
 		{"id":"7f3ab4c123f87195","type":"text","text":"# Procedural modeling lecture: Rigid Body Dynamics","x":-3000,"y":-97,"width":780,"height":80},
 		{"id":"6f1791360f2510bf","type":"text","text":"Lovro Bosnar\nDate:","x":-3000,"y":23,"width":250,"height":80},
-		{"id":"bb6ddaa8b31e78a1","x":-1920,"y":-255,"width":820,"height":397,"color":"5","type":"text","text":"This is the first lecture introducing physical simulation which will be the topic for next 4 lectures: \n* Solids\n\t* Rigid body\n\t* Deformable body\n* Fluids:\n\t* Liquid\n\t* Gas\n\nThe procedural modeling and phyiscal simulation:\n* Procedurally define parameters and initial state of simulation\n* Use results of physicals simulation for procedural modeling"}
+		{"id":"bb6ddaa8b31e78a1","type":"text","text":"This is the first lecture introducing physical simulation which will be the topic for next 4 lectures: \n* Solids\n\t* Rigid body\n\t* Deformable body\n* Fluids:\n\t* Liquid\n\t* Gas\n\nThe procedural modeling and phyiscal simulation:\n* Procedurally define parameters and initial state of simulation\n* Use results of physicals simulation for procedural modeling","x":-1920,"y":-255,"width":820,"height":397,"color":"5"},
+		{"id":"6d2056116de5dc94","type":"link","url":"https://www.youtube.com/watch?v=xdC7k_LslgA","x":-440,"y":74,"width":640,"height":360}
 	],
 	"edges":[
 		{"id":"b1aa5f3678be8c62","fromNode":"bbf3eab448de5007","fromSide":"bottom","toNode":"1858360392112d90","toSide":"top"},

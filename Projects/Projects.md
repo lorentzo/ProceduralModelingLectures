@@ -80,3 +80,21 @@ Submission includes:
 
 Learning material:
 * Procedural foliage modeling (Lecture 1.5)
+
+### Milestone D: Materials
+
+Tasks:
+1. Create and add material to buildings
+2. Create and add material to terrain
+3. Create and add material to foliage
+
+Minimum requirements for passing:
+* TODO
+
+Submission includes:
+* DCC project file
+* Renders
+* Journal: image renferences, design and main implementation concepts, final results
+
+Learning material:
+* Procedural material modeling (Lecture ??)

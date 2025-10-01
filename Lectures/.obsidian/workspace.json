@@ -4,45 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "90e4b4c650d0748a",
+        "id": "9e5345c1690fd6bd",
         "type": "tabs",
         "children": [
           {
-            "id": "5c547f970a478256",
+            "id": "27382fecbc93a3a9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+                "file": "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
                 "viewState": {
-                  "x": -74.3186653048678,
-                  "y": 3880.7072322748318,
-                  "zoom": -2.666666666666665
+                  "x": -2600.7799927577926,
+                  "y": 2251.515213441179,
+                  "zoom": -2.127514497408605
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "HardSurfaceModeling"
-            }
-          },
-          {
-            "id": "de6e2a656d8cd74b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
-                "viewState": {
-                  "x": 6942.995928575076,
-                  "y": 1589.214896117734,
-                  "zoom": -2.333333333333333
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "2D_MotionGraphics_UI"
+              "title": "ProceduralLinesCurves"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,26 +172,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de6e2a656d8cd74b",
+  "active": "27382fecbc93a3a9",
   "lastOpenFiles": [
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak68.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak67.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak66.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak65.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak64.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak63.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak62.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak61.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak60.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak59.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak58.hipnc",
+    "0_Intro/Intro.canvas",
+    "9_DynamicsDeformableBody/DynamicsDeformableBody.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
+    "4_ParticlesVolumes/ParticlesVolumes.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
-    "6_2DMotionGraphicsUI/2D_MotionGraphics_UI.canvas",
-    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak50.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak49.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak48.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak47.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak46.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak45.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak44.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak43.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak42.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak41.hipnc",
+    "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
     "7_MaterialModeling/MaterialModeling.canvas",
-    "0_Intro/Intro.canvas",
     "6_2DMotionGraphicsUI/LectureImages/MyWork/JumpHostSpy_ui4.png",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/CarlHauserGoliathLines.jpg",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/CarlHauserGoliath.jpg",
@@ -220,8 +205,6 @@
     "6_2DMotionGraphicsUI/LectureImages/Motivation/IMG_0407-Export.jpg",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/IMG_0340-Export.jpg",
     "6_2DMotionGraphicsUI/LectureImages/Motivation/GenerativeHut.JPG",
-    "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md",
-    "10_DynamicsLiquid/DynamicsLiquids.canvas",
-    "0_Overview/Overview.canvas"
+    "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md"
   ]
 }

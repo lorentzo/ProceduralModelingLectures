@@ -4,7 +4,7 @@ Procedural modeling = modeling algorithmically!
 
 Procedural modeling lectures for both **tech** and **art** students (AKA STEAM lectures).
 
-Lecture notes are written using [`Obsidian v1.6.7`](https://obsidian.md/).
+Lecture notes are written using [Obsidian](https://obsidian.md/).
 
 **Lectures aim:**
 * Provide a map of the procedural modeling field
@@ -214,7 +214,7 @@ Volume growth:          |  Volume growth:
 :-------------------------:|:-------------------------:
 ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r2.jpg)
 
-### Lecture 1.6. Procedural lines and curves (2D Motion Graphics and UI)
+### Lecture 1.6. Procedural lines and curves: wire art
 
 Topics and concepts:
 * Procedural curves and lines generation (from scratch and from shape)
