@@ -127,17 +127,14 @@ Topics and concepts:
 * Iterative, feedback loop systems 
 * Complex systems, chaos and strange attractors 
 
-Vector field guide 1             |  Vector field guide 2
+Vector field guide and sourcing: points            |  Vector field guide and sourcing: trails
 :-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/VectorFieldsSourcing_Lines.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/VectorFieldsSourcing_Particles.jpg)
-
-Curl guide 1             |  Curl guide  2
-:-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/CurlVectorFieldGuide/render/CurlPoints.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/CurlVectorFieldGuide/render/CurlTrails.jpg)
+![](Lectures/3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/PointsVectorField2.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/TrailsVectorField2.JPG)
 
 Surface flow 1             |  Surface flow 2
 :-------------------------:|:-------------------------:
 ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/shots/4.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceFlow/render/points.JPG)
+
 
 Inheriance and collisions             |  Curve guide and collisions
 :-------------------------:|:-------------------------:
