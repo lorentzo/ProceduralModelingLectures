@@ -127,23 +127,17 @@ Topics and concepts:
 * Iterative, feedback loop systems 
 * Complex systems, chaos and strange attractors 
 
-Vector field guide and sourcing: points            |  Vector field guide and sourcing: trails
+Vector field guide and sourcing            |  Curve guide and collisions
 :-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/PointsVectorField2.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/TrailsVectorField2.JPG)
+![](Lectures/3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/TrailsVectorField2.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/CurveGuideCollision/render/CurveGuideCollision.JPG)
 
 Surface flow 1             |  Surface flow 2
 :-------------------------:|:-------------------------:
 ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/shots/4.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceFlow/render/points.JPG)
 
-
-Inheriance and collisions             |  Curve guide and collisions
+Blender particle system             |  Unity VFX Graph
 :-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/InheritanceCollisions/render/InheritanceCollisions.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/ParticleGuideCollision/render/ParticleGuidCollision2.jpg)
-
-
-Unity VFX Graph + SDF             |  Unity VFX Graph
-:-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/Unity/Gallery/SDFTrails.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/Unity/Gallery/Sparks.JPG)
+![](Lectures/3_ParticlesPoints/LectureExamples/Blender/ForceFieldHair/LectureImages/r8_dn.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/Unity/Gallery/Sparks.JPG)
 
 ### Lecture 1.4: Procedural Volume-based Modeling: Organic and Natural Phenomena
 
