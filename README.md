@@ -205,7 +205,7 @@ Volume growth:          |  Volume growth:
 :-------------------------:|:-------------------------:
 ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r2.jpg)
 
-### Lecture 1.6. Procedural lines and curves: wire art
+### Lecture 1.6. Procedural lines and curves
 
 Topics and concepts:
 * Procedural curves and lines generation (from scratch and from shape)
@@ -214,22 +214,13 @@ Topics and concepts:
 * Animated UI graphics and UI FX
 * 3D procedural modeling for 2D motion graphics
 
-3D modeling for 2D motion graphics & UI             |  3D modeling for 2D motion graphics & UI
+Lines from curve guide             |  Lines from shape
 :-------------------------:|:-------------------------:
-![](Lectures/6_2DMotionGraphicsUI/LectureExamples/3D2DFUI/render/3D2DFUI1.jpg)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/FUI/render/FUI1.jpg)
+![](Lectures/6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/render/LineCurveGuide.JPG)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/render/CurveFromShape.JPG)
 
-a | b
+Lines from point cloud | Attractor
 :-------------------------:|:-------------------------:
-![](Lectures/6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/render/workbench1.JPG)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/render/workbench2.JPG)
-
-a | b
-:-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/Attractors/render/Attractors.karmarendersettings.0171.JPG)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/render/Workbench1.JPG)
-
-a | b
-:-------------------------:|:-------------------------:
-![](Lectures/6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/render/r1.JPG)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/render/r1.JPG)
-
+![](Lectures/6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/render/PointCloudLines.JPG)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/Attractors/render/Attractors.karmarendersettings.0171.JPG)
 
 ### Lecture 1.7. Procedural material modeling
 

@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "3_ParticlesPoints/ParticlesPoints.canvas",
+                "file": "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
                 "viewState": {
-                  "x": 7237.63682176567,
-                  "y": 3897.1657241110697,
-                  "zoom": -1.9999999999999993
+                  "x": 2666.4791920379694,
+                  "y": 1725.974372861537,
+                  "zoom": -3.3333333333333335
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ParticlesPoints"
+              "title": "ProceduralLinesCurves"
             }
           }
         ]
@@ -174,20 +174,23 @@
   },
   "active": "27382fecbc93a3a9",
   "lastOpenFiles": [
-    "3_ParticlesPoints/LectureExamples/SurfaceFlow/backup/SurfaceFlow_bak5.hipnc",
-    "3_ParticlesPoints/LectureExamples/SurfaceFlow/backup/SurfaceFlow_bak4.hipnc",
-    "3_ParticlesPoints/LectureExamples/SurfaceFlow/backup/SurfaceFlow_bak3.hipnc",
-    "3_ParticlesPoints/LectureExamples/SurfaceFlow/backup/SurfaceFlow_bak2.hipnc",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/backup/SurfaceTurbulence_bak94.hipnc",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/backup/SurfaceTurbulence_bak93.hipnc",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/backup/SurfaceTurbulence_bak92.hipnc",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/backup/SurfaceTurbulence_bak91.hipnc",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/backup/SurfaceTurbulence_bak90.hipnc",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/backup/SurfaceTurbulence_bak89.hipnc",
-    "3_ParticlesPoints/LectureExamples/SurfaceTurbulence/backup/SurfaceTurbulence_bak88.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/render/PointCloudLines.JPG",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/render/LineCurveGuide.JPG",
+    "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/render/CurveFromShape.JPG",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak991.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak990.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak989.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak988.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak987.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak986.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak985.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak984.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak132.hipnc",
+    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak131.hipnc",
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
     "6_2DMotionGraphicsUI/LectureExamples/Attractors/render/Attractors.karmarendersettings.0171.JPG",
     "7_MaterialModeling/MaterialModeling.canvas",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
     "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/PointsVectorField2.JPG",
     "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/TrailsVectorField1.JPG",
     "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/TrailsVectorField2.JPG",
@@ -195,11 +198,8 @@
     "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/TrailsVectorField3.JPG",
     "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/PointsVectorField3.JPG",
     "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/PointsVectorField.JPG",
-    "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/TrailsVectorField.JPG",
     "0_Intro/Intro.canvas",
     "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas",
-    "0_Intro/LectureImages/ProceduralModeling/Model.JPG",
     "9_DynamicsDeformableBody/DynamicsDeformableBody.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
