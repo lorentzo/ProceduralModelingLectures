@@ -161,15 +161,11 @@ Starting volume cloud shape             |  Morphed cloud shape
 
 Particle advection using volume vector field             |  Particle advection using volume vector field
 :-------------------------:|:-------------------------:
-![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/ParticlesVolumes1.jpg) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/ParticlesVolumes2.jpg)
+![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/VolumesParticles1.JPG) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/VolumesParticles2.JPG)
 
-Volumetric solid modeling: organic shapes abstract interpolation             |  Volumetric solid modeling: Volumetric abstract interpolation
+Volumetric solid modeling            |  Volumetric solid modeling
 :-------------------------:|:-------------------------:
-![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeDensityNoise.jpg) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeFilledSpheres.jpg)
-
-Volumetric solid modeling: Organic shapes abstract interpolation             |  Volumetric solid modeling: Volumetric fracture
-:-------------------------:|:-------------------------:
-![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeFilledSpheresRemeshed.jpg) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeFracture.jpg)
+![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeDensityNoise.jpg) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeFilledSpheresRemeshed.jpg)
 
 ### Lecture 1.5: Procedural Foliage, Growth and Spread
 

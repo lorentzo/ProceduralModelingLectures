@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
+                "file": "4_ParticlesVolumes/ParticlesVolumes.canvas",
                 "viewState": {
-                  "x": 2666.4791920379694,
-                  "y": 1725.974372861537,
-                  "zoom": -3.3333333333333335
+                  "x": 16654.26573898913,
+                  "y": 931.9352934490521,
+                  "zoom": -2.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralLinesCurves"
+              "title": "ParticlesVolumes"
             }
           }
         ]
@@ -174,37 +174,37 @@
   },
   "active": "27382fecbc93a3a9",
   "lastOpenFiles": [
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/backup/ParticlesVolumes_bak214.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/backup/ParticlesVolumes_bak213.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/~olumeRasterizeAttributes.tmp",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/VolumeRasterizeAttributes.JPG",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/backup/ParticlesVolumes_bak212.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/backup/ParticlesVolumes_bak211.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/backup/ParticlesVolumes_bak210.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/~olumeVectorFieldFromTangents.tmp",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/VolumeVectorFieldFromTangents.JPG",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/InitialGeometryTangents.JPG",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/~nitialGeometry.tmp",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/InitialGeometry.JPG",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/backup/ParticlesVolumes_bak209.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/ParticlesVolumes1.jpg",
+    "4_ParticlesVolumes/ParticlesVolumes.canvas",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/backup/ParticlesVolumes_bak208.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/backup/ParticlesVolumes_bak207.hipnc",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/VolumesParticles2.JPG",
+    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/VolumesParticles1.JPG",
+    "11_SimulationGas/DynamicsGas.canvas",
+    "3_ParticlesPoints/ParticlesPoints.canvas",
+    "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
     "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/render/PointCloudLines.JPG",
     "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/render/LineCurveGuide.JPG",
     "6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/render/CurveFromShape.JPG",
-    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak991.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak990.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak989.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak988.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak987.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak986.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak985.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/backup/LineCurveGuides_bak984.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak132.hipnc",
-    "6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/backup/PCLines_bak131.hipnc",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
-    "3_ParticlesPoints/ParticlesPoints.canvas",
-    "6_2DMotionGraphicsUI/LectureExamples/Attractors/render/Attractors.karmarendersettings.0171.JPG",
     "7_MaterialModeling/MaterialModeling.canvas",
-    "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/PointsVectorField2.JPG",
-    "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/TrailsVectorField1.JPG",
-    "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/TrailsVectorField2.JPG",
-    "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/PointsVectorField1.JPG",
-    "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/TrailsVectorField3.JPG",
-    "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/PointsVectorField3.JPG",
-    "3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/PointsVectorField.JPG",
     "0_Intro/Intro.canvas",
-    "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
     "9_DynamicsDeformableBody/DynamicsDeformableBody.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md"
   ]
 }

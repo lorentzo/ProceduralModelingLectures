@@ -29,7 +29,8 @@
 		{"id":"c0cc89444c686a31","type":"file","file":"11_SimulationGas/Examples/GasSimulation/Output/r1.jpg","x":3064,"y":-489,"width":533,"height":533},
 		{"id":"8894e9ca907d0f77","type":"text","text":"Blender working example","x":3180,"y":-720,"width":250,"height":60},
 		{"id":"03adf5b562f74c64","type":"text","text":"Blender gas simulation:\n* Fluid domain\n* Fluid source\n* Caching","x":2300,"y":127,"width":244,"height":247},
-		{"id":"49348630344f67d3","x":-280,"y":1880,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=1N1rqCw8Z2w"}
+		{"id":"49348630344f67d3","type":"link","url":"https://www.youtube.com/watch?v=1N1rqCw8Z2w","x":-280,"y":1880,"width":640,"height":360},
+		{"id":"cf255a7f1e2fe81a","x":-1720,"y":1040,"width":481,"height":244,"color":"1","type":"text","text":"Tutorials:\n* https://www.youtube.com/watch?v=RemcySTz6eo\n* https://www.sidefx.com/tutorials/pyro-advection/\n* * https://www.youtube.com/watch?v=yVIlPQO_p2I"}
 	],
 	"edges":[
 		{"id":"a5d1a0e5178b65c3","fromNode":"aa2a9b267ad75562","fromSide":"bottom","toNode":"bcebf65ec6caae3d","toSide":"top"},
