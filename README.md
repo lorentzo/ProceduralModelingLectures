@@ -153,7 +153,7 @@ Topics and concepts:
 
 Starting volume cloud shape             |  Particle dynamics for simulating volume cloud advection
 :-------------------------:|:-------------------------:
-![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/StartingCloudShape.jpg) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/CloudWindShape.jpg)
+![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/StartingShape.JPG) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/AdvectedShape.JPG)
 
 Starting volume cloud shape             |  Morphed cloud shape
 :-------------------------:|:-------------------------:
