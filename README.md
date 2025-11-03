@@ -337,13 +337,17 @@ Gas simulation             |  Gas simulation
 * SideFX; Houdini: https://www.sidefx.com/learn/getting_started/, https://www.sidefx.com/docs/houdini/
 * Blender: https://docs.blender.org/
 * Entagma: https://entagma.com/
-* Stanford; D. James: http://graphics.stanford.edu/courses/cs348c/
+* Stanford CS 348C: Computer Graphics: Animation and Simulation: http://graphics.stanford.edu/courses/cs348c/
 * Ebert: Texturing and modeling: procedural approach
 * J. Horikawa: https://www.youtube.com/watch?app=desktop&v=rj0dEEVU1Ek&ab_channel=Houdini
 * Nature of code: https://natureofcode.com/
 * Pixar: https://graphics.pixar.com/library/
 * My work: https://www.artstation.com/lovro
 * Konstantin Magnus: https://procegen.konstantinmagnus.de/
+* Pragmatic VFX: https://pragmatic-vfx.com/
+* Houdini Kitchen: https://www.houdinikitchen.net/
+* EPC: https://www.everythingprocedural.com/
+
 
 # Possible Future lectures:
 * Procedural animation using sound
@@ -359,3 +363,8 @@ Gas simulation             |  Gas simulation
 * Proceduralism and virtual characters 
   * CFX
   * Procedural crowds modeling
+* 3D fractals and attractors, chaos and complex systems
+* Procedural compositing and image processing
+* Isosurfaces, metaballs, meta shapes, implicit surfaces, SDFs, etc.
+* Parametric surfaces (NURBS)
+* Photogrammetry and Gaussian Splatting
