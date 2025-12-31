@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9e5345c1690fd6bd",
+        "id": "6a958d815dcdc5c0",
         "type": "tabs",
         "children": [
           {
-            "id": "27382fecbc93a3a9",
+            "id": "f866398426576ff1",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "2_ProceduralTerrain/ProceduralTerrain.canvas",
                 "viewState": {
-                  "x": -10145.213588268738,
-                  "y": 711.374504648174,
-                  "zoom": -1.9999999999999993
+                  "x": 4392.742182780783,
+                  "y": -1605.2360940805502,
+                  "zoom": -1.3333333333333328
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 477.5
   },
   "right": {
     "id": "8484026a4a3786e4",
@@ -172,38 +172,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27382fecbc93a3a9",
+  "active": "f866398426576ff1",
   "lastOpenFiles": [
-    "2_ProceduralTerrain/LectureImages/Intro/~lender.tmp",
-    "2_ProceduralTerrain/LectureImages/Intro/Blender.JPG",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "3_CurveProximityCarving.jpg",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "2_GridNoiseDisplacement.jpg",
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "1_HardSurfaceModeling/Examples/Blender/ProceduralHardSurface.blend@",
+    "1_HardSurfaceModeling/LectureImages/Modeling/Instancing.JPG",
+    "1_HardSurfaceModeling/LectureImages/Modeling/InstancingShape.JPG",
+    "1_HardSurfaceModeling/LectureImages/Modeling/BevelVerts_1.JPG",
+    "1_HardSurfaceModeling/LectureImages/Modeling/BevelVerts_2.JPG",
+    "1_HardSurfaceModeling/LectureImages/Modeling/BevelVerts_4.JPG",
+    "1_HardSurfaceModeling/LectureImages/Modeling/BevelVerts_3.JPG",
+    "1_HardSurfaceModeling/LectureImages/Modeling/BevelEdges_4.JPG",
+    "1_HardSurfaceModeling/LectureImages/Modeling/BevelEdges_3.JPG",
+    "1_HardSurfaceModeling/LectureImages/Modeling/BevelEdges_2.JPG",
+    "1_HardSurfaceModeling/LectureImages/Modeling/~ooleanMesh_Cube.tmp",
+    "1_HardSurfaceModeling/LectureImages/Modeling",
+    "1_HardSurfaceModeling/LectureImages/New folder",
+    "5_FoliageSpreadGrowth/LectureExamples/Blender/ProceduralFoliage.blend@",
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "0_Intro/Intro.canvas",
+    "2_ProceduralTerrain/LectureImages/Noise/~urfaceDisplacement.tmp",
+    "2_ProceduralTerrain/Examples/Blender/ProceduralTerrain.blend@",
+    "2_ProceduralTerrain/LectureImages/Noise/~nitialSurface.tmp",
+    "2_ProceduralTerrain/LectureImages/Noise/~erlinAmp3.tmp",
+    "2_ProceduralTerrain/LectureImages/Noise/~erlinAmp1.tmp",
     "0_Overview/Overview.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
     "4_ParticlesVolumes/ParticlesVolumes.canvas",
     "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
-    "4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/backup/VolumeMorphing_bak125.hipnc",
-    "4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/backup/VolumeMorphing_bak124.hipnc",
-    "4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/backup/VolumeMorphing_bak123.hipnc",
-    "4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/backup/VolumeMorphing_bak122.hipnc",
-    "4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/backup/VolumeMorphing_bak121.hipnc",
-    "4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/backup/VolumeMorphing_bak120.hipnc",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak128.hipnc",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak127.hipnc",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak126.hipnc",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/backup/ParticlesVolumesAdvection_bak125.hipnc",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/VolumeFromAdvectedParticles.JPG",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/ParticleAdvectionUsingVolumeVectorField.JPG",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/CloudAsParticles.JPG",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/VolumeVectorField.JPG",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/CloudShapeIni.JPG",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/StartingCloudShape.jpg",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/AdvectedShape.JPG",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/CloudWindShape.jpg",
-    "4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/StartingShape.JPG",
     "11_SimulationGas/DynamicsGas.canvas",
     "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md"
   ]
