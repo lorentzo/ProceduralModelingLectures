@@ -26,7 +26,7 @@ Create Grid geometry. Displace grid vertices in normal direction using noise. Hi
 5 Points.
 
 Expected result:
-![](Images/1.jpg)
+![](Images/1.JPG)
 
 
 Add curve in 3D scene and draw a shape (e.g., circle), using curve, across grid geometry. Modify grid displacement so it occurs only in certain distance from curve. Hints: 
@@ -39,7 +39,7 @@ Add curve in 3D scene and draw a shape (e.g., circle), using curve, across grid 
 20 Points
 
 Expected result:
-![](Images/2.jpg)
+![](Images/2.JPG)
 
 Add another curve in 3D scene (while keeping the 1st curve) and draw another shape (e.g., circle), using this new curve, across grid geometry. Perform grid displacement only from certain distance from this 2nd curve. use different noise function from displacement. Hints:
 * Use same concepts (nodes) as in previous step, but duplicate them and create another Set Position node for displacement with different noise texture.
@@ -47,7 +47,7 @@ Add another curve in 3D scene (while keeping the 1st curve) and draw another sha
 10 Points.
 
 Expected result:
-![](Images/3.jpg)
+![](Images/3.JPG)
 
 Store distance values computed using Geometry Proximity Nodes as geometry face attributes in Geometry Nodes Editor (2 values should be stored, therefore, 2 different attributes have to be created). Using Shader Editor, create material and use stored distance attributes to compute color. Assign material to geometry in Geometry Nodes Editor. Hints:
 * To store attribute in Geometry Nodes Editor use: https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/attribute/store_named_attribute.html
@@ -61,7 +61,7 @@ Store distance values computed using Geometry Proximity Nodes as geometry face a
 5 Points.
 
 Expected result:
-![](Images/4.jpg)
+![](Images/4.JPG)
 
 Create Sphere geometry in same Geometry Nodes Editor and make its faces more interesting by converting faces to pentagons. Join created geometry with displaced grid. Transform (translate) sphere geometry above grid geometry. Hints:
 * Icosphere geometry: https://docs.blender.org/manual/en/2.93/modeling/geometry_nodes/mesh_primitives/icosphere.html
@@ -73,7 +73,7 @@ Create Sphere geometry in same Geometry Nodes Editor and make its faces more int
 5 Points.
 
 Expected Result:
-![](Images/5.jpg)
+![](Images/5.JPG)
 
 Perform face extrusion operator on sphere geometry. Set extrude offset scale using noise function. Store noise values used for extrusion as geometry face attributes in Geometry Nodes Editor. Using Shader Editor, create material and use stored noise attribute to compute color. Assign material to geometry in Geometry Nodes Editor. Hints:
 * To extrude in Geometry Nodes Editor mesh use Extrude Node: https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/mesh/operations/extrude_mesh.html
@@ -81,14 +81,14 @@ Perform face extrusion operator on sphere geometry. Set extrude offset scale usi
 5 Points.
 
 Expected Result:
-![](Images/6.jpg)
+![](Images/6.JPG)
 
 Add another sphere geometry in same Geometry Nodes Editor and convert its faces to pentagon. Transform (translate) this sphere so that its center is at center of previous sphere. Scale this new sphere uniformly so it is larger than previous sphere. 
 
 5 Points.
 
 Expected Result:
-![](Images/7.jpg)
+![](Images/7.JPG)
 
 For the second sphere, compute shortest edge paths from random sphere vertex to other random sphere vertices. For edge cost for shortest path use noise function. Note: computed shortest path is curve/spline. Set computed shortest path curve/spline to type of NURBS. Convert curve to mesh with using circle profile. Scale mesh circle profile using spline parameter "Length". Finally, assign new material with uniform color to this geometry. Hints: 
 * Tutorial explaining concepts: https://www.youtube.com/watch?v=3N8ZvG1_MLc
