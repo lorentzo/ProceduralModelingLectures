@@ -53,10 +53,6 @@ Noise surface modeling 1             |  Noise surface modeling 2
 :-------------------------:|:-------------------------:
 ![](Lectures/0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/render/NoiseSurfaceModeling1.jpg)  |  ![](Lectures/0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/render/NoiseSurfaceModeling2.jpg)
 
-Arcane inspired sphere             |  Arcane inspired sphere
-:-------------------------:|:-------------------------:
-![](Lectures/0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/render/r1.jpg)  |  ![](Lectures/0_Overview/Examples/LectureExamples/ArcaneInspiredSphere/render/r2.jpg)
-
 ## Part 1: Procedural Modeling
 
 ### Lecture 1.1: Procedural Hard Surface Modeling
@@ -69,18 +65,15 @@ Topics and concepts:
 
 Lecture notes and practical examples: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/Lectures/1_HardSurfaceModeling
 
-Procedural building 1.1             |  Procedural building 1.2
+Procedural building (Houdini)             |  Procedural building (Blender)
 :-------------------------:|:-------------------------:
-![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example1/render/r1.png)  |  ![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example1/render/r4.png)
+![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example1/render/r1.png)  |  ![](Lectures/1_HardSurfaceModeling/LectureImages/Examples/Blender/3/Final.JPG)
 
 Procedural building 2.1 & 2.2
 
-![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example2/render/r1.jpg)
-![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example2/render/r2.jpg)
-
-Hard surface panels 1            |  Hard surface panels 2
+Hard surface panels (Blender)            |  Procedural building (Houdini)
 :-------------------------:|:-------------------------:
-![](Lectures/1_HardSurfaceModeling/LectureImages/MyWork/JumpHostSpy_background.jpg)  | ![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Blocks/render/blocks1.jpg)
+![](Lectures/1_HardSurfaceModeling/LectureImages/MyWork/JumpHostSpy_background.jpg)  |  ![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example2/render/r2.jpg)
 
 ### Lecture 1.2: Procedural Terrain Modeling
 
@@ -99,17 +92,13 @@ Topics and concepts:
 
 Lecture notes and practical examples: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/Lectures/2_ProceduralTerrain
 
-Heightfield-based terrain using NASA topo 1.1             |  Heightfield-based terrain using NASA topo 1.2
+Heightfield-based terrain using noise (Houdini)             |  Heightfield-based terrain using NASA topo (Houdini)
 :-------------------------:|:-------------------------:
-![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r3.png)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r2.png)
+![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r2.jpg)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r2.png)
 
-Heightfield-based terrain using noise 2.1             |  Heightfield-based terrain using noise 2.2
+Mesh-based terrain using noise (Blender)           |  Mesh-based terrain using noise (Houdini)
 :-------------------------:|:-------------------------:
-![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r1.jpg)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r2.jpg)
-
-Mesh-based terrain using noise 2.1            |  Mesh-based terrain using noise 2.2
-:-------------------------:|:-------------------------:
-![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r1.png)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r2.png)
+![](Lectures/2_ProceduralTerrain/LectureImages/Examples/Blender/1/7_FinalTerrain.JPG)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r2.png)
 
 ### Lecture 1.3: Procedural Particles and trails (Abstract and FX)
 
@@ -181,25 +170,19 @@ Topics and concepts:
 * Theoretical principles: SCA, Eden, L-Systems, DLA, reaction-diffusion, iteration, recursion, CA
 * Geometry distance and instancing
 
-Branching structure volume growth:          |  Branching structure surface growth:
+Branching structure volume growth (Houdini):          |  Branching structure surface growth (Blender):
 :-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowth/render/VolumeGrowth1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowth/render/SurfaceGrowth1.jpg)
+![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowth/render/VolumeGrowth1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/4_ScaleAndRemesh.JPG)
 
-Surface spread:          |  Surface spread:
+Surface spread (Blender):          |  Surface spread (Houdini):
 :-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/FoliageSurfaceSpread.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/FoliageSurfaceSpread3.jpg)
+![](Lectures/5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/1/Final.JPG)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/FoliageSurfaceSpread3.jpg)
 
-Volume spread:          |  Volume spread:
-:-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread0.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeSpread/render/VolumeSpread1.jpg)
-
-Surface growth:          |  Surface growth:
+Growth (Houdini)          |  Growth (Houdini)
 :-------------------------:|:-------------------------:
 ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/SurfaceOrganicGrowthMorph1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/SurfaceOrganicGrowthMorph2.jpg)
 
-Volume growth:          |  Volume growth:
-:-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowthMorph/render/r2.jpg)
+
 
 ### Lecture 1.6. Procedural lines and curves
 
