@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "viewState": {
-                  "x": 14004.844837576033,
-                  "y": 5352.960217657709,
-                  "zoom": -1.666666666666666
+                  "x": 17301.3415023133,
+                  "y": 272.0080204078631,
+                  "zoom": -3.3333333333333335
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralFoliageSpreadGrowth"
+              "title": "Intro"
             }
           }
         ]
@@ -174,6 +174,7 @@
   },
   "active": "f866398426576ff1",
   "lastOpenFiles": [
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "0_Intro/Intro.canvas",
     "0_Intro/LectureImages/AboutMe/MV_L_7.jpg",
@@ -191,7 +192,6 @@
     "0_Intro/LectureImages/Projects",
     "0_Intro/LectureImages/New folder",
     "5_FoliageSpreadGrowth/LectureExamples/Blender/ProceduralFoliage.blend@",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md",
     "2_ProceduralTerrain/Examples/Blender/ProceduralTerrain.blend@",
