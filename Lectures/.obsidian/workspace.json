@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "viewState": {
-                  "x": -9110.552323173473,
-                  "y": 2698.7543593105183,
-                  "zoom": -2.333333333333332
+                  "x": 5012.638626703955,
+                  "y": 913.1242071766301,
+                  "zoom": -3.3333333333333335
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "HardSurfaceModeling"
+              "title": "Intro"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 377.5
   },
   "right": {
     "id": "8484026a4a3786e4",
@@ -174,37 +174,37 @@
   },
   "active": "f866398426576ff1",
   "lastOpenFiles": [
-    "1_HardSurfaceModeling/LectureImages/HardSurfOrganicModeling/HardSurfaceEnv.JPG",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
+    "0_Intro/LectureImages/Projects/DHBW/Final_G3.jpg",
+    "0_Intro/LectureImages/Projects/DHBW/Final_g3.jpg",
+    "0_Intro/LectureImages/Projects/DHBW/Final.jpg",
+    "0_Intro/LectureImages/Projects/DHBW/Final_G2.jpg",
+    "0_Intro/LectureImages/Projects/DHBW/Final_G1.jpg",
+    "0_Intro/LectureImages/Projects/DHBW",
+    "0_Intro/LectureImages/Projects/New folder",
+    "0_Intro/LectureImages/Projects",
+    "0_Intro/LectureImages/New folder",
     "5_FoliageSpreadGrowth/LectureExamples/Blender/ProceduralFoliage.blend@",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/~inal.tmp",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/Final.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/~_AttributesAndMaterial.tmp",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/5_AttributesAndMaterial.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/~_ScaleAndRemesh.tmp",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/4_ScaleAndRemesh.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/~_ShortestPath.tmp",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/3_ShortestPath.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/2_Remesh.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/~_StartingShape.tmp",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/1_StartingShape.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/New folder",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/1/5_AdaptParams.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/1/1_TextIn3D.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/1/~inal.tmp",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/1/Final.JPG",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/1/~_AdaptParams.tmp",
-    "5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/1/4_OrganicInstancing.JPG",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "0_Intro/Intro.canvas",
+    "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md",
+    "2_ProceduralTerrain/Examples/Blender/ProceduralTerrain.blend@",
+    "0_Intro/LectureImages/Houdini.JPG",
+    "0_Intro/LectureImages/AboutMe/M_5.jpg",
+    "0_Intro/LectureImages/AboutMe/Unconfirmed 592657.crdownload",
+    "0_Intro/LectureImages/AboutMe/M_4.jpg",
+    "0_Intro/LectureImages/AboutMe/Unconfirmed 309981.crdownload",
+    "0_Intro/LectureImages/AboutMe/MV_PS_5.png",
+    "0_Intro/LectureImages/AboutMe/MV_PS_4.png",
+    "0_Intro/LectureImages/AboutMe/MV_PS_3.png",
+    "0_Intro/LectureImages/AboutMe/~HD_22.tmp",
+    "0_Intro/LectureImages/AboutMe/~HD_21.tmp",
     "0_Overview/Overview.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
     "4_ParticlesVolumes/ParticlesVolumes.canvas",
     "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
     "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
-    "11_SimulationGas/DynamicsGas.canvas",
-    "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md"
+    "11_SimulationGas/DynamicsGas.canvas"
   ]
 }
