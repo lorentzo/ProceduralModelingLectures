@@ -124,14 +124,12 @@ Write one-pager document of arbitrary format containing conceptual documentation
 
 # Project Submission details
 
-To submit project, upload following and make it available by link:
+To submit project, upload following data and make it available by link:
 * Blender source project (.BLEND)
 * Onepager with conceptual documentation (.PDF)
 * 3 rendered images (.JPG)
 
-Send link to lovrobosnar.work@gmail.com until 19.04.2026.
+Send the link to lovrobosnar.work@gmail.com until 19.04.2026.
 Recieved project submission will be confirmed by sending e-mail to the owner of the project. Therefore, it you haven't recieved confirmation in 2 days send the link again and notify Professor Gerhards.
 
-All 3 reqired submission elements must be submitted in same time. If something is missing in the submission documentation you will have 2 days from my notice to add missing documents. It is not possible to add missing documents after 19.04.2026.
-
-Note: failing to submit any of 3 required elements results in 0 points.
+If something is missing in the submission documentation I will notify you with the required documents that are missing.

@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6a958d815dcdc5c0",
+        "id": "34275e7156b4b1a0",
         "type": "tabs",
         "children": [
           {
-            "id": "f866398426576ff1",
+            "id": "89330f5838d4dd4f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "viewState": {
-                  "x": -2128.90496870942,
-                  "y": 5369.691767406741,
-                  "zoom": -3.3333333333333335
+                  "x": -16201.370436729492,
+                  "y": -349.3506997049731,
+                  "zoom": 0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "HardSurfaceModeling"
+              "title": "Intro"
             }
           }
         ]
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "8484026a4a3786e4",
@@ -173,13 +172,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f866398426576ff1",
+  "active": "89330f5838d4dd4f",
   "lastOpenFiles": [
-    "1_HardSurfaceModeling/Examples/Blender/ProceduralHardSurface.blend@",
-    "0_Intro/Intro.canvas",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "0_Intro/Intro.canvas",
+    "1_HardSurfaceModeling/Examples/Blender/ProceduralHardSurface.blend@",
+    "Untitled.base",
     "0_Intro/LectureImages/AboutMe/MV_L_7.jpg",
     "0_Intro/LectureImages/AboutMe/MV_L_8.jpg",
     "0_Intro/LectureImages/AboutMe/MV_L_6.jpg",
@@ -199,7 +199,6 @@
     "2_ProceduralTerrain/Examples/Blender/ProceduralTerrain.blend@",
     "0_Intro/LectureImages/AboutMe/Unconfirmed 592657.crdownload",
     "0_Intro/LectureImages/AboutMe/Unconfirmed 309981.crdownload",
-    "0_Intro/LectureImages/AboutMe/~HD_22.tmp",
     "0_Overview/Overview.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
     "4_ParticlesVolumes/ParticlesVolumes.canvas",
