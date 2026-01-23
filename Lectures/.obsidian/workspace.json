@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
                 "viewState": {
-                  "x": -16201.370436729492,
-                  "y": -349.3506997049731,
-                  "zoom": 0.6666666666666667
+                  "x": 24142.76852978949,
+                  "y": 7202.521414135716,
+                  "zoom": -1.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Intro"
+              "title": "HardSurfaceModeling"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "8484026a4a3786e4",
@@ -174,11 +175,13 @@
   },
   "active": "89330f5838d4dd4f",
   "lastOpenFiles": [
+    "1_HardSurfaceModeling/Examples/Blender/ProceduralHardSurface.blend@",
+    "0_Intro/Intro.canvas",
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "1_HardSurfaceModeling/LectureImages/Examples/Blender/1/~catteringVariation.tmp",
+    "1_HardSurfaceModeling/LectureImages/Examples/Blender/1/ScatteringVariation.JPG",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
-    "0_Intro/Intro.canvas",
-    "1_HardSurfaceModeling/Examples/Blender/ProceduralHardSurface.blend@",
     "Untitled.base",
     "0_Intro/LectureImages/AboutMe/MV_L_7.jpg",
     "0_Intro/LectureImages/AboutMe/MV_L_8.jpg",
@@ -189,7 +192,6 @@
     "0_Intro/LectureImages/AboutMe/MV_L_1.jpg",
     "0_Intro/LectureImages/Projects/DHBW/Final_G3.jpg",
     "0_Intro/LectureImages/Projects/DHBW/Final_g3.jpg",
-    "0_Intro/LectureImages/Projects/DHBW/Final.jpg",
     "0_Intro/LectureImages/Projects/DHBW",
     "0_Intro/LectureImages/Projects/New folder",
     "0_Intro/LectureImages/Projects",
@@ -198,7 +200,6 @@
     "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md",
     "2_ProceduralTerrain/Examples/Blender/ProceduralTerrain.blend@",
     "0_Intro/LectureImages/AboutMe/Unconfirmed 592657.crdownload",
-    "0_Intro/LectureImages/AboutMe/Unconfirmed 309981.crdownload",
     "0_Overview/Overview.canvas",
     "3_ParticlesPoints/ParticlesPoints.canvas",
     "4_ParticlesVolumes/ParticlesVolumes.canvas",
