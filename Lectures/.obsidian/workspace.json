@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2_ProceduralTerrain/ProceduralTerrain.canvas",
+                "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
                 "viewState": {
-                  "x": 15589.276201426885,
-                  "y": 2326.8758875990425,
-                  "zoom": -4
+                  "x": 9634.16635708945,
+                  "y": 2827.108002485214,
+                  "zoom": -2.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralTerrain"
+              "title": "ProceduralFoliageSpreadGrowth"
             }
           }
         ]
@@ -175,11 +175,12 @@
   },
   "active": "89330f5838d4dd4f",
   "lastOpenFiles": [
+    "5_FoliageSpreadGrowth/LectureExamples/Blender/ProceduralFoliage.blend@",
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "2_ProceduralTerrain/Examples/Blender/ProceduralTerrain.blend@",
     "0_Intro/Intro.canvas",
     "0_Intro/LectureImages/Projects/DHBW/Final_G4.jpg",
     "0_Intro/LectureImages/Projects/DHBW/Final.jpg",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas",
     "1_HardSurfaceModeling/Examples/Blender/ProceduralHardSurface.blend@",
     "2_ProceduralTerrain/LectureImages/Examples/Blender/1/1_1_Attr.JPG",
     "2_ProceduralTerrain/LectureImages/Noise/~rox2.tmp",
