@@ -15,9 +15,9 @@
               "state": {
                 "file": "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
                 "viewState": {
-                  "x": 9634.16635708945,
-                  "y": 2827.108002485214,
-                  "zoom": -2.9999999999999996
+                  "x": 21468.310241634255,
+                  "y": 2140.7092749036997,
+                  "zoom": -0.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "8484026a4a3786e4",
