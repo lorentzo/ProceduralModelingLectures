@@ -25,9 +25,11 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 * VFX
 * Game development
 * Scientific visualization
+* Simulations
 * AR/VR
 * Generative/algorithmical Art
 * Computational arhitecture and design
+* 3D printing, CNC machining (additive and subtractive manufacturing)
 
 # Lecture Syllabus
 
