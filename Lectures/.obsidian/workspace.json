@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
                 "viewState": {
-                  "x": 5649.223208807906,
-                  "y": -6910.136912428741,
-                  "zoom": -3.333333333333333
+                  "x": -3725.902013426774,
+                  "y": 2532.8648964411755,
+                  "zoom": -1.3017025901309565
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Intro"
+              "title": "ProceduralLinesCurves"
             }
           }
         ]
@@ -176,8 +176,10 @@
   },
   "active": "89330f5838d4dd4f",
   "lastOpenFiles": [
-    "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
+    "8_Tessellations/Tessellations.canvas",
     "0_Intro/Intro.canvas",
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
     "0_Overview/Overview.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "5_FoliageSpreadGrowth/LectureExamples/Blender/ProceduralFoliage.blend@",
@@ -193,7 +195,6 @@
     "2_ProceduralTerrain/LectureImages/TopologyModeling/~orus.tmp",
     "2_ProceduralTerrain/LectureImages/TopologyModeling/Torus.JPG",
     "2_ProceduralTerrain/LectureImages/TopologyModeling/Grid.JPG",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "1_HardSurfaceModeling/LectureImages/Examples/Blender/1/~catteringVariation.tmp",
     "1_HardSurfaceModeling/LectureImages/Examples/Blender/1/ScatteringVariation.JPG",
     "Untitled.base",
