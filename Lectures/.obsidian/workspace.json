@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "34275e7156b4b1a0",
+        "id": "05ac6e8ab88b2866",
         "type": "tabs",
         "children": [
           {
-            "id": "89330f5838d4dd4f",
+            "id": "dd9a687060993b22",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
+                "file": "0_Intro/Intro.canvas",
                 "viewState": {
-                  "x": -3725.902013426774,
-                  "y": 2532.8648964411755,
-                  "zoom": -1.3017025901309565
+                  "x": 788.9661789537413,
+                  "y": -3987.3226931198233,
+                  "zoom": -2.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "ProceduralLinesCurves"
+              "title": "Intro"
             }
           }
         ]
@@ -174,13 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89330f5838d4dd4f",
+  "active": "dd9a687060993b22",
   "lastOpenFiles": [
-    "8_Tessellations/Tessellations.canvas",
+    "0_Overview/Overview.canvas",
     "0_Intro/Intro.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "8_Tessellations/Tessellations.canvas",
     "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
-    "0_Overview/Overview.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
     "5_FoliageSpreadGrowth/LectureExamples/Blender/ProceduralFoliage.blend@",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
