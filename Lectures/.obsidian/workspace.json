@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "05ac6e8ab88b2866",
+        "id": "b3e04b3b314cbb8d",
         "type": "tabs",
         "children": [
           {
-            "id": "dd9a687060993b22",
+            "id": "4f91e8229ce6b516",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "0_Intro/Intro.canvas",
+                "file": "8_Tessellation.canvas",
                 "viewState": {
-                  "x": 788.9661789537413,
-                  "y": -3987.3226931198233,
-                  "zoom": -2.9999999999999996
+                  "x": 6050.856191077207,
+                  "y": 946.8444337887274,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Intro"
+              "title": "8_Tessellation"
             }
           }
         ]
@@ -174,39 +174,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd9a687060993b22",
+  "active": "4f91e8229ce6b516",
   "lastOpenFiles": [
-    "0_Overview/Overview.canvas",
-    "0_Intro/Intro.canvas",
-    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
+    "Examples/Tessellation/OrganicVoronoi/backup/OrganicVoronoi_bak90.hipnc",
+    "Examples/Tessellation/OrganicVoronoi/backup/OrganicVoronoi_bak89.hipnc",
+    "Examples/Tessellation/OrganicVoronoi/backup/OrganicVoronoi_bak88.hipnc",
+    "Examples/Tessellation/OrganicVoronoi/backup/OrganicVoronoi_bak87.hipnc",
+    "Examples/Tessellation/OrganicVoronoi/backup/OrganicVoronoi_bak86.hipnc",
+    "Examples/Tessellation/OrganicVoronoi/backup/OrganicVoronoi_bak85.hipnc",
+    "Examples/Tessellation/OrganicVoronoi/backup/OrganicVoronoi_bak84.hipnc",
+    "Examples/Tessellation/OrganicVoronoi/backup/OrganicVoronoi_bak83.hipnc",
+    "Examples/Tessellation/OrganicVoronoi/backup/OrganicVoronoi_bak82.hipnc",
+    "Examples/Tessellation/OrganicVoronoi/backup/OrganicVoronoi_bak81.hipnc",
+    "Examples/Tessellation/OrganicVoronoi/backup/OrganicVoronoi_bak80.hipnc",
+    "Images/Tessellation/Tools/addons_mesh_tissue_tessellate-iterations.jpg",
+    "Images/Tessellation/Tools/addons_mesh_tissue_tessellate-weight-and-morphing.jpg",
+    "Images/Tessellation/Tools/addons_mesh_tissue_tessellate-bounds-cyclic.jpg",
+    "Images/Tessellation/Tools/addons_mesh_tissue_tessellate-frame-mode.jpg",
+    "Images/Tessellation/Tools/addons_mesh_tissue_tessellate-patch-mode.jpg",
+    "Images/Tessellation/Tools/addons_mesh_tissue_tessellate-fan-mode.jpg",
+    "Images/Tessellation/Tools/addons_mesh_tissue_tessellate-quad-mode.jpg",
+    "Images/Tessellation/Examples/Medicine.JPG",
+    "Images/Tessellation/Tools/HyperbolicGeoTessellation.JPG",
+    "Images/Tessellation/Tools/PointsAndTransformations.JPG",
+    "2_ProceduralTerrain/ProceduralTerrain.canvas",
+    "8_Tessellation.canvas",
     "8_Tessellations/Tessellations.canvas",
+    "1_Intro.canvas",
+    "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/Artifacts/0b/0ba49f889bc78c791168c4d1386ac817.md",
+    "0_Overview/Overview.canvas",
+    "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "5_FoliageSpreadGrowth/LectureExamples/Blender/ProceduralFoliage.blend@",
-    "2_ProceduralTerrain/ProceduralTerrain.canvas",
-    "2_ProceduralTerrain/Examples/Blender/ProceduralTerrain.blend@",
-    "0_Intro/LectureImages/Projects/DHBW/Final_G4.jpg",
-    "0_Intro/LectureImages/Projects/DHBW/Final.jpg",
-    "1_HardSurfaceModeling/Examples/Blender/ProceduralHardSurface.blend@",
-    "2_ProceduralTerrain/LectureImages/Examples/Blender/1/1_1_Attr.JPG",
-    "2_ProceduralTerrain/LectureImages/Noise/~rox2.tmp",
-    "2_ProceduralTerrain/LectureImages/Noise/Prox2.JPG",
-    "2_ProceduralTerrain/LectureImages/Noise/Prox1.JPG",
-    "2_ProceduralTerrain/LectureImages/TopologyModeling/~orus.tmp",
-    "2_ProceduralTerrain/LectureImages/TopologyModeling/Torus.JPG",
-    "2_ProceduralTerrain/LectureImages/TopologyModeling/Grid.JPG",
-    "1_HardSurfaceModeling/LectureImages/Examples/Blender/1/~catteringVariation.tmp",
-    "1_HardSurfaceModeling/LectureImages/Examples/Blender/1/ScatteringVariation.JPG",
-    "Untitled.base",
-    "0_Intro/LectureImages/AboutMe/MV_L_7.jpg",
-    "0_Intro/LectureImages/AboutMe/MV_L_8.jpg",
-    "0_Intro/LectureImages/Projects/DHBW",
-    "0_Intro/LectureImages/Projects/New folder",
-    "0_Intro/LectureImages/Projects",
     "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md",
     "3_ParticlesPoints/ParticlesPoints.canvas",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas",
-    "8_DynamicsRigidBody/DynamicsRigidBody.canvas",
-    "11_SimulationGas/DynamicsGas.canvas"
+    "4_ParticlesVolumes/ParticlesVolumes.canvas"
   ]
 }
