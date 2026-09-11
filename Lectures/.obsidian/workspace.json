@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "8_Tessellation.canvas",
+                "file": "2_Overview.canvas",
                 "viewState": {
-                  "x": 5043.705605843708,
-                  "y": 1149.513232660059,
-                  "zoom": -2.6666666666666665
+                  "x": -1776.865411905619,
+                  "y": 599.0066637056925,
+                  "zoom": -4
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "8_Tessellation"
+              "title": "2_Overview"
             }
           }
         ]
@@ -174,35 +174,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "864f567175b4bb84",
+  "active": "4f91e8229ce6b516",
   "lastOpenFiles": [
-    "Examples/Tessellation/VariousTessellationExamples/backup/VariousTessellationExamples_bak8.hipnc",
-    "Examples/Tessellation/VariousTessellationExamples/backup/VariousTessellationExamples_bak7.hipnc",
-    "Examples/Tessellation/VariousTessellationExamples/backup/VariousTessellationExamples_bak6.hipnc",
-    "Images/Tessellation/LectureExamples/~.tmp",
-    "Examples/Tessellation/VariousTessellationExamples/backup/VariousTessellationExamples_bak5.hipnc",
-    "Examples/Tessellation/VariousTessellationExamples/backup/VariousTessellationExamples_bak4.hipnc",
+    "Examples/Overview/Common/autumn_field_puresky_1k.exr",
+    "Examples/Overview/Common/autumn_field_puresky_1k.exr.rat",
+    "Examples/Overview/Common",
+    "Examples/Overview/LectureExamples/ProceduralMaterials/ProceduralMaterials.blend1",
+    "Examples/Overview/LectureExamples/ProceduralMaterials/ProceduralMaterials.blend",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/scripts",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/video",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/tex",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/sim",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/NoiseSurfaceModeling.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/hda",
+    "0_Overview/Images/XPDrivenCG.JPG",
+    "2_Overview.canvas",
+    "Images/Overview/WhatCanPCGCreate/DoomProcSound.jpg",
+    "0_Overview/Images/blender_geo.jpg",
+    "0_Overview/Images/ProceduralMaterialsExample.JPG",
+    "1_Intro.canvas",
+    "8_Tessellation.canvas",
     "Images/Tessellation/LectureExamples/3.JPG",
     "Images/Tessellation/LectureExamples/2.JPG",
-    "Examples/Tessellation/VariousTessellationExamples/backup/VariousTessellationExamples_bak3.hipnc",
-    "Examples/Tessellation/VariousTessellationExamples/backup/VariousTessellationExamples_bak2.hipnc",
-    "Examples/Tessellation/VariousTessellationExamples/backup/VariousTessellationExamples_bak1.hipnc",
     "Images/Tessellation/LectureExamples/1.JPG",
-    "Images/Tessellation/LectureExamples",
-    "Images/Tessellation/New folder",
     "Images/Tessellation/Tools/HyperbolicGeoTessellation2.JPG",
     "Images/Tessellation/Tools/NonEuclideanGeo.JPG",
     "Images/Tessellation/Tools/Iterations2.JPG",
-    "Images/Tessellation/Tools/Iterations1.JPG",
-    "Images/Tessellation/Tools/GridComponentTransformation.JPG",
-    "Images/Tessellation/Tools/addons_mesh_tissue_tessellate-iterations.jpg",
-    "Images/Tessellation/Tools/addons_mesh_tissue_tessellate-weight-and-morphing.jpg",
     "2_ProceduralTerrain/ProceduralTerrain.canvas",
-    "8_Tessellation.canvas",
     "8_Tessellations/Tessellations.canvas",
-    "1_Intro.canvas",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/Artifacts/0b/0ba49f889bc78c791168c4d1386ac817.md",
-    "0_Overview/Overview.canvas",
     "1_HardSurfaceModeling/HardSurfaceModeling.canvas",
     "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
     "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
