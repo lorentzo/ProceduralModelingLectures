@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "5_Fuzzy.canvas",
+                "file": "1_Intro.canvas",
                 "viewState": {
-                  "x": -18065.064281047067,
-                  "y": -125.24300209195381,
-                  "zoom": -0.333333333333333
+                  "x": 12749.778909608034,
+                  "y": -328.4764740330906,
+                  "zoom": -2.3333333333333326
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "5_Fuzzy"
+              "title": "1_Intro"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "4f91e8229ce6b516",
   "lastOpenFiles": [
+    "5_Fuzzy.canvas",
     "Examples/Fuzzy",
     "Examples/New folder",
     "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/Portal/5_SpawnInitializeRateCapacityLifetime.JPG",
@@ -185,7 +186,6 @@
     "3_ParticlesPoints/LectureImages/Takeaways/Flipbook1.JPG",
     "3_ParticlesPoints/LectureImages/Applications/physics_particles_introduction_fur-example.jpg",
     "3_ParticlesPoints/LectureImages/Applications/InsideRain2.JPG",
-    "5_Fuzzy.canvas",
     "Images/Fuzzy/LectureExamples/5",
     "Images/Fuzzy/LectureExamples/4",
     "Images/Fuzzy/LectureExamples/3",
@@ -194,8 +194,7 @@
     "Images/Fuzzy/Examples/1",
     "Images/Fuzzy/Takeaways",
     "Images/Fuzzy/LectureExamples",
-    "Images/Fuzzy/Envs",
-    "4_Organic.canvas",
+    "4_Noise.canvas",
     "1_Intro.canvas",
     "Examples/Organic/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Water.JPG",
     "Examples/Organic/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Transform1.JPG",
