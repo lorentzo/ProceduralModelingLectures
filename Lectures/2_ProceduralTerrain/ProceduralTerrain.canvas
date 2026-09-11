@@ -273,7 +273,7 @@
 		{"id":"270164f3baf019d9","type":"text","text":"3D modeling and animation DCC","x":-13711,"y":3771,"width":250,"height":60},
 		{"id":"ac1819b9cf8f6547","type":"link","url":"https://visibleearth.nasa.gov/","x":-14310,"y":234,"width":663,"height":559},
 		{"id":"948e31e2e36ef7d2","type":"text","text":"https://wccftech.com/witcher-3-4k-terrain-mod-skellige/","x":-13081,"y":3461,"width":480,"height":50},
-		{"id":"4a6d3a4edaa0776e","type":"file","file":"1_HardSurfaceModeling/LectureImages/DesignProcess/design.jpg","x":-12651,"y":1841,"width":634,"height":441},
+		{"id":"4a6d3a4edaa0776e","type":"file","file":"Images/HardSurface/Workflow/design.jpg","x":-12651,"y":1841,"width":634,"height":441},
 		{"id":"3b42207f0e42a0a5","type":"text","text":"What is the goal and for which application? For example:\n* I need **snow biome terrain** for **real time strategy PC game**\n* I need **green hills biome** with roads for **3D racing Console game** \n* I need **low poly desert biome** for **2.5D mobile casual game**\n* I need **abstract sci-fi biome** for **motion graphics animation**\n* I need **terrain with sea and small islands** for **animated film**","x":-13751,"y":-400,"width":679,"height":216},
 		{"id":"6437b53652c2c48a","type":"text","text":"Artistic references","x":-12938,"y":36,"width":250,"height":60},
 		{"id":"ba9572f9ac4efc9c","type":"text","text":"Concept art","x":-13460,"y":1040,"width":250,"height":60},
