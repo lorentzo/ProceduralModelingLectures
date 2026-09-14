@@ -168,6 +168,10 @@ Topics and concepts:
 * Transformation between spaces: time, frequency, geometry
 * Sound and signal to geometry
 
+1             |  2
+:-------------------------:|:-------------------------:
+![](Lectures/Images/Transformation/LectureExamples/1/SpaceDistortion.jpg)  | ![](Lectures/Images/Transformation/LectureExamples/1/SpaceDistortion.jpg)
+
 ## Procedural modeling with dynamics 1
 
 Topics and concepts:
