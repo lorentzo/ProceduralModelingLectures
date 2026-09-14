@@ -9,6 +9,7 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 **Lectures aim:**
 * Provide a map of the procedural modeling field
 * Theoretical knowledge and practical tools for procedural modeling and animation
+* Focus on geometrical modeling
 
 **Learning by doing:**
 * Learning theory and concepts by working on practical examples
@@ -20,66 +21,46 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
     * Touch Designer (https://derivative.ca/)
 
 **Lecture applications:**
-* Animated film
-* Motion graphics
-* VFX
-* Game development
-* Scientific visualization
-* Simulations
-* AR/VR
-* Generative/algorithmical Art
-* Computational arhitecture and design
-* 3D printing, CNC machining (additive and subtractive manufacturing)
+* Animated film, VFX, motion graphics, game development
+* Scientific visualization, simulations
+* Generative/algorithmical design and arhitecture
+* Additive and subtractive mnufacturing: 3D printing, CNC machining
 
 # Lecture Syllabus
 
 ## Introduction
 
-### Introduction to Lectures and Procedural Modeling
-
 * About lectures, syllabus and overview
 * Big picture: about procedural modeling and Houdini workflow intuition
 * Applications of procedural modeling
 
-### Overview of Procedural Modeling
+## Overview
 
-* Explaining why using procedural modeling for content generation
-* Explaining what can be generated procedurally
+* What is Procedural modeling, why and for what it is used?
 * Structuring procedural content generation methods
 * Broad overview of procedural modeling techniques and concepts
 * Follow-up practical examples
-* Evaluating procedurally generated content
-* Future learning
 
-Noise surface modeling 1             |  Noise surface modeling 2
+1             |  2
 :-------------------------:|:-------------------------:
-![](Lectures/0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/render/NoiseSurfaceModeling1.jpg)  |  ![](Lectures/0_Overview/Examples/LectureExamples/NoiseSurfaceModeling/render/NoiseSurfaceModeling2.jpg)
+![](Lectures/Images/Overview/LectureExamples/NoiseSurfaceModeling1.jpg)  |  ![](Lectures/Images/Overview/LectureExamples/NoiseSurfaceModeling2.jpg)
 
-## Part 1: Procedural Modeling
-
-### Lecture 1.1: Procedural Hard Surface Modeling
+## Procedural Hard Surface Modeling
 
 Topics and concepts:
 * Understanding hard surface modeling and difference to soft surface (organic) modeling
 * Typical procedural hard surface modeling workflow: concept, design and implementation
-* Procedural hard-surface (human made, artificial, industrial) modeling techniques, datastructures and methods
-* Parameterized hard surface model
+* Procedural hard-surface (human made, artificial, industrial) modeling techniques, data structures and methods
+* Parameterized hard surface model as a result of procedural modeling
 
-Lecture notes and practical examples: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/Lectures/1_HardSurfaceModeling
-
-Procedural building (Houdini)             |  Procedural building (Blender)
+1            | 2
 :-------------------------:|:-------------------------:
-![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example1/render/r1.png)  |  ![](Lectures/1_HardSurfaceModeling/LectureImages/Examples/Blender/3/Final.JPG)
+![](Lectures/Images/HardSurface/LectureExamples/3/r1.jpg)  |  ![](Lectures/Images/HardSurface/LectureExamples/3/r2.jpg)
 
-Procedural building 2.1 & 2.2
-
-Hard surface panels (Blender)            |  Procedural building (Houdini)
-:-------------------------:|:-------------------------:
-![](Lectures/1_HardSurfaceModeling/LectureImages/MyWork/JumpHostSpy_background.jpg)  |  ![](Lectures/1_HardSurfaceModeling/Examples/LectureExamples/Example2/render/r2.jpg)
-
-### Lecture 1.2: Procedural Terrain Modeling
+## Procedural noise modeling: function and texture
 
 Topics and concepts:
+* Noise for procedural texture modeling: frequency, amplitude, warping, layering
 * Understanding elements of virtual terrains: topology, color, props, etc.
 * Terrain topology and color (material) modeling approaches
 * Terrain modeling datastructures and sources of data (e.g., NASA heightmaps)
@@ -92,230 +73,137 @@ Topics and concepts:
 * Masking, samling (scattering) and instancing
 * World building workflow: concept, design and implementation
 
-Lecture notes and practical examples: https://github.com/lorentzo/ProceduralModelingLectures/tree/main/Lectures/2_ProceduralTerrain
-
-Heightfield-based terrain using noise (Houdini)             |  Heightfield-based terrain using NASA topo (Houdini)
+1             |  2
 :-------------------------:|:-------------------------:
-![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldNoiseDisplacement/render/r2.jpg)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/HeightfieldMapDisplacement/render/r2.png)
+![](Lectures/Images/Noise/LectureExamples/3/MeshNoiseDisplacement_Step7.jpg)  |  ![](Lectures/Images/Noise/LectureExamples/1/VolumeDensityNoise.jpg)
 
-Mesh-based terrain using noise (Blender)           |  Mesh-based terrain using noise (Houdini)
-:-------------------------:|:-------------------------:
-![](Lectures/2_ProceduralTerrain/LectureImages/Examples/Blender/1/7_FinalTerrain.JPG)  |  ![](Lectures/2_ProceduralTerrain/Examples/LectureExamples/MeshNoiseDisplacement/render/r2.png)
-
-### Lecture 1.3: Procedural Particles and trails (Abstract and FX)
+## Procedural Fuzzy modeling: particles and volume
 
 Topics and concepts:
-
-* Guiding particles via animated noise vector fields
-* Particles from surface geometry and attribute inheriance/transfer
-* Surface flow
-* Collisions and collision detection
-* Guiding curves
----
-* Trails from particles
-* Instancing on particles
----
-* Iterative, feedback loop systems 
-* Complex systems, chaos and strange attractors 
-
-Vector field guide and sourcing            |  Curve guide and collisions
-:-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/VectorFieldsSourcing/render/TrailsVectorField2.JPG) | ![](Lectures/3_ParticlesPoints/LectureExamples/CurveGuideCollision/render/CurveGuideCollision.JPG)
-
-Surface flow 1             |  Surface flow 2
-:-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceTurbulence/render/shots/4.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/SurfaceFlow/render/points.JPG)
-
-Blender particle system             |  Unity VFX Graph
-:-------------------------:|:-------------------------:
-![](Lectures/3_ParticlesPoints/LectureExamples/Blender/ForceFieldHair/LectureImages/r8_dn.jpg) | ![](Lectures/3_ParticlesPoints/LectureExamples/Unity/Gallery/Sparks.JPG)
-
-### Lecture 1.4: Procedural Volume-based Modeling: Organic and Natural Phenomena
-
-Topics and concepts:
-* Volumetric representation (voxels and SDF) vs other representations (mesh, particles, points, etc.)
-* Organic modeling techniques
-* Complex natural phenomena and shapes: clouds, rocks, biology, geology, geomorphology and arhitecture
-* Volume from points, surface and SDF
-* Animated vector field for volume displacement
-* Attribute transfer and animated geo attributes
+* Modeling fuzzy objects
+* Points, particles, trails, volumes
+* Animated volume and surface vector and scalar fields
+* Particle guides: curves
 * Morphing: transformations and generation of geometry
-* Iterative systems and chaos
 
-Starting volume cloud shape             |  Particle dynamics for simulating volume cloud advection
+1            |  2
 :-------------------------:|:-------------------------:
-![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/StartingShape.JPG) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumesAdvection/render/AdvectedShape.JPG)
+![](Lectures/Images/Fuzzy/LectureExamples/8/MorphedCloudShape.jpg) | ![](Lectures/Images/Fuzzy/LectureExamples/3/4.jpg)
 
-Starting volume cloud shape             |  Morphed cloud shape
-:-------------------------:|:-------------------------:
-![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/render/InitialCloudShape.jpg) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/VolumeMorphing/render/MorphedCloudShape.jpg)
-
-Particle advection using volume vector field             |  Particle advection using volume vector field
-:-------------------------:|:-------------------------:
-![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/VolumesParticles1.JPG) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/ParticlesVolumes/render/VolumesParticles2.JPG)
-
-Volumetric solid modeling            |  Volumetric solid modeling
-:-------------------------:|:-------------------------:
-![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeDensityNoise.jpg) | ![](Lectures/4_ParticlesVolumes/Examples/LectureExamples/StructuralToAbstractVolumeInterpolation/render/VolumeFilledSpheresRemeshed.jpg)
-
-### Lecture 1.5: Procedural Foliage, Growth and Spread
+## Procedural modeling with graphs
 
 Topics and concepts:
-* Branching shapes/structures (e.g., trees, branches roots, etc.)
-* Modeling surface and volume growth
-* Modeling surface and volume spread
+* Branching structures
+* Graph algorithms: shortest path
+* Natural branching: trees, roots
+* Theoretical principles: space colonization algorithm
+
+1             |  2
+:-------------------------:|:-------------------------:
+![](Lectures/Images/Graphs/LectureExamples/1/VolumeGrowth1.jpg) | ![](Lectures/Images/Graphs/LectureExamples/2/PointCloudLines.jpg)
+
+## Procedural organic modeling
+
+Topics and concepts:
+* Organic modeling techniques
+* Modeling surface and volume growth and spread
 * Growth and digital morphogenesis
-* Modeling and animating macro plant: flower bloom
+* Iterative models
 * Natural and biological systems
-* Procedural animation
-* Geometrical instancing and geo attributes
-* Theoretical principles: SCA, Eden, L-Systems, DLA, reaction-diffusion, iteration, recursion, CA
-* Geometry distance and instancing
+* Theoretical principles: Eden, L-Systems, DLA, reaction-diffusion, iteration, recursion, CA
 
-Branching structure volume growth (Houdini):          |  Branching structure surface growth (Blender):
+1          |  2
 :-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureExamples/VolumeGrowth/render/VolumeGrowth1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/2/4_ScaleAndRemesh.JPG)
-
-Surface spread (Blender):          |  Surface spread (Houdini):
-:-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureImages/LectureExamples/Blender/1/Final.JPG)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceSpread/render/FoliageSurfaceSpread3.jpg)
-
-Growth (Houdini)          |  Growth (Houdini)
-:-------------------------:|:-------------------------:
-![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/SurfaceOrganicGrowthMorph1.jpg)  |  ![](Lectures/5_FoliageSpreadGrowth/LectureExamples/SurfaceGrowthMorph/render/SurfaceOrganicGrowthMorph2.jpg)
+![](Lectures/Images/Organic/LectureExamples/1/SurfaceOrganicGrowthMorph2.jpg)  |  ![](Lectures/Images/Organic/LectureExamples/3/FoliageSurfaceSpread3.jpg)
 
 
-
-### Lecture 1.6. Procedural lines and curves
+## Procedural modeling: systems
 
 Topics and concepts:
-* Procedural curves and lines generation (from scratch and from shape)
-* Vector graphics
-* Design and development of UI graphics; using base shapes and adding complexity
-* Animated UI graphics and UI FX
-* 3D procedural modeling for 2D motion graphics
+* Visual patterns of dynamical and complex systems
+* Feedback loop
+* Chaos, phase space, attractors
+* Fractals
+* Artificial life: boids, cellular automata
 
 Lines from curve guide             |  Lines from shape
 :-------------------------:|:-------------------------:
-![](Lectures/6_2DMotionGraphicsUI/LectureExamples/LineCurveGuides/render/LineCurveGuide.JPG)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/CurveFromShape/render/CurveFromShape.JPG)
+![](Lectures/Images/Systems/LectureExamples/1/LineCurveGuide.jpg)  | ![](Lectures/Images/Systems/LectureExamples/2/Attractors.karmarendersettings.0171.jpg)
 
-Lines from point cloud | Attractor
-:-------------------------:|:-------------------------:
-![](Lectures/6_2DMotionGraphicsUI/LectureExamples/PointCloudLines/render/PointCloudLines.JPG)  | ![](Lectures/6_2DMotionGraphicsUI/LectureExamples/Attractors/render/Attractors.karmarendersettings.0171.JPG)
 
-### Lecture 1.7. Procedural material modeling
+## Procedural material modeling
 
 Topics and concepts:
-* Material as optical property (e.g., diffuse) and mechanical property (e.g., soft body)
-* Optical material properties modeling and theory
-* Mechanical material properties modeling and theory
-* Surface materials vs volume materials
+* Material geometrical structure
+* Material texture
+* Material optical and mechanical properties
+* Surface and volume materials
 * Material scales and observation distance: micro, meso and macro
-* Material vs geometry
 * Material modeling decomposition in practice: scattering equation and texture
 * Material scales in practice: scattering equation, texture and geometry
-* Material and light in theory and practice
 * Procedural texture: a function
 * Procedural textures: surface vs volume
 * Procedural textures for material surface or volume variation
-* Noise for procedural texture modeling: frequency, amplitude, warping, layering
-* Procedural natural materials:
-  * Procedural fur and hair
-  * Procedural feathers (e.g., bird feather)
-  * Procedural scales (e.g., fish scales)
-  * Procedural porous materials (e.g., sponge)
-  * Foliage patterns
-* Procedural industrial materials:
-  * Procedural textile (e.g., cloth)
-  * Procedural glass (e.g., frosted glass)
+* Procedural natural materials: fur, feather, scales, porous, foliage
+* Procedural industrial materials: textile, glass
 
-Surface materials - stone             |  Surface materials - metal and glass
+1             |  2
 :-------------------------:|:-------------------------:
-![](Lectures/7_MaterialModeling/LectureExamples/StoneMaterial/Output/r1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/SurfaceMaterial/Output/r1.jpg)
+![](Lectures/Images/Material/LectureExamples/3/r1.jpg)  | ![](Lectures/Images/Material/LectureExamples/1/r1%203.jpg)
 
-Surface material - fabric/textile | Surface material - fabric/textile
+## Procedural modeling: tessellation
+
+* Space division/covering
+* Tiling
+* Tessellationn methods
+
+1             |  2
 :-------------------------:|:-------------------------:
-![](Lectures/7_MaterialModeling/LectureExamples/TextileFabric/Output/r1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/TextileFabric/Output/r2.jpg)
+![](Lectures/Images/Tessellation/LectureExamples/1.JPG)  | ![](Lectures/Images/Tessellation/LectureExamples/2.JPG)
 
-Geometrical details             |  Displacement and SSS
-:-------------------------:|:-------------------------:
-![](Lectures/7_MaterialModeling/LectureExamples/GeometricalDetails/render/GeometricalDetails1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/DisplacementSSS/Output/r1.jpg)
+## Procedural modeling: space transformations
 
-Hair and fur material             |  Hair and fur material
-:-------------------------:|:-------------------------:
-![](Lectures/7_MaterialModeling/LectureExamples/Fur/render/r1.jpg)  | ![](Lectures/7_MaterialModeling/LectureExamples/Fur/render/r2.jpg)
+* Domain transformations
+* Domain warping
+* Transformation between spaces: time, frequency, geometry
+* Sound and signal to geometry
 
-Volume material             |  Volume material
-:-------------------------:|:-------------------------:
-![](Lectures/7_MaterialModeling/LectureExamples/VolumeMaterial/render/r1.jpg) | ![](Lectures/7_MaterialModeling/LectureExamples/VolumeMaterial/render/r3.jpg)
-
-## Part 2: Procedural Modeling and Dynamics (WIP)
-
-Procedural geometrical and material mechanics modeling using:
-* feedback loop, simulation(Phenomenological approach)
-* forces, velocities, positions and constraints
-* physically-based, classical mechanics methods for CG
-
-Procedural modeling and physical simulation:
-* Procedurally define parameters and initial state of simulation
-* Use results of physicals simulation for procedural modeling
-
-### Lecture 2.1: Procedural Modeling and Rigid Body Simulation
+## Procedural modeling with dynamics 1
 
 Topics and concepts:
+* Forces, velocities, positions and constraints
+* Physically-based, classical mechanics methods for CG
 * Physics-based simulation methods for modeling shape and motion
 * Rigid body collisions and contact
 * Rigid body fracture and animation via simulation
 * Procedurally guided physically-based dynamics
-* RBD solvers: Bullet, Open Dynamics Engine, built-in
-
-Space filling RBD             |  Space filling RBD
-:-------------------------:|:-------------------------:
-![](Lectures/8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r4.jpg) | ![](Lectures/8_DynamicsRigidBody/Examples/Blender/SpaceFillingRBD/Gallery/r1.jpg)
-
-Force Field RBD             |  Force Field RBD
-:-------------------------:|:-------------------------:
-![](Lectures/8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery/ForceFieldRBD.jpg) | ![](Lectures/8_DynamicsRigidBody/Examples/Blender/ForceFieldRBD/Gallery/ForceFieldRBD2.jpg)
-
-### Lecture 2.2: Procedural Modeling and Soft (Deformable) Body Simulation
-
-Topics and concepts:
-* Physics-based simulation methods for modeling shape and motion
 * Soft body deformation using external forces and collisions
 * Procedural vector field as external force field
 * Soft bodies simulation
 * Deformation on collision and contact
-* Soft body solvers: finite elements methods, position based dynamics
 
-Vellum Balloon Collisions             |  Vellum Balloon Collisions
+1             |  2
 :-------------------------:|:-------------------------:
-![](Lectures/9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/r1.jpg) | ![](Lectures/9_DynamicsDeformableBody/Examples/Houdini/VellumDeformable/render/r2.jpg)
+![](Lectures/Images/Dynamics1/LectureExamples/1/r1.jpg) | ![](Lectures/Images/Dynamics1/LectureExamples/3/r2.jpg)
 
-### Lecture 2.3: Procedural Modeling and Fluids: Liquid Simulation
+## Procedural modeling with dynamics 2
 
-Topics and concepts:
+Procedural modeling and physical simulation:
+* Procedural modeling of initial parameters, constraints and guides for simulation
+* Use results of physicals simulation for procedural modeling
 * Physics-based simulation methods for modeling shape and motion
-* Turbulent water simulation 
 * Physically-based liquid simulation and solvers
 * External procedural vector fields and collisions
-
-FLIP + RBD             |  FLIP + RBD
-:-------------------------:|:-------------------------:
-![](Lectures/10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/render/r1.jpg) | ![](Lectures/10_DynamicsLiquid/Examples/Houdini/FLIPCurveControl/render/r2.jpg)
-
-### Lecture 2.4: Procedural Modeling and Fluids: Gas Simulation
-
-Topics and concepts:
-* Physics-based simulation methods for modeling shape and motion
 * Fire simulation and spread
 * Smoke (gas and volume) simulation 
 * Procedural external forces and vector fields
 * Physically-based gas solvers
 * Procedural constraints and forces and physically-based solvers
 
-Gas simulation             |  Gas simulation
+1             |  2
 :-------------------------:|:-------------------------:
-![](Lectures/11_SimulationGas/Examples/GasSimulation/Output/r2.jpg) | ![](Lectures/11_SimulationGas/Examples/GasSimulation/Output/r3.jpg)
+![](Lectures/Images/Dynamics2/LectureExamples/1/r2.jpg) | ![](Lectures/Images/Dynamics2/LectureExamples/2/r3.jpg)
+
 
 # Resources 
 
