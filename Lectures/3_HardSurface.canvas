@@ -301,7 +301,7 @@
 		{"id":"1dca77b5ab7d7f12","type":"link","url":"https://www.artstation.com/artwork/NGmRJJ","x":-7247,"y":2887,"width":400,"height":400},
 		{"id":"4c65f055b7d7db35","type":"text","text":"Researching and references","x":-7444,"y":2631,"width":309,"height":60},
 		{"id":"28678b19b5884246","type":"text","text":"How to use procedural modeling tools and geometry to create a model from the concept art","x":-7490,"y":4373,"width":270,"height":132},
-		{"id":"331f4e3670c48dd9","type":"file","file":"Images/Organic/Workflow/design.jpg","x":-7490,"y":4186,"width":266,"height":185},
+		{"id":"331f4e3670c48dd9","type":"file","file":"Images/Noise/Workflow/design.jpg","x":-7490,"y":4186,"width":266,"height":185},
 		{"id":"bf3de7fdc8a11221","type":"text","text":"Blocking, concept","x":-7414,"y":3387,"width":250,"height":60},
 		{"id":"e33c4a6782d019bd","type":"text","text":"Analyze elements of a Building:\n* Silhouette \n* Deconstruct: Bottom, middle and top floor\n* Building elements: doors, windows, roof, etc.","x":-8076,"y":4607,"width":396,"height":173},
 		{"id":"a697a7e8be1c78e2","type":"text","text":"Art and Arhitecture","x":-7814,"y":2691,"width":250,"height":60},

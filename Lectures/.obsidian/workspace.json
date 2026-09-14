@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1_Intro.canvas",
+                "file": "4_Noise.canvas",
                 "viewState": {
-                  "x": 12749.778909608034,
-                  "y": -328.4764740330906,
-                  "zoom": -2.3333333333333326
+                  "x": 2720,
+                  "y": 1720,
+                  "zoom": -4
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "1_Intro"
+              "title": "4_Noise"
             }
           }
         ]
@@ -176,40 +176,42 @@
   },
   "active": "4f91e8229ce6b516",
   "lastOpenFiles": [
+    "7_Organic.canvas",
+    "6_Graphs.canvas",
     "5_Fuzzy.canvas",
-    "Examples/Fuzzy",
-    "Examples/New folder",
-    "3_ParticlesPoints/LectureImages/UnityParticles/PracticalWork/Portal/5_SpawnInitializeRateCapacityLifetime.JPG",
-    "3_ParticlesPoints/LectureImages/Takeaways/SampleImage.JPG",
-    "3_ParticlesPoints/LectureImages/Takeaways/SampleGeometry.JPG",
-    "3_ParticlesPoints/LectureImages/Takeaways/GeometryInstance.JPG",
-    "3_ParticlesPoints/LectureImages/Takeaways/Flipbook1.JPG",
-    "3_ParticlesPoints/LectureImages/Applications/physics_particles_introduction_fur-example.jpg",
-    "3_ParticlesPoints/LectureImages/Applications/InsideRain2.JPG",
-    "Images/Fuzzy/LectureExamples/5",
-    "Images/Fuzzy/LectureExamples/4",
-    "Images/Fuzzy/LectureExamples/3",
-    "Images/Fuzzy/LectureExamples/2",
-    "Images/Fuzzy/LectureExamples/1",
-    "Images/Fuzzy/Examples/1",
-    "Images/Fuzzy/Takeaways",
-    "Images/Fuzzy/LectureExamples",
-    "4_Noise.canvas",
+    "13_Dynamics2.canvas",
+    "12_Dynamics1.canvas",
+    "10_Tessellation.canvas",
+    "11_Transformations.canvas",
     "1_Intro.canvas",
-    "Examples/Organic/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Water.JPG",
-    "Examples/Organic/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Transform1.JPG",
-    "Examples/Organic/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/TerrainGeometryGroupsColor.JPG",
+    "9_MaterialStructure.canvas",
+    "8_Systems.canvas",
+    "4_Noise.canvas",
+    "Examples/Noise/CurveFromShape/CurveFromShape.hipnc",
+    "Examples/Noise/CurveFromShape/video",
+    "Examples/Noise/CurveFromShape/tex",
+    "Examples/Noise/CurveFromShape/sim",
+    "Examples/Noise/CurveFromShape/scripts",
+    "Examples/Noise/CurveFromShape/render",
+    "Examples/Noise/CurveFromShape/hda",
+    "Examples/Noise/CurveFromShape/geo",
+    "Examples/Noise/CurveFromShape/flip",
+    "Examples/Noise/CurveFromShape/desk",
+    "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/TerrainGeometryGroupsColor.JPG",
+    "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Water.JPG",
+    "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/TerrainGeometry.JPG",
+    "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/TerrainGeometryGroups.JPG",
+    "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Transform1Result.JPG",
+    "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Transform1.JPG",
+    "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Start.JPG",
+    "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Remesh1.JPG",
+    "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Smooth1.JPG",
+    "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Images/Tutorial/Smooth1Result.JPG",
+    "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Readme.md",
     "Examples/Organic/LectureExamples/MeshNoiseDisplacement/Readme.md",
-    "3_HardSurface.canvas",
     "Examples/HardSurface/Example2/Readme.md",
     "1_HardSurfaceModeling/Examples/Example2/Readme.md",
-    "8_Tessellation.canvas",
-    "2_Overview.canvas",
-    "8_Tessellations/Tessellations.canvas",
     "3_ParticlesPoints/LectureExamples/Unity/VFXGraph/Library/Artifacts/0b/0ba49f889bc78c791168c4d1386ac817.md",
-    "6_2DMotionGraphicsUI/ProceduralLinesCurves.canvas",
-    "5_FoliageSpreadGrowth/ProceduralFoliageSpreadGrowth.canvas",
-    "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md",
-    "4_ParticlesVolumes/ParticlesVolumes.canvas"
+    "1_HardSurfaceModeling/HardSurfaceModelingLectureNotes.md"
   ]
 }
