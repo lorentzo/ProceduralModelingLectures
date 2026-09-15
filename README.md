@@ -57,21 +57,17 @@ Topics and concepts:
 :-------------------------:|:-------------------------:
 ![](Lectures/Images/HardSurface/LectureExamples/3/r1.jpg)  |  ![](Lectures/Images/HardSurface/LectureExamples/3/r2.jpg)
 
-## Procedural noise modeling: function and texture
+## Procedural noise modeling
 
 Topics and concepts:
-* Noise for procedural texture modeling: frequency, amplitude, warping, layering
-* Understanding elements of virtual terrains: topology, color, props, etc.
-* Terrain topology and color (material) modeling approaches
+* Noise types for procedural texture modeling: frequency, amplitude
+* Noise parameters: frequency and amplitude
+* Noise wrangling: (domain) warping, layering
+* Noise for terrain modeling: shape, color, instancing, displacement
+* Fields: noise as texture function, image as tabular texture
+* Meshes, heightfields and voxels as shape representations
 * Terrain modeling datastructures and sources of data (e.g., NASA heightmaps)
-* Mesh-based (surface) terrain modeling using noise and geometric displacement
-* Heightfield-based (surface) terrain modeling using height maps
-* Heightfield-based (surface) terrain modeling using noise and heightfield layering
-* 3D (volume) terrain modeling using noise
-* Importance of noise and noise layering/warping for terrain modeling
-* Attributes, dataflow and geometrical instancing
-* Masking, samling (scattering) and instancing
-* World building workflow: concept, design and implementation
+* Noise as geometrical attribute and mask
 
 1             |  2
 :-------------------------:|:-------------------------:
@@ -102,7 +98,7 @@ Topics and concepts:
 :-------------------------:|:-------------------------:
 ![](Lectures/Images/Graphs/LectureExamples/1/VolumeGrowth1.jpg) | ![](Lectures/Images/Graphs/LectureExamples/2/PointCloudLines.jpg)
 
-## Procedural organic modeling
+## Organic procedural modeling
 
 Topics and concepts:
 * Organic modeling techniques
@@ -121,10 +117,12 @@ Topics and concepts:
 
 Topics and concepts:
 * Visual patterns of dynamical and complex systems
-* Feedback loop
-* Chaos, phase space, attractors
+* Iteration and feedback loop
+* Chaos and attractors
 * Fractals
 * Artificial life: boids, cellular automata
+* Phase space and spaces transformation
+* Signals and systems
 
 Lines from curve guide             |  Lines from shape
 :-------------------------:|:-------------------------:
@@ -153,20 +151,19 @@ Topics and concepts:
 
 ## Procedural modeling: tessellation
 
-* Space division/covering
-* Tiling
-* Tessellationn methods
+* Geometrical space division
+* Tiling and space covering
+* Tessellation methods
 
 1             |  2
 :-------------------------:|:-------------------------:
 ![](Lectures/Images/Tessellation/LectureExamples/1.JPG)  | ![](Lectures/Images/Tessellation/LectureExamples/2.JPG)
 
-## Procedural modeling: space transformations
+## Procedural modeling: bioinspiration
 
-* Domain transformations
-* Domain warping
-* Transformation between spaces: time, frequency, geometry
-* Sound and signal to geometry
+* Biomimetic design
+* Iterative phenomenological models with rules and constraints
+* Organic solid modeling for additive manufacturing
 
 1             |  2
 :-------------------------:|:-------------------------:

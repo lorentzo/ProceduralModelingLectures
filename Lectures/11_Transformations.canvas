@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"cc93b672e2ea4793","x":-547,"y":-25,"width":387,"height":65,"type":"text","text":"Procedural modeling: space transformations"},
-		{"id":"50d2d755abdc4336","x":60,"y":-118,"width":540,"height":278,"type":"text","text":"Topics:\n* Space deformation\n* Domain deformation\n* Transform from one space to another\n* "},
-		{"id":"2f5e64d056c9807b","x":940,"y":-185,"width":400,"height":345,"type":"file","file":"Images/Transformation/LectureExamples/1/SpaceDistortion.jpg"}
-	],
-	"edges":[]
-}

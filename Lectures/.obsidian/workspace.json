@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "11_Transformations.canvas",
+                "file": "02_Overview.canvas",
                 "viewState": {
-                  "x": 1113.7701312075897,
-                  "y": 67.19584059404532,
-                  "zoom": -0.3333333333333333
+                  "x": 10369.773793804468,
+                  "y": -445.64117551587856,
+                  "zoom": -3.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "11_Transformations"
+              "title": "02_Overview"
             }
           }
         ]
@@ -176,28 +176,28 @@
   },
   "active": "4f91e8229ce6b516",
   "lastOpenFiles": [
-    "Examples/Transformations/SpaceDistortion/backup/SpaceDistortion_bak2.hipnc",
-    "Images/Transformation/LectureExamples/1/~paceTransformation.tmp",
-    "Images/Transformation/LectureExamples/1/SpaceDistortion.jpg",
-    "Images/Transformation/LectureExamples/1",
-    "Images/Transformation/LectureExamples/New folder",
-    "Images/Transformation/LectureExamples",
-    "Images/Transformation/New folder",
-    "Images/Transformation",
-    "Images/New folder",
-    "Examples/Transformations/SpaceDistortion/backup/SpaceDistortion_bak1.hipnc",
-    "Examples/Transformations/SpaceDistortion/backup",
-    "Examples/Transformations/SpaceDistortion/SpaceDistortion.hipnc",
+    "01_Intro.canvas",
+    "13_Dynamics2.canvas",
     "12_Dynamics1.canvas",
-    "11_Transformations.canvas",
-    "10_Tessellation.canvas",
-    "09_MaterialStructure.canvas",
-    "08_Systems.canvas",
-    "07_Organic.canvas",
+    "02_Overview.canvas",
     "06_Graphs.canvas",
+    "07_Organic.canvas",
+    "11_Bioinspiration.canvas",
+    "08_Systems.canvas",
+    "09_Material.canvas",
+    "10_Tessellation.canvas",
     "05_Fuzzy.canvas",
-    "04_Noise.canvas",
-    "03_HardSurface.canvas",
+    "Examples/Bioinspiration/SpaceDistortion/backup/SpaceDistortion_bak2.hipnc",
+    "Images/Transformation/LectureExamples/1/~paceTransformation.tmp",
+    "Images/Bioinspiration/LectureExamples/1/SpaceDistortion.jpg",
+    "Images/Bioinspiration/LectureExamples/1",
+    "Images/Transformation/LectureExamples/New folder",
+    "Images/Bioinspiration/LectureExamples",
+    "Images/Transformation/New folder",
+    "Images/Bioinspiration",
+    "Images/New folder",
+    "Examples/Bioinspiration/SpaceDistortion/backup/SpaceDistortion_bak1.hipnc",
+    "Examples/Bioinspiration/SpaceDistortion/backup",
     "Examples/Organic/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0048.jpg",
     "Examples/Organic/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0047.jpg",
     "Examples/Organic/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0046.jpg",
