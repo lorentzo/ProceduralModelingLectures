@@ -31,8 +31,7 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 ## Introduction
 
 * About lectures, syllabus and overview
-* Big picture: about procedural modeling and Houdini workflow intuition
-* Applications of procedural modeling
+* Procedural modeling big picture
 
 ## Overview
 
@@ -47,10 +46,11 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 
 ## Procedural Hard Surface Modeling
 
-Topics and concepts:
-* Understanding hard surface modeling and difference to soft surface (organic) modeling
-* Typical procedural hard surface modeling workflow: concept, design and implementation
-* Procedural hard-surface (human made, artificial, industrial) modeling techniques, data structures and methods
+* Hard surface modeling VS soft surface (organic) modeling
+* Workflow: 
+  * Build anything from base shapes
+  * Add details: geometrical operators on base shapes
+  * Complexify: instancing
 * Parameterized hard surface model as a result of procedural modeling
 
 1            | 2
@@ -59,11 +59,11 @@ Topics and concepts:
 
 ## Procedural noise modeling
 
-Topics and concepts:
-* Noise types for procedural texture modeling: frequency, amplitude
+* Shaping using noise: terrains, environments, etc.
+* Noise types for procedural modeling: frequency, amplitude
 * Noise parameters: frequency and amplitude
 * Noise wrangling: (domain) warping, layering
-* Noise for terrain modeling: shape, color, instancing, displacement
+* Noise for shaping: geometry, color, instancing, displacement
 * Fields: noise as texture function, image as tabular texture
 * Meshes, heightfields and voxels as shape representations
 * Terrain modeling datastructures and sources of data (e.g., NASA heightmaps)
@@ -75,12 +75,9 @@ Topics and concepts:
 
 ## Procedural Fuzzy modeling: particles and volume
 
-Topics and concepts:
-* Modeling fuzzy objects
+* Modeling fuzzy objects: clouds, abstract particle shapes
 * Points, particles, trails, volumes
-* Animated volume and surface vector and scalar fields
-* Particle guides: curves
-* Morphing: transformations and generation of geometry
+* Scalar and vector fields
 
 1            |  2
 :-------------------------:|:-------------------------:
@@ -88,7 +85,6 @@ Topics and concepts:
 
 ## Procedural modeling with graphs
 
-Topics and concepts:
 * Branching structures
 * Graph algorithms: shortest path
 * Natural branching: trees, roots
@@ -100,13 +96,11 @@ Topics and concepts:
 
 ## Organic procedural modeling
 
-Topics and concepts:
-* Organic modeling techniques
-* Modeling surface and volume growth and spread
-* Growth and digital morphogenesis
+* Growth and spread
 * Iterative models
-* Natural and biological systems
-* Theoretical principles: Eden, L-Systems, DLA, reaction-diffusion, iteration, recursion, CA
+* Morphogenesis
+* Natural and biological organic shapes
+* Masking, proximity and reactivity
 
 1          |  2
 :-------------------------:|:-------------------------:
@@ -115,14 +109,14 @@ Topics and concepts:
 
 ## Procedural modeling: systems
 
-Topics and concepts:
 * Visual patterns of dynamical and complex systems
-* Iteration and feedback loop
 * Chaos and attractors
 * Fractals
+* Phase space and space transformation
+* Emergence
+* (Bio) signals and systems
+* Iteration and feedback loop
 * Artificial life: boids, cellular automata
-* Phase space and spaces transformation
-* Signals and systems
 
 Lines from curve guide             |  Lines from shape
 :-------------------------:|:-------------------------:
@@ -131,17 +125,11 @@ Lines from curve guide             |  Lines from shape
 
 ## Procedural material modeling
 
-Topics and concepts:
-* Material geometrical structure
-* Material texture
-* Material optical and mechanical properties
-* Surface and volume materials
+* Material, geometry and texture structure
+* Surface and volume material optical properties: light scattering
 * Material scales and observation distance: micro, meso and macro
-* Material modeling decomposition in practice: scattering equation and texture
-* Material scales in practice: scattering equation, texture and geometry
-* Procedural texture: a function
-* Procedural textures: surface vs volume
-* Procedural textures for material surface or volume variation
+* Texture: function and image
+* Procedural textures for material modeling
 * Procedural natural materials: fur, feather, scales, porous, foliage
 * Procedural industrial materials: textile, glass
 
@@ -171,17 +159,12 @@ Topics and concepts:
 
 ## Procedural modeling with dynamics 1
 
-Topics and concepts:
-* Forces, velocities, positions and constraints
-* Physically-based, classical mechanics methods for CG
-* Physics-based simulation methods for modeling shape and motion
-* Rigid body collisions and contact
-* Rigid body fracture and animation via simulation
-* Procedurally guided physically-based dynamics
-* Soft body deformation using external forces and collisions
-* Procedural vector field as external force field
-* Soft bodies simulation
-* Deformation on collision and contact
+* Physically-based simulation: forces, velocities and positions
+* Procedural simulation parameters and constraints
+* Fracturing and elasticity/deformation
+* Collision detection
+* Solid dynamics solvers: rigid and soft body
+* Procedural modeling with simulation result
 
 1             |  2
 :-------------------------:|:-------------------------:
@@ -189,17 +172,13 @@ Topics and concepts:
 
 ## Procedural modeling with dynamics 2
 
-Procedural modeling and physical simulation:
-* Procedural modeling of initial parameters, constraints and guides for simulation
-* Use results of physicals simulation for procedural modeling
-* Physics-based simulation methods for modeling shape and motion
-* Physically-based liquid simulation and solvers
-* External procedural vector fields and collisions
-* Fire simulation and spread
-* Smoke (gas and volume) simulation 
-* Procedural external forces and vector fields
-* Physically-based gas solvers
-* Procedural constraints and forces and physically-based solvers
+* Physically-based simulation
+* Procedural simulation parameters and constraints
+* Density and viscosity
+* Procedural modeling with simulation result
+* Fluid dynamics solvers: liquids and gases
+* Voxels, particles and meshes
+* Vector fields
 
 1             |  2
 :-------------------------:|:-------------------------:
@@ -208,7 +187,7 @@ Procedural modeling and physical simulation:
 
 # Resources 
 
-* SideFX; Houdini: https://www.sidefx.com/learn/getting_started/, https://www.sidefx.com/docs/houdini/
+* SideFX; Houdini: https://www.sidefx.com/learn/getting_started/
 * Blender: https://docs.blender.org/
 * Entagma: https://entagma.com/
 * Stanford CS 348C: Computer Graphics: Animation and Simulation: http://graphics.stanford.edu/courses/cs348c/

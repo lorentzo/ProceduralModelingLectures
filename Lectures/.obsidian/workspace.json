@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "02_Overview.canvas",
+                "file": "01_Intro.canvas",
                 "viewState": {
-                  "x": 10369.773793804468,
-                  "y": -445.64117551587856,
-                  "zoom": -3.333333333333333
+                  "x": 6608.900025002118,
+                  "y": 1067.5881644225608,
+                  "zoom": -2.666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "02_Overview"
+              "title": "01_Intro"
             }
           }
         ]
@@ -176,10 +176,10 @@
   },
   "active": "4f91e8229ce6b516",
   "lastOpenFiles": [
+    "02_Overview.canvas",
     "01_Intro.canvas",
     "13_Dynamics2.canvas",
     "12_Dynamics1.canvas",
-    "02_Overview.canvas",
     "06_Graphs.canvas",
     "07_Organic.canvas",
     "11_Bioinspiration.canvas",
