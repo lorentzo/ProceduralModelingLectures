@@ -8,11 +8,11 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 
 **Lectures aim:**
 * Provide a map of the procedural modeling field
-* Theoretical knowledge and practical tools for procedural modeling and animation
+* Concepts and tools for procedural modeling and animation
 * Focus on geometrical modeling
 
 **Learning by doing:**
-* Learning theory and concepts by working on practical examples
+* Learning concepts by working on practical examples
 * Project-based learning: practical lectures and project work
 * Software: 
     * Houdini (https://www.sidefx.com/)
