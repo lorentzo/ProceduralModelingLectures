@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "01_Intro.canvas",
+                "file": "11_Bioinspiration.canvas",
                 "viewState": {
-                  "x": 6608.900025002118,
-                  "y": 1067.5881644225608,
-                  "zoom": -2.666666666666666
+                  "x": 1169.840094451174,
+                  "y": -5.559324984218023,
+                  "zoom": -0.5041954540296993
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "01_Intro"
+              "title": "11_Bioinspiration"
             }
           }
         ]
@@ -176,16 +176,16 @@
   },
   "active": "4f91e8229ce6b516",
   "lastOpenFiles": [
-    "02_Overview.canvas",
+    "07_Organic.canvas",
+    "11_Bioinspiration.canvas",
+    "10_Tessellation.canvas",
     "01_Intro.canvas",
+    "02_Overview.canvas",
     "13_Dynamics2.canvas",
     "12_Dynamics1.canvas",
     "06_Graphs.canvas",
-    "07_Organic.canvas",
-    "11_Bioinspiration.canvas",
     "08_Systems.canvas",
     "09_Material.canvas",
-    "10_Tessellation.canvas",
     "05_Fuzzy.canvas",
     "Examples/Bioinspiration/SpaceDistortion/backup/SpaceDistortion_bak2.hipnc",
     "Images/Transformation/LectureExamples/1/~paceTransformation.tmp",
