@@ -155,7 +155,7 @@ Lines from curve guide             |  Lines from shape
 
 1             |  2
 :-------------------------:|:-------------------------:
-![](Lectures/Images/Transformation/LectureExamples/1/SpaceDistortion.jpg)  | ![](Lectures/Images/Transformation/LectureExamples/1/SpaceDistortion.jpg)
+![](Lectures/Images/Bioinspiration/LectureExamples/1/SpaceDistortion.jpg)  | ![](Lectures/Images/Bioinspiration/LectureExamples/2/BioStructure.JPG)
 
 ## Procedural modeling with dynamics 1
 
