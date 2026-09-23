@@ -45,7 +45,7 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 :-------------------------:|:-------------------------:
 ![](Lectures/Images/Overview/LectureExamples/NoiseSurfaceModeling1.jpg)  |  ![](Lectures/Images/Overview/LectureExamples/NoiseSurfaceModeling2.jpg)
 
-## Procedural hard Surface Modeling
+## Procedural hard surface modeling
 
 * Hard surface modeling concepts and techniques
   * Build anything from base shapes
