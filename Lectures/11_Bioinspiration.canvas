@@ -2,9 +2,19 @@
 	"nodes":[
 		{"id":"cc93b672e2ea4793","type":"text","text":"# Bioinspired procedural modeling","x":-760,"y":-25,"width":600,"height":145},
 		{"id":"50d2d755abdc4336","type":"text","text":"Topics:\n* Biomimetic design\n* Bioinspired structures\n* Iterative phenomenological models with rules and constraints\n* Organic solid modeling for additive manufacturing","x":60,"y":-118,"width":540,"height":278},
-		{"id":"f749097e1ce1efc8","type":"link","url":"https://www.youtube.com/watch?v=N6gd4xaFh9I&t=456s","x":1640,"y":-85,"width":640,"height":360},
-		{"id":"2f5e64d056c9807b","type":"file","file":"Images/Bioinspiration/LectureExamples/1/SpaceDistortion.jpg","x":2440,"y":-151,"width":400,"height":345},
-		{"id":"e289e3b68caaf105","x":2440,"y":240,"width":400,"height":288,"type":"file","file":"Images/Bioinspiration/LectureExamples/2/BioStructure.JPG"}
+		{"id":"f749097e1ce1efc8","type":"link","url":"https://www.youtube.com/watch?v=N6gd4xaFh9I&t=456s","x":2840,"y":-240,"width":640,"height":360},
+		{"id":"e289e3b68caaf105","type":"file","file":"Images/Bioinspiration/LectureExamples/2/BioStructure.JPG","x":3640,"y":85,"width":400,"height":288},
+		{"id":"2f5e64d056c9807b","type":"file","file":"Images/Bioinspiration/LectureExamples/1/SpaceDistortion.jpg","x":3640,"y":-306,"width":400,"height":345},
+		{"id":"fb5cfcfaf03b46c1","type":"text","text":"Biomimetic design","x":839,"y":-105,"width":250,"height":60},
+		{"id":"35cf74cb1b7edc9d","type":"text","text":"Bioinspired structures","x":1151,"y":-101,"width":250,"height":60},
+		{"id":"074001bba43260fa","type":"text","text":"Bioinspired arhitecture","x":1438,"y":-109,"width":250,"height":60},
+		{"id":"3aab40dd870d2332","type":"text","text":"Additive manufactoring","x":1773,"y":-102,"width":250,"height":60},
+		{"id":"c552c1085f6c6f6f","type":"text","text":"Examples of bioinspiration","x":1276,"y":-400,"width":250,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"0ffbe384cc65a980","fromNode":"c552c1085f6c6f6f","fromSide":"bottom","toNode":"fb5cfcfaf03b46c1","toSide":"top"},
+		{"id":"848474882df226ac","fromNode":"c552c1085f6c6f6f","fromSide":"bottom","toNode":"35cf74cb1b7edc9d","toSide":"top"},
+		{"id":"9eb2ca5a364b2a89","fromNode":"c552c1085f6c6f6f","fromSide":"bottom","toNode":"074001bba43260fa","toSide":"top"},
+		{"id":"3c0e1f817a443149","fromNode":"c552c1085f6c6f6f","fromSide":"bottom","toNode":"3aab40dd870d2332","toSide":"top"}
+	]
 }

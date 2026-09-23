@@ -30,28 +30,29 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 
 ## Introduction
 
-* About lectures, syllabus and overview
+* What is procedural modeling, applications
+* Syllabus and lectures overview
 * Procedural modeling big picture
+* First steps and practical example
 
 ## Overview
 
-* What is Procedural modeling, why and for what it is used?
+* Procedural modeling concepts and techniques overview
 * Structuring procedural content generation methods
-* Broad overview of procedural modeling techniques and concepts
 * Follow-up practical examples
 
 1             |  2
 :-------------------------:|:-------------------------:
 ![](Lectures/Images/Overview/LectureExamples/NoiseSurfaceModeling1.jpg)  |  ![](Lectures/Images/Overview/LectureExamples/NoiseSurfaceModeling2.jpg)
 
-## Procedural Hard Surface Modeling
+## Procedural hard Surface Modeling
 
-* Hard surface modeling VS soft surface (organic) modeling
-* Workflow: 
+* Hard surface modeling concepts and techniques
   * Build anything from base shapes
-  * Add details: geometrical operators on base shapes
-  * Complexify: instancing
-* Parameterized hard surface model as a result of procedural modeling
+  * Adding details: geometrical operators and CSG (constructive solid geometry)
+  * Complexify: geometry instancing
+* Parameterized hard surface model
+* Follow-up practical examples
 
 1            | 2
 :-------------------------:|:-------------------------:
@@ -59,25 +60,24 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 
 ## Procedural noise modeling
 
-* Shaping using noise: terrains, environments, etc.
-* Noise types for procedural modeling: frequency, amplitude
-* Noise parameters: frequency and amplitude
+* Noise types and parameters: frequency, amplitude, lacunarity, etc.
 * Noise wrangling: (domain) warping, layering
-* Noise for shaping: geometry, color, instancing, displacement
-* Fields: noise as texture function, image as tabular texture
-* Meshes, heightfields and voxels as shape representations
-* Terrain modeling datastructures and sources of data (e.g., NASA heightmaps)
-* Noise as geometrical attribute and mask
+* Modeling with noise: geometry, color, instancing, displacement, etc.
+* Surface and volume noise modeling: meshes, heightfields and voxels
+* Noise as geometry attribute and masking
+* Creating with noise: terrains, environments, etc.
+* Follow-up practical examples
 
 1             |  2
 :-------------------------:|:-------------------------:
 ![](Lectures/Images/Noise/LectureExamples/3/MeshNoiseDisplacement_Step7.jpg)  |  ![](Lectures/Images/Noise/LectureExamples/1/VolumeDensityNoise.jpg)
 
-## Procedural Fuzzy modeling: particles and volume
+## Procedural Fuzzy modeling
 
-* Modeling fuzzy objects: clouds, abstract particle shapes
-* Points, particles, trails, volumes
-* Scalar and vector fields
+* Fuzzy shape representations: Points, particles, trails, volumes, etc.
+* Scalar and vector fields, point processes and sampling
+* Modeling fuzzy objects: natural phenomena (e.g., clouds), abstract particle shapes, etc.
+* Follow-up practical examples
 
 1            |  2
 :-------------------------:|:-------------------------:
@@ -85,10 +85,9 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 
 ## Procedural modeling with graphs
 
-* Branching structures
-* Graph algorithms: shortest path
-* Natural branching: trees, roots
-* Theoretical principles: space colonization algorithm
+* Graph algorithms for procedural modeling, e.g., shortest path
+* Modeling natural, abstract and artificial branching structures: trees, roots, networks, etc.
+* Follow-up practical examples
 
 1             |  2
 :-------------------------:|:-------------------------:
@@ -96,29 +95,30 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 
 ## Organic procedural modeling
 
+* Concepts and methods for natural and abstract organic shapes modeling
 * Growth and spread
-* Iterative models
 * Morphogenesis
-* Natural and biological organic shapes
+* Iterative models
 * Masking, proximity and reactivity
+* Follow-up practical examples
 
 1          |  2
 :-------------------------:|:-------------------------:
 ![](Lectures/Images/Organic/LectureExamples/1/SurfaceOrganicGrowthMorph2.jpg)  |  ![](Lectures/Images/Organic/LectureExamples/3/FoliageSurfaceSpread3.jpg)
 
 
-## Procedural modeling: systems
+## Procedural systems modeling
 
-* Visual patterns of dynamical and complex systems
+* Visual patterns of biological dynamical and complex systems and signals
 * Chaos and attractors
 * Fractals
-* Phase space and space transformation
 * Emergence
-* (Bio) signals and systems
+* Phase space and space transformation
 * Iteration and feedback loop
-* Artificial life: boids, cellular automata
+* Artificial life: boids, cellular automata, etc.
+* Follow-up practical examples
 
-Lines from curve guide             |  Lines from shape
+1             |  2
 :-------------------------:|:-------------------------:
 ![](Lectures/Images/Systems/LectureExamples/1/LineCurveGuide.jpg)  | ![](Lectures/Images/Systems/LectureExamples/2/Attractors.karmarendersettings.0171.jpg)
 
@@ -128,30 +128,32 @@ Lines from curve guide             |  Lines from shape
 * Material, geometry and texture structure
 * Surface and volume material optical properties: light scattering
 * Material scales and observation distance: micro, meso and macro
-* Texture: function and image
-* Procedural textures for material modeling
+* Procedural textures  (functions and images) for material modeling
 * Procedural natural materials: fur, feather, scales, porous, foliage
 * Procedural industrial materials: textile, glass
+* Follow-up practical examples
 
 1             |  2
 :-------------------------:|:-------------------------:
 ![](Lectures/Images/Material/LectureExamples/3/r1.jpg)  | ![](Lectures/Images/Material/LectureExamples/1/r1%203.jpg)
 
-## Procedural modeling: tessellation
+## Procedural tessellations modeling
 
 * Geometrical space division
 * Tiling and space covering
 * Tessellation methods
+* Follow-up practical examples
 
 1             |  2
 :-------------------------:|:-------------------------:
 ![](Lectures/Images/Tessellation/LectureExamples/1.JPG)  | ![](Lectures/Images/Tessellation/LectureExamples/2.JPG)
 
-## Procedural modeling: bioinspiration
+## Procedural bioinspired modeling
 
 * Biomimetic design
 * Iterative phenomenological models with rules and constraints
 * Organic solid modeling for additive manufacturing
+* Follow-up practical examples
 
 1             |  2
 :-------------------------:|:-------------------------:
@@ -161,10 +163,10 @@ Lines from curve guide             |  Lines from shape
 
 * Physically-based simulation: forces, velocities and positions
 * Procedural simulation parameters and constraints
-* Fracturing and elasticity/deformation
-* Collision detection
 * Solid dynamics solvers: rigid and soft body
-* Procedural modeling with simulation result
+* Fracturing, elasticity/deformation, collision
+* Procedural modeling using simulation result
+* Follow-up practical examples
 
 1             |  2
 :-------------------------:|:-------------------------:
@@ -174,11 +176,12 @@ Lines from curve guide             |  Lines from shape
 
 * Physically-based simulation
 * Procedural simulation parameters and constraints
-* Density and viscosity
-* Procedural modeling with simulation result
 * Fluid dynamics solvers: liquids and gases
+* Simulation parameters: density, viscosity, etc.
+* Procedural modeling using simulation result
 * Voxels, particles and meshes
 * Vector fields
+* Follow-up practical examples
 
 1             |  2
 :-------------------------:|:-------------------------:
