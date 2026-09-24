@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "13_Dynamics2.canvas",
+                "file": "11_Bioinspiration.canvas",
                 "viewState": {
-                  "x": 3748.479597287816,
-                  "y": -3981.7988054920925,
-                  "zoom": -1.9999999999999993
+                  "x": 3255.617284172478,
+                  "y": -110.63169922818842,
+                  "zoom": 0.571564348166554
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "13_Dynamics2"
+              "title": "11_Bioinspiration"
             }
           }
         ]
@@ -176,6 +176,18 @@
   },
   "active": "c056f90ae34422a5",
   "lastOpenFiles": [
+    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak610.hipnc",
+    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak609.hipnc",
+    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak608.hipnc",
+    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak607.hipnc",
+    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak606.hipnc",
+    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak605.hipnc",
+    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak604.hipnc",
+    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak603.hipnc",
+    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak602.hipnc",
+    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak601.hipnc",
+    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak600.hipnc",
+    "13_Dynamics2.canvas",
     "01_Intro.canvas",
     "12_Dynamics1.canvas",
     "02_Overview.canvas",
@@ -185,18 +197,6 @@
     "08_Systems.canvas",
     "07_Organic.canvas",
     "06_Graphs.canvas",
-    "05_Fuzzy.canvas",
-    "03_HardSurface.canvas",
-    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak293.hipnc",
-    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak292.hipnc",
-    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak291.hipnc",
-    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak290.hipnc",
-    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak289.hipnc",
-    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak288.hipnc",
-    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak287.hipnc",
-    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak286.hipnc",
-    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak285.hipnc",
-    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak284.hipnc",
     "Images/Bioinspiration/LectureExamples/2/BioStructure.JPG",
     "Images/Bioinspiration/LectureExamples/1/SpaceDistortion.jpg",
     "Examples/Organic/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0048.jpg",
