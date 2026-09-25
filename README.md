@@ -157,7 +157,7 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 
 1             |  2
 :-------------------------:|:-------------------------:
-![](Lectures/Images/Bioinspiration/LectureExamples/1/SpaceDistortion.jpg)  | ![](Lectures/Images/Bioinspiration/LectureExamples/2/BioStructure.JPG)
+![](Lectures/Images/Bioinspiration/LectureExamples/3/1.JPG)  | ![](Lectures/Images/Bioinspiration/LectureExamples/2/BioStructure.JPG)
 
 ## Procedural modeling with dynamics 1
 
