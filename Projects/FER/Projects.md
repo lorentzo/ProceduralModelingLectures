@@ -1,100 +1,66 @@
 
-## Overview
+## Project work overview
 
-Semester-length project.
+Semester individual project. No group/team projects.
 
-Project is made of 3 milestones (A, B, C) that follow lectures and build one on top of another.
-Note: lectures on procedural modeling and dynamics (Lectures 2.1, 2.2, 2.3) will not be part of project.
+First, each student writes one page free-form project design document describing what will be created
+with reference images/videos attached and project roadmap how to achieve this. Project roadmap 
+must be broken in 3 milestones. It is not required to describe technical details, rather 
+conceptual idea and main phases of development: what will be developed when and in which order.
+One Page Design Philosophy: https://www.youtube.com/watch?v=E9_wLks1kAg.
 
-Submission of all three project tasks is needed for passing the lecture.
-Project is solved individually. No group/team projects.
+For inspiration, see following links:
+* https://github.com/lorentzo/ProceduralModelingLectures
 
-Art style (abstract, low-poly, realistic, etc.) is not specified, choose based on your preference. Examples:
-* https://www.pinterest.com/pin/61431982393498281/
+Secondly, proposed project design document is reviewed by teacher, discussed with student 
+and potentially refactored; extended and/or shortened.
 
-### Milestone A: Hard-surface buildings
+Finally, students start working on the proposed projects.
 
-**Submission deadline: TBA**
+## Timeline
 
-Tasks: 
-1. Model at least 3 classes of parameterized building models. 
-    * Before modeling, find image references for inspiration and brainstorm on design choices
-2. For each class create at least 3 instances with different parameters.
-3. Render at least 3 images showing instances for each class.
+1. Week: introducing students to project work (this document).
+2. Week: students propose project design document. Review and acceptance of design documents.
+3. Week: students work on milestone 1
+4. Week: students work on milestone 1
+5. Week: students work on milestone 1
+6. Week: students submit milestone 1 and start working on on milestone 2
+7. Week: students work on milestone 2
+8. Midterm exams break
+9. Week: students work on milestone 2
+10. Week: students work on milestone 2
+11. Week: students submit milestone 2 and start working on on milestone 3
+12. Week: students work on milestone 3
+13. Week: students work on milestone 3
+14. Week: students submit milestone 3
+15. Final exams break
 
-Minimum requirements for passing:
-* Parameterized models must represent buildings
-* Use at least 3 procedural modeling concepts introduced in lecture, e.g., boolean operation, beveling, scattering, structural placement (copy and transform along line, circle, etc.), etc.
+## Project requirements
 
-Submission includes:
-* DCC project file
-* Renders
-* Journal: image renferences, design and main implementation concepts, final results
+Submission of all three milestones is needed for passing the lecture.
 
-Learning material:
-* Procedural hard surface modeling (Lecture 1.1)
+Each milestone submission must satisfy minimum requirements:
+* Resulting model/artefact must be parametric. At least 3 parameters.
+* At least 3 renders or viewport screenshots showing different instances of parametric model/artefact.
+* One page document discussing workflow, concepts implementation, result, etc.
 
-### Milestone B: Terrain 
+## Project submission
 
-**Submission deadline: TBA**
+Milestone 1 submission deadline: TBA (week 6)
 
-Tasks:
-1. Model parameterized base geometrical surface representing terrain
-    * Before modeling, find image references for inspiration and brainstorm on design choices
-2. Create masks or group terrain by elevation to create layers, e.g., water, grass, forest, mountains, etc.
-3. Apply different materials for each layer
-4. Place instances of 3 building classes on terrain (e.g., to form a small city) on at least one layer
-5. Try out different parameters and create at least 3 instances of terrain with buildings
-6. Render at least 3 images showing terrain instances.
+Milestone 2 submission deadline: TBA (week 11)
 
-Minimum requirements for passing:
-* Parameterized model must represent terrain
-* Use at least 3 procedural modeling concepts introduced in lecture: noise, displacement, heightmaps, masking/grouping, etc.
+Milestone 3 submission deadline: TBA (week 14)
 
-Submission includes:
-* DCC project file
-* Renders
-* Journal: image renferences, design and main implementation concepts, final results
+Each submission must contain:
+* Source project file
+* 3 rendered images
+* One-pager docs
 
-Learning material:
-* Procedural terrain modeling (Lecture 1.2)
+Required files must be zipped and sent to mail.
 
-### Milestone C: Foliage
-
-**Submission deadline: TBA**
-
-Tasks:
-1. Model at least 3 parameterized foliage classes (e.g., bush, tree, grass, etc.)
-    * Before modeling, find image references for inspiration and brainstorm on design choices
-2. For each class, create at least 3 instances with different parameters
-3. Place instances of 3 foliage classes on terrain (e.g., to form forest)
-
-Minimum requirements for passing:
-* Parameterized models must represent foliage
-* Use at least 3 procedural modeling concepts introduced in lecture: scattering, instancing, attribute variation, etc.
-
-Submission includes:
-* DCC project file
-* Renders
-* Journal: image renferences, design and main implementation concepts, final results
-
-Learning material:
-* Procedural foliage modeling (Lecture 1.5)
-
-### Milestone D: Materials
-
-Tasks:
-1. Create and add material to buildings
-2. Create and add material to terrain
-3. Create and add material to foliage
-
-Minimum requirements for passing:
-* TODO
-
-Submission includes:
-* DCC project file
-* Renders
-* Journal: image renferences, design and main implementation concepts, final results
-
-Learning material:
-* Procedural material modeling (Lecture ??)
+NOTE: same source project file can be used for all milestones, but make sure to freeze and version 
+source project files for each milestone submission. Example of source project files submission names:
+1. ProjectName_NameSurname_m1
+2. ProjectName_NameSurname_m2
+3. ProjectName_NameSurname_m3
