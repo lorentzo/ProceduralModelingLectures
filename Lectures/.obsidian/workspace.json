@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "11_Bioinspiration.canvas",
+                "file": "08_Systems.canvas",
                 "viewState": {
-                  "x": 2351.3027453161817,
-                  "y": -447.9029665544337,
-                  "zoom": -2.333333333333333
+                  "x": -3980.4720055324537,
+                  "y": 1922.5421329186975,
+                  "zoom": -2.949118526327701
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "11_Bioinspiration"
+              "title": "08_Systems"
             }
           }
         ]
@@ -176,6 +176,16 @@
   },
   "active": "c056f90ae34422a5",
   "lastOpenFiles": [
+    "10_Tessellation.canvas",
+    "08_Systems.canvas",
+    "01_Intro.canvas",
+    "09_Material.canvas",
+    "07_Organic.canvas",
+    "12_Dynamics1.canvas",
+    "04_Noise.canvas",
+    "Examples/Systems/LineCurveGuides/backup/LineCurveGuides_bak1.hipnc",
+    "06_Graphs.canvas",
+    "11_Bioinspiration.canvas",
     "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak610.hipnc",
     "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak609.hipnc",
     "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak608.hipnc",
@@ -185,18 +195,8 @@
     "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak604.hipnc",
     "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak603.hipnc",
     "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak602.hipnc",
-    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak601.hipnc",
-    "Examples/Bioinspiration/OrganicArhitecture/backup/OrganicArhitecture_bak600.hipnc",
     "13_Dynamics2.canvas",
-    "01_Intro.canvas",
-    "12_Dynamics1.canvas",
     "02_Overview.canvas",
-    "11_Bioinspiration.canvas",
-    "10_Tessellation.canvas",
-    "09_Material.canvas",
-    "08_Systems.canvas",
-    "07_Organic.canvas",
-    "06_Graphs.canvas",
     "Images/Bioinspiration/LectureExamples/2/BioStructure.JPG",
     "Images/Bioinspiration/LectureExamples/1/SpaceDistortion.jpg",
     "Examples/Organic/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0048.jpg",

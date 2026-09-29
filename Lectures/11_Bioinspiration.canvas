@@ -7,14 +7,14 @@
 		{"id":"c552c1085f6c6f6f","type":"text","text":"Examples of bioinspiration","x":1276,"y":-400,"width":250,"height":60},
 		{"id":"074001bba43260fa","type":"text","text":"Bioinspired arhitecture","x":1460,"y":-105,"width":250,"height":60},
 		{"id":"3aab40dd870d2332","type":"text","text":"Additive manufactoring","x":1780,"y":-105,"width":250,"height":60},
-		{"id":"a7ca008aa7af2e3c","x":4040,"y":-201,"width":400,"height":283,"type":"file","file":"Images/Bioinspiration/LectureExamples/3/1.JPG"},
-		{"id":"aae6ce218866f784","x":4040,"y":112,"width":400,"height":296,"type":"file","file":"Images/Bioinspiration/LectureExamples/3/2.JPG"},
+		{"id":"a7ca008aa7af2e3c","type":"file","file":"Images/Bioinspiration/LectureExamples/3/1.JPG","x":4040,"y":-201,"width":400,"height":283},
+		{"id":"aae6ce218866f784","type":"file","file":"Images/Bioinspiration/LectureExamples/3/2.JPG","x":4040,"y":112,"width":399,"height":296},
 		{"id":"2f5e64d056c9807b","type":"file","file":"Images/Bioinspiration/LectureExamples/1/SpaceDistortion.jpg","x":4530,"y":-201,"width":400,"height":345},
 		{"id":"e289e3b68caaf105","type":"file","file":"Images/Bioinspiration/LectureExamples/2/BioStructure.JPG","x":5000,"y":-201,"width":400,"height":288},
-		{"id":"191ae19f55232359","x":4605,"y":-560,"width":250,"height":60,"type":"text","text":"Practical examples"},
-		{"id":"245fa9cce676a8d5","x":6891,"y":-552,"width":250,"height":60,"type":"text","text":"Further Learning"},
+		{"id":"191ae19f55232359","type":"text","text":"Practical examples","x":4605,"y":-560,"width":250,"height":60},
+		{"id":"245fa9cce676a8d5","type":"text","text":"Further Learning","x":6891,"y":-552,"width":250,"height":60},
 		{"id":"f749097e1ce1efc8","type":"link","url":"https://www.youtube.com/watch?v=N6gd4xaFh9I&t=456s","x":6440,"y":-260,"width":640,"height":360},
-		{"id":"ab80482b99da8340","x":2607,"y":-489,"width":250,"height":60,"type":"text","text":"Bioinspired techniques"}
+		{"id":"ab80482b99da8340","type":"text","text":"Bioinspired techniques","x":2607,"y":-489,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"0ffbe384cc65a980","fromNode":"c552c1085f6c6f6f","fromSide":"bottom","toNode":"fb5cfcfaf03b46c1","toSide":"top"},
