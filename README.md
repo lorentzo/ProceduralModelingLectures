@@ -109,7 +109,7 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 
 ## Procedural systems modeling
 
-* Visual patterns of biological dynamical and complex systems and signals
+* Visual patterns of dynamical and complex systems
 * Chaos and attractors
 * Fractals
 * Emergence
@@ -120,7 +120,7 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 
 1             |  2
 :-------------------------:|:-------------------------:
-![](Lectures/Images/Systems/LectureExamples/1/LineCurveGuide.jpg)  | ![](Lectures/Images/Systems/LectureExamples/2/Attractors.karmarendersettings.0171.jpg)
+![](Lectures/Images/Systems/LectureExamples/3/Mandelbulb.JPG)  | ![](Lectures/Images/Systems/LectureExamples/2/Attractors.karmarendersettings.0171.jpg)
 
 
 ## Procedural material modeling
