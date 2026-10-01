@@ -10,6 +10,7 @@ conceptual idea and main phases of development: what will be developed and in wh
 One Page Design Philosophy: https://www.youtube.com/watch?v=E9_wLks1kAg.
 
 For inspiration, see following links:
+* https://github.com/lorentzo/ProceduralModelingLectures/blob/main/Projects/FER/ProjectDesignDocumentExample1.md
 * https://github.com/lorentzo/ProceduralModelingLectures
 
 Secondly, proposed project design document is reviewed by teacher, discussed with student 
