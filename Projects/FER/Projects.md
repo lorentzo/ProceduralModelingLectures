@@ -1,12 +1,12 @@
 
 ## Project work overview
 
-Semester individual project. No group/team projects.
+Semester long individual project. No group/team projects.
 
-First, each student writes one page free-form project design document describing what will be created
+First, each student writes one-page free-form project design document describing what will be created
 with reference images/videos attached and project roadmap how to achieve this. Project roadmap 
 must be broken in 3 milestones. It is not required to describe technical details, rather 
-conceptual idea and main phases of development: what will be developed when and in which order.
+conceptual idea and main phases of development: what will be developed and in which order.
 One Page Design Philosophy: https://www.youtube.com/watch?v=E9_wLks1kAg.
 
 For inspiration, see following links:
