@@ -16,7 +16,8 @@
 		{"id":"f749097e1ce1efc8","type":"link","url":"https://www.youtube.com/watch?v=N6gd4xaFh9I&t=456s","x":6440,"y":-260,"width":640,"height":360},
 		{"id":"ab80482b99da8340","type":"text","text":"Bioinspired techniques","x":2607,"y":-489,"width":250,"height":60},
 		{"id":"e8eed337463b91a1","type":"link","url":"https://www.youtube.com/watch?v=rwqvpyYxdZ4&t=1447s","x":720,"y":40,"width":640,"height":360},
-		{"id":"4c7defc7930e5a03","type":"link","url":"https://entagma.com/no-vex-houdini-my-firstish-setup-abstract-sails/","x":3120,"y":-201,"width":760,"height":400}
+		{"id":"c764c34531e05280","x":3540,"y":165,"width":434,"height":95,"type":"text","text":"https://entagma.com/no-vex-houdini-my-firstish-setup-abstract-sails/"},
+		{"id":"b4f22e4d94b36f38","x":3540,"y":-196,"width":434,"height":361,"type":"file","file":"Images/Bioinspiration/LectureExamples/4/NaturalStructure.JPG"}
 	],
 	"edges":[
 		{"id":"0ffbe384cc65a980","fromNode":"c552c1085f6c6f6f","fromSide":"bottom","toNode":"fb5cfcfaf03b46c1","toSide":"top"},
@@ -27,6 +28,6 @@
 		{"id":"ff89a4ca0a6fe4f0","fromNode":"191ae19f55232359","fromSide":"bottom","toNode":"2f5e64d056c9807b","toSide":"top"},
 		{"id":"26492d03e11e8e7a","fromNode":"191ae19f55232359","fromSide":"bottom","toNode":"e289e3b68caaf105","toSide":"top"},
 		{"id":"97170bbf9d752245","fromNode":"245fa9cce676a8d5","fromSide":"bottom","toNode":"f749097e1ce1efc8","toSide":"top"},
-		{"id":"5269d337a77645de","fromNode":"191ae19f55232359","fromSide":"bottom","toNode":"4c7defc7930e5a03","toSide":"top"}
+		{"id":"ae6d950e061bb9ad","fromNode":"191ae19f55232359","fromSide":"bottom","toNode":"b4f22e4d94b36f38","toSide":"top"}
 	]
 }
