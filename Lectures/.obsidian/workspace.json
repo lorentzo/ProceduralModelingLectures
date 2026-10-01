@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "13_Dynamics2.canvas",
+                "file": "11_Bioinspiration.canvas",
                 "viewState": {
-                  "x": -510,
-                  "y": 1868.5,
-                  "zoom": -3.6818240399737454
+                  "x": 3809.6798135682925,
+                  "y": 22.47498502285464,
+                  "zoom": -1.4130318539094175
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "13_Dynamics2"
+              "title": "11_Bioinspiration"
             }
           }
         ]
@@ -176,17 +176,17 @@
   },
   "active": "c056f90ae34422a5",
   "lastOpenFiles": [
-    "12_Dynamics1.canvas",
-    "11_Bioinspiration.canvas",
     "10_Tessellation.canvas",
-    "09_Material.canvas",
+    "11_Bioinspiration.canvas",
     "08_Systems.canvas",
     "07_Organic.canvas",
+    "13_Dynamics2.canvas",
+    "12_Dynamics1.canvas",
+    "09_Material.canvas",
     "06_Graphs.canvas",
     "05_Fuzzy.canvas",
     "04_Noise.canvas",
     "03_HardSurface.canvas",
-    "02_Overview.canvas",
     "Images/Systems/LectureExamples/3/Mandelbulb.JPG",
     "Examples/Systems/Fractals/backup/Fractals_bak132.hipnc",
     "Examples/Systems/Fractals/backup/Fractals_bak131.hipnc",
