@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "11_Bioinspiration.canvas",
+                "file": "01_Intro.canvas",
                 "viewState": {
-                  "x": 4007.5589875875603,
-                  "y": 158.83757403756545,
-                  "zoom": -1.7491747208295754
+                  "x": 24931.116469143253,
+                  "y": -1635.524063271089,
+                  "zoom": -1.9999999999999993
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "11_Bioinspiration"
+              "title": "01_Intro"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "8484026a4a3786e4",
@@ -176,37 +177,37 @@
   },
   "active": "c056f90ae34422a5",
   "lastOpenFiles": [
+    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak4.hipnc",
+    "Images/Intro/Benefits/2_GridNoiseDisplacement.jpg",
+    "Images/Intro/Benefits/NaturalStructure.JPG",
+    "Images/Intro/Benefits/MeshNoiseDisplacement_Step3.jpg",
+    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak3.hipnc",
+    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak2.hipnc",
+    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak1.hipnc",
+    "Images/Intro/Benefits/~ridIni.tmp",
+    "Images/Intro/Benefits/GridIni.JPG",
+    "Images/Intro/Benefits/HeadIni.JPG",
+    "Images/Intro/Benefits",
+    "Images/Intro/New folder",
+    "Images/Noise/LectureExamples/2/2_GridNoiseDisplacement.jpg",
+    "Images/Noise/LectureExamples/2/4_CurveProximityInstancing.jpg",
+    "Images/Noise/LectureExamples/2/6_ByFeatureInstancing.jpg",
+    "Images/Noise/LectureExamples/2/7_FinalTerrain.jpg",
+    "Images/Noise/LectureExamples/2/5_SmoothingWaterMaterials.jpg",
+    "01_Intro.canvas",
+    "03_HardSurface.canvas",
+    "Images/Intro/Examples/~anufacturing.tmp",
+    "Images/Intro/Examples",
+    "11_Bioinspiration.canvas",
+    "02_Overview.canvas",
     "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak66.hipnc",
     "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak65.hipnc",
-    "Images/Bioinspiration/LectureExamples/4/NaturalStructure.JPG",
-    "Images/Bioinspiration/LectureExamples/4",
-    "Images/Bioinspiration/LectureExamples/New folder",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak64.hipnc",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak63.hipnc",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak62.hipnc",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak61.hipnc",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak60.hipnc",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak59.hipnc",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak58.hipnc",
     "10_Tessellation.canvas",
     "09_Material.canvas",
     "08_Systems.canvas",
     "07_Organic.canvas",
     "06_Graphs.canvas",
     "05_Fuzzy.canvas",
-    "04_Noise.canvas",
-    "03_HardSurface.canvas",
-    "02_Overview.canvas",
-    "01_Intro.canvas",
-    "Images/Systems/LectureExamples/3/Mandelbulb.JPG",
-    "Images/Systems/LectureExamples/Mandelbulb.JPG",
-    "Images/Systems/Examples/PhaseSpace.JPG",
-    "Images/Systems/Examples/PoincareMap.JPG",
-    "Images/Systems/Examples/RecurrencePlot.jpg",
-    "Images/Systems/Examples/Attractor1.JPG",
-    "Images/Bioinspiration/LectureExamples/2/BioStructure.JPG",
-    "Images/Bioinspiration/LectureExamples/1/SpaceDistortion.jpg",
-    "Examples/Organic/VolumeGrowthMorph/render/anim/VolumeGrowthMorph.karmarendersettings.0048.jpg",
     "Examples/Organic/SurfaceSpread/Readme.md",
     "Examples/Organic/Common/Assets/Readme.md",
     "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Readme.md",
