@@ -33,7 +33,7 @@ Finally, students start working on the proposed projects.
 11. Week: students submit milestone 2 and start working on on milestone 3
 12. Week: students work on milestone 3
 13. Week: students work on milestone 3
-14. Week: students submit milestone 3
+14. Week: students submit milestone 3 
 15. Final exams break
 
 ## Project requirements
@@ -47,11 +47,11 @@ Each milestone submission must satisfy minimum requirements:
 
 ## Project submission
 
-Milestone 1 submission deadline: TBA (week 6)
+Milestone 1 submission deadline: until 11.11.2026. (week 6)
 
-Milestone 2 submission deadline: TBA (week 11)
+Milestone 2 submission deadline: until 23.12.2026. (week 11)
 
-Milestone 3 submission deadline: TBA (week 14)
+Milestone 3 submission deadline: until 31.01.2027. (week 14)
 
 Each submission must contain:
 * Source project file

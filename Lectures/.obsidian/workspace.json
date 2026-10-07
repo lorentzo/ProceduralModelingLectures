@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "01_Intro.canvas",
+                "file": "02_Overview.canvas",
                 "viewState": {
-                  "x": 24931.116469143253,
-                  "y": -1635.524063271089,
-                  "zoom": -1.9999999999999993
+                  "x": -666.5712504870722,
+                  "y": -1225.1159072603823,
+                  "zoom": -3.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "01_Intro"
+              "title": "02_Overview"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "8484026a4a3786e4",
@@ -177,6 +176,8 @@
   },
   "active": "c056f90ae34422a5",
   "lastOpenFiles": [
+    "01_Intro.canvas",
+    "02_Overview.canvas",
     "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak4.hipnc",
     "Images/Intro/Benefits/2_GridNoiseDisplacement.jpg",
     "Images/Intro/Benefits/NaturalStructure.JPG",
@@ -194,14 +195,11 @@
     "Images/Noise/LectureExamples/2/6_ByFeatureInstancing.jpg",
     "Images/Noise/LectureExamples/2/7_FinalTerrain.jpg",
     "Images/Noise/LectureExamples/2/5_SmoothingWaterMaterials.jpg",
-    "01_Intro.canvas",
     "03_HardSurface.canvas",
     "Images/Intro/Examples/~anufacturing.tmp",
     "Images/Intro/Examples",
     "11_Bioinspiration.canvas",
-    "02_Overview.canvas",
     "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak66.hipnc",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak65.hipnc",
     "10_Tessellation.canvas",
     "09_Material.canvas",
     "08_Systems.canvas",
