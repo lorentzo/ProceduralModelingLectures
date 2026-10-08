@@ -1,5 +1,5 @@
 
-# Arhitecture interpolating bioinspired and artificial shapes
+# Architecture interpolating bioinspired and artificial shapes
 
 In this project, a building interpolating (1) organic, bioinspired shape and (2) artificial, human made shapes will be modeled. The amount (interpolation) of organic and artificial will be approx. equal. For example, every even floor can exhibit organic shapes while every odd floor can exhibit artificial shapes. Another example is that one half of the building exhibits artificial and other half of the building exibits organic shapes. Only exterior of the building is modeled. Resulting building will be a parametric 3D model, i.e., model will controllable by a set of parameters. The resulting parametric building model will be used to create a small town.
 

@@ -12,11 +12,14 @@ One Page Design Philosophy: https://www.youtube.com/watch?v=E9_wLks1kAg.
 For inspiration, see following links:
 * https://github.com/lorentzo/ProceduralModelingLectures/blob/main/Projects/FER/ProjectDesignDocumentExample1.md
 * https://github.com/lorentzo/ProceduralModelingLectures
+* https://github.com/lorentzo/ProceduralModelingLectures/tree/main/Projects/DHBW
 
 Secondly, proposed project design document is reviewed by teacher, discussed with student 
 and potentially refactored; extended and/or shortened.
 
 Finally, students start working on the proposed projects.
+
+Default project: https://github.com/lorentzo/ProceduralModelingLectures/blob/main/Projects/FER/ProjectDesignDocumentExample1.md
 
 ## Timeline
 
@@ -36,6 +39,16 @@ Finally, students start working on the proposed projects.
 14. Week: students submit milestone 3 
 15. Final exams break
 
+## Deadlines
+
+One-page project design document: until 16.10. (week 2)
+
+Milestone 1 submission deadline: until 11.11.2026. (week 6)
+
+Milestone 2 submission deadline: until 23.12.2026. (week 11)
+
+Milestone 3 submission deadline: until 31.01.2027. (week 14)
+
 ## Project requirements
 
 Submission of all three milestones is needed for passing the lecture.
@@ -45,13 +58,7 @@ Each milestone submission must satisfy minimum requirements:
 * At least 3 renders or viewport screenshots showing different instances of parametric model/artefact.
 * One page document discussing workflow, concepts implementation, result, etc.
 
-## Project submission
-
-Milestone 1 submission deadline: until 11.11.2026. (week 6)
-
-Milestone 2 submission deadline: until 23.12.2026. (week 11)
-
-Milestone 3 submission deadline: until 31.01.2027. (week 14)
+## Project submission description
 
 Each submission must contain:
 * Source project file
