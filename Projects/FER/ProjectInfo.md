@@ -4,7 +4,7 @@
 Semester long individual project work. General timeline:
 
 0. Introduction to project work. DEADLINE: 9.10.2026. (week 1)
-1. Write new or pick existing project design document. DEADLINE: 18.10.2026. (week 3)
+1. Write new or pick existing project design document. DEADLINE: 18.10.2026. (week 2)
 2. Review, refactoring and confirmation of project design document. DEADLINE: 23.10.2026. (week 3)
 3. Milestone 1 submission DEADLINE: 13.11.2026. (week 6)
 4. Milestone 2 submission DEADLINE: 23.12.2026. (week 11)
