@@ -16,7 +16,7 @@ Students can choose between signing up for existing project design document OR w
 
 ### Existing project design document
 
-Link: https://github.com/lorentzo/ProceduralModelingLectures/blob/main/Projects/FER/ProjectDesignDocumentExample1.md
+Link: https://github.com/lorentzo/ProceduralModelingLectures/blob/main/Projects/FER/ProjectDesignDocumentDefault.md
 
 ### Writing custom project design document
 
@@ -32,7 +32,7 @@ Requirements for project design document:
 One Page Design Philosophy: https://www.youtube.com/watch?v=E9_wLks1kAg.
 
 For inspiration, see following links:
-* https://github.com/lorentzo/ProceduralModelingLectures/blob/main/Projects/FER/ProjectDesignDocumentExample1.md
+* https://github.com/lorentzo/ProceduralModelingLectures/blob/main/Projects/FER/ProjectDesignDocumentDefault.md
 * https://github.com/lorentzo/ProceduralModelingLectures
 * https://github.com/lorentzo/ProceduralModelingLectures/tree/main/Projects/DHBW
 
