@@ -27,6 +27,7 @@ development: what will be developed and in which order.
 Requirements for project design document:
 * Project roadmap must contain 3 milestones.
 * Should contain inspiration images/videos.
+* Procedural modeling techniques must be used.
 * Resulting model/artefact in each milestone must be parametric. At least 3 parameters.
 
 One Page Design Philosophy: https://www.youtube.com/watch?v=E9_wLks1kAg.
