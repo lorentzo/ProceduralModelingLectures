@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "01_Intro.canvas",
+                "file": "02_Overview.canvas",
                 "viewState": {
-                  "x": 5550.306510734859,
-                  "y": 3222.1520915220135,
-                  "zoom": 3.3306690738754696e-16
+                  "x": 18674.735584551647,
+                  "y": 459.842360223773,
+                  "zoom": -3.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "01_Intro"
+              "title": "02_Overview"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "8484026a4a3786e4",
@@ -177,34 +176,35 @@
   },
   "active": "c056f90ae34422a5",
   "lastOpenFiles": [
-    "02_Overview.canvas",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak166.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak165.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak164.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak163.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak162.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak161.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak160.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak159.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak158.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak157.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak156.hipnc",
+    "08_Systems.canvas",
+    "07_Organic.canvas",
     "01_Intro.canvas",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak4.hipnc",
+    "02_Overview.canvas",
     "Images/Intro/Benefits/2_GridNoiseDisplacement.jpg",
     "Images/Intro/Benefits/NaturalStructure.JPG",
     "Images/Intro/Benefits/MeshNoiseDisplacement_Step3.jpg",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak3.hipnc",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak2.hipnc",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak1.hipnc",
-    "Images/Intro/Benefits/~ridIni.tmp",
     "Images/Intro/Benefits/GridIni.JPG",
     "Images/Intro/Benefits/HeadIni.JPG",
-    "Images/Intro/Benefits",
-    "Images/Intro/New folder",
     "Images/Noise/LectureExamples/2/2_GridNoiseDisplacement.jpg",
     "Images/Noise/LectureExamples/2/4_CurveProximityInstancing.jpg",
     "Images/Noise/LectureExamples/2/6_ByFeatureInstancing.jpg",
     "Images/Noise/LectureExamples/2/7_FinalTerrain.jpg",
     "Images/Noise/LectureExamples/2/5_SmoothingWaterMaterials.jpg",
     "03_HardSurface.canvas",
-    "Images/Intro/Examples/~anufacturing.tmp",
-    "Images/Intro/Examples",
     "11_Bioinspiration.canvas",
-    "Examples/Bioinspiration/NaturalStructure/backup/NaturalStructure_bak66.hipnc",
     "10_Tessellation.canvas",
     "09_Material.canvas",
-    "08_Systems.canvas",
-    "07_Organic.canvas",
     "06_Graphs.canvas",
     "05_Fuzzy.canvas",
     "Examples/Organic/SurfaceSpread/Readme.md",
