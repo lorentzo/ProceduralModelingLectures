@@ -15,9 +15,9 @@
               "state": {
                 "file": "02_Overview.canvas",
                 "viewState": {
-                  "x": 19440.272183075554,
-                  "y": 1397.1156015918896,
-                  "zoom": -4
+                  "x": 12962.222223458157,
+                  "y": 1085.7964019311926,
+                  "zoom": -3.666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -177,17 +177,17 @@
   },
   "active": "c056f90ae34422a5",
   "lastOpenFiles": [
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak185.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak184.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak183.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak182.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak181.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak180.hipnc",
+    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak179.hipnc",
     "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak166.hipnc",
     "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak165.hipnc",
     "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak164.hipnc",
     "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak163.hipnc",
-    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak162.hipnc",
-    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak161.hipnc",
-    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak160.hipnc",
-    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak159.hipnc",
-    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak158.hipnc",
-    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak157.hipnc",
-    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak156.hipnc",
     "08_Systems.canvas",
     "07_Organic.canvas",
     "01_Intro.canvas",
