@@ -15,9 +15,9 @@
               "state": {
                 "file": "02_Overview.canvas",
                 "viewState": {
-                  "x": 12962.222223458157,
-                  "y": 1085.7964019311926,
-                  "zoom": -3.666666666666667
+                  "x": -3648.645967177817,
+                  "y": -1526.439224649956,
+                  "zoom": -3.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "8484026a4a3786e4",
@@ -177,6 +176,8 @@
   },
   "active": "c056f90ae34422a5",
   "lastOpenFiles": [
+    "Images/Overview/PCGMethods/~eactiveMarbleGame.tmp",
+    "Images/Overview/PCGMethods/ReactiveMarbleGame.JPG",
     "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak185.hipnc",
     "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak184.hipnc",
     "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak183.hipnc",
@@ -187,7 +188,6 @@
     "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak166.hipnc",
     "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak165.hipnc",
     "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak164.hipnc",
-    "Examples/Overview/LectureExamples/NoiseSurfaceModeling/backup/NoiseSurfaceModeling_bak163.hipnc",
     "08_Systems.canvas",
     "07_Organic.canvas",
     "01_Intro.canvas",
@@ -201,7 +201,6 @@
     "Images/Noise/LectureExamples/2/4_CurveProximityInstancing.jpg",
     "Images/Noise/LectureExamples/2/6_ByFeatureInstancing.jpg",
     "Images/Noise/LectureExamples/2/7_FinalTerrain.jpg",
-    "Images/Noise/LectureExamples/2/5_SmoothingWaterMaterials.jpg",
     "03_HardSurface.canvas",
     "11_Bioinspiration.canvas",
     "10_Tessellation.canvas",
