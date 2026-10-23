@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "13_Dynamics2.canvas",
+                "file": "03_HardSurface.canvas",
                 "viewState": {
-                  "x": -2287.4374024291183,
-                  "y": 2350.995738165003,
-                  "zoom": -3.348490706640412
+                  "x": 9701.178054961289,
+                  "y": 2700.2245883366613,
+                  "zoom": -3.666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "13_Dynamics2"
+              "title": "03_HardSurface"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "8484026a4a3786e4",
@@ -176,31 +177,32 @@
   },
   "active": "c056f90ae34422a5",
   "lastOpenFiles": [
-    "10_Tessellation.canvas",
-    "06_Graphs.canvas",
+    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak102.hipnc",
+    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak101.hipnc",
+    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak100.hipnc",
+    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak99.hipnc",
+    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak98.hipnc",
+    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak97.hipnc",
+    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak96.hipnc",
+    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak95.hipnc",
+    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak94.hipnc",
+    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak93.hipnc",
+    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak92.hipnc",
+    "02_Overview.canvas",
     "03_HardSurface.canvas",
-    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak35.hipnc",
-    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak34.hipnc",
-    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak33.hipnc",
-    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak32.hipnc",
-    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak31.hipnc",
-    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak30.hipnc",
-    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak29.hipnc",
-    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak28.hipnc",
-    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak27.hipnc",
-    "Examples/HardSurface/Example2/backup/ProceduralBuildingExample2_bak26.hipnc",
+    "05_Fuzzy.canvas",
+    "08_Systems.canvas",
+    "09_Material.canvas",
+    "10_Tessellation.canvas",
+    "11_Bioinspiration.canvas",
+    "12_Dynamics1.canvas",
+    "13_Dynamics2.canvas",
+    "06_Graphs.canvas",
     "Images/HardSurface/Tools/SurfaceSubdivision1.JPG",
     "Images/HardSurface/Tools/SurfaceSubdivision5.JPG",
     "Images/HardSurface/Tools/SurfaceSubdivision4.JPG",
     "Images/HardSurface/Tools/SurfaceSubdivision3.JPG",
     "Images/HardSurface/Tools/SurfaceSubdivision2.JPG",
-    "02_Overview.canvas",
-    "13_Dynamics2.canvas",
-    "12_Dynamics1.canvas",
-    "11_Bioinspiration.canvas",
-    "09_Material.canvas",
-    "08_Systems.canvas",
-    "07_Organic.canvas",
     "Images/Overview/PCGMethods/ReactiveMarbleGame.JPG",
     "Images/Intro/Benefits/2_GridNoiseDisplacement.jpg",
     "Images/Intro/Benefits/NaturalStructure.JPG",
