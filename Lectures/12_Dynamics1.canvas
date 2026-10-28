@@ -55,7 +55,8 @@
 		{"id":"fe03848d27f1227b","type":"text","text":"TODO: dynamics is expensive to compute - show how to optimize whole process so it can be used for low-end PCs\n","x":-4927,"y":2357,"width":592,"height":413,"color":"1"},
 		{"id":"06c3f39bb8d313e2","type":"text","text":"# Procedural modeling lecture: Solid dynamics: rigid and soft body","x":-6960,"y":1226,"width":830,"height":78},
 		{"id":"069819e9f1d85c01","type":"text","text":"Lovro Bosnar\nDate:","x":-6960,"y":1346,"width":250,"height":80},
-		{"id":"fd2c57accdb889e8","type":"text","text":"TODO:\n* Rigid body collision and instancing from collision position and gradient","x":-6764,"y":1608,"width":604,"height":235,"color":"1"}
+		{"id":"fd2c57accdb889e8","type":"text","text":"TODO:\n* Rigid body collision and instancing from collision position and gradient","x":-6764,"y":1608,"width":604,"height":235,"color":"1"},
+		{"id":"ee5509e14d9bc9ab","type":"text","text":"VDB Fracture\n* https://www.youtube.com/watch?v=_GiKWGDAccg","x":-4913,"y":1164,"width":500,"height":140}
 	],
 	"edges":[
 		{"id":"9193abb8cba4afb1","fromNode":"e237c5b9391ed9df","fromSide":"bottom","toNode":"8d23a8db29edc24b","toSide":"top"},
