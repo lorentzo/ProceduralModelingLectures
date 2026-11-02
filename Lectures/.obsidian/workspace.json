@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "04_Noise.canvas",
+                "file": "05_Fuzzy.canvas",
                 "viewState": {
-                  "x": -8739.047016091501,
-                  "y": 1844.948861774622,
-                  "zoom": -4
+                  "x": -6080.077589776692,
+                  "y": -118.13878001601333,
+                  "zoom": -0.4000000000000006
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "04_Noise"
+              "title": "05_Fuzzy"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "8484026a4a3786e4",
@@ -177,17 +176,30 @@
   },
   "active": "c056f90ae34422a5",
   "lastOpenFiles": [
-    "Examples/Noise/Houdini/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak93.hipnc",
-    "Examples/Noise/Houdini/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak92.hipnc",
-    "Examples/Noise/Houdini/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak91.hipnc",
-    "Examples/Noise/Houdini/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak90.hipnc",
-    "Examples/Noise/Houdini/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak89.hipnc",
-    "Examples/Noise/Houdini/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak88.hipnc",
-    "Examples/Noise/Houdini/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak87.hipnc",
-    "Examples/Noise/Houdini/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak86.hipnc",
-    "Examples/Noise/Houdini/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak85.hipnc",
-    "Examples/Noise/Houdini/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak84.hipnc",
-    "Examples/Noise/Houdini/3DVoxelDisplacement/backup/3DVoxelDisplacement_bak83.hipnc",
+    "05_Fuzzy.canvas",
+    "03_HardSurface.canvas",
+    "04_Noise.canvas",
+    "Images/Fuzzy/Examples/PixarCharacters.jpg",
+    "Images/Fuzzy/Examples/CharacterHair.png",
+    "Images/Fuzzy/Examples/physics_particles_hair_introduction_example.jpg",
+    "02_Overview.canvas",
+    "01_Intro.canvas",
+    "12_Dynamics1.canvas",
+    "11_Bioinspiration.canvas",
+    "10_Tessellation.canvas",
+    "09_Material.canvas",
+    "08_Systems.canvas",
+    "07_Organic.canvas",
+    "Examples/Noise/Houdini/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak148.hipnc",
+    "Examples/Noise/Houdini/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak147.hipnc",
+    "Examples/Noise/Houdini/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak146.hipnc",
+    "Examples/Noise/Houdini/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak145.hipnc",
+    "Examples/Noise/Houdini/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak144.hipnc",
+    "Examples/Noise/Houdini/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak143.hipnc",
+    "Examples/Noise/Houdini/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak142.hipnc",
+    "Examples/Noise/Houdini/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak141.hipnc",
+    "Examples/Noise/Houdini/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak140.hipnc",
+    "Examples/Noise/Houdini/MeshNoiseDisplacement/backup/MeshNoiseDisplacement_bak139.hipnc",
     "Images/Noise/LectureExamples/6/4_Instancing.JPG",
     "Images/Noise/LectureExamples/6/3_AttributeFromVolume.JPG",
     "Images/Noise/LectureExamples/6/2_PointsFromVolumeDensity.JPG",
@@ -195,20 +207,7 @@
     "Images/Noise/LectureExamples/6/6_MeasureColorAttrib.JPG",
     "Images/Noise/LectureExamples/6/5_SmoothAndConvertToMesh.JPG",
     "Images/Noise/LectureExamples/6/4_ApplyNoiseToDensity.JPG",
-    "Images/Noise/LectureExamples/6/3_ConvertToVolume.JPG",
-    "Images/Noise/LectureExamples/6/2_ExtrudeAndProcess.JPG",
-    "Images/Noise/LectureExamples/6/1_TextGeo.JPG",
-    "01_Intro.canvas",
-    "02_Overview.canvas",
-    "04_Noise.canvas",
     "Examples/Noise/Houdini/MeshNoiseDisplacement/Readme.md",
-    "12_Dynamics1.canvas",
-    "03_HardSurface.canvas",
-    "07_Organic.canvas",
-    "05_Fuzzy.canvas",
-    "06_Graphs.canvas",
-    "08_Systems.canvas",
-    "09_Material.canvas",
     "Examples/Organic/SurfaceSpread/Readme.md",
     "Examples/Organic/Common/Assets/Readme.md",
     "Examples/Noise/LectureExamples/MeshNoiseDisplacement/Readme.md",
