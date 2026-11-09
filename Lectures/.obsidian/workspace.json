@@ -15,9 +15,9 @@
               "state": {
                 "file": "06_Graphs.canvas",
                 "viewState": {
-                  "x": -3636.532318139915,
-                  "y": 3883.6219280890336,
-                  "zoom": -3.3999999999999995
+                  "x": -361.2438349385798,
+                  "y": 3363.5769374691213,
+                  "zoom": -1.4
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -176,6 +176,7 @@
   },
   "active": "c056f90ae34422a5",
   "lastOpenFiles": [
+    "file:/home/lovro/Workspace/FER/Predavanja/ProcMod/ProceduralModelingLectures/README.md",
     "Images/Graphs/LectureExamples/2/VolumeSamplingGraph5.png",
     "Images/Graphs/LectureExamples/2/VolumeSamplingGraph4.png",
     "Images/Graphs/LectureExamples/2/VolumeSamplingGraph3.png",
@@ -199,7 +200,6 @@
     "12_Dynamics1.canvas",
     "06_Graphs.canvas",
     "05_Fuzzy.canvas",
-    "Images/Graphs/LectureExamples/1/Remesh.png",
     "11_Bioinspiration.canvas",
     "10_Tessellation.canvas",
     "09_Material.canvas",

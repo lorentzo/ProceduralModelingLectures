@@ -91,7 +91,7 @@ Lecture notes are written using [Obsidian](https://obsidian.md/).
 
 1             |  2
 :-------------------------:|:-------------------------:
-![](Lectures/Images/Graphs/LectureExamples/1/VolumeGrowth1.jpg) | ![](Lectures/Images/Graphs/LectureExamples/2/PointCloudLines.jpg)
+![](Lectures/Images/Graphs/LectureExamples/3/VolumeGrowth1.jpg) | ![](Lectures/Images/Graphs/LectureExamples/2/PointCloudLines.jpg)
 
 ## Organic procedural modeling
 
