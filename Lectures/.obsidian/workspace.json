@@ -15,9 +15,9 @@
               "state": {
                 "file": "06_Graphs.canvas",
                 "viewState": {
-                  "x": -4139.577890673356,
-                  "y": 5485.432905114816,
-                  "zoom": -3.2
+                  "x": -4543.113514234575,
+                  "y": 5009.97856128589,
+                  "zoom": -3.3999999999999995
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "8484026a4a3786e4",
@@ -176,17 +177,17 @@
   },
   "active": "c056f90ae34422a5",
   "lastOpenFiles": [
-    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak20.hipnc",
-    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak19.hipnc",
-    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak18.hipnc",
-    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak17.hipnc",
-    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak16.hipnc",
-    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak15.hipnc",
-    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak14.hipnc",
-    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak13.hipnc",
-    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak12.hipnc",
-    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak11.hipnc",
-    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak10.hipnc",
+    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak23.hipnc",
+    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak22.hipnc",
+    "Examples/Graphs/PointCloudGraph/backup/PointCloudGraph_bak21.hipnc",
+    "Examples/Graphs/MeshGraph/backup/MeshGraph_bak94.hipnc",
+    "Examples/Graphs/MeshGraph/backup/MeshGraph_bak93.hipnc",
+    "Examples/Graphs/MeshGraph/backup/MeshGraph_bak92.hipnc",
+    "Examples/Graphs/MeshGraph/backup/MeshGraph_bak91.hipnc",
+    "Examples/Graphs/MeshGraph/backup/MeshGraph_bak90.hipnc",
+    "Examples/Graphs/MeshGraph/backup/MeshGraph_bak89.hipnc",
+    "Examples/Graphs/MeshGraph/backup/MeshGraph_bak88.hipnc",
+    "Examples/Graphs/MeshGraph/backup/MeshGraph_bak87.hipnc",
     "Images/Graphs/Motivation/GraphsFromTerrain.png",
     "Images/Graphs/Techniques/GraphFromTessellation2_3.png",
     "Images/Graphs/Techniques/GraphFromTessellation2_2.png",
